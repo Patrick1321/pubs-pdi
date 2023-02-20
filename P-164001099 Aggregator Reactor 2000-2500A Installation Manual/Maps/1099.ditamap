@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<techinfomap xml:lang="en"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfomap.xsd"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Aggregator Reactor 2000-2500A Installation Manual</title>
+<contentref format="dita" href="..\Topics\Cover.dita"
+navtitle="Eaton© Aggregator Reactor (2000/2500A)" scope="local"
+type="coverpage"></contentref>
+<toc/>
+<figurelist/>
+<tablelist/>
+<division navtitle="Introduction">
+<contentref format="dita" href="..\Topics\Introduction 1099.dita"
+navtitle="Introduction" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Safety">
+<contentref format="dita" href="..\Topics\Safety 1099.dita"
+navtitle="Safety" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Installation">
+<contentref format="dita" href="..\Topics\Installation  1099.dita"
+navtitle="Installation" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Power Cabling">
+<contentref format="dita" href="..\Topics\Power Cabling 1099.dita"
+navtitle="Power Cabling" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Service and Maintenance">
+<contentref format="dita"
+href="..\Topics\Service and Maintenance 1099.dita"
+navtitle="Service and Maintenance" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Appendix A—Drawings">
+<contentref format="dita" href="..\Topics\Appendix - Drawings.dita"
+navtitle="Appendix A — Drawings" scope="local" type="topic">
+</contentref><?Pub Caret -1?>
+</division>
+</techinfomap>

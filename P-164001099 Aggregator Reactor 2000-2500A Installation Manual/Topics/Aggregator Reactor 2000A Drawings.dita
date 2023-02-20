@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Aggregator Reactor 2000A Drawings</title>
+<body>
+<image href="..\Graphics\10.pdf"
+placement="-dita-use-conref-target" scale="95"
+scalefit="-dita-use-conref-target"></image>
+<image href="..\Graphics\11B.pdf"
+placement="-dita-use-conref-target" scale="95"
+scalefit="-dita-use-conref-target"></image>
+<image href="..\Graphics\12.pdf"
+placement="-dita-use-conref-target" scale="95"
+scalefit="-dita-use-conref-target"></image>
+</body>
+</topic>
