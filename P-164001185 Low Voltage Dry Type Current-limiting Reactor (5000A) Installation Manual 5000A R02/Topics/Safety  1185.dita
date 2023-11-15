@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<topic id="Safety1115-AB59D431" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Safety</title>
+<body>
+<p><note type="warning"></note>Follow safe electrical work practices:<ul>
+<li><p>Read, understand, and follow the instructions before installing
+this product.</p></li>
+<li><p>Electrical equipment should be installed, operated, serviced,
+and maintained only by Eaton qualified personnel and in accordance
+with all local safety codes. Eaton, Inc. assumes no responsibility
+for any consequences arising out of the use of this manual. This document
+should not be viewed as sufficient by otherwise non-qualified personnel
+to operate, service, or maintain the equipment discussed.</p></li><?Pub
+Caret 92?>
+<li><p>Reactor units are connected to hazardous line voltages. Severe
+or fatal injury can result from electrical shock during contact with
+high voltage conductors, monitoring PCBs, or similar equipment. When
+installing and servicing reactors, there may be exposed components
+with housings or protrusions at or above line potential. Extreme care
+should be taken to protect against shock.</p></li>
+<li><p>Disconnect and lock-out all power supplying equipment before
+working on or installing components. Use a properly rated voltage
+sensing device to confirm power is OFF.</p></li>
+</ul></p>
+<note type="danger"><ul>
+<li><p>Severe or fatal injury can result from electrical shock during
+contact with high voltage conductors, monitoring PCBs, or similar
+equipment. </p></li>
+<li><p>Disconnect power before drilling holes, attaching conduit,
+or connecting power cables or control wiring. </p></li>
+<li><p>Use Lock Out/Tag Out procedures.</p></li>
+<li><p>Wear suitable personal protective clothing and use protective
+equipment for performing mechanical and electrical installations. </p
+></li>
+<li><p>Leave ample space for attaching and routing wires.</p></li>
+</ul></note>
+</body>
+</topic>

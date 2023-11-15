@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Anchoring the Reactor to the Floor</title>
+<body>
+<p>The base frame of the Reactor has (4) holes for anchoring the unit
+to the floor. Customer provides the ½” [13 mm] hardware for securing
+the unit to the floor.<fig>
+<title>Reactor Anchor Locations</title>
+<image href="..\Graphics\3x.pdf" placement="-dita-use-conref-target">
+</image>
+</fig></p>
+</body>
+</topic>
