@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="IntendedUse-C498E367"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Intended Use</title>
+<body>
+<p>The 30 kVA Mini PDU can be placed next to server racks, providing
+local power distribution. The unit has casters and is easily repositioned.
+All input and output power connections are plug-in and no wiring to
+circuit breakers or lugs is required on site.</p>
+<fig>
+<title>Mini PDU</title>
+<image href="..\Graphics\1.pdf"
+placement="-dita-use-conref-target"></image>
+</fig>
+</body>
+</topic>

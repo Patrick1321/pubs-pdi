@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Description-C498E3CD"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Description</title>
+<body>
+<table frame="top" orient="-dita-use-conref-target" pgwide="any value">
+<title>Dimensions and Weight</title>
+<tgroup cols="2">
+<?PubTbl tgroup dispwid="568.00px"?>
+<colspec colname="1" colsep="0" colwidth="11.53*"/><colspec colname="2"
+colwidth="18.71*"/>
+<tbody>
+<row valign="middle">
+<entry align="left" morerows="0" nameend="1" namest="1"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-top-width="2.00pt"?><b>Dimensions</b></entry>
+<entry align="left" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-top-width="2.00pt"?>48"H
+x 16"W x 42"D</entry>
+</row>
+<row valign="middle">
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><b>Casters and Leveling feet</b></entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"?>add
+0-1.5"H</entry>
+</row>
+<row valign="middle">
+<entry align="left" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-style="solid" border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><b>Weight</b></entry>
+<entry align="left" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-style="solid" border-bottom-width="0.25pt"?>Approx.
+850 lbs.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p></p>
+<table frame="top" orient="-dita-use-conref-target" pgwide="any value">
+<title>Circuit Breakers </title>
+<tgroup cols="3">
+<?PubTbl tgroup dispwid="596.00px"?>
+<colspec colname="1" colsep="0" colwidth="13.55*"/><colspec colname="2"
+colwidth="22.72*"/><colspec colname="COLSPEC0" colwidth="7.59*"/>
+<tbody>
+<row>
+<entry align="left" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-top-width="2.00pt"?><?Pub _cellfont Shading="gray2"?></entry>
+<entry align="left" colsep="0" valign="middle"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-top-width="2.00pt"?><b>Specification</b></entry>
+<entry align="left" valign="middle"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt" border-top-width="2.00pt"?><b
+>Quantity</b></entry>
+</row>
+<row valign="middle">
+<entry align="left" morerows="1" nameend="1" namest="1"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?><b>Main
+circuit breakers (CBs)</b></entry>
+<entry align="left" colsep="0" morerows="0" nameend="2" namest="2"
+><?PubTbl cell border-bottom-width="0.25pt"?>150AF thermal magnetic,
+actual trip=45AT, 100% rated, kAIC@480 VAC=35</entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"?>1</entry>
+</row>
+<row valign="middle">
+<entry align="left" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>150AF,
+thermal magnetic, actual trip=80A, 100% rated, kAIC@208VAC=65</entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"?>1</entry>
+</row>
+<row valign="middle">
+<entry align="left" morerows="2" nameend="1" namest="1"><?PubTbl
+cell border-bottom-style="solid" border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><b>Output Branch Circuit Breakers</b></entry>
+<entry align="left" colsep="0" morerows="0" nameend="2" namest="2"
+><?PubTbl cell border-bottom-width="0.25pt"?>42-pole, 3-phase, 225A,
+standard NQM panelboard</entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"?>1</entry>
+</row>
+<row>
+<entry align="left" colsep="0" valign="middle"><?PubTbl cell
+border-bottom-width="0.25pt"?>30A, 2-pole, 208VAC, 10 kAIC</entry>
+<entry align="left" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"?>16</entry>
+</row>
+<row>
+<entry align="left" colsep="0" valign="middle"><?PubTbl cell
+border-bottom-width="0.25pt"?>20A, 1-pole, 120VAC, 10 kAIC</entry>
+<entry align="left" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"?>4</entry>
+</row>
+<row>
+<entry align="left" nameend="COLSPEC0" namest="1" valign="middle"
+><?PubTbl cell border-bottom-style="solid" border-bottom-width="0.25pt"?><p
+>Certified by UL/CSA</p><p>Certification standard: UL 62368</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

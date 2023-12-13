@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<techinfomap xml:lang="en"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfomap.xsd"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Eaton 30 kVA Mini Power Distribution Unit Installation and
+Operation Manual</title>
+<contentref format="dita" href="..\Topics\cover 1117.dita"
+navtitle="Eaton© 30 kVA Mini Power Distribution Unit" scope="local"
+type="coverpage"></contentref>
+<toc/>
+<figurelist/>
+<division navtitle="Introduction">
+<contentref format="dita" href="..\Topics\Introduction 1117.dita"
+navtitle="Introduction 1117" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Safety">
+<contentref format="dita" href="..\Topics\Safety 1117.dita"
+navtitle="Safety 1117" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Installation">
+<contentref format="dita" href="..\Topics\Installation 1117.dita"
+navtitle="Installation" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Power Cabling">
+<contentref format="dita" href="..\Topics\Power Cabling 1117.dita"
+navtitle="Power Cabling " scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Operation">
+<contentref format="dita" href="..\Topics\Operation1117.dita"
+navtitle="Operation 1117" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Service and Maintenance">
+<contentref format="dita"
+href="..\Topics\Service and Maintenance 1117.dita"
+navtitle="Service and Maintenance 1117" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Appendix: 30 kVA Mini PDU Drawings">
+<contentref format="dita" href="..\Topics\Appendix 1117.dita"
+navtitle="Appendix: 30 kVA Mini PDU Drawings" scope="local" type="topic">
+</contentref><?Pub Caret -1?>
+</division>
+</techinfomap>

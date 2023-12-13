@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Connect Input Power Cable</title>
+<body>
+<p>The Mini PDU has an input cable connected to the main input circuit
+breaker. (For shipping, the input cable may be partially inserted
+into the Output Cable Entry tray. ) </p>
+<p>The input power cable extends eight feet from the top of the unit
+with this receptacle:</p>
+<p><b>Hubbel CS8165C, twist-lock, 50A, 3-pole, 4-wire, 480V male.</b
+><fig>
+<title>Input Cable Receptacle</title>
+<image href="..\Graphics\6.pdf"
+placement="-dita-use-conref-target"></image>
+</fig></p>
+<p>Customer must supply a grounded input power cable with matching
+female connector. </p>
+<p>Connect the customer input power cable to the input power receptacle
+and lock.</p>
+</body>
+</topic>
