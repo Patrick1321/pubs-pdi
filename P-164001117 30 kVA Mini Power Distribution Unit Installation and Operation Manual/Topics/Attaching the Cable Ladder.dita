@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="AttachingTheCableLadder-C49A235B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Attaching the Cable Ladder</title>
+<body>
+<p>The Mini PDU has a top-mounted Cable Ladder Bracket next to the
+Cable Entry Brush Panel for attaching the Cable Ladder. </p>
+<p>The Bracket can be attached on the left or right side of the Mini
+PDU, allowing the Cable Ladder to be positioned on either side. </p>
+<p>The Bracket should be installed on the server rack side of the
+Mini PDU.</p>
+<fig>
+<title>Mini PDU to Cable Ladder Bracket Attachment Points</title>
+<image href="..\Graphics\3.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>Install the Cable Ladder over the Cable Ladder Bracket as shown
+below. </p>
+<p>Screws to secure the Cable Ladder to its Bracket are stored in
+the (4) PEM nuts of the Bracket. (Specification: Screw, 3/8”-16 X
+.75” lg., Hex Hd, Serrated Flange, Steel) </p>
+<p>The Cable Ladder should also be supported by attaching the top
+of the Cable Ladder to the customer’s cable trough.</p>
+<fig>
+<title>Cable Ladder Attachment</title>
+<image href="..\Graphics\4.pdf"
+placement="-dita-use-conref-target" scale="80" scope="local"></image>
+</fig>
+<note type="caution"><ul>
+<li><p>A licensed electrician must install the Mini PDU and connect
+external cables and wiring. </p></li>
+<li><p>Installers should use Lock-Out/Tag-Out procedures and observe
+other precautions listed in the introductory Safety section.</p></li>
+<li><p>Power wiring and grounding must comply with NEC and applicable
+local codes.</p></li>
+</ul></note>
+</body>
+</topic>

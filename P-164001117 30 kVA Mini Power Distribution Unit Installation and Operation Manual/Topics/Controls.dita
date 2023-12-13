@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Controls</title>
+<body>
+<p>The only controls on the unit are circuit breakers:<ul>
+<li><p>The Main Input Circuit Breaker turns on power to the transformer. </p
+></li>
+<li><p>The Subfeed Circuit Breaker turns on power to the panelboard. </p
+></li>
+<li><p>The Panelboard Circuit Breakers turn on power to the servers.</p
+></li>
+</ul>There is no Emergency Power Off (EPO) switch. The customer should
+provide an upstream emergency shutdown trip function.<fig>
+<title>Mini PDU Circuit Breakers</title>
+<image href="..\Graphics\10.pdf"
+placement="-dita-use-conref-target"></image>
+</fig></p>
+</body>
+</topic>

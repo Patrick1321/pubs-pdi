@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Introduction1117-AB54698C" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Introduction</title><?Pub Caret -2?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="topic.dita"
+><xi:fallback><!--Fallback markup for "topic.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="topic_0000073660.dita"><xi:fallback><!--Fallback markup for "topic_0000073660.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Environmental Specifications.dita"><xi:fallback><!--Fallback markup for "Environmental Specifications.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Using This Manual.dita"><xi:fallback><!--Fallback markup for "Using This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Conventions Used in This Manual.dita"><xi:fallback><!--Fallback markup for "Conventions Used in This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Symbols, Controls, and Indicators.dita"><xi:fallback><!--Fallback markup for "Symbols, Controls, and Indicators.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Getting Help.dita"><xi:fallback><!--Fallback markup for "Getting Help.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Warranty.dita"><xi:fallback><!--Fallback markup for "Warranty.dita"--></xi:fallback
+></xi:include>
+</topic>

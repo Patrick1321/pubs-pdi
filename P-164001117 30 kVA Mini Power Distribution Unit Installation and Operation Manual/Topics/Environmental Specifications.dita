@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="EnvironmentalSpecifications-C498E3D2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Environmental Specifications</title>
+<body>
+<ul>
+<li><p>Ambient operating temperature range: 0⁰C to: 45°C </p></li>
+<li><p>General operating conditions for transformer operation are
+according to IEEE C57.12.01 (most recent edition). </p></li>
+<li><p>Relative humidity range: 0% to 95% non-condensing. </p></li>
+<li><p>Maximum altitude 10,000 ft. The PDU is de-rated above 10,000
+ft. For operations at heights above 3,300 ft., please contact the
+factory before ordering.</p></li>
+</ul>
+<p>If the PDU is not to be immediately installed and energized, it
+should be carefully stored in a warm, dry environment, preferably
+a heated building with air circulation and a uniform temperature to
+prevent condensation. It is especially important that the transformer
+be free of condensation and protected from contamination. The transformer
+and PDU should be stored in their factory protective coverings.</p>
+<p>Storage temperature range must be within these extremes: -30⁰C
+to +70⁰C (-22⁰F to 158⁰F).</p>
+<p>If the transformer has been exposed to moisture, it should be dried
+out before being energized. Consult Eaton Service if the unit has
+been exposed to moisture or contamination.</p>
+</body>
+</topic>

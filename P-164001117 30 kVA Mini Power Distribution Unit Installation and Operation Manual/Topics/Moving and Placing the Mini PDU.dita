@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="MovingAndPlacingTheMiniPDU-C49A235A"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Moving and Placing the Mini PDU</title>
+<body>
+<p>Move the Mini PDU off its pallet with a forklift as follows:<ol>
+<li><p>The Mini PDU is attached to its pallet by its seismic brace
+with wood screws. With the pallet resting on the floor, remove the
+wood screws. </p></li>
+<li><p>Insert forklift or palette jack forks under the Mini PDU cabinet
+on long side of the unit. <note type="caution">Be careful not to damage
+the casters or the seismic brace. </note></p></li>
+<li><p>Move the unit to its installation location next to server racks
+and withdraw the forklift. Unit has casters and can be precisely rolled
+into position. Seismic brace must face opposite the server rack. </p
+></li>
+<li><p>Adjust leveling feet to stabilize the unit using an open wrench. </p
+></li>
+<li><p>Secure seismic brace to floor. Installer chooses and provides
+attachment hardware.</p></li>
+</ol><fig>
+<title>Seismic Brace</title>
+<image href="..\Graphics\2.pdf"
+placement="-dita-use-conref-target" scale="80" scope="local"></image>
+</fig></p>
+</body>
+</topic>

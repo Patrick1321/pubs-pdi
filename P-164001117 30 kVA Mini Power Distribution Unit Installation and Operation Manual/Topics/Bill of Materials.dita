@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="BillOfMaterials-C49A2355"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Bill of Materials</title>
+<body>
+<table frame="top" id="BillOfMaterials-C49A3184"
+orient="-dita-use-conref-target" pgwide="any value">
+<title>Bill of Materials</title>
+<tgroup cols="3">
+<?PubTbl tgroup dispwid="568.00px"?>
+<colspec colname="1" colsep="0" colwidth="11.53*"/><colspec
+align="center" colname="2" colwidth="18.71*"/><colspec align="center"
+colname="COLSPEC1" colwidth="18.71*"/>
+<thead>
+<row>
+<entry align="center" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?>Quantity</entry>
+<entry colsep="0" valign="middle"><?PubTbl cell
+border-bottom-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>Part
+Number</entry>
+<entry valign="middle"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?>Item</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"?>1</entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>11900003</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>30 kVA Mini PDU</entry>
+</row>
+<row>
+<entry align="center" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"?>1</entry>
+<entry colsep="0" valign="middle"><?PubTbl cell
+border-bottom-width="0.25pt"?>MIS68130</entry>
+<entry valign="middle"><?PubTbl cell border-bottom-width="0.25pt"?>Cable
+Ladder, aluminum (12”W x 4”D x 72”H)</entry>
+</row>
+<row valign="middle">
+<entry align="center" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-style="solid" border-bottom-width="0.25pt"?>1</entry>
+<entry colsep="0" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-style="solid" border-bottom-width="0.25pt"?>MOD67210</entry>
+<entry><?PubTbl cell border-bottom-style="solid"
+border-bottom-width="0.25pt"?>Kit Mini PDU Customer Cables</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>
