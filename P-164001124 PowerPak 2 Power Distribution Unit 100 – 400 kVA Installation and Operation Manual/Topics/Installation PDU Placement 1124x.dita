@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C386C577" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation: PDU Placement</title>
+<body>
+<p><note type="danger"><ul>
+<li><p>A licensed electrician must install each unit. </p></li>
+<li><p>Startup by an Eaton certified technician is required to validate
+the warranty. </p></li>
+<li><p>Severe or fatal injury can result from electrical shock during
+contact with high voltage conductors, monitoring PCBs, or similar
+equipment. </p></li>
+<li><p>Disconnect power before drilling holes, attaching cables or
+conduit, or connecting PDUs to other power distribution equipment. </p
+></li>
+<li><p>Use Lock Out/Tag Out procedures. </p></li>
+<li><p>Wear suitable personal protective clothing and use protective
+equipment for performing mechanical and electrical installations. </p
+></li>
+<li><p>Leave ample space for attaching and routing wires.</p></li>
+</ul></note></p>
+</body>
+<topic
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Receiving and Unpacking the PDU</title>
+<body>
+<p>PowerPak 2 PDUs are shipped as fully assembled units with optional
+side cars attached and internal cabling completed. Units are strapped
+to shipping pallets, but not bolted to pallets, and are protected
+by external covering.<ol>
+<li><p>Upon receiving a PowerPak 2 PDU pallet and before removing
+packaging, inspect packaging for visible damage that could affect
+the PDU. If damage is evident notify Eaton and the shipping company
+(see below). </p></li>
+<li><p>Carefully remove the outer layer of protective shrink wrap
+from the unit. Use care to notpuncture or scratch the Modular Compact
+RPP cabinets with cutting tools. <note>Do not cut the retaining bands
+until the PDU has been moved on its pallet close to its installation
+location.</note></p></li>
+<li><p>After removing external packing, check the unit’s exterior
+panels and doors for any visible damage such as scratches dents, cracks.
+If any damage is noted, please call the Eaton Service Team at 1-800-843-9433.</p
+></li>
+<li><p>If any damage is evident during unpacking, notify the shipping
+company and Eaton:</p><ul>
+<li><p>File a claim with the shipping company at the time of delivery.
+Damage must be noted on the bill of lading. Failure to properly document
+all damage may result in the unit’s warranty being voided.</p></li>
+<li><p>Notify the Eaton Service Department.</p></li>
+</ul></li>
+</ol></p>
+</body>
+</topic>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing the PDU_0000076200.dita"><xi:fallback><!--Fallback markup for "Placing the PDU_0000076200.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Pre-Placement Inspection_0000076199.dita"><xi:fallback><!--Fallback markup for "Pre-Placement Inspection_0000076199.dita"--></xi:fallback
+></xi:include>
+<topic
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Placing Directly on Floor or Raised Floor</title>
+<body>
+<p>The PDU can be moved on a fork lift or pallet jack and placed directly
+on a floor or raised floor. The floor must be capable of supporting
+the PDU’s weight. See <xref format="dita"
+href="Installation Planning 1124.dita#PDUWeight-CB3C80CD" scope="local"
+type="topic"><?Pub _previewtext text="PDU Weight"?></xref> for approximate
+weights. See your submittal package for specific information for your
+PDU’s configuration. </p>
+<p>Check that required clearances are met when the PDU is placed in
+its operating position.</p>
+</body>
+</topic>
+<topic id="PlacingPDUOnOptionalFloorStand-CB3D6AB6"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Placing PDU on Optional Floor Stand</title>
+<body>
+<p>The PDU can be placed on an optional floor stand that will support
+the main cabinet, which houses the transformer and the bulk of the
+PDU’s weight. The floor stand is available in several heights to match
+the height of your installation’s raised floor, ranging from 12" to
+52". </p>
+<p>At time of order, select the floor stand that matches your raised
+floor height. Several floor stands are height-adjustable ±4". (See
+figures <xref format="dita"
+href="#./Figure8FloorStandForPDUWithoutCaste-CB3D6ABA" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 8 Floor Stand for PDU without Casters"?></xref> to <xref
+format="dita" href="#./Figure10FloorStandAndPDUFrameWithCa-CB3D6F8E"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 10 Floor Stand and PDU Frame with Casters"?></xref>).</p>
+<p>To install:<ol>
+<li><p>Remove floor tiles and/or make floor tile cutouts to match
+the width and depth of the floor stand. </p></li>
+<li><p>On adjustable floor stands, adjust the bottom height adjustment
+screws to adjust the floor stand height to match your raised floor
+height. </p></li>
+<li><p>Place the floor stand within the raised floor opening and bolt
+securely to the subfloor. </p></li>
+<li><p>The floor stand has removable front and rear plates for cable
+entry/exit and air flow. Remove plates as desired before placing the
+PDU. </p></li>
+<li><p>The floor stand has removable two removable ramps. If the PDU
+has casters, it can be rolled onto the floor stand using these ramps.
+If the PDU does not have casters, remove the ramps. </p></li>
+<li><p>Carefully place the PDU with a fork lift or pallet jack over
+the floor stands bolt holes.</p></li>
+</ol><fig id="Figure8FloorStandForPDUWithoutCaste-CB3D6ABA">
+<title>Floor Stand for PDU without Casters</title>
+<image href="..\Graphics\8.pdf" placement="-dita-use-conref-target">
+</image>
+</fig><fig>
+<title>Main Cabinet Floor Stand</title>
+<image href="..\Graphics\9.pdf" placement="-dita-use-conref-target">
+</image>
+</fig><fig id="Figure10FloorStandAndPDUFrameWithCa-CB3D6F8E">
+<title>Floor Stand and PDU Frame with Casters</title>
+<image href="..\Graphics\10.pdf" placement="-dita-use-conref-target">
+</image>
+</fig>Match the PDU’s support bolt holes to the floor stand openings.</p>
+</body>
+</topic>
+</topic><?Pub Caret -1?>

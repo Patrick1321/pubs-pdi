@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PlacingPDUOnOptionalFloorStand-C38CCFCE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Entry/Exit Knockout Plates</title>
+<body>
+<p>Different cable entry/exit knockout plates are provided for different
+Distribution Output Section configurations. Knockouts (KOs) are provided
+for panelboards. Solid plate is provided for large (input or output)
+cables or pilot holes allowing expansion of the opening for output
+subfeeds. Mixed solid plate and KOs are provided when the output has
+both subfeeds and panelboards. </p>
+<p>KO plates are specifically designed for the Main Cabinet, 24" Side
+Car, and 12" Side Car as shown in <xref format="dita"
+href="#./Figure13MainCabinetKnock-outPlates-CB437F19" scope="local"
+type="fig"><?Pub _previewtext text="Main Cabinet Knock-out Plates"
+?></xref> to <xref format="dita"
+href="#./Figure1512-inchSideCarKnockoutPlate-CB438568" scope="local"
+type="fig"><?Pub _previewtext text="12-inch Side Car Knockout Plates"
+?></xref>.<fig id="Figure13MainCabinetKnock-outPlates-CB437F19">
+<title>Main Cabinet Knock-out Plates</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\13.pdf"
+placement="-dita-use-conref-target" scale="90" scope="local"></image>
+</fig><fig>
+<title>24-inch Side Car Knock-Out Plates</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\14.pdf"
+placement="-dita-use-conref-target" scale="90" scope="local"></image>
+</fig><fig id="Figure1512-inchSideCarKnockoutPlate-CB438568">
+<title>12-inch Side Car Knockout Plates</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\15.pdf"
+placement="-dita-use-conref-target" scale="85" scope="local"></image>
+</fig></p>
+</body>
+</topic>

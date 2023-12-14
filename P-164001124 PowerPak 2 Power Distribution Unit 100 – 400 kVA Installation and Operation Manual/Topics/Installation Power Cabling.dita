@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C386DF52" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation: Power Cabling</title><?Pub Caret -2?>
+<body>
+<p>The PowerPak 2 PDU allows top or bottom cable entry/exit. Customers
+must specify top or bottom cable entry/exit at time of order. The
+position of ground and neutral busbars can change as the result of
+this choice. </p>
+<p>Input and output cable entry/exit is shown on the PDU Outline Drawings
+(<xref format="dita"
+href="Installation Planning 1124.dita#PDULayouts-CB3C8577/Figure3MainCabinetLayout-CB3C9C70"
+scope="local" type="fig"><?Pub _previewtext text="Main Cabinet Layout"
+?></xref> to <xref format="dita"
+href="Installation Planning 1124.dita#PDULayouts-CB3C8577/Figure6MainCabinetWithMixedSideCarT-CB3CA72D"
+scope="local" type="fig"><?Pub _previewtext
+text="Main Cabinet with Mixed Side Car Types"?></xref>). For top cable
+entry, input and output share the same plate, which may have solid
+plate for input and for output solid plate or panelboard knockouts
+(KOs).</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Receiving and Unpacking the PDU.dita"><xi:fallback><!--Fallback markup for "Receiving and Unpacking the PDU.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing the PDU.dita"><xi:fallback><!--Fallback markup for "Placing the PDU.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Pre-Placement Inspection.dita"><xi:fallback><!--Fallback markup for "Pre-Placement Inspection.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing PDU on Optional Floor Stand.dita"><xi:fallback><!--Fallback markup for "Placing PDU on Optional Floor Stand.dita"--></xi:fallback
+></xi:include>
+</topic>

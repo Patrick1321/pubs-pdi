@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="EnhancedContractorBoard-CADD77C9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Enhanced Contractor Board</title>
+<body>
+<p>The Enhanced Contractor Board ( <xref format="dita"
+href="#./Figure22EnhancedContractorBoard-CAE49811" scope="local"
+type="fig"><?Pub _previewtext text="Enhanced Contractor Board"?></xref
+>) provides twice as many relays and building alarms as the Basic
+Contractor Board. The Enhanced Contractor Board is used in other Eaton
+PDI products and many of the connectors are not used on PDUs. </p>
+<p>24VDC Power Input: Unlike the Basic Contractor Board, the Enhanced
+Contractor Board has a processor and uses 24VDC power from the PDU
+M4G Board.</p>
+<p><b>Inputs:</b></p>
+<ul>
+<li><p>Remote EPO: Dry contact connection point for input of a REPO
+signal to system. Connection of voltage to this point can cause damage
+to the unit. Connect external dry contacts to terminals marked <b
+>+24V EPO RET</b> <xref format="dita"
+href="#./Figure22EnhancedContractorBoard-CAE49811" scope="local"
+type="fig"><?Pub _previewtext text="Enhanced Contractor Board"?></xref
+>. The REPO signal is sent to the PDU Board via the REMOTE EPO connection,
+which is not a customer connection point. </p></li>
+<li><p>Eight (8) Building Alarms (<xref format="dita"
+href="#./Figure22EnhancedContractorBoard-CAE49811" scope="local"
+type="fig"><?Pub _previewtext text="Enhanced Contractor Board"?></xref
+>). Alarm names can be specified by Eaton PDI in PDU Board setup.</p
+></li>
+</ul>
+<p><b>Outputs:</b></p>
+<ul>
+<li><p>Eight (8) remote relays that output dry contact (NO) signals
+(<xref format="dita" href="#./Figure22EnhancedContractorBoard-CAE49811"
+scope="local" type="fig">Figure 22</xref>). <note>Remote relay scan
+accept dry contacts rated up to 2A/250V.</note><ul>
+<li><p>Relays are programmable using the USB setup connection on the
+PDU M4G Board. Eaton PDI programs the relay inputs, usually in manufacturing.
+So for example, a relay can be programmed to turn on when a specific
+Building Alarm, such as a fire alarm, is received. The building management
+system (BMS) or other control system receives the relay input, receives
+the signal and can cause PDU shutdown with an REPO signal. </p></li>
+<li><p>By default, the first relay<b> RR1 </b>is programmed to close
+when the PDU Summary Alarm, PDU Board points list, Modbus Register
+70, is in alarm.</p></li>
+</ul></p></li>
+</ul>
+<p><b>Modbus Connection</b>: 4-wire configuration connection is located
+on the customer connection terminal block.</p>
+<fig id="Figure22EnhancedContractorBoard-CAE49811">
+<title>Enhanced Contractor Board</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\22.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

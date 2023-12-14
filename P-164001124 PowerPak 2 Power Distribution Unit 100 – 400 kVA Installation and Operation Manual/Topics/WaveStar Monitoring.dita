@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>WaveStar Monitoring</title>
+<body>
+<p>Alarms can be issued from WaveStar monitoring components through
+their points lists: <ul>
+<li><p>The PDU (M4G) Board points list monitors the transformer and
+inputs from the Contractor Board. </p></li>
+<li><p>BCMS: <ul>
+<li><p>Panelboard points lists (KWH or Normal) monitor the panelboard
+main feeds andbranch circuits. </p></li>
+<li><p>Enhanced Subfeeds (ESF) points list monitors large subfeeds
+up to 250A. </p></li>
+<li><p>IEC panelboard points list monitors IEC format panelboards.</p
+></li>
+</ul> </p></li>
+<li><p>The WaveStar Color Monitor also has a points list and can present
+a basic communication alarm for each device in its Modbus chain. </p
+></li>
+</ul></p>
+<p> Alarms can be read in two ways:<ul>
+<li><p><b>Color Monitor</b>. Alarms for each device can be displayed
+on the Alarm Screen. </p></li>
+<li><p><b>Modbus</b>. A BMS or other Modbus master device can read
+the points list for each component.</p></li>
+</ul></p>
+</body>
+</topic>

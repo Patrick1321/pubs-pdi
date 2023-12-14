@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus Addressing</title>
+<body>
+<p>Refer to <xref format="dita"
+href="#ColorMonitorNetworkConnections-CADF9B7F/Figure26InternalPDUNetworkModbusAdd-CAE0F1CB"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 26 Internal PDU Network, Modbus Addressing, Example"
+?></xref> with the following bullet points:<ul>
+<li><p>The internal PDU network uses Modbus RTU protocol to connect
+the PDU board and BCMS cards to the Color Monitor. </p></li>
+<li><p>The Color Monitor is the <b>Modbus master</b> to its downstream
+devices. The upstream Modbus master (such as the BMS) cannot directly
+address these devices, but rather addresses them through the Monitor.
+Upstream and downstream from the Monitor are separate Modbus segments.</p
+></li>
+<li><p>The Monitor’s upstream address can be set to from 1 to 255,
+but you must leave enoughaddressing capacity for downstream devices.
+The monitor will not respond to a commandsent to address 0. The address
+is set during Monitor Setup. </p></li>
+<li><p>The Monitor’s downstream devices must be assigned consecutive
+addresses starting ataddress 1 for the PDU Board. Modbus addresses
+must be assigned in BCMS setup and willbe done initially at the factory.
+Modbus addresses cannot be assigned by, for example, theBMS. </p></li>
+<li><p>For upstream addressing these device addresses are remapped
+as successor addresses tothe Monitor. (This is often confusing, but
+it is important to understand.) If the Monitor hasupstream address
+30, the downstream addresses 1, 2, 3, 4, 5, 6, 7 are remapped to 31,
+32,33, 34, 35, 36, 37 as seen from the BMS or other Modbus Master. </p
+></li>
+<li><p>Modbus addressing is the same for Modbus RTU and Modbus TCP/IP.</p
+></li>
+</ul></p><?Pub Caret 9?>
+</body>
+</topic>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="BCMSPointsLists-CADD77CE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>BCMS Points Lists</title>
+<body>
+<p>Each panelboard with its associated main feed is represented by
+a points list. A 42-pole panelboard is represented by a single panelboard
+points list. An 84-pole panelboard is represented by two (2) panelboard
+points lists. </p>
+<p>Points lists are loaded onto BCMS PCBs at the factory. Several
+points lists are available:<ul>
+<li><p><b>BCMS Normal</b> panelboard points list allows customization
+of circuit breaker alarms andwarnings for each panelboard circuit. </p
+></li>
+<li><p><b>BCMS KWH</b> points list provides accumulated KWH measurements
+and other detailed powerinformation for each panelboard circuit. </p
+></li>
+<li><p><b>BCMS IEC</b> panelboard points list is for IEC format panelboards
+with 36 or 72 1P circuits. </p></li>
+<li><p><b>BCMS Enhanced Subfeeds (ESF)</b> points list for subfeeds.</p
+></li>
+</ul></p>
+<p>See the <xref format="dita"
+href="Bibliography 1124.dita#topic-1-CAC7E6F4" scope="local"
+type="topic"><?Pub _previewtext text="Bibliography"?></xref> for information
+on downloading points lists from the Smiths Power website.</p>
+</body>
+</topic>

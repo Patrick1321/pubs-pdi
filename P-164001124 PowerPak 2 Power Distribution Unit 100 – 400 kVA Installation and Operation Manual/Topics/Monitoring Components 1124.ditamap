@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<techinfomap
+xmlns:atirds="http://www.arbortext.com/namespace/dita/rdstyle"
+atirds:comptype="topicAsMap"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<topicref format="dita"
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Topics\Monitoring Components 1124.dita"
+scope="local" type="topic"></topicref><?Pub Caret -1?>
+</techinfomap>

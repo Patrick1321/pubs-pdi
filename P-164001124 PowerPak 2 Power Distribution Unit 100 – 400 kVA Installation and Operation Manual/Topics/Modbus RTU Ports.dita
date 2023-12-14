@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ModbusRTUPorts-CAE0A909"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus RTU Ports</title>
+<body>
+<table id="Table10Pin-OutForModbusHeaders-CAE0A90C">
+<title>Pin-Out for Modbus Headers</title>
+<tgroup cols="2">
+<?PubTbl tgroup dispwid="428.00px"?>
+<colspec colname="col1" colwidth="100.00pt"/><colspec colname="col2"
+colwidth="100.00pt"/>
+<thead>
+<row>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Pin </b></p></entry>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>J1, J3 </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>1 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>Ground </p></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>2 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>RX- </p></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>3 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>RX+ </p></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>4 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>TX- </p></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>5 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>TX+ </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p>The Color Monitor has two (2) paralleled Modbus ports: <ul>
+<li><p>J1 and J3 are header/plug connections for connecting to most
+devices. <ul>
+<li><p>J1 is the upstream port.</p></li>
+<li><p>J3 is the downstream port. </p></li>
+</ul></p></li>
+</ul>The Modbus RTU interface is isolated, and pin designations are
+given in <xref format="dita"
+href="#./Table10Pin-OutForModbusHeaders-CAE0A90C" scope="local"
+type="table"><?Pub _previewtext
+text="Table 10 Pin-Out for Modbus Headers"?></xref>.</p>
+</body>
+</topic>

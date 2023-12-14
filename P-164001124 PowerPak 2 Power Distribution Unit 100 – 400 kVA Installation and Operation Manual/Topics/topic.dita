@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ControlsCompartment-CADD781F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Controls Compartment</title>
+<body>
+<p>Monitoring components are separated from high-power input and output
+components to allow maintenance on monitoring components during PDU
+operation. Monitoring components are contained in the Controls Compartment
+of the Main Cabinet. Additional BCMS components are located in the
+Distribution Output sections of the Side Cars that they monitor. </p>
+<p>Monitoring components are contained on the Controls Compartment
+door and inside the compartment (<xref format="dita"
+href="#./Figure18ControlsCompartmentComponen-CAE693E7" scope="local"
+type="fig"><?Pub _previewtext text="Controls Compartment Components"
+?></xref>). The compartment also swings out as a unit (<xref
+format="dita" href="#./Figure19ControlsCompartmentSwingsOu-CAE47624"
+scope="local" type="fig"><?Pub _previewtext
+text="Controls Compartment Swings Out as Unit"?></xref>), which shows
+the Resistor Board, an intermediate connection PCB between subfeed
+CTs and a BCMS PCB.<fig
+id="Figure18ControlsCompartmentComponen-CAE693E7">
+<title>Controls Compartment Components</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\18.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><fig id="Figure19ControlsCompartmentSwingsOu-CAE47624">
+<title>Controls Compartment Swings Out as Unit</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\19.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

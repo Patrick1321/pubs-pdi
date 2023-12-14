@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Pre-PlacementInspection-C38CCFCC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Entry: Input Power</title>
+<body>
+<p>Input power is cabled into the Main Cabinet Input section. The
+bottom input power cable plate is solid and customers should make
+their own cutout(s) for cables or conduit. See <xref format="dita"
+href="#PlacingPDUOnOptionalFloorStand-C38CCFCE/Figure13MainCabinetKnock-outPlates-CB437F19"
+scope="local" type="fig"><?Pub _previewtext
+text="Main Cabinet Knock-out Plates"?></xref>.</p>
+<p>If cable entry is <u>from the top</u> of the unit, input cables
+must be run behind the Controls Compartment. The entire Controls Compartment
+must be swung open to run input power cables to the Main Input Circuit
+Breaker.</p>
+<fig id="Figure11InputSectionTopAndBottomCab-CB4396F3">
+<title>Input Section: Top and Bottom Cable Entry</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\11.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic><topic id="topic-16-33D72D64">
+<title>Output Power Connections</title>
+<body>
+<p>Each Distribution Output Section has its own ground and neutral
+output connections. (See <xref format="dita"
+href="#./DistributionOutputSectionWithSubfee-33DD9E89" scope="local"
+type="fig"><?Pub _previewtext
+text="Distribution Output Section with Subfeeds: Ground and Neutral Busbars"
+?></xref>.)<ul>
+<li><p>Bottom cable exit: ground and neutral busbars are located at
+the bottom of the section. </p></li>
+<li><p>Top cable exit: neutral busbar for subfeeds is at top of section;
+ground busbar is at bottom ofsection. </p></li>
+<li><p>Panelboard ground and neutral strips are always at the sides
+of the panelboards.</p></li>
+</ul><?Pub Caret -2?><fig
+id="DistributionOutputSectionWithSubfee-33DD9E89">
+<title>Distribution Output Section with Subfeeds: Ground and Neutral
+Busbars</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\12.pdf"
+placement="-dita-use-conref-target"></image>
+</fig></p>
+</body>
+</topic>

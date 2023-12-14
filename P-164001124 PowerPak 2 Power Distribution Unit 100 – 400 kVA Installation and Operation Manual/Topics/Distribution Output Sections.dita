@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="DistributionOutputSections-CA4EB084"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Distribution Output Sections</title>
+<body>
+<fig id="Figure7DistributionOutputSections-CB3FDF37">
+<title>Distribution Output Sections</title>
+<image href="..\Graphics\7.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>Distribution Output subfeeds and panelboards are placed in Distribution
+Output Sections, as shown above in <xref format="dita"
+href="#./Figure7DistributionOutputSections-CB3FDF37" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 7 Distribution Output Sections"?></xref>. The number
+of available Distribution Output Sections is shown in <xref
+format="dita" href="#./Figure7DistributionOutputSections-CB3FDF37"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 7 Distribution Output Sections"?></xref> and below in <xref
+format="dita" href="#./DistributionOutputSections-CB3FDBA5"
+scope="local" type="table"><?Pub _previewtext
+text="4 Distribution Output Sections"?></xref>.<table
+id="DistributionOutputSections-CB3FDBA5">
+<title>Distribution Output Sections</title>
+<tgroup align="center" cols="2"><colspec colname="col1"
+colwidth="100.00pt"/><colspec colname="col2" colwidth="200.00pt"/>
+<thead>
+<row>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Frame </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Number of Output Distribution Sections </b
+></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Main Cabinet </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 Front-facing Section </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>12" Side Car </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 Side-facing Section </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>24" Side Car </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 Front-facing and/or 1 Side-facing Section </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Distribution Output Modules.dita"><xi:fallback><!--Fallback markup for "Distribution Output Modules.dita"--></xi:fallback
+></xi:include>
+</topic>

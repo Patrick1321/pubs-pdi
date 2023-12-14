@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Specification</title>
+<body>
+<p>RS485/RS422 cable length can be up to 4000 ft. if you use the proper
+cable:<ul>
+<li><p>The cable resistance should be ≤ 27 ohms/1000ft @ 1 kHz and
+the mutual capacitance should be ≤ 14pf/ft. @ 1 kHz. </p></li>
+<li><p>4-wire cabling: <ul>
+<li><p>RS422 is typically 4-wire. oUse a shielded cable with two (2)
+twisted pairs and a shield/ground wire. </p></li>
+<li><p>The two transmit lines must be in one twisted pair and the
+two receive lines in the other twisted pair.</p></li>
+</ul> </p></li>
+<li><p>2-wire cabling: <ul>
+<li><p>RS485 is typically 2-wire and is slower than RS422. </p></li>
+<li><p>Use a shielded cable with one (1) twisted pair and a shield/ground
+wire.</p></li>
+</ul></p></li>
+</ul></p>
+</body>
+</topic>

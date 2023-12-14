@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InputPowerWiring-C38CCFCB"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Input Power Wiring</title>
+<body></body>
+<topic id="MainInputCircuitBreaker-1-33D5C01E"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Main Input Circuit Breaker</title>
+<body>
+<p>3-phase input power cables are connected to the main input circuit
+breaker in the main cabinet inputsection. </p>
+<p>Customers must make their own cutouts for input cable and conduit.
+Pull input power conduit through cutouts. Connect input phase cables
+directly to main circuit breaker lugs. Torque lugs to the circuit
+breaker manufacturer’s specification, which are typically given on
+the circuit breaker. </p>
+<p>In bottom entry, customer phase connections are made to the bottom
+of the main input circuit breaker. In top entry, phase connections
+are made to the top of the circuit breaker. Ground busbar and transformer
+connections to the main input circuit breaker are reversed for top
+cable entry. (see <xref format="dita"
+href="#Pre-PlacementInspection-C38CCFCC/Figure11InputSectionTopAndBottomCab-CB4396F3"
+scope="local" type="fig"><?Pub _previewtext
+text="Input Section: Top and Bottom Cable Entry"?></xref>.) </p>
+<p>There is no input neutral busbar for delta power input.</p>
+</body>
+</topic>
+</topic>

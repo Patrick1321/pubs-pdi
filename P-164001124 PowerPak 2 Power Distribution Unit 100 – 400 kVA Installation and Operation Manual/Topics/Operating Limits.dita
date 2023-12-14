@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="OperatingLimits-CB3C7900"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Operating Limits</title>
+<body>
+<ul>
+<li><p>Operating ambient temperature range: 0⁰C to 40⁰C (32⁰F to 104⁰F). </p
+></li>
+<li><p>Relative humidity range from 0% to 95% non-condensing. </p
+></li>
+<li><p>Altitude: Standard: 3000 ft. Maximum altitude 10,000 ft. For
+altitudes above 10,000 ft contact Eaton PDI.</p></li>
+</ul>
+<p>Transformers generate heat, which should be considered in placing
+the PDU. BTUs for standard transformers offered at 100, 150, 225,
+300, and 400 kVA are given in <xref format="dita"
+href="#TransformerBTUs-CB3C7224" scope="local" type="topic"><?Pub
+_previewtext text="Transformer BTUs"?></xref>.</p>
+</body>
+</topic>

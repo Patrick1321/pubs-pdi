@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C386C577" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation: PDU Placement</title>
+<body>
+<p><note type="danger"><ul>
+<li><p>A licensed electrician must install each unit. </p></li>
+<li><p>Startup by an Eaton certified technician is required to validate
+the warranty. </p></li>
+<li><p>Severe or fatal injury can result from electrical shock during
+contact with high voltage conductors, monitoring PCBs, or similar
+equipment. </p></li>
+<li><p>Disconnect power before drilling holes, attaching cables or
+conduit, or connecting PDUs to other power distribution equipment. </p
+></li>
+<li><p>Use Lock Out/Tag Out procedures. </p></li>
+<li><p>Wear suitable personal protective clothing and use protective
+equipment for performing mechanical and electrical installations. </p
+></li>
+<li><p>Leave ample space for attaching and routing wires.</p></li>
+</ul></note></p>
+</body><?Pub Caret -3?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Receiving and Unpacking the PDU_0000076201.dita"><xi:fallback
+><!--Fallback markup for "Receiving and Unpacking the PDU_0000076201.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing the PDU_0000076200.dita"><xi:fallback><!--Fallback markup for "Placing the PDU_0000076200.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Pre-Placement Inspection_0000076199.dita"><xi:fallback><!--Fallback markup for "Pre-Placement Inspection_0000076199.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing Directly on Floor or Raised Floor_0000076198.dita"><xi:fallback
+><!--Fallback markup for "Placing Directly on Floor or Raised Floor_0000076198.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing PDU on Optional Floor Stand_0000076217.dita"><xi:fallback
+><!--Fallback markup for "Placing PDU on Optional Floor Stand_0000076217.dita"--></xi:fallback
+></xi:include>
+</topic>

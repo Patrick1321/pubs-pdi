@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<techinfomap xml:lang="en"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfomap.xsd"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Eaton PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation
+and Operation Manual</title>
+<contentref format="dita"
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22040 0000012248_P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Topics\cover 1124.dita"
+navtitle="Eaton© PowerPak 2 Power Distribution Unit 100 – 400 kVA "
+scope="local" type="coverpage"></contentref>
+<toc/>
+<figurelist/>
+<tablelist/>
+<division navtitle="Introduction">
+<contentref format="dita" href="..\Topics\Introduction 1124.dita"
+navtitle="Introduction " scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Safety">
+<contentref format="dita" href="..\Topics\Safety 1124.dita"
+navtitle="Safety " scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Installation Planning">
+<contentref format="dita"
+href="..\Topics\Installation Planning 1124.dita"
+navtitle="Installation Planning " scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Installation Planning: Electrical">
+<contentref format="dita" href="..\Topics\Installation Plan Elect.dita"
+navtitle="Installation Planning: Electrical" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Installation: PDU Placement">
+<contentref format="dita"
+href="..\Topics\Installation PDU Placement 1124x.dita"
+navtitle="Installation: PDU Placement" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Installation: Power Cabling">
+<contentref format="dita"
+href="..\Topics\Installation Power Cabling.dita"
+navtitle="Installation: Power Cabling" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="PDU Initial Start-Up">
+<contentref format="dita" href="..\Topics\PDU Initial Start-Up.dita"
+navtitle="PDU Initial Start-Up" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="PDU Procedures">
+<contentref format="dita" href="..\Topics\PDU Procedures 1124.dita"
+navtitle="PDU Procedures" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Monitoring Components">
+<contentref format="dita"
+href="..\Topics\Monitoring Components 1124.dita"
+navtitle="Monitoring Components" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="PDU Network">
+<contentref format="dita" href="..\Topics\PDU Network 1124.dita"
+navtitle="PDU Network" scope="local" type="topic"></contentref><?Pub
+Caret -1?>
+</division>
+<division navtitle="Alarms">
+<contentref format="dita" href="..\Topics\Alarms 1124.dita"
+navtitle="Alarms" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Service">
+<contentref format="dita" href="..\Topics\Service 1124.dita"
+navtitle="Service" scope="local" type="topic"></contentref>
+</division>
+</techinfomap>

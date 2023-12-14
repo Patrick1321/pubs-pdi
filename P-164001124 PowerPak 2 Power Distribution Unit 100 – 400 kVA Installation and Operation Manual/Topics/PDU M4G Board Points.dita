@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PDUM4GBoardPoints-CADD77CB"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU M4G Board Points</title>
+<body>
+<p>The PDU M4G Points List contains measurements and set points for
+the PDU M4G Acquisition Board and its associated Contractor Board.
+It has two groups of data<ul>
+<li><p>Measurements and Alarms <ul>
+<li><p>Current and voltages measurements from the critical load transformer </p
+></li>
+<li><p>Alarms from PDU M4G Board and Contractor Board</p></li>
+</ul></p></li>
+</ul><ul>
+<li> set points for<ul>
+<li><p>Alarm thresholds </p></li>
+<li><p>Contractor board setup, such as enabling building alarms and
+specifying names</p></li>
+</ul></li>
+</ul>Eaton representatives must specify Modbus register set points
+or Contractor Board setup options using a special setup program connected
+to the M4G USB port.</p>
+<p>The PDU M4G Board points list can be downloaded from the Smiths
+Power website.</p><?Pub Caret 77?>
+</body>
+</topic>

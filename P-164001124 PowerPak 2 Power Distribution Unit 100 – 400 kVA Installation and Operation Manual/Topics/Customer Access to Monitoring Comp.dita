@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="CustomerAccessToMonitoringCompartme-CADD77CE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Customer Access to Monitoring Compartment</title>
+<body>
+<p>Customers should not have to access components in the Monitoring
+Compartment except for the following:<ul>
+<li><p>Contractor Board for customer external connections, such as
+the REPO signal and Modbus RTU connection. </p></li>
+<li><p>The Color Monitor for Ethernet connection to the customer’s
+upstream network and Color Monitor Summary alarm. </p></li>
+<li><p>Dry contact connections (see <xref format="dita"
+href="#DryContactNetwork-CADD77CF" scope="local" type="topic"><?Pub
+_previewtext text="Dry Contact Network"?></xref>)</p>.</li>
+</ul></p>
+<p>Even these connections can be set up during PDU installation so
+that customers need not access the Monitoring Compartment during PDU
+operation.</p>
+<fig id="Figure23BCMSLVHVBoard-CAE48597">
+<title>BCMS LV/HV Board</title>
+<image href="..\Graphics\23.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

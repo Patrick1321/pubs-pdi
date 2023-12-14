@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Receiving and Unpacking the PDU</title>
+<body>
+<p>PowerPak 2 PDUs are shipped as fully assembled units with optional
+side cars attached and internal cabling completed. Units are strapped
+to shipping pallets, but not bolted to pallets, and are protected
+by external covering.<ol>
+<li><p>Upon receiving a PowerPak 2 PDU pallet and before removing
+packaging, inspect packaging for visible damage that could affect
+the PDU. If damage is evident notify Eaton and the shipping company
+(see below). </p></li>
+<li><p>Carefully remove the outer layer of protective shrink wrap
+from the unit. Use care to notpuncture or scratch the Modular Compact
+RPP cabinets with cutting tools. <note>Do not cut the retaining bands
+until the PDU has been moved on its pallet close to its installation
+location.</note></p></li>
+<li><p>After removing external packing, check the unit’s exterior
+panels and doors for any visible damage such as scratches dents, cracks.
+If any damage is noted, please call the Eaton Service Team at 1-800-843-9433.</p
+></li>
+<li><p>If any damage is evident during unpacking, notify the shipping
+company and Eaton:</p><ul>
+<li><p>File a claim with the shipping company at the time of delivery.
+Damage must be noted on the bill of lading. Failure to properly document
+all damage may result in the unit’s warranty being voided.</p></li>
+<li><p>Notify the Eaton Service Department.</p></li>
+</ul></li>
+</ol></p>
+</body>
+</topic>

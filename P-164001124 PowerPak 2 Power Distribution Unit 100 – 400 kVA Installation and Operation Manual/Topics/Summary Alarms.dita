@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Summary Alarms</title>
+<body>
+<p>The Color Monitor has a summary alarm that is issued whenever a
+device in its chain has an alarm or warning. Summary alarms can be
+issued in the following ways: <ul>
+<li><p>Dry contact connection on the Monitor back panel </p></li>
+<li><p>Modbus Points List, summary alarm point or register: the summary
+alarm is point is in the Alarm Register (register 01), which can be
+read with Modbus RTU. </p></li>
+<li><p>SNMP trap </p></li>
+</ul></p>
+<p>When a summary alarm is issued, an operator can go to the Monitor
+to check the list of active alarms or check the Monitor’s web pages. </p>
+<p>Alarms in the Monitor points list are for communication failures
+with devices in its Modbus chain. These and the summary alarm are
+contained in the Monitor’s Alarm Register (register 01). </p>
+<p>The Basic and Enhanced Contractor Boards also have a PDU summary
+alarm defined by default as the leftmost remote relay. Relays are
+programmable and the definition of this relay can be changed. See <xref
+format="dita"
+href="Monitoring Components 1124.dita#BasicContractorBoard-CADD782A"
+scope="local" type="topic"><?Pub _previewtext
+text="7.3.2 Basic Contractor Board"?></xref> and <xref format="dita"
+href="Monitoring Components 1124.dita#EnhancedContractorBoard-CADD77C9"
+scope="local" type="topic"><?Pub _previewtext
+text="7.3.3 Enhanced Contractor Board"?></xref>.</p>
+<p><b>PDU</b> The PDU M4G Board points list has Summary Alarm and
+Summary Alarm Latched registers (registers 70-71, Rev E). The points
+list covers both the PDU board and its associated Contractor Board. </p>
+<p><b>Subfeeds</b> The Enhanced Subfeeds points list has a Latched
+Summary Alarm Register (504).</p>
+</body>
+</topic>
