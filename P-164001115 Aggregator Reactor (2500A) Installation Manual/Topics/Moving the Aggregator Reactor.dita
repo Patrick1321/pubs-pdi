@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Moving the Current-Limiting Reactor</title>
+<body>
+<p>Move the Current-Limiting Reactor off its pallet with a forklift
+as follows:<ol>
+<li><p>The Current-Limiting Reactor or its Side Car is bolted to a
+pallet. With the pallet resting on the floor, remove the bolts. </p
+></li>
+<li><p>Insert forklift forks under the Current-Limiting Reactor Cabinet
+or optional Side Car from any side. </p></li>
+<li><p>Move each unit to its installation location and withdraw the
+forklift. Units have no casters and should be precisely positioned
+with the forklift.</p><fig>
+<title>Reactor and Side Car Dimensions</title>
+<image href="..\Graphics\2x.pdf" placement="-dita-use-conref-target">
+</image>
+</fig></li>
+</ol></p>
+</body>
+</topic>
