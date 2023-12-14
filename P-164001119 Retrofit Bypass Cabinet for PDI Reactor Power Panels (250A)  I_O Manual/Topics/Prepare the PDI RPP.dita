@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Prepare the Eaton PDI RPP</title>
+<body>
+<p>If you are installing a Retrofit Bypass Cabinet for an Eaton PDI
+RPP, you must first prepare the RPP as follows:<ul>
+<li><p>Remove exterior panel on the Bypass Cabinet side of the RPP. </p
+></li>
+<li><p>Disconnect and remove camloks-to-busbar cables with their CTs </p
+></li>
+<li><p>Attach label stating that the cam-loks are not energized. </p
+></li>
+<li><p>Remove RPP Display and secondary wiring and fuses. (Cover plate
+will be installed over hole later .)</p></li>
+</ul><note type="warning"><ul>
+<li><p>Before working on Reactor Power Panel, make sure that power
+to the unit is disconnected. </p></li>
+<li><p>Verify that power is not on to the RPP. Use a voltage meter
+to verify that voltage is not present.</p></li>
+</ul></note></p>
+<p><ol>
+<li><p>Determine the side of the Eaton PDI RPP that will face the
+Retrofit Bypass Cabinet. </p><p>On that side, remove the exterior
+panel.</p></li>
+</ol></p>
+<p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\6.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p>
+<p>In the RPP, the Display/Monitor with fuses and secondary wiring
+must be removed. </p>
+<p>Monitoring will be located in the Retrofit Bypass Cabinet.</p>
+<p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\7.pdf"
+scope="local"></image><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\8.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p>
+<p>Disconnect and remove the Display/Monitor. The Display/Monitor
+must be disconnected from inside the unit. Install the Cover Plate
+on RPP Door</p>
+<p>Retain hex nuts for attaching cover plate in next step.<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\9.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p>
+</body>
+</topic>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Make Cut-Outs in the Cable Entry Panel</title>
+<body>
+<p>The Retrofit Bypass Cabinet has no knock-outs. Installers must
+make their own cable-entry cut outs. Cable entry is from the top of
+the unit.</p>
+<p><image href="..\Graphics\16.pdf"
+placement="-dita-use-conref-target"></image></p>
+</body>
+</topic>

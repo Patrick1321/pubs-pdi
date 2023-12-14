@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="UnpackingAndMoving1120-C31DFEEF" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Unpacking and Moving</title>
+<topic>
+<title>Receiving and Unpacking the Retroit Bypass Cabinet</title>
+<body>
+<p>Retrofit Bypass Cabinets are shipped bolted to shipping pallets
+and protected by two layers of external plastic covering. The Retrofit
+Bypass Cabinet is first covered by a large plastic bag and then shrink-wrapped.
+Finally the unit is secured to the pallet with metal retaining bands. </p>
+<p>For moving the Retrofit Bypass Cabinet on its pallet, Eaton recommends
+that you leave the retaining bands intact until you have moved the
+Retrofit Bypass Cabinet to a convenient location for removing it from
+its pallet.<note>Inspect the shipped unit twice, upon receipt and
+after removing packaging materials.</note><ol>
+<li><p>Upon receiving an Retrofit Bypass Cabinet pallet and before
+removing packaging, inspect the packaging for visible damage. If damage
+is evident notify the shipping company and Eaton (see <xref
+format="dita" href="Introduction 1120.dita#GettingHelp-18-F6B0901C"
+scope="local" type="topic"><?Pub _previewtext text="Getting Help"
+?></xref>).</p><p>File any damage claims with the shipping company
+at time of delivery. Damage must be noted on the bill of lading. Failure
+to properly document all damage may result in the unit’s warranty
+being voided.</p></li>
+<li><p>Carefully cut the retaining bands, making sure that they do
+not scrape the exterior of the unit or scratch the paint.</p><note
+type="warning"><ul>
+<li><p>Metal retaining bands are under tension. Exercise caution when
+cutting them. </p></li>
+<li><p>Wear protective clothing including eye, face, and hand protection
+when cutting retaining bands.</p></li>
+</ul></note></li>
+<li><p>Carefully remove the outer layer of protective shrink wrap
+from the unit and the interior plastic covering bag. Use care to not
+puncture or scratch the Retrofit Bypass Cabinet with cutting tools. </p
+></li>
+<li><p>After removing the outer external packaging, inspect the unit’s
+exterior panels and doors for any visible damage such as scratches,
+dents, or cracks. If you discover any damage, notify the shipping
+company and Eaton Service (see <xref format="dita"
+href="Introduction 1120.dita#GettingHelp-18-F6B0901C" scope="local"
+type="topic"><?Pub _previewtext text="Getting Help"?></xref>).</p
+></li><?Pub Caret 233?>
+</ol></p>
+</body>
+</topic>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Moving Retrofit Bypass Cabinets.dita"><xi:fallback><!--Fallback markup for "Moving Retrofit Bypass Cabinets.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Clearances and Door Swing.dita"><xi:fallback><!--Fallback markup for "Clearances and Door Swing.dita"--></xi:fallback
+></xi:include>
+</topic>

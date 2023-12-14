@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Description</title>
+<body>
+<p>A Retrofit Bypass Cabinet is a 12"-wide cabinet that provides a
+bypass function for Vertiv 250A RPPs. The Retrofit Bypass Cabinet
+has mechanically interlocking switches to transfer power between main
+RPP power and reserve power. The Retrofit Bypass Cabinet can be manufactured
+for left-hand (LH) or right-hand (RH) orientation for installation
+on the left or right side of an RPP.</p>
+<p>Customer’s installers must prepare the Retrofit Bypass Cabinet
+and RPP for installation on-site, wire the power cabling between the
+Bypass Cabinet and RPP, and connect external reserve power and load
+(busway) cables. </p>
+<p>Customer is also responsible for setting up monitoring in the Retrofit
+Bypass Cabinet.<fig>
+<title>Retrofit Bypass Cabinet (250A) - Vertiv Reactor Power Panels</title>
+<image href="..\Graphics\1.pdf" placement="break" scale="95"></image><?Pub
+Caret 0?>
+</fig></p>
+</body>
+</topic>

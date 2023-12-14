@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="DrawingsRetrofitBypassCabinets1119-C315D3F5" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Drawings, Retrofit Bypass Cabinets</title><?Pub Caret -1?>
+<topic
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Left-Hand Bypass Configuration Drawings for Eaton PDI Reactor
+Power Panel</title>
+<body>
+<p><image height="550" href="..\Graphics\31.pdf"
+placement="-dita-use-conref-target" scalefit="yes"></image></p>
+<p><image href="..\Graphics\32.pdf" placement="-dita-use-conref-target"
+scalefit="yes"></image></p>
+<p><image href="..\Graphics\33.pdf" placement="-dita-use-conref-target"
+scalefit="yes"></image></p>
+</body>
+</topic>
+<topic
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Right-Hand Bypass Configuration Drawings for Eaton PDI Reactor
+Power Panel</title>
+<body>
+<p><image height="600" href="..\Graphics\34.pdf"
+placement="-dita-use-conref-target" scalefit="yes"></image></p>
+<p><image href="..\Graphics\35.pdf" placement="-dita-use-conref-target"
+scalefit="yes"></image></p>
+<p><image href="..\Graphics\36.pdf" placement="-dita-use-conref-target"
+scalefit="yes"></image></p>
+</body>
+</topic>
+</topic>

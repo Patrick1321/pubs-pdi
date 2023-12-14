@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Remove Eye-Bolts</title>
+<body>
+<p>Now that the unit is secured to the floor, unscrew and remove (4)
+corner eye-bolts from the Retrofit Bypass Cabinet.</p>
+<p><image href="..\Graphics\21.pdf"
+placement="-dita-use-conref-target"></image></p>
+</body>
+</topic>

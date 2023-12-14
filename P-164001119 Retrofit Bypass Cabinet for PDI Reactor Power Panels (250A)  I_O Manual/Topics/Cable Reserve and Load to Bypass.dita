@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CableReserveAndLoadToBypass-C6B6FA96"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Reserve and Load to Bypass</title>
+<body>
+<p>Reserve power cables and Load power cables are run from overhead
+to Retrofit Bypass Cabinet bus bars.</p>
+<p>To make overhead cable entry easier, Reserve and Load bus bars
+are staggered in the Retrofit Bypass Cabinet.<fig>
+<title>Reserve and Load Power Cables</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\21.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\22.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\23.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><ol>
+<li><p>Run Load power cables ( disconnected in <xref format="dita"
+href="#CableBypassCabinetToRPP-C6B42CB3" scope="local" type="topic"
+><?Pub _previewtext text="Cable Bypass Cabinet to RPP"?></xref>, step
+1) through overhead cable entry to <b>Bypass Output Bus Bars</b> (to
+busway). <ul>
+<li><p>Connect ABCNG cables to Bus Bars Torque ½”-13 bolts to 57 ft-lbs. </p
+></li>
+<li><p>Torque M12 bolts to 77 Nm.</p></li>
+</ul><fig>
+<title>Retrofit Bypass Cabinet - Left Hand Panels Removed</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\24.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p></li><?Pub Caret 44?>
+<li><p>Run Reserve power cables through overhead cable entry to Bypass
+Reserve Bus Bars.<ul>
+<li><p>Connect ABCNG cables to Bus Bars. Torque ½”-13 bolts to 57
+ft-lbs. </p></li>
+<li><p>Torque M12 bolts to 77 Nm.</p><fig>
+<title>Retrofit Bypass Cabinet - Right Hand Panels Removed</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\25.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></li>
+</ul> </p></li>
+</ol><note>Phase connections on LH and RH units are mirror images
+of each other.</note></p>
+</body>
+</topic>

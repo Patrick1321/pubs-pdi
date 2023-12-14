@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Remove Vertiv RPP Side Panels</title>
+<body>
+<ol>
+<li><p>Determine the side of the Vertiv RPP that will face the Retrofit
+Bypass Cabinet.</p><p>On that side, remove the exterior panel. There
+are (4) bolts to remove.</p><p><image href="..\Graphics\6x.pdf"
+placement="-dita-use-conref-target"></image></p></li>
+<li><p>Remove the inside metal panel on the Bypass Cabinet side. Unbolt
+the panel from the inside.</p><p><image
+href="..\Graphics\7.pdf" placement="-dita-use-conref-target">
+</image></p></li>
+</ol>
+</body>
+</topic>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Disconnect and Disable RPP Cam-Lok Cables</title>
+<body>
+<p>Vertiv RPPs have cables from input power Cam-Loks to bus bars.
+Some of these cables must be disabled and stored in the RPP.<ol>
+<li><p>Inside the RPP, disconnect wires 4A, 47, 20, 21, 22, and 5
+at both ends:<ul>
+<li><p>At the RPP load bus bars (shown at right) </p></li>
+<li><p>At the RPP cam-loks</p><p><image
+href="..\Graphics\14.pdf" placement="-dita-use-conref-target"
+scale="80"></image></p><p><image href="..\Graphics\15.pdf"
+placement="-dita-use-conref-target" scale="80"></image><?Pub Caret 0?></p
+></li>
+</ul></p></li>
+<li><p>Remove the cables.</p></li>
+</ol></p>
+</body>
+</topic>
