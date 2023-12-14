@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="Glossary1123-C737F516" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Glossary</title><?Pub Caret -2?>
+<body>
+<p><simpletable relcolwidth="0.64* 1.36*">
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none" border-top-style="none"?>ANSI </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"
+border-top-style="none"?>American National Standards Institute </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>BCMS </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Branch
+Circuit Monitoring System </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>BIM </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Building
+Information Management System</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>DCIM </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Data
+Center Infrastructure Management </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>EPO </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Emergency
+Power Off</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>FIPS </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Federal
+Information Processing Standards</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>Icy </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Interrupting
+capacity ultimate</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>Lcs </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Interrupting
+capacity service</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>kAIC </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Kilo
+amps interrupting capacity </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>KWH </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Kilowatt
+hour </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>M4G </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>PDU
+acquisition board, interfacing to WaveStar Color Monitor (graphical
+interface)</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>NEC </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>National
+Electrical Code </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>NEMA </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>National
+Electrical Manufacturer’s Association </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>NC </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Normally
+closed (dry contact) </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>NO </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Normally
+open (dry contact) </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>Permissive signal </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Signal
+sent to a Solenoid Key Release Unit (SKRU) to release the key</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>PDU </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Power
+Distribution Unit </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>REPO </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Remote
+Emergency Power Off </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>TSN </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Transient
+Suppression Network </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>TVSS </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Transient
+Voltage Surge Suppressor</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>SKRU </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Solenoid
+Key Release Unit</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>SPD </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Surge
+Protective Device </stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>UBC </stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Uniform
+Building Code</stentry>
+</strow>
+</simpletable></p>
+</body>
+</topic>

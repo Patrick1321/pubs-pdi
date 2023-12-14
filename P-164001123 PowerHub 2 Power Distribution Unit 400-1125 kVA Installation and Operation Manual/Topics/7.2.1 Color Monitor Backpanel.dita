@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ColorMonitorBackpanel-C7C4FAB7"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Color Monitor Backpanel</title>
+<body>
+<fig id="Figure24WaveStarColorMonitorBackpan-C7C95B9A">
+<title>WaveStar Color Monitor Backpanel Connections</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\24.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The Color Monitor backpanel (<xref format="dita"
+href="#./Figure24WaveStarColorMonitorBackpan-C7C95B9A" scope="local"
+type="fig"><?Pub _previewtext
+text="WaveStar Color Monitor Backpanel Connections"?></xref>) has
+these connections:<ul>
+<li><p>Power connections: 120VAC, 230VAC, and 24VDC (230VAC is optional
+and requires a different transformer.) </p></li>
+<li><p>Modbus connections: <ul>
+<li><p>Downstream (to Monitor device chain) is always 4-wire Modbus. </p
+></li>
+<li><p>Upstream is 4-wire or 2-wire, jumper selected. </p></li>
+<li><p>Modbus RTU interface is isolated. </p></li>
+</ul></p></li>
+<li><p>Summary Alarm: Dry contact (NO) signals when any device in
+the Monitor’s device chain has an alarm condition.</p></li>
+</ul>The backpanel also has a <b>RESET</b> button: If the Monitor
+hangs, you can reset it by pressing this button.</p>
+</body>
+</topic>

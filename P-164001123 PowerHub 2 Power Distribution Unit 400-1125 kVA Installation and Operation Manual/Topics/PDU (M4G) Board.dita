@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUM4GBoard-C32D55F5"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus Communication with the PDU Network</title>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Command Packets.dita"><xi:fallback><!--Fallback markup for "Command Packets.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Supported Commands and Replies.dita"><xi:fallback><!--Fallback markup for "Supported Commands and Replies.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus Registers Data and Parameters.dita"><xi:fallback><!--Fallback markup for "Modbus Registers Data and Parameters.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Reading and Writing Modbus Registers.dita"><xi:fallback><!--Fallback markup for "Reading and Writing Modbus Registers.dita"--></xi:fallback
+></xi:include>
+</topic>

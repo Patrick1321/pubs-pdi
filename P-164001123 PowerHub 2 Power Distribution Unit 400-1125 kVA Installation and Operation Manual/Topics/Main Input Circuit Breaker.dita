@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="MainInputCircuitBreaker-C7A82A3F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Main Input Circuit Breaker</title>
+<body>
+<p>Each PDU has a 600V, 480V, or 400V main input circuit breaker sized
+in compliance with the NEC. </p>
+<p>The Main Input Circuit breaker amperages shown below in <xref
+format="dita" href="#./Table5MainInputCircuitBreakerSizing-C8C71D20"
+scope="local" type="table"><?Pub _previewtext
+text="Table 5 Main Input Circuit Breaker Sizing by kVA and VAC"?></xref
+> are sized in compliance with the NEC. The examples in Table 5 are
+for 80% rated breakers calculated for the kVA-Voltage combination
+shown in the table. Consult factory if necessary for other kVA-Voltage
+combinations. </p>
+<p>The input circuit breaker for a PDU above 750 kVA must be placed
+in the optional Side Car. </p>
+<p>Circuit breaker amperage ratings shown in the table below are usually
+available in breaker frame sizes normally fitted with electronic trip
+modules. Breakers are available from various manufacturers. </p>
+<p>The Main Input Circuit Breaker amperage and kAIC ratings vary by
+transformer size and input voltage and are given in the following
+table:<table id="Table5MainInputCircuitBreakerSizing-C8C71D20">
+<title>Main Input Circuit Breaker Sizing by kVA and VAC</title>
+<tgroup cols="4"><colspec colname="COLSPEC0" colwidth="98.50pt"/>
+<colspec colname="COLSPEC1" colwidth="98.50pt"/><colspec
+colname="COLSPEC2" colwidth="98.50pt"/><colspec colname="COLSPEC3"
+colwidth="98.50pt"/>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>kVA </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>CB Amps @ 400VAC1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>CB Amps @ 480VAC2 </b></p></entry>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><p><b>CB Amps
+@ 600VAC3 </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>400 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>800A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>700A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>500A </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>500 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1000A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>800A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>700A </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>625 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1200A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1000A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>800A </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>750 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1600A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1200A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1000A </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1000 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2000A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1600A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1600A </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1125 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2500A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2000A </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1600A </p></entry>
+</row>
+<row>
+<entry nameend="COLSPEC3" namest="COLSPEC0"><?PubTbl cell
+border-bottom-width="0.25pt" border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_font TypeSize=".69em" Offset=".33em"?>1<?Pub /_font?> Standard Input
+Breaker at 400VAC is rated 35 kAIC. Other kAICs are available as options. </entry>
+</row>
+<row>
+<entry nameend="COLSPEC3" namest="COLSPEC0"><?PubTbl cell
+border-bottom-width="0.25pt" border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_font TypeSize=".69em" Offset=".33em"?>2<?Pub /_font?> Standard Input
+Breaker at 480VAC is rated 35 kAIC. Other kAICs are available as options. </entry>
+</row>
+<row>
+<entry nameend="COLSPEC3" namest="COLSPEC0"><?PubTbl cell
+border-bottom-width="0.25pt" border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_font TypeSize=".69em" Offset=".33em"?>3<?Pub /_font?> Standard Input
+Breaker at 600VAC is rated 18 kAIC. Other kAICs are available as options.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p>The main input bus is also compatible with a main lug only (MLO)
+power feed—that is, without a main breaker.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Automatic Shutdown Options.dita"><xi:fallback><!--Fallback markup for "Automatic Shutdown Options.dita"--></xi:fallback
+></xi:include>
+</topic>

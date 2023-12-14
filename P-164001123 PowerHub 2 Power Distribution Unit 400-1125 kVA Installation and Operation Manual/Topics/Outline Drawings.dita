@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="OutlineDrawings-C7A943AE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Outline Drawings</title>
+<body>
+<fig id="Figure2PowerHub2PDU500KVAOutlineDra-C8CBDCB5">
+<title>PowerHub 2 PDU 500 kVA, Outline Drawing</title>
+<p><image href="..\Graphics\2.pdf" scope="local"></image></p>
+</fig>
+<fig id="Figure3PowerHub2PDU750KVAWithMulti--C8CBD9CF">
+<title>PowerHub 2 PDU 750 kVA with Multi-Output PDU Option, Outline
+Drawing, Part 1</title>
+<p><image href="..\Graphics\3.pdf" scope="local"></image></p>
+</fig>
+<p><fig id="Figure4PowerHub2PDU750KVAWithMulti--C8CBE108">
+<title>PowerHub 2 PDU 750 kVA with Multi-Output PDU Option, Outline
+Drawing, Part 2</title>
+<image href="..\Graphics\4.pdf" scope="local"></image></fig><?Pub Caret -1?><fig
+id="Figure5PowerHub2PDU1000KVAWithSideC-C8CBE3B1">
+<title>PowerHub 2 PDU 1000 kVA with Side Car, Outline Drawing</title>
+<image href="..\Graphics\5.pdf" scope="local"></image></fig></p>
+</body>
+</topic>

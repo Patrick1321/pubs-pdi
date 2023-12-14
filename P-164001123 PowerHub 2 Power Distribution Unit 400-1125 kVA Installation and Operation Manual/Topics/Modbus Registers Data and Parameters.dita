@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ModbusRegistersDataAndParameters-C73697C1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus Registers: Data and Parameters</title>
+<body>
+<p>A Modbus points list or Modbus register map is a list of sequentially
+numbered 2-byte Modbus registers. Most analog channel values are single
+2-byte registers representing a parameter such as input voltage, current,
+etc. KWH measurements use (2) contiguous 2-byte Modbus registers.
+Some parameters require scaling and are so noted in the points list.</p>
+<p>The first analog channel or Modbus register in a points list is
+numbered 1 but, in software, it is accessed by an index value of 0.
+Because adjacent registers have similar readings, being one register
+off is not necessarily apparent. Consequently, it is common for a
+Modbus system to be off one register, and it is important to verify
+that the registers are correct early in the configuration procedure.</p>
+</body>
+</topic>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ModbusRTUWiring-C73697C1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus RTU Wiring</title>
+<body>
+<p>The standard WaveStar Color Monitor has a 4-wire or 2-wire plus
+ground, RS-422/RS-485 compatible interface. The communications parameters
+for the upstream interface are the following: <ul>
+<li><p>9600 baud (default) with options for 19200 and 38400 baud. </p
+></li>
+<li><p>8-bit, even parity, and 1 stop bit are standard with options
+for odd parity and no parity.</p></li>
+</ul> RS485/RS422 cable length can be up to 4000 ft. if the cable
+conforms to these specifications: <ul>
+<li><p>The cable must be shielded with two (2) twisted pairs and shield/ground. </p
+></li>
+<li><p>The two transmit lines must be in one (1) twisted pair and
+the two (2) receive lines must be in the other twisted pair. </p></li>
+<li><p>The cable resistance should be 27 ohms/1000ft @ 1 kHz or less. </p
+></li>
+<li><p>The mutual capacitance should be 14pf/ft. @ 1 kHz or less. </p
+></li>
+</ul>RS422 is typically 4-wire. RS485 is typically 2-wire and is slower
+than RS422.</p>
+</body>
+</topic>

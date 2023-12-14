@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ComponentsLayout-C7C4FAB3"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Components Layout</title>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.1.1 PowerHub 2 Monitoring Compartment.dita"><xi:fallback><!--Fallback markup for "7.1.1 PowerHub 2 Monitoring Compartment.dita"--></xi:fallback
+></xi:include>
+<topic id="PowerHub2OtherMonitoringComponents-C7C4FAB4"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PowerHub 2 Other Monitoring Components</title>
+<body>
+<p>Other higher-power monitoring components are accessible by opening
+the front PDU doors (<xref format="dita"
+href="#./Figure22PDUMonitoringComponentsPart-C7C981B7" scope="local"
+type="fig"><?Pub _previewtext
+text="PDU Monitoring Components Part 2: Outside the Monitoring Compartment"
+?></xref>).</p>
+<fig id="Figure22PDUMonitoringComponentsPart-C7C981B7">
+<title>PDU Monitoring Components Part 2: Outside the Monitoring Compartment</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\22.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic><?Pub Caret -3?>
+</topic>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="FrontAccessPDU-C735A1C8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Front Access PDU</title>
+<body>
+<p>The cabinet enclosure(s) are front access only, including the following: <ul>
+<li><p>All operator controls and EPO button </p></li>
+<li><p>Power, network, and dry contact connections </p></li>
+<li><p>Circuit breakers and PCBs </p></li>
+<li><p>All routine maintenance </p><p>However, reconfiguring the transformer
+output in the Multi-Output PDU Option requires rear access.</p></li>
+</ul></p>
+</body>
+</topic>

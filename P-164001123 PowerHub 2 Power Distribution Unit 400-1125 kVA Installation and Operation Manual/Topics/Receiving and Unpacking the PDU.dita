@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ReceivingAndUnpackingThePDU-C7ABA358"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Receiving and Unpacking the PDU</title>
+<body>
+<p>The PowerHub 2 PDU Main Cabinet is shipped as a fully assembled
+unit. Optional side cars are shipped separately and attached onsite.
+Units are strapped to shipping pallets, but not bolted to pallets,
+and are protected by external covering.<ol>
+<li><p>Upon receiving a PowerHub 2 PDU pallet and before removing
+packaging, inspect packaging for visible damage that could affect
+the PDU. If damage is evident notify Eaton and the shipping company
+(see below). </p></li>
+<li><p>Carefully remove the outer layer of protective shrink wrap
+from the unit. Use care to not puncture or scratch the cabinets with
+cutting tools.<note type="caution">Do not remove the retaining bands
+securing the PDU to its pallet until the PDU is near its final position
+and you are ready to remove the PDU from its pallet.</note></p></li>
+<li><p>After removing external packing, check the unit’s exterior
+panels and doors for any visible damage such as scratches dents, cracks. </p
+></li>
+<li><p>If any damage is evident during unpacking, notify the <u>shipping
+company</u> and Eaton:</p><ul>
+<li><p>File a claim with the shipping company at the time of delivery.
+Damage must be noted on the bill of lading. Failure to properly document
+all damage may result in the unit’s warranty being voided. </p></li>
+<li><p>Notify the Eaton Service Department <xref format="dita"
+href="Getting Help.dita" scope="local" type="topic"><?Pub _previewtext
+text="Getting Help"?></xref>.</p></li>
+</ul></li>
+</ol></p>
+</body>
+</topic>

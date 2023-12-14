@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PowerSourceTransferOptions-C84522B2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Power Source Transfer Options</title>
+<body>
+<p>The output load can be manually transferred from one source to
+the other in the following transfer types, if the PDU is appropriately
+configured:</p>
+<p> <ul>
+<li><p>Closed transition (make-before-break) transfer; both power
+sources must be synchronized to perform the transfer, and the load
+is not dropped. <ul>
+<li><p>One-stage, internal permissive signal only: operator uses the
+Color Monitor to verify that input sources are synchronized and send
+key release signal to the SKRU. </p></li>
+<li><p>Two-stage, external plus internal permissive signals: <ul>
+<li><p>External signal: a normally open (NO) dry contact signal (usually
+sent by an Uninterruptible Power Supply (UPS)) enables the Color Monitor
+process </p></li>
+<li><p>Internal signal: an operator uses the Color Monitor to verify
+that input sources are synchronized and to send a key release signal
+to the SKRU </p></li>
+</ul></p></li>
+<li><p>External signal only: the SKRU key is unlocked by an external
+dry contact permissive signal; the Color Monitor does not verify source
+synchronization and does not send a permissive signal. </p></li>
+</ul></p></li>
+<li><p>Open transition (break-before-make) transfer, load is dropped,
+typically used in offline maintenance.</p></li>
+</ul></p>
+</body>
+</topic>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="WaveStarColorMonitor-C32D55F4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus Addresses</title>
+<body></body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Color Monitor Backpanel.dita"><xi:fallback><!--Fallback markup for "Color Monitor Backpanel.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus Network Segments.dita"><xi:fallback><!--Fallback markup for "Modbus Network Segments.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus Device Addresses.dita"><xi:fallback><!--Fallback markup for "Modbus Device Addresses.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus RTU Wiring.dita"><xi:fallback><!--Fallback markup for "Modbus RTU Wiring.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Biasing and Termination.dita"><xi:fallback><!--Fallback markup for "Biasing and Termination.dita"--></xi:fallback
+></xi:include>
+<topic id="ModbusRTU2-WireVs.4-WireConfigurati-C73697C1"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus RTU 2-Wire vs. 4-Wire Configuration</title>
+<body>
+<p>Eaton PDI devices have two (2) jumpers near their Modbus ports
+for configuring 2-wire vs. 4-wire Modbus RTU (see <xref format="dita"
+href="#CustomerNetworkConnections-C32D55F2/Figure32ColorMonitorNetworkConnecti-C830B833"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 32 Color Monitor Network Connections"?></xref>). The
+Color Monitor’s 2-wire configuration jumpers are W1 and W2 (upstream)
+and W3 and W4 (downstream). Upstream and downstream device chains
+can be configured differently.</p>
+<p>For 2-wire configuration:<ul>
+<li><p>At least one device in a device chain must have both jumpers
+jumped on its Modbus connection. If any device in the chain has jumpers
+installed for 2-wire, all the device chain is 2-wire. To avoid confusion
+when troubleshooting, all the devices in the chain should be jumped
+in the same way. </p></li>
+<li><p>TX+ or RX+ on the Monitor (either one, because the on-board
+2-wire jumpers short them together) wires to TX+ or RX+ on downstream
+devices. </p></li>
+<li><p>TX- or RX- on the Monitor wires to TX- or RX- on downstream
+devices. </p></li>
+<li><p>The + and - signal wires should comprise of a (twisted) wire
+pair residing in the same shield. </p></li>
+<li><p>For 2-wire Modbus, all commands are sent to the Color Monitor
+and all replies from the Monitor are sent on the same pair. The pair
+will be in a high impedance state until the Monitor responds to a
+command. For 2-wire communications the transmit + and receive + must
+be jumpered together as well as the transmit - and receive -. You
+must also verify that the packet is complete before another transmit
+is initiated. The interface is isolated.</p></li>
+</ul></p>
+<p>For 4-wire configuration:<ul>
+<li><p>All 2-wire jumpers must be removed from every device (PCB)
+in the chain. </p></li>
+<li><p>• TX+ on the Monitor’s PCB or on the customer Building Management
+System (BMS) wires to RX+ on a device PCB. </p></li>
+<li><p>TX- from the Monitor or BMS wires to RX- on device PCB. </p
+></li>
+<li><p>A second pair of wires connects the other pair of TX+ / RX+
+&amp; TX- / RX-. </p></li>
+<li><p>The TX+ &amp; TX- going to the RX+ &amp; RX- should be in the
+same shield. Do not run the +'s in one shield and the -'s in another.
+Doing so may lead to sporadic communication. </p></li>
+<li><p>Run a dedicated ground wire with the signal wires and only
+ground the shield at one end. </p></li>
+<li><p>For 4-wire Modbus, all commands are sent to the Color Monitor
+on one pair and all replies from the Monitor are on the other pair.
+The pair on which the Monitor sends will be in a high impedance state
+until the Monitor responds to a command.</p></li>
+</ul></p>
+</body>
+</topic><?Pub Caret -3?>
+</topic>

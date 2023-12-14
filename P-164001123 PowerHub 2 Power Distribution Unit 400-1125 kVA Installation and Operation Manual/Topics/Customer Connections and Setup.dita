@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="CustomerConnectionsAndSetup-C8CEFD03"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Customer Connections and Setup</title>
+<body>
+<p>Most WaveStar Infinity connections are made in manufacturing, but
+some must be made at the customer site during installation. Customer
+connections and setup methodology are summarized in <xref format="dita"
+href="#./Table10WaveStarInfinityCustomerConn-C8CF00B6" scope="local"
+type="table"><?Pub _previewtext
+text="Table 10 WaveStar Infinity Customer Connections"?></xref>.</p>
+<p>Typical on-site WaveStar Infinity installation activities are listed
+below. Detailed information on making the following connections and
+performing setup are in <i>WaveStar Infinity Monitoring System, Setup
+and Operation P-164001106</i>.<ol>
+<li><p>Customer Ethernet and Modbus RTU connections are made directly
+to the WaveStar Infinity Monitor backpanel. </p></li>
+<li><p>Most sensor board connections are made at the factory, but
+some must be made when the PDU is installed. These connections are
+typically the following:</p><ol>
+<li><p>Remote EPO connection to the Sensor Base VVIT Board </p></li>
+<li><p>Digital inputs, such as building alarms, to a Digital Inputs
+Option Board </p></li>
+<li><p>Output relays, such as a summary alarm, to a Relay Option Board</p
+></li>
+</ol></li>
+<li><p>Subfeed CTs are wired to 8xI Sensor Board(s) in manufacturing,
+but they must be installed over load cables when the load cables are
+connected to subfeed circuit breakers. See section <xref format="dita"
+href="Installation Power Cabling 1123.dita#InstallingCurrentTransformersForSub-C7ADC73F"
+scope="local" type="topic"><?Pub _previewtext
+text="Installing Current Transformers for Subfeeds"?></xref>.</p></li>
+<li><p>After making local connections, an administrator must configure
+WaveStar Infinity for the local network, set up user administration,
+and specify alarm limits and other parameters. All setup can be performed
+at the local WaveStar Infinity Monitor or, once the network is configured,
+from a browser.</p><table
+id="Table10WaveStarInfinityCustomerConn-C8CF00B6">
+<title>WaveStar Infinity Customer Connections</title>
+<tgroup cols="4"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/><colspec colname="col4"/>
+<thead>
+<row>
+<entry nameend="col4" namest="col1" valign="top"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p>WaveStar Infinity Monitoring System</p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Network andOther User Connections</p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>PCB or Component</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Setup Method</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Modbus Points List or SNMP MIB</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Ethernet Modbus RTU</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>WaveStar Infinity 7" Color Touchscreen</p></entry>
+<entry morerows="5" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>Screen setup: local WaveStar Infinity
+Monitor or Browser</entry>
+<entry morerows="5" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p> Single consolidated Modbus Points
+List matching customer’s configuration/ </p><p>Single consolidated
+SNMP MIB matching configuration</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Remote EPO Digital Inputs Relay(s)</p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Sensor Base Board (usu. VVIT)</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Sensor
+Combo Board (up to (4) Option Boards)</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Digital Inputs (Includes Auxiliary
+Contacts and Bell Alarm Contacts)</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Digital Inputs Option Board</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Relays</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Relay Option Board</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Dry contact (can be set up as Digital
+Input)</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Surge Protective Device (SPD)</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table></li>
+</ol></p>
+</body>
+</topic>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="VoltageConfigurationLabel-C832C6BE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Voltage Configuration Label</title>
+<body>
+<p>By default, the Eaton manufacturing facility always configures
+the transformer secondary voltage to 208VAC unless otherwise specified
+by the customer. The voltage configuration, as manufactured, is shown
+by a check mark on a label located at the front of the PDU (<xref
+format="dita" href="#./Figure34TransformerSecondaryVoltage-C832CC41"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 34 Transformer Secondary Voltage Configuration Label"
+?></xref>).<fig id="Figure34TransformerSecondaryVoltage-C832CC41">
+<title>Transformer Secondary Voltage Configuration Label</title>
+<image href="..\Graphics\34.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p>
+</body>
+</topic>

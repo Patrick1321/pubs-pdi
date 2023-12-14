@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="BCMSDataAcquisitionBoard-C7C4FAC4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>BCMS Data Acquisition Board</title>
+<body>
+<p>The PDU typically has one (1) BCMS Data Acquisition Board (<xref
+format="dita" href="#./Figure28BCMSDataAcquisitionBoard-C8C8EC30"
+scope="local" type="fig"><?Pub _previewtext
+text="BCMS Data Acquisition Board"?></xref>). </p>
+<p><b>BCMS Data Acquisition Board</b> Each Branch Circuit Monitoring
+System (BCMS) is self-contained on a single PCB. The PCB has one main
+processor and six current processors. Current processors process CT
+readings. Both main and current processors have software specific
+to the board type and Modbus points lists (or SNMP MIB) used on the
+board. BCMS software is loaded in manufacturing. </p>
+<p>The BCMS PCB has connectors for the following:<ul>
+<li><p>Two voltage sources </p></li>
+<li><p>Cable harnesses to CTs on two panelboards (odd/even side connections) </p
+></li>
+<li><p>Cable harnesses to two main or subdistribution feeds </p></li>
+<li><p>A Modbus network connection </p></li>
+<li><p>A USB connection for setup </p></li>
+<li><p>A power connection</p></li>
+</ul><fig id="Figure28BCMSDataAcquisitionBoard-C8C8EC30">
+<title>BCMS Data Acquisition Board</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\28.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

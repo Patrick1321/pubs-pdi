@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SubfeedOutputCircuitMonitoring-C7C4FAC4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Subfeed Output Circuit Monitoring</title>
+<body>
+<p>PDU subfeeds are monitored with Eaton PDI’s Branch Circuit Monitoring
+System (BCMS):<ul>
+<li><p>Each subfeed can have CTs for monitoring ABC phases and NG. </p
+></li>
+<li><p>Resistor Boards: Subfeed CTs are terminated onto a Resistor
+Board. One Resistor Board can connect CTs for up to (14) subfeeds
+with 3-phase (ABC) monitoring or (10) subfeeds if neutrals are also
+monitored (ABCN). The standard PDU configuration has one Resistor
+Board. (See <xref format="dita"
+href="#PowerHub2OtherMonitoringComponents-C7C4FAB4/Figure22PDUMonitoringComponentsPart-C7C981B7"
+scope="local" type="fig"><?Pub _previewtext
+text="PDU Monitoring Components Part 2: Outside the Monitoring Compartment"
+?></xref> for position in PDU.) </p></li>
+<li><p>Resistor Board(s) are connected to a BCMS Data Acquisition
+Board, which is loaded with the Enhanced Subfeeds (ESF) Points List.
+(See <xref format="dita"
+href="#PowerHub2MonitoringCompartment-C7C4FAB4/Figure21PDUMonitoringComponentsPart-C7C990AE"
+scope="local" type="fig"><?Pub _previewtext
+text="PDU Monitoring Components Part 1: Monitoring Compartment"?></xref
+> for location in PDU and Monitoring Compartment.)</p></li>
+</ul></p>
+</body>
+</topic>

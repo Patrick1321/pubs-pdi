@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PDUM4GBoard-C7C4FAB9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU (M4G) Board</title>
+<body>
+<p>All PowerHub 2 PDUs have a PDU Board, or M4G Board, which monitors
+the transformer, input power to and output power from the transformer,
+EPO and shunt trip of the main breaker, and PDU restart. The PDU Board
+is connected to a Contractor Board, which acts as an extension of
+the PDU Board.<fig id="Figure25PDUM4GBoardConnections-C7C8E347">
+<title>PDU (M4G) Board Connections</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\25.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>For the following connections, reference <xref format="dita"
+href="#./Figure25PDUM4GBoardConnections-C7C8E347" scope="local"
+type="fig"><?Pub _previewtext text="PDU (M4G) Board Connections"?></xref
+>.</p>
+<p>Transformer CT (current) and voltage connections (top edge of <xref
+format="dita" href="#./Figure25PDUM4GBoardConnections-C7C8E347"
+scope="local" type="fig"><?Pub _previewtext
+text="PDU (M4G) Board Connections"?></xref>):<ul>
+<li><p>CT connections, output current (ABC), Output 1 and Output 2 </p
+></li>
+<li><p>CT Connection G-N:</p><ul>
+<li><p>Pins 1-2: Ground CT connection</p></li>
+<li><p>Pins 3-4: Neutral CT connection</p></li>
+</ul></li>
+<li><p>Input 1 Voltage-G connection: Input Delta connection is 3-wire
+plus ground (no neutral). </p></li>
+<li><p>Output 1 Voltage-N connection: Output Wye connection is 4-wire
+plus ground. </p></li>
+<li><p>Input 2 or Output 2 Voltage provides a configurable second
+input or output voltage, used with dual input or output PDUs.</p></li>
+</ul></p>
+<p><b>Power and Power Signals:</b><ul>
+<li><p>120VAC Input Power connection provides power to the PDU M4G
+Board. </p></li>
+<li><p>24VDC Output Power connection provides power to WaveStar Color
+Monitor </p></li>
+<li><p>Power Off Controls:</p><ul>
+<li><p>Remote EPO connection <i><b>from</b></i> the Contractor Board
+REPO Connection (J6 on Basic Contractor Board, see <xref format="dita"
+href="#BasicContractorBoard-C7C4FABE/Figure26BasicContractorBoard-C7C8FD8F"
+scope="local" type="fig"><?Pub _previewtext
+text="Basic Contractor Board"?></xref>. Customer REPO dry contact
+connection is <i><b>to</b></i> the Contractor Board. </p></li>
+<li><p>Local EPO connection </p></li>
+<li><p>Thermal wires for transformer temperature measurements, which
+can cause PDU shutdown.</p></li>
+</ul></li>
+<li><p><b>Shunt Trip:</b> The board outputs two voltages for tripping
+the Main Breaker Shunt Trip:</p><ul>
+<li><p>170VDC: 170 VDC is rectified from 120VAC input power </p></li>
+<li><p>24VDC</p></li>
+</ul></li>
+<li><p>The <b>Restart Switch</b> determines whether restart is automatic
+or manual after a voltage loss.</p><ul>
+<li><p>Switch down (<b>Manual</b>): PDU restart must be done manually
+after voltage is restored. </p></li>
+<li><p>Switch up (<b>Automatic</b>): PDU restart is automatic after
+power is restored. Automatic restart is the default position. </p
+></li>
+<li><p>See section <xref format="dita"
+href="PDU Procedures 1123.dita#ManualOrAutomaticRestart-C8D1E9CD"
+scope="local" type="topic"><?Pub _previewtext
+text="Manual or Automatic Restart"?></xref> for additional information.</p
+><note>The Restart Switch requires 170VDC input to the main breaker
+shunt trip to function. It is not operable with the 24VDC input to
+the main breaker shunt trip.</note></li>
+</ul></li>
+<li><p><b>Digital Inputs</b> (4): internal PDU signals, such as “Door
+Open” </p></li>
+<li><p><b>USB port</b> is used in manufacturing for PDU Board setup
+or for updating by Eaton Service.</p></li>
+</ul></p>
+<p><b>Replaceable Parts</b></p>
+<p><b>Battery:</b><note type="warning">The battery used in this device
+may present a risk of fire or a chemical burn hazard if mistreated.
+Do not recharge, disassemble, heat above 100°C (212°F) or incinerate.
+To be carried out by authorized trained personnel only. <p>Use of
+another battery may present a risk of fire or explosion. Dispose of
+battery properly.</p></note></p>
+<p>There are two battery options on the board and only one will be
+present:<ul>
+<li><p>Designator U21: Yellow Tophat</p><ul>
+<li><p>Replace with STMicroelectronics M4T32-BR12SH1 only.</p></li>
+</ul></li>
+<li><p>Alternate Designator BH1: Coin Cell</p><ul>
+<li><p>Replace with Murata CR2032, 3V, 220mAh or any equivalent UL1642
+BBCV2 recognized/listed make with same voltage and current rating
+only.</p></li>
+</ul></li>
+</ul></p>
+<p><b>Fuses:</b></p>
+<p>To be carried out by authorized trained personnel only.<ul>
+<li><p>Designator F1:</p><ul>
+<li><p>Replace with 2A, 125V Littelfuse 39512000440 or UL recognized,
+IEC compliant fuse of the same type only.</p></li>
+</ul></li>
+<li><p>Designator F2:</p><ul>
+<li><p>Replace with 2A, 250V Bel Fuse 5TT 3-R or UL recognized, IEC
+compliant fuse of the same type only.</p></li>
+</ul></li>
+</ul></p>
+</body>
+</topic>

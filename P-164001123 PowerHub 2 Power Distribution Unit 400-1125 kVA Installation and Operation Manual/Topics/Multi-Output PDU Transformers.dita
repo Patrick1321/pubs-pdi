@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Multi-OutputPDUTransformers-C7A82A3A"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Multi-Output PDU Transformers</title>
+<body>
+<p>The <b>Multi-Output PDU Option</b> allows the single output voltage
+of the PDU to be reconfigured in the field for alternate voltages.
+Transformers for this option are available at various kVA values from
+400 kVA to 1125 kVA at 60 Hz only (not available for 50 Hz PDUs). </p>
+<p>This option requires transformers that are designed to be reconfigured
+for specific alternate voltages. 2-Output Options or a 3-Output Options
+are available with output voltages as shown in Table 4.</p>
+<p>Other transformer parameters and options are the same as given
+in Table 3, “Transformer Standard and Optional Parameters.” However,
+front-accessible voltage compensation taps are not available with
+this option. </p>
+<p>The transformer can be set to only one output voltage at a time.
+Each voltage is rated for 100% load.</p>
+<p>Reconfiguring the output voltage must be done from the rear of
+the PDU while the PDU is offline and powered down. </p>
+<p><xref format="dita"
+href="Multi-Output PDU Option 1123.dita#RepositioningTheNeutralJumperBusBar-C832C6C0"
+scope="local" type="topic"><?Pub _previewtext
+text="Repositioning the Neutral Jumper Bus Bar"?></xref> outlines
+the procedure for changing the transformer output voltage.</p>
+<table>
+<title>Multi-Output PDU Transformer Options</title>
+<tgroup cols="2"><colspec colname="col1"/><colspec colname="col2"/>
+<thead>
+<row>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>2-Output Voltage Options </b></p
+></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>3-Output Voltage Options </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>208/120VAC + 415/240VAC </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>208/120VAC + 415/240VAC + 480/277VAC </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>208/120VAC + 400/230VAC </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>208/120VAC + 400/230VAC + 480/277VAC </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>400/230VAC + 480/277VAC </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>415/240VAC + 480/277VAC </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

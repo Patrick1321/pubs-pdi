@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PowerHub2MonitoringCompartment-C7C4FAB4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PowerHub 2 Monitoring Compartment</title>
+<body>
+<p>The PDU has a front-accessible Monitoring Compartment (<xref
+format="dita" href="#./Figure21PDUMonitoringComponentsPart-C7C990AE"
+scope="local" type="fig"><?Pub _previewtext
+text="PDU Monitoring Components Part 1: Monitoring Compartment"?></xref
+>) with low-power monitoring components, including PCBs with customer
+network connections. The compartment is part of the left front PDU
+door. The compartment’s panel door allows access to PCBs without opening
+the PDU doors, so that PCBs and connections can be accessed without
+exposure to high-power bus bars.<fig
+id="Figure21PDUMonitoringComponentsPart-C7C990AE">
+<title>PDU Monitoring Components Part 1: Monitoring Compartment</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\21.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

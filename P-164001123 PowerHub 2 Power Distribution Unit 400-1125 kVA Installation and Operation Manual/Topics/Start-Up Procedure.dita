@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Start-Up Procedure</title>
+<body>
+<ol>
+<li><p>Confirm that the PDU’s main input circuit breaker is in the
+“off” position. </p></li>
+<li><p>Ensure that all of the PDU’s output circuit breakers are in
+the “off” position. </p></li>
+<li><p>The installing contractor or electrician should now verify
+that the input voltage to the unit matches the input voltage rating
+of the unit as identified on the PDU nameplate found on the outside
+of the front door. </p></li>
+<li><p>Ensure that the input voltage has proper phase rotation and
+safe grounding practices as indicated above.<note type="warning">Steps
+1-4 must be executed before applying incoming power to the PDU.</note
+></p></li>
+<li><p>Apply power to the unit. </p></li>
+<li><p>Measure for the proper PDU input voltage. This should match
+the units rating (+ 5% to -10% from nominal rating). </p></li>
+<li><p>Check the phase rotation (clockwise) and voltage. </p></li>
+<li><p>Energize the PDU main breaker by setting the toggle to the
+“on” position.</p><note>If the main breaker trips when energized,
+contact Eaton Service (<xref format="dita" href="Getting Help.dita"
+scope="local" type="topic"><?Pub _previewtext text="Getting Help"
+?></xref>).</note><?Pub Caret 69?></li>
+<li><p>Perform an EPO check: Depress the external EPO button and verify
+that the main breaker shunt trips. </p></li>
+<li><p>Manually reset the main breaker to the “on” position. This
+may require that you first manually trip the lever all the way to
+the “off” position. </p></li>
+<li><p>Check the output voltages. </p></li>
+<li><p>The PDU is now ready to sequentially energize the subfeed breakers.<note
+>Equipment attached to the PDU may require special start up procedures.
+Please consult the individual manufacturers for these requirements.</note
+></p></li>
+</ol>
+</body>
+</topic>

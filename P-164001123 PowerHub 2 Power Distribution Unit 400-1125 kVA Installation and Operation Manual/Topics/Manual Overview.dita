@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ManualOverview-C73CBEDE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Manual Overview</title>
+<body>
+<p>This manual is structured as follows<ul>
+<li><p>Installation Planning, <xref format="dita"
+href="Installation Planning PDU Location 1123.dita" scope="local"
+type="topic"><?Pub _previewtext
+text="Installation Planning: PDU Location"?></xref> -<xref format="dita"
+href="Installation Planning Electrical 1123.dita" scope="local"
+type="topic"><?Pub _previewtext text="Installation Planning: Electrical"
+?></xref></p></li>
+<li><p>Installation, <xref format="dita"
+href="Installation Planning Electrical 1123.dita" scope="local"
+type="topic"><?Pub _previewtext text="Installation Planning: Electrical"
+?></xref> - <xref format="dita"
+href="Installation PDU Placement 1123.dita" scope="local" type="topic"
+><?Pub _previewtext text="Installation: PDU Placement "?></xref>- </p
+></li>
+<li><p>Monitoring, two mutually exclusive options:</p><ul>
+<li><p>WaveStar Infinity Monitoring, <xref format="dita"
+href="WaveStar Infinity Monitoring 1123.dita" scope="local" type="topic"
+><?Pub _previewtext text="WaveStar Infinity Monitoring"?></xref></p
+></li>
+<li><p>WaveStar Monitoring, <xref format="dita"
+href="WaveStar Monitoring Component Reference 1123.dita" scope="local"
+type="topic"><?Pub _previewtext
+text="WaveStar Monitoring: Component Reference"?></xref> -  <xref
+format="dita" href="WaveStar Monitoring PDU Network 1123.dita"
+scope="local" type="topic"><?Pub _previewtext
+text="WaveStar Monitoring: PDU Network"?></xref></p></li>
+</ul></li>
+</ul><ul>
+<li>PDU Initial Start-Up, <xref format="dita"
+href="PDU Initial Start-Up 1123.dita" scope="local" type="topic"><?Pub
+_previewtext text="PDU Initial Start-Up"?></xref></li>
+<li><p>Multi-Output PDU Option, <xref format="dita"
+href="Multi-Output PDU Option 1123.dita" scope="local" type="topic"
+><?Pub _previewtext text="Multi-Output PDU Option"?></xref></p></li>
+<li><p> Manual Dual PDU Option, <xref format="dita"
+href="Manual Dual PDU Option 1123.dita" scope="local" type="topic"
+><?Pub _previewtext text="Manual Dual PDU Option"?></xref></p></li>
+<li><p>PDU Procedures, <xref format="dita"
+href="PDU Procedures 1123.dita" scope="local" type="topic"><?Pub _previewtext
+text="PDU Procedures"?></xref></p></li>
+<li><p>Alarms and Troubleshooting, <xref format="dita"
+href="Alarms and Troubleshooting 1123.dita" scope="local" type="topic"
+><?Pub _previewtext text="Alarms and Troubleshooting"?></xref></p
+></li>
+<li><p>Eaton Service Contracts, <xref format="dita"
+href="Service 1123.dita" scope="local" type="topic"><?Pub _previewtext
+text="Eaton Service Contracts"?></xref></p></li>
+<li><p>Appendix, <xref format="dita" href="Appendix 1123.dita"
+scope="local" type="topic"><?Pub _previewtext
+text="Appendix: Main Output Circuit Breaker Options"?></xref></p></li>
+</ul><fig>
+<title>Front Access to Operator Controls, Components, and Customer
+Connections</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\1.pdf"
+placement="-dita-use-conref-target" scale="90" scope="local"></image>
+</fig></p>
+</body>
+</topic>

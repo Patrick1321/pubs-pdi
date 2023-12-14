@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AlarmsWithWaveStarInfinityMonitorin-C7372A04"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Alarms with WaveStar Infinity Monitoring</title>
+<body>
+<p>Alarms are indicated on the local WaveStar Infinity Monitor or
+network-connected browser. The central header panel turns red if alarms
+are present or orange if only warnings are present. If there are no
+alarm or warning conditions the central header panel is green. </p>
+<p>Active alarms are listed on the <b>Active Alarms</b> screen and
+alarms are retained on the Latched Alarms screen until reset and on
+the <b>Log</b> screen until reset.</p>
+<fig>
+<title>WaveStar Infinity Monitoring: Alarm and Log Screens</title>
+<image href="..\Graphics\48.pdf"
+placement="-dita-use-conref-target"></image>
+</fig>
+<p>Alarms for each device can be read from WaveStar Infinity’s consolidated
+Modbus points list or consolidated SNMP MIB. </p>
+<p>A relay can also be setup to send a dry contact Summary Alarm. </p>
+<p>For detailed information, see <i>WaveStar Infinity Monitoring System,
+Setup and Operation P-164001106</i>.</p>
+</body>
+</topic>

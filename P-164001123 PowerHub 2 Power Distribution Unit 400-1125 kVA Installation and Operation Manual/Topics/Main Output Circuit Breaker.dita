@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="MainOutputCircuitBreaker-C7A829E0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Main Output Circuit Breaker</title>
+<body>
+<p>An Main Output Circuit Breaker from the transformer to the output
+subfeeds available as an option. The standard Main Output Circuit
+Breaker has characteristics given below in <xref format="dita"
+href="#./Table6StandardMainOutputCircuitBrea-C8C78211" scope="local"
+type="table"><?Pub _previewtext
+text="Table 6 Standard Main Output Circuit Breaker Characteristics (Optional)"
+?></xref>. Other Main Output Circuit Breakers are also available.
+See <xref format="dita"
+href="Appendix 1123.dita#AppendixMainOutputCircuitBreakerOpt-C8C75C09"
+scope="local" type="topic"><?Pub _previewtext
+text="Appendix: Main Output Circuit Breaker Options 1123"?></xref
+>.<table id="Table6StandardMainOutputCircuitBrea-C8C78211">
+<title>Standard Main Output Circuit Breaker Characteristics (Optional)</title>
+<tgroup cols="2"><colspec colname="COLSPEC4" colwidth="179.83pt"/>
+<colspec colname="COLSPEC5" colwidth="194.96pt"/>
+<thead>
+<row>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Frame Type </b></p></entry>
+<entry valign="top"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><p><b>R-Frame </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Voltage Rating </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>600 VAC </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Interrupting Rating </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>65 kAIC@240VAC </p><p>35 kAIC@480VAC </p><p>18 kAIC@600VAC </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Number of Poles </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>3-Pole </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Circuit Breaker Rating </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>80% Rated </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Electronic Trip Unit </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Basic (ET1.0I) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Trip Function </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Fixed Long-Time Adjustable Instantaneous Trip </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p>600V is the maximum rated voltage of the PDU. A 600VAC circuit
+breaker can be used with any voltage less than 600V. Circuit breakers
+are available in 80% and 100% ratings with other trip options.</p>
+</body>
+</topic>

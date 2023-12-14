@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SubfeedBreakerOptionalFeatures-C7A829E6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Subfeed Breaker Optional Features</title>
+<body>
+<p>Subfeed circuit breakers can have these features:<ul>
+<li><p>Shunt trip on subfeed breakers (requires 120V) </p></li>
+<li><p>Bell Alarm: dry contact annunciation on shunt trip </p></li>
+<li><p>Auxiliary switch status indicator for circuit breaker </p></li>
+<li><p>Padlock mechanism for each breaker</p></li>
+</ul></p>
+<p>In WaveStar Infinity Monitoring, Auxiliary switch contacts and
+Bell Alarm contacts are digital inputs. Relay outputs are customized
+per installation. See <xref format="dita"
+href="WaveStar Infinity Monitoring 1123.dita" scope="local" type="topic"><?Pub
+_previewtext text="WaveStar Infinity Monitoring 1123"?></xref>. </p>
+<p>For WaveStar Monitoring, see section <xref format="dita"
+href="WaveStar Monitoring Component Reference 1123.dita#DryContactNetwork-C7C4FAC9"
+scope="local" type="topic"><?Pub _previewtext
+text="7.6 Dry Contact Network"?></xref> and <xref format="dita"
+href="WaveStar Monitoring Component Reference 1123.dita#DryContactNetwork-C7C4FAC9/Table11PDUDryContactsTable-C8C8CD00"
+scope="local" type="table"><?Pub _previewtext
+text="Table 11 PDU Dry Contacts Table"?></xref> for more information
+on subfeed dry contacts.</p>
+</body>
+</topic>

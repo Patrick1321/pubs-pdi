@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="Weight-C735A1C8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Weight</title>
+<body>
+<p><xref format="dita"
+href="#./Table2ApproximatePDUWeightsByKVAFor-C8C5B153" scope="local"
+type="table"><?Pub _previewtext
+text="Table 2 Approximate PDU Weights by kVA for Selected Configurations"
+?></xref> lists approximate PDU weights by transformer kVA. Weights
+are estimates and vary by configuration, transformer characteristics,
+and other options.<table
+id="Table2ApproximatePDUWeightsByKVAFor-C8C5B153">
+<?PubTbl table border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>
+<title>Table 2 Approximate PDU Weights by kVA for Selected Configurations</title>
+<tgroup cols="6"><colspec colname="col1" colsep="1"/><colspec
+colname="col2" colsep="1"/><colspec colname="col3" colsep="1"/><colspec
+colname="col4" colsep="1"/><colspec colname="col5" colsep="1"/><colspec
+colname="col6"/>
+<thead>
+<row rowsep="1">
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>kVA </entry>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>Width </entry>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>Depth </entry>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>	Height</entry>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>Weight
+(lbs.) </entry>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?>Comments </entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="1" valign="middle">
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><b>400 </b></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>60”</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>42"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>84" </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>5,300 </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"?>Transformer
+characteristics may increase cabinet depth from 40". </entry>
+</row>
+<row rowsep="1" valign="middle">
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><b>500 </b></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>60”</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>42" </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>84"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>5,900</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row rowsep="1" valign="middle">
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><b>625 </b></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>60”</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>48" </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>84"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>6,500 </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row rowsep="1" valign="middle">
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><b>750 </b></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>60”</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>48"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>84" </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>7,300 </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row rowsep="1" valign="middle">
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><b>1000 </b></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>86" </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>56" </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>84"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>	9,200 </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"?>With
+Side Car and Multi-Output PDU Option </entry>
+</row>
+<row valign="middle">
+<entry align="center"><?PubTbl cell border-right-width="0.25pt"?><b
+>1125</b></entry>
+<entry align="center"><?PubTbl cell border-right-width="0.25pt"?>86"</entry>
+<entry align="center"><?PubTbl cell border-right-width="0.25pt"?>56"</entry>
+<entry align="center"><?PubTbl cell border-right-width="0.25pt"?>84"</entry>
+<entry align="center"><?PubTbl cell border-right-width="0.25pt"?>	10,000 </entry>
+<entry align="center">With Side Car and Multi-Output PDU Option, 16
+x 250A subfeeds </entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</body>
+</topic>

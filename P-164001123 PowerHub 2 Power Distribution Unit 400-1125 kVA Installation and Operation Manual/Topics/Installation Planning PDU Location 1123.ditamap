@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<techinfomap
+xmlns:atirds="http://www.arbortext.com/namespace/dita/rdstyle"
+atirds:comptype="topicAsMap"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<topicref format="dita"
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Topics\Installation Planning PDU Location 1123.dita"
+scope="local" type="topic"></topicref><?Pub Caret -1?>
+</techinfomap>

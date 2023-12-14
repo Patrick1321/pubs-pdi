@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="BiasingAndTermination-C73697C1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Biasing and Termination</title>
+<body>
+<p>Because there is only one Modbus primary, the primary can and should
+drive its transmit pair continuously and, of course, never drive the
+receive line, except to be 2-wire compatible. However, most adapters
+do not drive the transmit pair until the start of the first character
+sent, and only continue to drive the transmit pair a few milliseconds
+after the last character. Consequently, for these adapters the primary’s
+transmit pair is usually just floating most of the time. </p>
+<p>Secondaries do not drive the primary’s receive pair until they
+send the primary a response. As soon as they are finished, they must
+stop driving the primary’s receive pair. This is necessary for other
+secondaries to send responses on the primary’s receive pair. Therefore,
+most of the time the primary’s receive pair is just floating. </p>
+<p>Eaton PDI devices do not require the Modbus chain to be terminated
+with a resistor. If other manufacturers’ equipment is connected in
+the Modbus device chain, consult their termination requirements.</p>
+</body>
+</topic>

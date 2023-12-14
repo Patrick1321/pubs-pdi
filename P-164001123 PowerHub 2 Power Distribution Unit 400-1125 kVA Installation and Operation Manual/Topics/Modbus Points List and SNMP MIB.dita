@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ModbusPointsListAndSNMPMIB-C8CF0308"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus Points List and SNMP MIB</title>
+<body>
+<p>Each WaveStar Infinity system has a single consolidated Modbus
+Points List and SNMP MIB that matches the PDU’s customized sensor
+board configuration. The custom Modbus Points List and SNMP MIB can
+be downloaded with a browser logged in (as an administrator) to WaveStar
+Infinity. See section <b>3.3, “Downloading the Modbus Points List
+and SNMP MIB,”</b> in <i>WaveStar Infinity Monitoring System, Setup
+and Operation P-164001106</i>.</p>
+</body>
+</topic>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SubfeedMonitoring-C7C4FAC1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Subfeed Monitoring</title>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.5.1 Subfeed Output Circuit Monitoring.dita"><xi:fallback><!--Fallback markup for "7.5.1 Subfeed Output Circuit Monitoring.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.5.2 BCMS Data Acquisition Board.dita"><xi:fallback><!--Fallback markup for "7.5.2 BCMS Data Acquisition Board.dita"--></xi:fallback
+></xi:include>
+<topic id="SurgeProtectiveDeviceStatusReportin-C7C4FAC7"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Surge Protective Device Status Reporting</title>
+<body>
+<p>Optional SPDs are available in 100kA or 200 kA surge capacity (per
+phase) for both input and output (<xref format="dita"
+href="#./Figure29SPDStatusLightsAndDryContac-C7C5073C" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 29 SPD Status Lights and Dry Contact Connections (Mersen)"
+?></xref>). The standard Mersen SPD has a colored end-of-life status
+light for each phase where green <b>= OK</b> and <b>Not lit = Replace
+Unit</b>. Lights are viewable through a window in the front door,
+but installation location varies according to PDU design. </p>
+<p>Mersen SPDs also have a Form C dry contact for signaling status.
+The dry contact is terminated at a terminal block located close to
+the SPD and is not pre-wired to any detection or alarm sensing circuits.
+The contacts are available for customer use. </p>
+<p>SPDs report status differently by vendor and model. For other vendors,
+check vendor specifications and consult the factory.<fig
+id="Figure29SPDStatusLightsAndDryContac-C7C5073C">
+<title>SPD Status Lights and Dry Contact Connections (Mersen)</title>
+<image href="..\Graphics\29.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p>
+</body>
+</topic>
+</topic>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AutomaticShutdownOptions-C7A829E0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Automatic Shutdown Options</title>
+<body>
+<p>The PDU can optionally shunt trip the main input breaker automatically
+on any of the following input error conditions:<ul>
+<li><p>Ground fault interrupt </p></li>
+<li><p>Under voltage condition on input </p></li>
+<li><p>Over voltage condition on input </p></li>
+<li><p>Phase rotation error </p></li>
+<li><p>Building Alarm</p></li>
+</ul></p>
+</body>
+</topic>

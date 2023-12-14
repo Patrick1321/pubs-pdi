@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SupportedCommandsAndReplies-C73697C1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Supported Commands and Replies</title>
+<body>
+<p>The following commands and replies are typical for the Color Monitor.
+See the Modbus points list for specifics.</p>
+<p>Report secondary ID<ul>
+<li><p>Sent Hex: 01 11 C0 2C</p></li>
+<li><p>Reply Hex: 01 11 0D EA FE 52 50 50 20 44 69 73 70 6C 61 79
+A3 A6</p></li>
+</ul></p>
+<p>Read holding registers<ul>
+<li><p>Sent Hex: 01 03 00 00 00 01 84 0A</p></li>
+<li><p>Reply Hex: 01 03 02 00 00 B8 44</p></li>
+</ul></p>
+<p>Write single register<ul>
+<li><p>Sent Hex: 01 06 00 00 00 00 89 CA </p></li>
+<li><p>Reply Hex: 01 06 00 00 00 00 89 CA</p></li>
+</ul></p>
+<p>The flag and data numbers shown here are in “human-readable” numbers.</p>
+</body>
+</topic>

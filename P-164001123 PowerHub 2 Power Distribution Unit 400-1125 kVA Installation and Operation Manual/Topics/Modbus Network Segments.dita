@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ModbusNetworkSegments-C73697BF"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus Network Segments</title>
+<body>
+<p>In a Modbus network there can be only one primary, and only the
+primary can poll a downstream device. However, the Color Monitor must
+also poll its downstream devices. Because there cannot be two Modbus
+primaries, the network is divided into segments at the Monitor with
+one primary per segment (<xref format="dita"
+href="#ModbusDeviceAddresses-C73697C1/Figure33RemappingModbusAddressesExa-C830C01D"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 33 Remapping Modbus Addresses (Example)"?></xref>):</p>
+<ul>
+<li><p>Upstream segment: DCIM or BIM system is primary to the Monitor;
+Monitor is a secondary device. </p></li>
+<li><p>Downstream segment: Monitor is primary to its downstream devices.</p
+></li>
+</ul>
+<p>An upstream Modbus primary device cannot directly address devices
+that are downstream of the Color Monitor because the Monitor is an
+endpoint of the Modbus primary’s network segment. Instead, the Monitor
+translates its downstream device addresses to upstream segment addresses,
+which are assigned sequentially starting at its own Modbus address.
+When the upstream Modbus primary requests data from a device in the
+internal PDU network, it addresses the device indirectly through the
+Monitor.</p>
+</body>
+</topic>

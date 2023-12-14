@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ColorMonitorBackpanel-C32D55F5"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Color Monitor Address</title>
+<body>
+<p>Each connected Color Monitor must have a unique Modbus address
+between 1 and 247. You specify the Modbus address of the Color Monitor
+and the number of devices in its device chain on the Color Monitor
+setup screen. (See <i>WaveStar Color Monitor, Setup and Operation
+P-164001109</i>) The Color Monitor assigns sequential addresses for
+each device in its device chain based on the device count.<note>Improper
+configuration of a WaveStar Color Monitor may block other monitors
+or devices on the chain.</note></p>
+</body>
+</topic>

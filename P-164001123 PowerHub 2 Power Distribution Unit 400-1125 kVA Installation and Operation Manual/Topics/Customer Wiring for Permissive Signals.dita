@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CustomerWiringForPermissiveSignals-C84522B2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Customer Wiring for Permissive Signals</title>
+<body>
+<fig id="Figure40DryContactExternalPermissiv-C8CD83B0">
+<title>Dry Contact External Permissive Signal Connection</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\40.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<ul>
+<li><p>The <b>internal permissive signal</b> using the Color Monitor
+requires no wiring at the customer site. </p></li>
+<li><p>For a two-stage system, an<b> external permissive signal</b
+> must be provided at the customer site by wiring a NO dry contact
+to terminal block TB8 in the Monitoring Compartment. The PDU is shipped
+with a jumper in <b>TB8</b> which permanently enables the internal
+Color Monitor process. One Stage SKRU key release: The jumper in TB8
+keeps external permissive signal permanently CLOSED or ENABLED. Two
+Stage SKRU key release: Remove jumper in TB8 . Connect NO dry contact.
+Closing the dry contact enables the Color Monitor synch and SKRU key
+release process. PowerHub 2 PDU Monitoring Compartment PDU is shipped
+with jumper installed in terminal block TB8 PowerHub 2 PDU 400-1125
+kVA 74 Ctrl Nr: DOC15315-007 Remove the jumper and connect the external
+NO dry contact. Closing the NO dry contact enables the internal process
+using the Color Monitor synch screen. </p></li>
+<li><p>For a system using an <b>external permissive signal only</b
+>, the PDU is configured in manufacturing to bypass the Color Monitor
+Synch process. At the customer site, the jumper in <b>TB8</b> must
+be removed and the external NO dry contact wired to <b>TB8</b>, the
+same as for a 2-stage system.</p></li>
+</ul>
+</body>
+</topic>

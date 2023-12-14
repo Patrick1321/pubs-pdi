@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ContractorBoards-C7C4FABC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Contractor Boards</title>
+<body>
+<p>A Contractor Board is connected to the PDU Board by a ribbon cable
+and functions as a terminal block to the PDU Board. It is housed in
+the Monitoring Compartment with the PDU Board. </p>
+<p><b>Internal PDU signals</b> are terminated on the PDU M4G Board. </p>
+<p>External signals are terminated to a Contractor Board:<ul>
+<li><p>All dry contact signals for Remote Emergency Power Off (REPO),
+building alarms, output relays, communication ports, and other control
+wiring must be terminated onto a Contractor Board.</p></li>
+<li><p>All interface wiring (for building alarms, AC alarms, halon
+alarms, remote power off systems, etc.) should be run within the PDU
+cabinet for termination on the Contractor Board. </p></li>
+<li><p>All interface wiring and contacts are to be provided by others.</p
+></li>
+</ul>The customer has a choice of the Basic Contractor Board or the
+Enhanced Contractor Board.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.4.1 Basic Contractor Board.dita"><xi:fallback><!--Fallback markup for "7.4.1 Basic Contractor Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.4.2 Enhanced Contractor Board.dita"><xi:fallback><!--Fallback markup for "7.4.2 Enhanced Contractor Board.dita"--></xi:fallback
+></xi:include>
+</topic>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="WaveStarMonitoringComponentReferenc-C73653A8"
+xml:lang="en-EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>WaveStar Monitoring: Component Reference</title>
+<body>
+<p>Customers have a choice of two mutually exclusive monitoring systems
+for the PowerHub 2 PDU:<ul>
+<li><p>WaveStar Infinity is Eaton PDI’s latest metering and monitoring
+solution for the Power Hub 2 platform and is recommended for all new
+data center buildouts. It was launched in 2018 and offers revenue
+grade accuracy, high speed data communication, and a color touchscreen
+display with an intuitive user interface. </p></li>
+<li><p>WaveStar Monitoring is Eaton PDI’s previous metering and monitoring
+standard, which includes the WaveStar Color Monitor, launched in 2014.
+WaveStar Monitoring is still available for the PowerHub 2 PDU.</p
+></li>
+</ul>This chapter summarizes WaveStar Monitoring components on PowerHub
+2 PDUs. A WaveStar Monitoring System is a collection of components
+integrated in the PDU’s internal network, which is described in the
+next chapter.</p>
+<p>All PDUs with WaveStar Monitoring have at minimum a WaveStar Color
+Monitor, a PDU Board, and a Contractor Board.<ul>
+<li><p>WaveStar Color Monitor (standard)</p><ul>
+<li><p>Displays monitoring information </p></li>
+<li><p>Ethernet interface </p></li>
+<li><p>Modbus master device for the PDU’s internal network </p></li>
+<li><p>Provides monitoring data to upstream Modbus master devices
+upon request, such as Data Center Information Management (DCIM) and
+Building Information Management (BIM) systems and/or provides SNMP
+data.</p></li>
+</ul></li>
+<li><p>PDU (M4G) Board (standard)</p><ul>
+<li><p>Monitors input power, the transformer, and transformer output
+power </p></li>
+<li><p>Emergency Power Off (EPO) shunt trip</p></li>
+</ul></li>
+</ul><ul>
+<li>Basic (standard) or Extended (optional) Contractor Board, a separate
+board that acts as a terminal block to the PDU Board. Customer connections
+other than Ethernet are made to a Contractor Board, including:<ul>
+<li><p>Modbus RTU interface </p></li>
+<li><p>Relays, such as summary alarm </p></li>
+<li><p>Digital inputs, such as building alarms, door open </p></li>
+<li><p>Remote EPO interface</p></li>
+</ul></li>
+</ul>The PDU may also have the following optional components:<ul>
+<li><p>Subfeed Branch Circuit Monitoring System (BCMS) Boards</p><ul>
+<li><p>BCMS Data Acquisition Board with Enhanced Subfeeds Modbus Points
+List </p></li>
+<li><p>Resistor board connecting CTs for up to (14) subfeeds or (10)
+subfeeds, if neutral is monitored, and passing CT measurements to
+the BCMS Data Acquisition Board</p></li>
+<li><p>IO Breaker Board, which collects and reports circuit breaker
+auxiliary contact or bell alarm signals for up to (14) subfeed breakers.</p
+></li>
+</ul></li>
+</ul>All WaveStar monitoring components are connected into the PDU’s
+internal Modbus RTU network. </p>
+<p>Surge Protective Device(s) (SPDs) may also provide device status,
+usually through a dry contact.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.1 Components Layout.dita"><xi:fallback><!--Fallback markup for "7.1 Components Layout.dita"--></xi:fallback
+></xi:include>
+<?Pub _newpage?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.2 WaveStar Color Monitor.dita"><xi:fallback><!--Fallback markup for "7.2 WaveStar Color Monitor.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.3 PDU (M4G) Board.dita"><xi:fallback><!--Fallback markup for "7.3 PDU (M4G) Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.4 Contractor Boards.dita"><xi:fallback><!--Fallback markup for "7.4 Contractor Boards.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.5 Subfeed Monitoring.dita"><xi:fallback><!--Fallback markup for "7.5 Subfeed Monitoring.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.6 Dry Contact Network.dita"><xi:fallback><!--Fallback markup for "7.6 Dry Contact Network.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.7 IO Breaker Board.dita"><xi:fallback><!--Fallback markup for "7.7 IO Breaker Board.dita"--></xi:fallback
+></xi:include>
+<topic id="ComponentsConnectionsAndSetupSummar-C7C4FAC9"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Components, Connections, and Setup Summary</title>
+<body>
+<p>The following table shows connections and setup methods for each
+WaveStar Monitoring component.</p>
+<table id="Table13WaveStarMonitoringSystemSumm-C8C8D2C9">
+<title>WaveStar Monitoring System Summary</title>
+<tgroup cols="5"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/><colspec colname="col4"/><colspec
+colname="col5"/>
+<thead>
+<row valign="middle">
+<entry nameend="col5" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?>WaveStar Monitoring System </entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Network and Other User Connections </b
+></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>PCB or Component </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setup Method </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Modbus Points List </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>SNMP MIB </b></p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Ethernet Summary alarm (dry contact) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>7" Color Monitor </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>On-screen setup </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Color Monitor Points List </p></entry>
+<entry morerows="4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>Consolidated MIB for all possible components </entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>PDU (M4G) Board </p></entry>
+<entry morerows="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>Manufacturing/Service Programming </p
+></entry>
+<entry morerows="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>PDU Board Points List </p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Modbus RTU </p><p>Remote EPO </p><p
+>Digital Inputs </p><p>Relays </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Contractor Board </p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>BCMS Data Acquisition Board/ Resistor Board </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>BCMS Setup Program with USB Connection </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Enhanced Subfeeds (ESF) Points List </p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Auxiliary Contacts Bell Alarm Contacts </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>IO Breaker Board </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>BCMS Setup Program with USB Connection </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>IO Breaker Points List </p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Dry contact </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Surge Protective Device (SPD) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>None </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>None </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>None </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>
+</topic><?Pub Caret -1?>

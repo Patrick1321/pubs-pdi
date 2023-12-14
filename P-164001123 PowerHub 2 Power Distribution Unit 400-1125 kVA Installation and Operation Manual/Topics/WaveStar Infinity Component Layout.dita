@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="WaveStarInfinityComponentLayout-C8CEF876"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>WaveStar Infinity Component Layout</title>
+<body>
+<p>WaveStar Infinity components consist of the WaveStar Infinity 7"
+color touchscreen and a set of sensor boards customized for the underlying
+PDU power distribution configuration. The PowerHub 2 Monitoring Compartment
+(<xref format="dita"
+href="#./Figure20PowerHub2MonitoringCompartm-C8CEFAC1" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 20 PowerHub 2 Monitoring Compartment with WaveStar Infinity PCBs"
+?></xref>) has these WaveStar Infinity components:<ol>
+<li><p>WaveStar Infinity 7" Color Touchscreen Monitor on the front
+of the compartment door </p></li>
+<li><p>VVIT (Voltage-Voltage-Current-Transformer) Sensor Base Board </p
+></li>
+<li><p>Sensor Combo Boards with Option Boards </p></li>
+<li><p>Sensors for monitoring subfeeds are located outside the compartment:</p
+></li>
+<li><p>Sensor Combo 8xI board for subfeed CTs is with high-power components.</p
+></li>
+<li>All PDUs with WaveStar Infinity have at minimum a WaveStar Infinity
+7" Monitor and a Sensor Base Board.</li>
+</ol><fig id="Figure20PowerHub2MonitoringCompartm-C8CEFAC1">
+<title>PowerHub 2 Monitoring Compartment with WaveStar Infinity PCBs</title>
+<image href="..\Graphics\20.pdf"
+placement="-dita-use-conref-target"></image>
+</fig></p>
+</body>
+</topic>

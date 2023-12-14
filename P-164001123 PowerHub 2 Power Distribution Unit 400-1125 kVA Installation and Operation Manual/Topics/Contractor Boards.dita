@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ContractorBoards-C32D55F5"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>SNMP</title>
+<body>
+<p>Modbus device addressing does not apply with SNMP. When the upstream
+protocol is SNMP, use the Eaton PDI SNMP MIB, available from the Eaton
+website. Contact Eaton service for download information.</p>
+</body>
+</topic>

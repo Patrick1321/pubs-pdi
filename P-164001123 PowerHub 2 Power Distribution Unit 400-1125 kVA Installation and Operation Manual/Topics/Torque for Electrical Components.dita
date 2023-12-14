@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TorqueForElectricalComponents-C7ADC73F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Torque for Electrical Components</title>
+<body>
+<p>Always tighten electrical component (CBs, contactors, etc.) connections
+to the manufacturer’s torque specifications furnished with the component.
+Torque ratings vary. Please refer to label on the part. </p>
+<p>Use standard guidelines for electrical components if no manufacturer
+data is available.</p>
+<p>Tighten connections using Belleville type (spring) washers until
+washers are flat.</p>
+<p>There is a wide variety of torque requirements for terminal blocks
+of various sizes.</p>
+</body>
+</topic>
