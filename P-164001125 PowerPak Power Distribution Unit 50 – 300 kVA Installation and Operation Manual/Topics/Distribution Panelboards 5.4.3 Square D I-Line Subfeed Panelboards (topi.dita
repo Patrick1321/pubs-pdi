@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="DistributionPanelboards5.4.3SquareD-CBE592B8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Distribution Panelboards Square D I-Line Subfeed Panelboards</title>
+<body>
+<p>Square D I-Line subfeed panelboards are also available, requiring
+at minimum their own 12" side cars. </p>
+<p>800A and 1000A I-Line panelboards can be installed in 12" side
+cars. 1000A I-Line panelboards require an under floor junction box
+for distribution cabling. The junction box has the neutral and ground
+busbars for the Side Car and cable exit panels on three sides (<xref
+format="dita" href="#./Figure21UnderFloorJunctionBoxFor100-CBE69C50"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 21 Under Floor Junction Box for 1000A I-Line Panelboard in 12-in Side Car"
+?></xref>). 1000A and 1200A I-Line panelboards can be installed in
+a Main Cabinet Extension (<xref format="dita"
+href="Installation Planning PDU Layouts 1125.dita#PDULayouts-C3A04E2E/Figure6Front-AccessPDUMainCabinetAn-CB5B8B43"
+scope="local" type="fig"><?Pub _previewtext
+text="Front-Access PDU: Main Cabinet and Extension with 1000A I-Line Panelboard (Example)"
+?></xref>). Neutral and ground busbars are in the Extension and no
+under floor junction box is required.</p>
+<fig id="Figure21UnderFloorJunctionBoxFor100-CBE69C50">
+<title>Under Floor Junction Box for 1000A I-Line Panelboard in 12-in
+Side Car</title>
+<image href="..\Graphics\21.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

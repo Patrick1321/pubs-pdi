@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="FrontAccessOnly-C3A04E2E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Front Access Only</title>
+<body>
+<p>The PDU can be made front-access for routine maintenance, including
+easy circuit breaker replacement, and extension of circuit breaker
+capacity. </p>
+<p>The transformer can as an option be turned 180⁰ making transformer
+taps and infrared scanning front-accessible. Distribution should be
+in the Side Cars. Rear service access is not required; only 6" ventilation
+clearance is required at the rear or sides.<fig
+id="Figure7PowerPakFront-AccessPDUWithT-CB5B8EF6">
+<title>PowerPak Front-Access PDU with Two 21-in Side Cars</title>
+<image href="..\Graphics\7.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>Front access PDUs can have the following: <ul>
+<li><p>Main Cabinet should have front-facing transformer for front
+access to taps and infrared scanning. </p></li>
+<li><p>21” front- and side-facing Side Cars, using front access only
+to Side Cars.</p></li>
+<li><p>(Optional) Main Cabinet Extension for 1000A or 1200A Square
+D I-Line panelboards.</p></li>
+</ul></p>
+</body>
+</topic>

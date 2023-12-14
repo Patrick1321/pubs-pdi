@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ReceivingAndUnpackingThePDUPlacingT-C3A12E77"
+xml:lang="en-EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation: Placing the PDU</title>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Receiving and Unpacking the PDU.dita"><xi:fallback><!--Fallback markup for "Receiving and Unpacking the PDU.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing the PDU.dita"><xi:fallback><!--Fallback markup for "Placing the PDU.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Pre-Placement Inspection.dita"><xi:fallback><!--Fallback markup for "Pre-Placement Inspection.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing Directly on Floor or Raised Floor.dita"><xi:fallback><!--Fallback markup for "Placing Directly on Floor or Raised Floor.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing PDU on Optional Floor Stand.dita"><xi:fallback><!--Fallback markup for "Placing PDU on Optional Floor Stand.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 35?>

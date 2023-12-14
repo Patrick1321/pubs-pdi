@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUServiceAccessConfigurations-C3A04E2E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Service Access Configurations</title>
+<body>
+<p>The PDU can be flexibly configured for different service access
+requirements:<ul>
+<li><p> Front access only PDU </p></li>
+<li><p>Front and side access only (one or both sides) </p></li>
+<li><p>Front and rear access only </p></li>
+<li><p>Front, side, and rear access PDU (one or both sides)</p></li>
+</ul></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Front Access Only.dita"><xi:fallback><!--Fallback markup for "Front Access Only.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Front and Side Access Only.dita"><xi:fallback><!--Fallback markup for "Front and Side Access Only.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Front and Rear Access Only.dita"><xi:fallback><!--Fallback markup for "Front and Rear Access Only.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Front, Rear, and Side Access.dita"><xi:fallback><!--Fallback markup for "Front, Rear, and Side Access.dita"--></xi:fallback
+></xi:include>
+</topic>

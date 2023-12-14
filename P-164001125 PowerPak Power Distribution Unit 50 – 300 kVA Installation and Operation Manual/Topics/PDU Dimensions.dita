@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUDimensions-CB5A336C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Dimensions</title>
+<body>
+<p><xref format="dita"
+href="#./MainCabinetwith200KVATransformer36.-CB5B69B4" scope="local"
+type="table"><?Pub _previewtext text="PDU Dimensions"?></xref> below
+gives dimensions for the various PDU frames. Because frames are combined
+in different configurations, your actual PDU dimensions will vary
+by side car options and transformer size. Your submittal package will
+include drawings for your PDU’s layout. To determine your PDU’s footprint,
+you must also account for clearances (see below, <xref format="dita"
+href="#Clearances-C3A04E2E" scope="local" type="topic"><?Pub _previewtext
+text="Clearances"?></xref>).</p>
+<table id="MainCabinetwith200KVATransformer36.-CB5B69B4">
+<title>PDU Dimensions</title>
+<tgroup cols="2"><colspec colname="col1" colwidth="150.00pt"/><colspec
+colname="col2" colwidth="150.00pt"/>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><p>Main Cabinet
+(with ˂ 200 kVA transformer)</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><p>36.5"Wx 32.75"D x 74.75"H*</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Main Cabinet (with 200–300 kVA transformer)</p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>36.5"Wx 39.00"D x 74.75"H*</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>21" Front-Facing/Side-Facing Side
+Car add-on</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>21.00"W x 32.75"D x 74.75"H*</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>9"Side-Facing Side Caradd-on</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>9.00"Wx32.75"D x 74.75"H*</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>12"Side-Facing Side Car (I-Line Panelboards)add-on</p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>12.00"W x 32.75"D x 74.75"H*</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Main Cabinet extension for 1200A I-Line
+Panelboards</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>46.75"W x 32.75"D x 74.75"H*</p></entry>
+</row>
+<row>
+<entry nameend="col2" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?>*Includes
+height of PDU with casters.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note>See sample PDU layout drawings ( <xref format="dita"
+href="#PDULayouts-C3A04E2E/Figure2PDU50-150KVAMainCabinetWithP-CB5B835A"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 2 PDU 50-150 kVA Main Cabinet with Panelboards (Example)"
+?></xref> to <xref format="dita"
+href="#PDULayouts-C3A04E2E/Figure6Front-AccessPDUMainCabinetAn-CB5B8B43"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 6 Front-Access PDU: Main Cabinet and Extension with 1000A I-Line Panelboard (Example)"
+?></xref>) for dimensions on several PDU configurations.</note>
+<p>12" side cars and the Main Cabinet extension can also be used for
+larger 400A panelboards.</p>
+</body>
+</topic>

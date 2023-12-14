@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="TransferProcedureInternalPermissive-CC5DB0C2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transfer Procedure: Internal Permissive Signal Only</title>
+<body>
+<p>The Monitor checks voltage readings for both sources from the PDU
+M4G board to determine if the two sources are synchronized. When both
+voltage sources are in synch, the operator can signal the SKRU to
+release its key using the Monitor <b>Sync</b> Screen (<xref
+format="dita" href="#./Figure46ColorMonitorSynchScreen-CC5F675D"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 46 Color Monitor Synch Screen"?></xref>). The operator
+then removes the SKRU key and inserts it into the Kirk Key lock for
+the inactive power source, allowing that breaker to be closed.</p>
+<fig id="Figure46ColorMonitorSynchScreen-CC5F675D">
+<title>Color Monitor Synch Screen</title>
+<image href="..\Graphics\46.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+<p>To manually switch the load from one power source to the other
+using the Monitor, use the following procedure:</p>
+<table id="Figure47TransferProcedureUsingInter-CDD68A41">
+<title>Transfer Procedure Using Internal Permissive Signal</title>
+<tgroup cols="3"><colspec colname="COLSPEC0" colwidth="0.16*"/><colspec
+colname="COLSPEC1" colwidth="1.30*"/><colspec colname="col2"
+colwidth="1.30*"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"
+border-top-width="0.25pt"?><p>1.</p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"
+border-top-width="0.25pt"?><p>From the Color Monitor <b>Home </b>screen,
+go to <b>Alarm</b> screen and clear voltage alarms. </p></entry>
+<entry morerows="4" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><image
+href="..\Graphics\43_0000073010.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>2.</p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>From the <b>Home</b> screen, touch <b>Devices</b>. </p></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>3.</p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>Select the <b>PDU</b> device (customer may have renamed the PDU device
+to a different name). </p></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>4.</p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>Touch Readings. </p></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"?><p>5.</p></entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Sync</b> screen appears. </p><p
+><b>Active</b> power source shows a closed circuit breaker (red).</p
+><p><b>Inactive</b> power source shows an open circuit breaker (green).</p
+></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>6.</p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>When the Sync screen is displayed, the active source breaker should
+be closed (red) and the inactive source breaker open (green). If both
+sources look to be in sync, touch <b>KEY RELEASE </b>to release the
+SKRU key. </p><p>The SKRU will <u>not </u>release the key if </p></entry>
+<entry morerows="3" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><image href="..\Graphics\44_0000073048.pdf"
+scope="local"></image></entry>
+</row>
+<row>
+<entry align="right" colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>a. </p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>any input voltage alarms are present, </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?></entry>
+<entry align="center" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>or </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"?><p>b. </p></entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>the phase difference between sources
+is greater than 20 degrees (value can be set in PDU Board setup).</p
+></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"?><p>7.</p></entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>The operator should turn the SKRU
+(solenoid) key and remove it.</p></entry>
+<entry morerows="11" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><image href="..\Graphics\48b.pdf"
+placement="-dita-use-conref-target"></image></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>8.</p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>The operator should then </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>a. </p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>insert the SKRU key into the circuit breaker lock for the <u>inactive</u
+> power source (the <u>open</u> circuit breaker, in this example,
+Source A); </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>b. </p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>turn the key; and </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"?><p>c. </p></entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>close (turn on) the breaker.</p><p
+><b>NOTE:</b> At this point, both synchronized voltage sources are
+feeding the PDU and <u>both breakers will show closed (red)</u> on
+the <b>Sync</b> screen.  </p></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>9.</p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>Make the previously active source inactive.</p></entry>
+</row>
+<row>
+<entry align="right" colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>a. </p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>Open the circuit breaker for the previously active power source that
+you are turning off. </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"?><p>b. </p></entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p> Turn the key to lock the breaker.</p
+></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>10.</p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>Move the key from this breaker to the SKRU (solenoid): </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>a. </p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>Remove the key from the breaker. </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+>b. </p></entry>
+<entry align="left" rowsep="0"><?PubTbl cell border-right-width="0.25pt"?><p
+>Insert it into the lock for the SKRU. </p></entry>
+</row>
+<row>
+<entry align="right" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"?><p>c. </p></entry>
+<entry align="left"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>Turn the key.</p><p><b>NOTE:</b> Source
+A is now the only active source and shows <u>red</u> on the <b>SYNC</b
+> screen. Source B is locked open (off) and shows <u>green</u> on
+the <b>SYNC</b> screen.</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

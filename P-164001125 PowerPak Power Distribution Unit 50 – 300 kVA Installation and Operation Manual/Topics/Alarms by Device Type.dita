@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AlarmsByDeviceType-CDDB9CA2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Alarms by Device Type</title>
+<body>
+<p>Each device has its own alarm set based on its points list. Warnings
+and alarms that can be viewed on the Monitor are listed below. The
+Monitor does not display setpoints from the points lists, such as
+alarm thresholds.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Color Monitor Alarms.dita"><xi:fallback><!--Fallback markup for "Color Monitor Alarms.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Alarms.dita"><xi:fallback><!--Fallback markup for "PDU Alarms.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Enhanced Subfeeds.dita"><xi:fallback><!--Fallback markup for "Enhanced Subfeeds.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="BCMS Panelboard-Typical Alarms.dita"><xi:fallback><!--Fallback markup for "BCMS Panelboard-Typical Alarms.dita"--></xi:fallback
+></xi:include>
+</topic>

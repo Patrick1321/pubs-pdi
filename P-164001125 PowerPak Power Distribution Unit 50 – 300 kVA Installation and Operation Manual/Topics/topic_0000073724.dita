@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Standards-046A1C33"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Standards</title>
+<body>
+<p>The PowerPak PDU is certified through ETL for the following standards:<ul>
+<li><p>UL 60950-1 </p></li>
+<li><p>CS 22.2</p></li>
+</ul> In addition, the PowerPak PDU is designed, manufactured, tested,
+and installed in compliance with the following standards: <ul>
+<li><p>UL67 UL50 </p></li>
+<li><p>UL489 </p></li>
+<li><p>UL 891 </p></li>
+<li><p>UL1561</p></li>
+<li><p>IEEE 519-1991 </p></li>
+<li><p>ANSI C33.4 </p></li>
+<li><p>NEMA ST-20 </p></li>
+<li><p>NEMA AB-1 </p></li>
+<li><p>NEMA-PB-1 </p></li>
+<li><p>NEC </p></li>
+<li><p>ISO 9001 </p></li>
+<li><p>CS57.12.91 </p></li>
+</ul></p>
+<p>The PowerPak PDU complies with the latest FCC Part 15 EMI emission
+standard for Class A computing devices.</p>
+</body>
+</topic>

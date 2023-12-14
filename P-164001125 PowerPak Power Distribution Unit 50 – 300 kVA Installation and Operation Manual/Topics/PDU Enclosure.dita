@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUEnclosure-C3A04E2C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Enclosure</title>
+<body>
+<p>The PDU has a NEMA 1 enclosure with removable front, side, and
+rear panels. A NEMA 3R enclosure is optional. Advanced door catches
+ensure positive door closure.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Dimensions.dita"><xi:fallback><!--Fallback markup for "PDU Dimensions.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Spacers.dita"><xi:fallback><!--Fallback markup for "Spacers.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 181?>

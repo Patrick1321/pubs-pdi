@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="DeviceSettings-CC48CDC0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Device Settings</title>
+<body>
+<p>A “device” is a points list (or Modbus register map) representing
+a physical monitored entity, such as a panelboard. Each points list
+instance has a single Modbus address. </p>
+<p>Each device has a <b>SETTINGS</b> screen for changing device name,
+software version, and device configuration. These settings provide
+information to the Monitor in addition to each device’s own internal
+setup. Device settings are usually entered by Eaton manufacturing
+or service representatives, but can be entered by customer administrators.</p><?Pub
+Caret 249?>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Device Settings.dita"><xi:fallback><!--Fallback markup for "PDU Device Settings.dita"--></xi:fallback
+></xi:include>
+</topic>

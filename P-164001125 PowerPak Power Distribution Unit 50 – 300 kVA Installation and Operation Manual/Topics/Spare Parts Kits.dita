@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SparePartsKits-CC624386"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Spare Parts Kits</title>
+<body>
+<p>Spare parts are available. Contact your sales representative or
+Eaton support (see <xref format="dita"
+href="Introduction 1125.dita#GettingHelp-046A712B" scope="local"
+type="topic"><?Pub _previewtext text="Getting Help"?></xref>).</p>
+<table>
+<title>Spare Parts Kits for PowerPak PDU</title>
+<tgroup cols="5"><colspec colname="1" colwidth="30.00pt"/><colspec
+colname="2" colwidth="200.00pt"/><colspec colname="3" colwidth="30.00pt"/>
+<colspec colname="4" colwidth="30.00pt"/><colspec colname="5"
+colwidth="30.00pt"/>
+<thead>
+<row>
+<entry morerows="1" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p>Qty</p></entry>
+<entry morerows="1" valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p>Spare Parts Kit Components</p></entry><?Pub Caret -1?>
+<entry align="center" nameend="5" namest="3" valign="top"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><?Pub _cellfont Shading="gray2"?> <p>Option</p
+></entry>
+</row>
+<row>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>A</entry>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>B</entry>
+<entry align="center" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>C</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Assorted Fuses</p></entry>
+<entry align="center" morerows="10" valign="middle"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry align="center" morerows="14" valign="middle"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry align="center" morerows="17" valign="middle"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry colname="1" morerows="1" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1</p></entry>
+<entry colname="2" morerows="1" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Control Power Transformer</p></entry>
+</row>
+<row>
+<entry></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>South-co Panel Retainer</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>South-co Panel Clip</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>South-co Panel Fastener</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>South-co Panel Washer</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>2</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Panel Guide</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>2</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Panel Latch</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>2</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Panel Slide Latch</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>WaveStar® Data Acquisition Card</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Emergency Power Off Assembly</p></entry>
+<entry morerows="6"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>WaveStar® Color Monitor</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>WaveStar® Contractor Board</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Complete Set of Ribbon Cables (6)</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>BCMS Board</p></entry>
+<entry morerows="2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Data Module Transformer</p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1</p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Split Core Hot Fix Board with 6 CT’s</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

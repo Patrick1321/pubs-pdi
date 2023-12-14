@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AutomaticShutdownSignals-CDD3253A"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>7.3 Automatic Shutdown Signals</title>
+<body>
+<p>The PDU can be shut down by the PDU M4G Board with a signal to
+trip the Main Input Circuit Breaker. The trip signal is sent using
+either the 170VDC or 24VDC output connections. </p>
+<p>The PDU board will shunt-trip the main breaker if it receives any
+of the following signals (refer to <xref format="dita"
+href="Monitoring Components  1125.dita#PDUM4GBoard-CC450A09/Figure27PDUM4GBoard-CC450A13"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 27 PDU (M4G) Board"?></xref> for connections): <ul>
+<li><p>Local EPO signal to the PDU board from the front panel EPO
+button. </p></li>
+<li><p>Remote EPO (REPO) signal from the Contractor Board to the PDU
+Board. The customer REPO signal is terminated at the Contractor Board. </p
+></li>
+<li><p>Thermal wires registering a temperature in the PDU transformer
+core that exceeds the transformer temperature limit specified. </p
+></li>
+<li><p>Optional shutdown signals: the customer can elect to shut down
+the PDU on the following conditions. These optional shutdown conditions
+are programmed into the PDU M4G Board in manufacturing and should
+be selected at time of order: <ul>
+<li><p>Output over-voltage or under-voltage on pre-programmed limits. </p
+></li>
+<li><p>Improper phase rotation. </p></li>
+<li><p>Ground fault interrupt: ground fault current rises above programmed
+levels. </p></li>
+<li><p>Building alarm. A 10-second time delay for shutting down the
+PDU can also be set.</p></li>
+</ul></p></li>
+</ul></p>
+</body>
+</topic>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ExternalPermissiveSignals-CC5DB0BE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>External Permissive Signals</title>
+<body>
+<p>Customer wiring for an <b>external permissive signal</b> is the
+same whether the external signal is used alone to release the SKRU
+key or it is used in a two-stage system to enable the internal signal. </p>
+<p>The customer connects either a <u>dry contact</u> or external applied <u
+>120VAC</u> connection to a terminal block near the main breakers’
+Kirk Keys. The choice of dry contact or 120VAC connection must be
+selected at time of order. </p>
+<p>The customer must independently determine that the sources are
+synchronized. Typically, the external signal is sent from an Uninterruptible
+Power Supply (UPS).</p>
+</body>
+</topic>

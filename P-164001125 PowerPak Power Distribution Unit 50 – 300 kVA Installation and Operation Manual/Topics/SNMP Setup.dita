@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SNMPSetup-CC48CDC0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>SNMP Setup</title>
+<body>
+<p>To use SNMP, the customer must connect an Ethernet link to the
+RJ45 header J11 (see <xref format="dita"
+href="#ColorMonitorNetworkConnections-CC48CDB4/Figure32ColorMonitorNetworkConnecti-CC4D1807"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 32 Color Monitor Network Connections"?></xref>) on the
+Monitor using a standard Ethernet cable.</p>
+<p>For SNMP setup, on the<b> SETUP</b> screen, touch <b>NETWORK/SNMP</b
+> to display the network parameters for SNMP (<xref format="dita"
+href="#TCPIPAndModbusTCPIPSetup-CC48CDC0/Figure36ModbusTCPIPAndSNMPSetup-CC4D1C6B"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 36 Modbus TCP/IP and SNMP Setup"?></xref>). </p>
+<p>In addition to the TCP/IP specification, the following must be
+specified for SNMP: •Specify the Trap Server IP address <ul>
+<li><p>Toggle <b>ENABLED/DISABLED</b> for the trap server. </p></li>
+<li><p>Touch <b>SEND TEST TRAP</b> to verify operation. </p></li>
+<li><p><b>Get Community</b> security string for Get operations. </p
+></li>
+<li><p><b>Set Community</b> security string for Set operations.</p
+></li>
+</ul></p>
+<p>Touch <b>RESTART WITH NEW SETTINGS </b>if any parameter is changed
+on this screen. The processor will reboot and search the network for
+connections.</p>
+</body>
+</topic>

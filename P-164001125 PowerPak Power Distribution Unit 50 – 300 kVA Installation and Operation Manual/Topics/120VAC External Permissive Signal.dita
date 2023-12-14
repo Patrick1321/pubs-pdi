@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="VACExternalPermissiveSignal-CC5DB0BF"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>120VAC External Permissive Signal</title>
+<body>
+<p>The 120VAC external signal is connected to a terminal block in
+the PDU, similarly to the dry contact connection. The 120VAC neutral
+and hot wires should be connected as shown in <xref format="dita"
+href="#./Figure44120VExternalPermissiveSigna-CC5F6083" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 44 120V External Permissive Signal Connection"?></xref
+>.<fig id="Figure44120VExternalPermissiveSigna-CC5F6083">
+<title>120V External Permissive Signal Connection</title>
+<image href="..\Graphics\44.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

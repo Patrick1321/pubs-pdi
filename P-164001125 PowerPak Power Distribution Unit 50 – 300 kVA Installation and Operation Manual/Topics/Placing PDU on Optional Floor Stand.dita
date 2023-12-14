@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PlacingPDUOnOptionalFloorStand-C3A12E78"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Placing PDU on Optional Floor Stand</title>
+<body>
+<p>The PDU can be placed on an optional floor stand that will support
+the PDU’s weight. Floor stands are available in several heights to
+match the height of your installation’s raised floor, ranging from
+11" to 76". </p>
+<p>Each floor stand provides a height range and is adjustable within
+that range. Center supports are provided on the larger floor stands
+(48", 60", and 72" height). (See <xref format="dita"
+href="#./Figure10PDUFloorStandWithHeightOpti-CBDD984E" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 10 PDU Floor Stand with Height Options"?></xref> to <xref
+format="dita" href="#./Figure11PDUFloorStandDetail-CBDD8F64"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 11 PDU Floor Stand Detail"?></xref>.) Fixed-height floor
+stand are also available in 8-11" heights. At time of order, select
+the floor stand that matches your raised floor height. </p>
+<p>To install, follow these steps:</p>
+<ol>
+<li><p>Remove floor tiles and/or make floor tile cutouts to match
+the width and depth of the floor stand (<xref format="dita"
+href="#./Figure10PDUFloorStandWithHeightOpti-CBDD984E" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 10 PDU Floor Stand with Height Options"?></xref>). </p
+></li>
+<li><p>Place the floor stand within the raised floor opening and bolt
+feet securely to the subfloor. See leg detail in <xref format="dita"
+href="#./Figure11PDUFloorStandDetail-CBDD8F64" scope="local" type="fig"
+><?Pub _previewtext text="Figure 11 PDU Floor Stand Detail"?></xref
+>. </p></li>
+<li><p>To adjust the floor stand height, adjust the bottom height-adjustment
+screws. To prevent air flow escaping around the base of the PDU, choose
+one of these options: <ol>
+<li><p>Option 1: Reduce the height of the floor stand so that the
+top of the floor stand is about 1½" below the top of the raised floor.
+When the PDU is placed on the floor stand, the PDU base should be
+even with the floor.</p></li>
+<li><p>Option 2: Match the floor stand to your raised floor height.
+Install an optional PDU skirt to minimize loss of air flow. </p></li>
+</ol></p></li>
+<li><p>The floor stand has removable front and rear cover plates for
+cable entry/exit and air flow. To provide adequate air flow, remove
+cover plates before placing the PDU on the floor stand. (See <xref
+format="dita" href="#./Figure11PDUFloorStandDetail-CBDD8F64"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 11 PDU Floor Stand Detail"?></xref>”) </p></li>
+<li><p>To stabilize the PDU on the floor stand, there are two options: <ol>
+<li><p>Option 1: Remove the PDU leveling feet, allowing the PDU to
+rest on its casters. (The casters rotate 360⁰ but do not lock.) Bolt
+the PDU to the floor stand using 1/2" all thread (<xref format="dita"
+href="#./Figure11PDUFloorStandDetail-CBDD8F64" scope="local" type="fig"
+><?Pub _previewtext text="Figure 11 PDU Floor Stand Detail"?></xref
+>). Some customers invert the removed leveling feet and use them to
+attach the PDU to the floor stand. </p></li>
+<li><p>Option 2: Adjust the main cabinet leveling feet so that they
+all rest firmly on the floor stand (<xref format="dita"
+href="#./Figure12MountingPDUOnFloorStand-CBDD8D96" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 12 Mounting PDU on Floor Stand"?></xref>). </p></li>
+</ol></p></li>
+<li><p>With a fork lift or pallet jack, carefully position the PDU
+over the floor stand. The main cabinet should be centered directly
+over the floor stand. If you are using the main cabinet leveling feet,
+they should all be positioned within the borders of the floor stand’s
+top plate.</p></li>
+</ol>
+<fig id="Figure10PDUFloorStandWithHeightOpti-CBDD984E">
+<title>PDU Floor Stand with Height Options</title>
+<image href="..\Graphics\10.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure11PDUFloorStandDetail-CBDD8F64">
+<title>PDU Floor Stand Detail</title>
+<image href="..\Graphics\11.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure12MountingPDUOnFloorStand-CBDD8D96">
+<title>Mounting PDU on Floor Stand</title>
+<image href="..\Graphics\12.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

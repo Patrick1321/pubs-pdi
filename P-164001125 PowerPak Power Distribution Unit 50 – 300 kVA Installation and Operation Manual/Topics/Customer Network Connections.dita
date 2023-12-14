@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="CustomerNetworkConnections-CC47CFC1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Customer Network Connections</title>
+<body>
+<p>Customer Modbus RTU network connections are made to the Contractor
+Board. See <xref format="dita"
+href="Monitoring Components  1125.dita#BasicContractorBoard-CC451746"
+scope="local" type="topic"><?Pub _previewtext
+text="8,3,2 Basic Contractor Board"?></xref> Basic Contractor Board
+and <xref format="dita"
+href="Monitoring Components  1125.dita#EnhancedContractorBoard-CC451BA3"
+scope="local" type="topic"><?Pub _previewtext
+text="8,3,3 Enhanced Contractor Board"?></xref> Enhanced Contractor
+Board. The Customer Ethernet connection is made to the Color Monitor
+backpanel. See <xref format="dita"
+href="#MonitoringPDUNetwork1125-C3A2FCAA" scope="local" type="topic"
+><?Pub _previewtext text="Monitoring: PDU Network 1125"?></xref>.</p>
+</body>
+</topic>

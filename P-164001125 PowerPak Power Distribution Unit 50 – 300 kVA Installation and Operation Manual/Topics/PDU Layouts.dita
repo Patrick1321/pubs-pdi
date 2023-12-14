@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDULayouts-C3A04E2E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Layouts</title>
+<body>
+<p>The PDU has many possible configurations as Main Cabinet only or
+Main Cabinet plus Side Cars on either side or with a Main Cabinet
+Extension. (<xref format="dita"
+href="#PDULayouts-C3A04E2E/Figure2PDU50-150KVAMainCabinetWithP-CB5B835A"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 2 PDU 50-150 kVA Main Cabinet with Panelboards (Example)"
+?></xref> to <xref format="dita"
+href="#PDULayouts-C3A04E2E/Figure6Front-AccessPDUMainCabinetAn-CB5B8B43"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 6 Front-Access PDU: Main Cabinet and Extension with 1000A I-Line Panelboard (Example)"
+?></xref>) show selected layouts.<fig
+id="Figure2PDU50-150KVAMainCabinetWithP-CB5B835A">
+<title>PDU 50-150 kVA Main Cabinet with Panelboards (Example)</title>
+<image href="..\Graphics\2.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><fig id="Figure3PDU200-300KVAWith9-inSideCar-CB5B850C">
+<title>PDU 200-300 kVA with 9-in Side Car and Four Panelboards (Example)</title>
+<image href="..\Graphics\3.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><fig id="Figure4PDU200-300KVAWith21-inSideCa-CB5B86EF">
+<title>PDU 200-300 kVA with 21-in Side Car and Front-Facing Transformer
+Taps (Example)</title>
+<image href="..\Graphics\4.pdf" scope="local"></image></fig
+><fig id="Figure5MainCabinetAnd12-inSideCarWi-CB5B894C">
+<title>Main Cabinet and 12-in Side Car with 1000A I-Line Panelboard
+(Example)</title>
+<image href="..\Graphics\5.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><fig id="Figure6Front-AccessPDUMainCabinetAn-CB5B8B43">
+<title>Front-Access PDU: Main Cabinet and Extension with 1000A I-Line
+Panelboard (Example)</title>
+<image href="..\Graphics\6.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

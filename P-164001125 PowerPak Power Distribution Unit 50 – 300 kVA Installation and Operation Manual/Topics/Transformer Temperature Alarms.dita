@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-146-C3A0D307"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transformer Temperature Alarms</title>
+<body>
+<p>A standard transformer has six (6) thermal overload devices to
+monitor core temperature in each winding.<ul>
+<li><p><b>180⁰F warning</b>: The first set of thermal devices is calibrated
+to 180⁰F, the warning threshold. If any winding reaches 180⁰C core
+temperature, the thermal overload protection device closes a set of
+contacts for annunciation of a potential over-temperature condition.</p
+></li>
+<li><p><b>195⁰F shutdown</b>: The second set of thermal devices is
+calibrated to 195⁰F, the shutdown threshold. If any winding reaches
+195⁰F core temperature, the thermal overload protection device closes
+a set of contacts for annunciation of an over-temperature condition
+and initiates an automatic PDU shutdown. </p></li>
+<li><p><b>Settings adjustment</b>: Temperature warning and alarm levels
+can be adjusted by Eaton at customer request.</p></li>
+</ul></p>
+</body>
+</topic>

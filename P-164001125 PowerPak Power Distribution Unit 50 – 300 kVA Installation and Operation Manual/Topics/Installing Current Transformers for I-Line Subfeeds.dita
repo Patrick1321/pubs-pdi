@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InstallingCurrentTransformersForI-L-CBE592B8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installing Current Transformers for I-Line Subfeeds</title>
+<body>
+<p>CTs for I-Line subfeeds cannot be factory installed because the
+internal (line) side of each I-Line CB is connected to a bus bar rather
+than to cables. Consequently, CTs must be installed over the load
+cables when the customer’s installer attaches them to the I-Line circuit
+breakers. </p>
+<p>CT sets for I-Line subfeeds are shipped unattached in the I-Line
+Side Car or Main Cabinet Extension. </p>
+<p><b>Current Transformer Sets</b></p>
+<p>CTs for I-Line subfeeds are packaged together in sets of three
+(3), one (1) set for each subfeed breaker (<xref format="dita"
+href="#./Figure22I-LineSubfeedCTSetsAndLabel-CBE6953D" scope="local"
+type="fig"><?Pub _previewtext text="I-Line Subfeed CT Sets and Labeling"
+?></xref>). </p>
+<p>Each CT is labeled by phase (ABC) with an arrow indicating direction
+of current flow. The arrow should point in the direction of the load
+when the CT is installed. </p>
+<p>Each of the (3) CTs in a set has (2) 7′ wires which are wired together
+to a 6-pin connector for connection to the BCMS monitoring system.
+The wires at the BCMS Connector end are also labeled by phase.</p>
+<fig id="Figure22I-LineSubfeedCTSetsAndLabel-CBE6953D">
+<title>I-Line Subfeed CT Sets and Labeling</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22041_P-164001125 PowerPak 2 Power Distribution Unit 50 – 300 kVA Installation and Operation Manual\Graphics\22.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>For each load cable into a circuit breaker, install the CT matching
+that phase over the cable with the arrow pointing towards the load. <note
+>The ordering of I-Line CBs (CB1, CB2, etc.) is determined by the
+customer.</note></p>
+<p>The BCMS Connector must be connected to the corresponding breaker
+socket on a “Resistor Board” (<xref format="dita"
+href="#./Figure23ResistorBoard-CBE69156" scope="local" type="fig"
+><?Pub _previewtext text="Resistor Board"?></xref>). A label in the
+I-Line section shows the Resistor Board connector positions for each
+breaker (<xref format="dita"
+href="#./Figure24ResistorBoardLayoutLabel-CBE68F69" scope="local"
+type="fig"><?Pub _previewtext text="Resistor Board Layout Label"?></xref
+>). </p>
+<p>Usually the Resistor Board cannot be placed in the I-Line section
+itself because of space limitations. However, the Resistor Board will
+be placed as close as possible to the I-Line section although the
+exact position depends on the layout of the PDU.</p>
+<fig id="Figure23ResistorBoard-CBE69156">
+<title>Resistor Board</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22041_P-164001125 PowerPak 2 Power Distribution Unit 50 – 300 kVA Installation and Operation Manual\Graphics\23.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure24ResistorBoardLayoutLabel-CBE68F69">
+<title>Resistor Board Layout Label</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22041_P-164001125 PowerPak 2 Power Distribution Unit 50 – 300 kVA Installation and Operation Manual\Graphics\24.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

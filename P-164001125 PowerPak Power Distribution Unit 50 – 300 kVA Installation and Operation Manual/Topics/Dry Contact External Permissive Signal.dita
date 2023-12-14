@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="DryContactExternalPermissiveSignal-CC5DB0BE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Dry Contact External Permissive Signal</title>
+<body>
+<p>The dry contact must be a normally open (NO) dry contact. Closing
+the contact enables the signal (<xref format="dita"
+href="#./Figure43DryContactExternalPermissiv-CC5F5AE2" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 43 Dry Contact External Permissive Signal Connection"
+?></xref>). </p>
+<p>In a two-stage external/internal system, if the dry contact is
+not connected to the terminal block, you can install a jumper in the
+terminal block to keep the external permission permanently enabled.
+This effectively reduces the two-stage system to an internal permissive
+signal only system.<fig
+id="Figure43DryContactExternalPermissiv-CC5F5AE2">
+<title>Dry Contact External Permissive Signal Connection</title>
+<image href="..\Graphics\43.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TransferProcedureExternalPermissive-CC5DB0C2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transfer Procedure: External Permissive Signal Only</title>
+<body>
+<p>If an external permissive signal is to release the SKRU key, power
+source synchronization must be independently verified. The PDU does
+not check sources for synchronization through the SYNC screen; however,
+the operator must still touch the <b>SYNC </b>screen button to release
+the SKRU key. </p>
+<p>Assuming the active source = Source 1, follow these steps:</p>
+<ol>
+<li><p>An external permissive signal must be issued to enable the
+SKRU key release. </p></li>
+<li><p>The operator should:<ol>
+<li><p>bring up the Color Monitor <b>SYNC</b> screen, </p></li>
+<li><p>touch <b>KEY RELEASE</b> on the Color Monitor SYNC screen to
+release the SKRU key, and </p></li>
+<li><p>turn the SKRU key and remove it.</p></li>
+</ol></p></li>
+<li><p>The operator should then <ol>
+<li><p>insert the key in the lock for the main breaker of the inactive
+power source (Source 2), </p></li>
+<li><p>turn the key, and </p></li>
+<li><p>close the breaker. <note>At this point, both synchronized voltage
+sources are feeding the PDU. </note></p></li>
+</ol></p></li>
+<li><p>Open the circuit breaker on Source 1. <ol>
+<li><p>Open the circuit breaker for the previously active power source
+that you are turning off. </p></li>
+<li><p>Turn the key to lock the breaker.</p></li>
+</ol></p></li>
+<li><p>Remove the key from the Source 1 circuit breaker, insert it
+into the SKRU lock, and turn the key.</p></li>
+</ol>
+<p>At this point only Source 2 is feeding the PDU, and Kirk Key locks
+prevent any inadvertent change of sources.</p>
+</body>
+</topic>

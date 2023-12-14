@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ManualOrAutomaticRestart-CDD3253C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Manual or Automatic Restart</title>
+<body>
+<p>The <b>Restart Switch</b> on the PDU board determines if restart
+is automatic after a voltage loss. The <b>170VDC</b> output connection
+on the PDU M4G Board must be connected to the main breaker trip unit
+for the Restart Switch to function —<u>the Restart Switch does not
+work with the 24VDC voltage connection</u>.<ul>
+<li><p>If the Restart Switch is set to <b>Manual </b>(<b>down</b> or
+away from the PDU Board transformer), the main breaker is tripped
+when the PDU loses voltage. When the PDU receives voltage again, the
+main breaker must then be manually reset and closed to power up the
+PDU and resume operation. </p></li>
+<li><p>If the Restart Switch is set to <b>Automatic</b> (<b>up</b
+> or towards the PDU Board transformer), the main breaker is not tripped
+on a voltage loss. The PDU resumes operation if voltage is in the
+correct range. This is the default position: the PDU is shipped with
+the Restart Switch set to <b>Automatic</b>. </p></li>
+<li><p>See <xref format="dita"
+href="Monitoring Components  1125.dita#PDUM4GBoard-CC450A09" scope="local"
+type="topic"><?Pub _previewtext text="8.3.1 PDU M4G Board"?></xref
+> PDU M4G Board and associated illustration for location of the Restart
+Switch.</p></li>
+</ul></p>
+</body>
+</topic>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PowerPakPDUSummary-046A1EFD"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PowerPak PDU Summary</title>
+<body>
+<p>The WaveStar® PowerPak Power Distribution Unit (PDU) is a versatile
+and highly configurable 50- 300 kVA PDU. Features and options include
+the following:</p>
+<p><ul>
+<li><p>50-300 kVA DOE transformer with a choice of transformer sizes,
+vectors, taps, and options, including the option of non-DOE efficiency
+standards for exempt and non-US customers. </p></li>
+<li><p>Wide variety of electrical, panelboard, and circuit breaker
+configurations. </p></li>
+<li><p>Top, bottom rear, and bottom front cable entry/exit. </p></li>
+<li><p>Manual dual PDU configuration with Kirk Key lockouts and choice
+of different permissive signals. </p></li>
+<li><p>Oversized neutrals. </p></li>
+<li><p>Optional Surge Protective Devices (SPDs) (or Transient Voltage
+Surge Suppressor (TVSS)) on input and output. </p></li>
+<li><p>Front- and side-facing Side Cars: <ul>
+<li><p>Up to (10) panelboards or (420) 1P branch circuits can be installed
+with Side Cars. </p></li>
+<li><p>Up to (12) 250A subfeeds can be installed with Side Cars. </p
+></li>
+<li><p>Square D I-Line subfeed panelboards (800A, 1000A, and 1200A)
+can be installed in specially designed Side Cars or Main Cabinet Extensions. </p
+></li>
+</ul></p></li>
+<li><p>Physically configurable for service access as front-only, front-and-rear,
+or front-rear-side(s). </p></li>
+<li><p>Can be integrated with WaveStar® Static Transfer Switches in
+Primary or Secondary Systems. </p></li>
+<li><p>Extensive monitoring capabilities: <ul>
+<li><p>WaveStar® Color Monitor as local PDU display. </p></li>
+<li><p>Monitoring for transformer, main power feeds, subfeeds, panelboards,
+and other PDU functions. </p></li>
+<li><p>Integration with the Eaton PDI family of Branch Circuit Monitoring
+System (BCMS) monitoring products. </p></li>
+<li><p>Support for Modbus RTU, Modbus TCP/IP, and SNMP protocols through
+the Color Monitor, providing communications with Building Management
+Systems and Data Center Infrastructure Management (DCIM) Systems. </p
+></li>
+<li><p>Extensive dry contact network. </p></li>
+</ul></p></li>
+</ul></p>
+<p>You should consult with your Eaton sales representative and with
+Eaton PDI Applications Engineering to select a PDU package that meets
+your application needs.</p>
+</body>
+</topic>

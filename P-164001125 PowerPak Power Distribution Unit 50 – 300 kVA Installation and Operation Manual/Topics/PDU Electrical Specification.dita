@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUElectricalSpecification-C3A0D306"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Electrical Specification</title>
+<body>
+<p><ul>
+<li><p>Input: 3-phase, 3 wire plus ground </p><p>Input Voltage <ul>
+<li><p>@ 50 Hz: 415VAC or 380VAC </p></li>
+<li><p>@ 60 Hz: 600, 480 or 208V </p></li>
+</ul></p></li>
+<li><p>Output: 3-phase, 4 wire plus ground</p></li>
+</ul><ul>
+<li><p>Output Voltage <ul>
+<li><p>@ 50 Hz: 575, 415/240, or 380/220V </p></li>
+<li><p>@ 60 Hz: 600, 575, 480, or 208/120V </p><p>Output: </p></li>
+<li><p>Neutral: computer grade neutrals for subfeeds and panelboards <ul>
+<li><p>200%-rated neutral busbars</p></li>
+<li><p>173%-rated panelboard neutrals</p></li>
+</ul></p></li>
+<li><p>Ground: Computer-grade single point safety ground</p></li>
+<li><p>Isolated ground available as option</p></li>
+</ul></p></li>
+<li><p>Emergency Power Off (EPO) button on front-mounted Color Monitor
+bezel</p></li>
+</ul></p>
+</body>
+</topic>

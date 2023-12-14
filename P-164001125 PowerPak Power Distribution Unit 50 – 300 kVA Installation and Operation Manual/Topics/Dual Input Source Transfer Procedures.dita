@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="DualInputSourceTransferProcedures-CC5DB0C1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Dual Input Source Transfer Procedures</title>
+<body>
+<p>There are three closed transition transfer procedures: <ul>
+<li><p>Internal permissive signal using Color Monitor to release the
+SKRU key </p></li>
+<li><p>External permissive signal using dry contact or 120V input,
+bypassing Color Monitor </p></li>
+<li><p>Two stage permissive signal: external signal enables internal
+signal</p></li>
+</ul></p>
+<p>Select the procedure suitable for your configuration.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transfer Procedure Internal Permissive Signal Only.dita"><xi:fallback
+><!--Fallback markup for "Transfer Procedure Internal Permissive Signal Only.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transfer Procedure External Permissive Signal Only.dita"><xi:fallback
+><!--Fallback markup for "Transfer Procedure External Permissive Signal Only.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transfer Procedure External Plus Internal Permissive Signals.dita"
+><xi:fallback><!--Fallback markup for "Transfer Procedure External Plus Internal Permissive Signals.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 391?>

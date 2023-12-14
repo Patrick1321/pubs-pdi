@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PlacingDirectlyOnFloorOrRaisedFloor-C3A12E78"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Placing Directly on Floor or Raised Floor</title>
+<body>
+<p>The PDU can be moved on a fork lift or pallet jack and placed directly
+on a floor or raised floor. The floor must be capable of supporting
+the PDU’s weight. See Section <xref format="dita"
+href="Installation Planning PDU Layouts 1125.dita#PDUDimensions-C3A04E2C" scope="local"
+type="topic"><?Pub _previewtext text="PDU Weights"?></xref> for approximate
+weights. PDUs are weighed when shipped and actual PDU weight is given
+on the bill of lading. </p>
+<p>Check that required clearances are met when the PDU is placed in
+its operating position (see <xref format="dita"
+href="Installation Planning PDU Layouts 1125.dita#Clearances-C3A04E2E" scope="local"
+type="topic"><?Pub _previewtext text="Clearances"?></xref>).</p>
+</body>
+</topic>

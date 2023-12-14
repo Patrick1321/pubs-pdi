@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="BCMSPointsLists-CC459DEB"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>BCMS Points Lists</title>
+<body>
+<p>Points lists are loaded onto BCMS PCBs at the factory. Only one
+kind of points list can be loaded into a BCMS PCB at the same time,
+but the PCB can monitor more than device that uses that points list. </p>
+<p>A 42-pole panelboard is represented by a single panelboard points
+list. An 84-pole panelboard is represented by two (2) panelboard points
+lists. Panelboard points lists include the following:<ul>
+<li><p><b>BCMS Normal</b> panelboard points list allows customization
+of circuit breaker alarms and warnings for each panelboard circuit. </p
+></li>
+<li><p><b>BCMS KWH</b> points list provides accumulated KWH measurements
+and other detailed power information for each panelboard circuit. </p
+></li>
+<li><p><b>BCMS IEC</b> panelboard points list is for IEC format panelboards
+with 36 or 72 1P circuits.</p></li>
+</ul>Subfeeds (including I-Line subfeeds) use this points list:</p>
+<ul>
+<li><p><b>BCMS Enhanced Subfeeds (ESF)</b> points list for subfeeds.</p
+></li>
+</ul>
+<p>Contact Eaton Service for information on downloading points lists
+from the Eaton website (see<xref format="dita"
+href="Introduction 1125.dita#GettingHelp-046A712B" scope="local"
+type="topic"><?Pub _previewtext text="Getting Help"?></xref>).</p><?Pub
+Caret 93?>
+<fig id="Figure30BCMSHVBoard-CC459E57">
+<title>BCMS HV Board</title>
+<image href="..\Graphics\30.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+</body>
+</topic>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SettingColorMonitorNetworkParameter-CC48CDBF"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Setting Color Monitor Network Parameters</title>
+<body>
+<p>The Color Monitor must be set up to match the customer’s physical
+network. Touch <b>SETUP</b> on the Color Monitor <b>HOME </b>screen
+to display buttons for network setup (<xref format="dita"
+href="#./Figure34ColorMonitorSETUPScreen-CC4D5692" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 34 Color Monitor SETUP Screen"?></xref>).<fig
+id="Figure34ColorMonitorSETUPScreen-CC4D5692">
+<title>Color Monitor SETUP Screen</title>
+<image href="..\Graphics\34.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>A password is required to access and change setup parameters.
+Enter the password (default is “PDI”). The user can navigate through
+any of the screens and come back to <b>SETUP</b> without having to
+re-enter the password for 10 minutes. Touch <b>PASSWORD </b>to change
+to a new password.<note type="caution">Improper configuration of a
+WaveStar Color Monitor may conflict with other monitors or devices
+on the network.</note></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Downstream Modbus Device Chain Setup.dita"><xi:fallback><!--Fallback markup for "Downstream Modbus Device Chain Setup.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus RTU Setup.dita"><xi:fallback><!--Fallback markup for "Modbus RTU Setup.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="TCP-IP and Modbus TCP-IP Setup.dita"><xi:fallback><!--Fallback markup for "TCP-IP and Modbus TCP-IP Setup.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="SNMP Setup.dita"><xi:fallback><!--Fallback markup for "SNMP Setup.dita"--></xi:fallback
+></xi:include>
+</topic>

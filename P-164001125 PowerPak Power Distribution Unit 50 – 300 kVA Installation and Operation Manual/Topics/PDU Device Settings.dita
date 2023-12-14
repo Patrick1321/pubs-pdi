@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUDeviceSettings-CC48CDC0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Device Settings</title>
+<body>
+<p>Use the <b>DEVICES</b> screen to show each device in the Color
+Monitor’s chain. By selecting a device in the list, you can change
+the generic name (e.g. “PDU”) to a name meaningful to your installation.
+Accessing the PDU device name is shown below.<fig>
+<title>Settings: PDU Device</title>
+<image href="..\Graphics\37.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+<p>To change device parameters on other devices in the PDU, such as
+panelboards or subfeeds, consult the <i>WaveStar® Color Monitor, Setup
+and Operation, P-164001109</i>.</p>
+</body>
+</topic>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Transformer-C3A0D306"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transformer </title>
+<body></body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transformer Parameters and Options.dita"><xi:fallback><!--Fallback markup for "Transformer Parameters and Options.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transformer BTUs.dita"><xi:fallback><!--Fallback markup for "Transformer BTUs.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transformer Voltage Compensation Taps.dita"><xi:fallback><!--Fallback markup for "Transformer Voltage Compensation Taps.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transformer Temperature Alarms.dita"><xi:fallback><!--Fallback markup for "Transformer Temperature Alarms.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Infrared Scan Windows.dita"><xi:fallback><!--Fallback markup for "Infrared Scan Windows.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Front-Facing Transformer.dita"><xi:fallback><!--Fallback markup for "Front-Facing Transformer.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 22?>

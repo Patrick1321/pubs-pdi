@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PermissiveSignalOptions-CC5DB0BC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Permissive Signal Options</title>
+<body>
+<p>The first step in a make-before-break transfer is sending a “permissive
+signal” to the SKRU to unlock its key. The PDU can be configured for
+any one of several mutually exclusive methods for providing a permissive
+signal. Each method must be selected at time of order and is wired
+in manufacturing: <ul>
+<li><p><b>Internal signal</b>. An internal permissive signal is generated
+through the Color Monitor’s Sync Screen. The PDU M4G Board detects
+that both input sources are synchronized and can be switched, allowing
+the operator to release the SKRU key using the Color Monitor. </p
+></li>
+<li><p><b>External signal</b>. An external permissive signal provides
+the SKRU key release directly. The PDU does not check to see that
+the two power sources are synchronized. Detecting that both power
+sources are synchronized is the customer’s responsibility. </p></li>
+<li><p><b>2-Stage External/Internal signal</b>. An external signal
+(dry contact or 120VAC) enables the internal signal. The PDU then
+determines whether both sources are synchronized and, if so, the operator
+uses the Color Monitor Sync Screen to release the SKRU key.</p></li>
+</ul></p>
+</body>
+</topic>

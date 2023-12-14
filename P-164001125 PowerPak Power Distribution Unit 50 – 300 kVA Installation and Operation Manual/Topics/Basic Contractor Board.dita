@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="BasicContractorBoard-CC451746"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Basic Contractor Board</title>
+<body>
+<fig id="Figure28BasicContractorBoard-CC451746">
+<title>Basic Contractor Board</title>
+<image href="..\Graphics\28.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+<p>The Basic Contractor Board has these connections (<xref format="dita"
+href="#./Figure28BasicContractorBoard-CC451746" scope="local" type="fig"
+><?Pub _previewtext text="Figure 28 Basic Contractor Board"?></xref
+>):</p>
+<section><title>Inputs:</title><ul>
+<li><p>Remote EPO: Customer dry contact connection point for input
+of an REPO signal. Connect external dry contacts to terminals marked <b
+>+24V EPO RET</b> (<xref format="dita"
+href="#./Figure28BasicContractorBoard-CC451746" scope="local" type="fig"
+><?Pub _previewtext text="Figure 28 Basic Contractor Board"?></xref
+>). The external REPO signal is passed to the PDU Board via the <b
+>REMOTE EPO</b> connection, which is not a customer connection point.
+A small indicator light can be powered from the +24V and the return.</p
+><note type="caution">Connecting a voltage to the +24V EPO RET dry
+contact connection can cause damage to the unit.</note></li>
+<li><p>Four (4) Building Alarms (<xref format="dita"
+href="#./Figure28BasicContractorBoard-CC451746" scope="local" type="fig"
+><?Pub _previewtext text="Figure 28 Basic Contractor Board"?></xref
+>). Alarm names can be specified by Eaton PDI in PDU Board setup.
+Building alarms turn on alarm bits in the PDU M4G Board points list
+(Modbus registers 88-89), but do not shut down the PDU. However, the
+customer can specify that a specific building alarm shuts down the
+PDU. The shut-down option must be programmed into the PDU M4G Board
+in manufacturing. (See <xref format="dita"
+href="PDU Procedures 1125.dita#AutomaticShutdownSignals-CDD3253A"
+scope="local" type="topic"><?Pub _previewtext
+text="7.3 Automatic Shutdown Signals"?></xref>.)</p></li>
+</ul></section>
+<section><title>Outputs:</title><ul>
+<li><p>Four (4) remote relays that output dry contact (NO) signals
+(<xref format="dita" href="#./Figure28BasicContractorBoard-CC451746"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 28 Basic Contractor Board"?></xref>).</p><ul>
+<li><p>Relays are programmable using the USB setup connection on the
+PDU M4G Board. Eaton PDI programs the relay inputs, usually in in
+manufacturing. So, for example, a relay can be programmed to turn
+on when a specific Building Alarm, such as a fire alarm, is received.
+The building management system or other control system receives the
+relay input and can cause PDU shutdown with an REPO signal. </p></li>
+<li><p>By default, the first, left-most relay is programmed to close
+when the PDU Summary Alarm, PDU Board points list, Modbus Register
+70, is in alarm (<xref format="dita"
+href="#./Figure28BasicContractorBoard-CC451746" scope="local" type="fig"
+><?Pub _previewtext text="Figure 28 Basic Contractor Board"?></xref
+>).</p></li>
+</ul></li>
+</ul></section>
+<p><b>Modbus Connections:</b> The board has customer connections for
+upstream and downstream 4-wire Modbus (<xref format="dita"
+href="#./Figure28BasicContractorBoard-CC451746" scope="local" type="fig"
+><?Pub _previewtext text="Figure 28 Basic Contractor Board"?></xref
+>, J3 and J4). 2-wire Modbus can be set with jumpers on the Color
+Monitor and other boards in the Modbus RTU chain.</p>
+</body>
+</topic>

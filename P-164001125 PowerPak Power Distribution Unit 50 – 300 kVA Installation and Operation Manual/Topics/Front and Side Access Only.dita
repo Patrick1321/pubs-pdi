@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="FrontAndSideAccessOnly-C3A04E2E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Front and Side Access Only</title>
+<body>
+<p>Front and side-access PDUs (one or both sides) can have the following:<ul>
+<li><p> Main Cabinet with front-facing transformer. </p></li>
+<li><p>21” front- and side-facing Side Cars, requiring 36" side service
+clearance if side access is used. </p></li>
+<li><p>9" side-facing Side Car(s), requiring 36" service clearance
+on sides with this Side Car. </p></li>
+<li><p>12" side-facing Side Car for I-Line panelboards.</p></li>
+</ul></p>
+</body>
+</topic>

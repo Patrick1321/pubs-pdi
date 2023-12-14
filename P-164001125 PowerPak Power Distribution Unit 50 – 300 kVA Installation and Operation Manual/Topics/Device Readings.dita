@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="DeviceReadings-CC48CDC0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Device Readings</title>
+<body>
+<p>Each device in the Monitor’s device chain has a READINGS screen
+chain, providing power monitoring information. <ul>
+<li><p>Select (touch) <b>DEVICES</b> to see the device list and then
+READINGS. </p></li>
+<li><p>Use <b>PREVIOUS/NEXT</b> to step through the screen chain. </p
+></li>
+</ul></p>
+<p>As an example, <b>READINGS</b> from the PDU are power measurements
+at input to and output from the PDU transformer (<xref format="dita"
+href="#./Figure38ReadingsPDU-CC4D0FE5" scope="local" type="fig"><?Pub
+_previewtext text="Figure 38 Readings: PDU"?></xref>). </p>
+<p>Screens for device readings for all devices that can be monitored
+by the Color Monitor are shown and described in <i>WaveStar® Color
+Monitor, Setup and Operation, P-164001109</i>.</p>
+<fig id="Figure38ReadingsPDU-CC4D0FE5">
+<title>Readings: PDU</title>
+<image href="..\Graphics\38.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

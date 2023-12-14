@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="MonitoringComponentSummary-CC464120"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Monitoring Component Summary</title>
+<body>
+<p>WaveStar monitoring components include the following: <ul>
+<li><p>PDU M4G Board sets PDU parameters and monitors the transformer.
+Each PDU has a Contractor Board which is an extension of the PDU Board. </p
+></li>
+<li><p>Branch Circuit Monitoring System (BCMS) PCBs collect readings
+from CT strips on panelboard current transformer (CT) strips and subfeed
+CTs and voltage measurements. </p></li>
+<li><p>A Resistor Board is intermediate between subfeed CTs and a
+BCMS PCB. It is used only with subfeeds. </p></li>
+<li><p>The WaveStar® Color Monitor displays power information about
+monitored PDU devices and passes their points list information to
+upstream Modbus master devices, such as a Building Management System
+or Data Center Infrastructure Management (DCIM).</p></li>
+</ul></p>
+<p>Monitoring components are mostly located in the Controls Compartment
+at the top of the Main Cabinet. BCMS PCBs are also placed in Side
+Cars for monitoring panelboards or subfeeds in the Side Car. </p>
+<p>The PDU also has an extensive dry contact network. See <xref
+format="dita"
+href="#SubfeedCircuitBreakerTrip-CC4526F7/Table11DryContactSignals-CC4526F7"
+scope="local" type="table"><?Pub _previewtext text="Dry Contact Signals"
+?></xref>.</p>
+<fig>
+<title>Open Controls Compartment</title>
+<image href="..\Graphics\26.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+</body>
+</topic>

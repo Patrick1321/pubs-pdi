@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TCPIPAndModbusTCPIPSetup-CC48CDC0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>TCP/IP and Modbus TCP/IP Setup</title>
+<body>
+<p>For TCP/IP, the customer must provide an Ethernet cable connected
+to the Ethernet port (RJ45 header J11) on the Monitor. (See <xref
+format="dita"
+href="#ColorMonitorNetworkConnections-CC48CDB4/Figure32ColorMonitorNetworkConnecti-CC4D1807"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 32 Color Monitor Network Connections"?></xref>.) </p>
+<p>On the <b>SETUP </b>screen, touch <b>NETWORK/SNMP</b> to display
+the network parameters for TCP/IP (<xref format="dita"
+href="#./Figure36ModbusTCPIPAndSNMPSetup-CC4D1C6B" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 36 Modbus TCP/IP and SNMP Setup"?></xref>). The following
+must be specified for Modbus TCP/IP: <ul>
+<li><p>IP Address </p></li>
+<li><p>Subnet Mask </p></li>
+<li><p>Gateway</p></li>
+</ul> </p>
+<p>Each connected monitor must be assigned a unique address. DHCP
+is not supported. </p>
+<p>Touch <b>RESTART WITH NEW SETTINGS</b> if any parameter is changed
+on this screen. The processor will reboot and search the network for
+connections.</p>
+<fig id="Figure36ModbusTCPIPAndSNMPSetup-CC4D1C6B">
+<title>Modbus TCP/IP and SNMP Setup</title>
+<image href="..\Graphics\36.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>
