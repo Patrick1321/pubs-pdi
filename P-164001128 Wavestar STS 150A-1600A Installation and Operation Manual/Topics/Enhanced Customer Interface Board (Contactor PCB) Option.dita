@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Enhanced Customer Interface Board (Contactor PCB) Option</title>
+<body>
+<p>The enhanced version of the Contractor board is available as an
+option. This expanded version allows for additional connection points
+of previously discussed interfaces as well as additional high end
+interface options.</p>
+<fig id="EnhancedCustomerInterfaceBoard-D7381573">
+<title>Enhanced Customer Interface Board</title>
+<image href="..\Graphics\30x.pdf"
+placement="-dita-use-conref-target"></image>
+</fig>
+</body>
+</topic>

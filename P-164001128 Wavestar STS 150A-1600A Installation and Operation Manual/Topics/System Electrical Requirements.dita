@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Electrical Requirements</title>
+<body>
+<ul>
+<li><p>Voltage Range: +15%, -10% of nominal </p></li>
+<li><p>Frequency: (60) Hz. +/-0.5 Hz </p></li>
+<li><p>Nominal standard Input Voltage: 208, 480, 600 volts three phase,
+3-wire-plus-ground. </p></li>
+<li><p>Frequency: (60) Hz. +/-0.5 Hz </p></li>
+<li><p>The STS continuous current rating will match or exceed the
+PDU input requirements. </p></li>
+<li><p>Output Load Capacity: The STS/PDU is rated to carry full 100%
+load continuously. </p></li>
+<li><p>Rated KAIC: 42, 65, 100KAIC at 480 volts and below. </p></li>
+<li><p>Rated KAIC: 14, 25, 42, 65, at 600 volts </p></li>
+<li><p>Rated KAIC: 100KAIC, at 600 volts, for STS rated 2000 to 4000
+amperes </p></li>
+<li><p>Standalone STS:</p><ol>
+<li><p>Nominal STS input voltage ratings are: 600vac, 480vac, 240vac,
+208vac, three phase, three wires plus ground, 60 Hz. </p></li>
+<li><p>The STS output voltage is the same as the input voltage.</p
+></li>
+</ol></li>
+<li><p>Primary or Secondary STS/PDU system:</p><ol>
+<li><p>System Load and Transformer standard KVA ratings: 75, 100,
+125, 150, 200, 225, 288, and 300 KVA. Higher ratings are available
+using 1200 and 1600 WaveStar STSs, contact the Eaton Factory or Sales
+Representative for further information. </p></li>
+<li><p>Nominal STS input voltage ratings are: 600vac, 480vac, 240vac,
+208vac, three phase, three wire plus ground, 60 Hz. </p></li>
+<li><p>Nominal system output Voltage, with nominal input voltage:
+208/120 volts three phase, 4-wireplus- ground </p></li>
+<li><p>The STS continuous current rating in a STS/PDU system will
+match or exceed the PDU input requirements</p></li>
+</ol></li>
+<li><p>Load Power Factor Range: 0.5 to 1.0, leading or lagging</p
+></li>
+<li><p>Load Crest Factor: Up to 3.5 </p></li>
+<li><p>Source Voltage Distortion: Up to 15% THD plus notches, flat
+topping or/and ringing transients </p></li>
+<li><p>Sense and Transfer Times:</p><ol>
+<li><p>POG algorithm: 4 Ms or less transfer time for outages; 2ms
+for manual transfers </p></li>
+<li><p>VSS algorithm: The Volt Second Synchronizing algorithm reduces
+the inrush of magnetic load; the transfer time can range from 4ms
+to 8 Ms depending on the phase shift between the sources.</p></li>
+</ol></li>
+<li><p>The system shall include a computer grade single point ground
+in accordance with FIPS Pub 94 and the requirements of NEC </p></li>
+<li><p>Overload Capability:</p><ol>
+<li><p>125% for 30 minutes </p></li>
+<li><p>150% for 2 minutes </p></li>
+<li><p>300% for 30 seconds </p></li>
+<li><p>500% for 10 seconds</p></li>
+</ol></li>
+<li><p>SYSTEM Environmental Conditions ratings:</p><ol>
+<li><p>Storage Temperature Range: -40° to +80°C </p></li>
+<li><p>Operating Temperature Range: 0° to 40°C </p></li>
+<li><p>Relative Humidity: 0 to 95% without condensation </p></li>
+<li><p>Operating Altitude: Up to 5000 feet above sea level without
+derating. If the operating Altitude is above 5000 feet, output current
+is derated by 6% per 1000 feet. </p></li>
+<li><p>Storage Altitude: Up to 40,000 feet above sea level </p></li>
+<li><p>Audible Noise: </p></li>
+<li><p>STS - Less than 60 dBA at 5 feet without alarm activation </p
+></li>
+<li><p>STS/PDU System - per ANSI requirements without alarm activation</p
+></li>
+</ol></li>
+</ul>
+</body>
+</topic>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="LoadScreen-D723E09E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Load Screen</title>
+<body>
+<p>Touching the “Load” button icon on the Home Screen displays the
+“Load” screen. </p>
+<p>The Load Screen displays the various phases of Sources, Outputs,
+and Total KVA, along with any trending that occurs. </p>
+<p>The Bar Chart panel on the upper half of the screen displays the
+three phases (Phase A, B, and C) for Source 1 Amps, Source 2 Amps,
+Output Amps, and Output KVA. The last three columns are Total Output
+KVA, Peak Output KVA, and Total Output KW, and have only one graphic
+bar.</p>
+<fig id="LoadScreen-D728187E">
+<title>Load Screen</title>
+<image href="..\Graphics\24x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>All graphic bars start green, but will turn yellow when they reach
+80% or higher and will turn red when they reach 100% or higher. </p>
+<p>The Trend panel on the lower half of the screen represents the
+total KVA trending that occurs over time. The bar will fluctuate with
+the ebb and flow of KVA.</p>
+</body>
+</topic>

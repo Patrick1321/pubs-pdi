@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="StatusAlarmsAndOtherDiagnosticInfor-C411CB33"
+xml:lang="en-EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Status, Alarms, and Other Diagnostic Information</title>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Points Lists.dita"><xi:fallback><!--Fallback markup for "Points Lists.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Events, Alarms, and Waveform Plots.dita"><xi:fallback><!--Fallback markup for "Events, Alarms, and Waveform Plots.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Additional Status Screens.dita"><xi:fallback><!--Fallback markup for "Additional Status Screens.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Help Screen.dita"><xi:fallback><!--Fallback markup for "Help Screen.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 51?>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="HarmonicsScreen-CEFCA4F0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Harmonics Screen</title>
+<body>
+<p>Touching the <b>Harmonic </b>button in the navigation buttons displays
+the <b>Harmonics </b>screen (<xref format="dita"
+href="#./Figure34HarmonicsScreen-CEFC290E" scope="local" type="fig"
+><?Pub _previewtext text="Figure 34 Harmonics Screen"?></xref>). <fig
+id="Figure34HarmonicsScreen-CEFC290E">
+<title>Harmonics Screen</title>
+<image href="..\Graphics\34.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>The <b>Harmonics </b>screen displays harmonics for <ul>
+<li><p>STS output voltage harmonics as percent of total waveform. </p
+></li>
+<li><p>STS output current harmonics at percent of total waveform.</p
+></li>
+</ul></p>
+<p>Harmonics are represented in a bar chart and each phase has a color-coded
+bar: Phase A is black, Phase B is red, and Phase C is blue. The yellow
+bar on the left side of the panel represents the Total Harmonic Distortion
+(THD). AC harmonics are always odd-numbered (3rd, 5th, 7th harmonic,
+etc.). </p>
+</body>
+</topic>

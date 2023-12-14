@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="NormalModeOperation-CEE1506E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Normal Mode Operation</title>
+<body>
+<p>For normal operation, the <b>MODE OF OPERATION</b> toggle switch
+on the ROI panel should be set to NORMAL. The STS should be left in
+Normal mode for all but unusual circumstances. (See <xref format="dita"
+href="Operational Interfaces 1127.dita#RedundantOperatorInterface-D2942929/Figure16RedundantOperatorInterfaceR-D29663BC"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 16 Redundant Operator Interface (ROI)"?></xref>, Redundant
+Operator Interface (ROI).) </p>
+<p>In Normal mode, when the active source falls out of specification,
+transfer to the other power source is automatic. There are three (3)
+operational choices that govern automatic transfers:<ol>
+<li><p>Transfer algorithm: choose between VSS or POG; default=VSS.
+(See <xref format="dita"
+href="System Setup Operation 1127.dita#SwitchSettingsScreen-CEF58935"
+scope="local" type="topic"><?Pub _previewtext
+text="Switch Settings Screen"?></xref> and <xref format="dita"
+href="Introduction System Description 1127.dita#TransferProcessAlgorithms-D289C2EF"
+scope="local" type="topic"><?Pub _previewtext
+text="Transfer Process: Algorithms "?></xref>.) </p></li>
+<li><p>Preferred Source: choose whether Source 1 or Source 2 is the
+preferred power source; default=Source 1 (see <xref format="dita"
+href="Operational Interfaces 1127.dita#HomeScreen-D2941F73/Figure13TouchscreenDisplayHomeScree-D2942719"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 13 Touchscreen Display: Home Screen"?></xref> Home screen). </p
+></li>
+<li><p> re-transfer = Yes or No: after a transfer to the alternate
+source (i.e., the non-preferred source), should the STS automatically
+re-transfer back to preferred source when that source is good or remain
+on the alternate source? Default=Yes (See <xref format="dita"
+href="System Setup Operation 1127.dita#SwitchSettingsScreen-CEF58935"
+scope="local" type="topic"><?Pub _previewtext
+text="Switch Settings Screen"?></xref>).</p></li>
+</ol></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Preferred Source.dita"><xi:fallback><!--Fallback markup for "Preferred Source.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Retransfer Control.dita"><xi:fallback><!--Fallback markup for "Retransfer Control.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Manual Transfers.dita"><xi:fallback><!--Fallback markup for "Manual Transfers.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Special Transfer Situations.dita"><xi:fallback><!--Fallback markup for "Special Transfer Situations.dita"--></xi:fallback
+></xi:include>
+</topic>

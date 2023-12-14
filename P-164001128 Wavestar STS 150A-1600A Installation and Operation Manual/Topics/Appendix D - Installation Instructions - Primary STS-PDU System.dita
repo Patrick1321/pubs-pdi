@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixDInstallationInstructionsPr-D62F749B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix D – Installation Instructions – Primary STS/PDU System</title>
+<body>
+<p>The WaveStar STS must be commissioned and acceptance tested by
+Eaton certified technician(s).</p>
+<ol>
+<li><p><b>Site Test and Initial Power UP (Phasing)</b>: <ul>
+<li><p>All the work performed in this section must be performed or
+witnessed by a Eaton Service Representative. </p></li>
+<li><p>Before applying power to the STS/PDU system, open all MCSW
+or MCCBs in the STS and PDU </p></li>
+<li><p>Before applying utility input power to the unit, the installing
+electrician and the Eaton service representative should be present
+to verify that the following initial conditions are met: <ul>
+<li><p>Inspect the power input and output bus connections and the
+building electrical service. </p></li>
+<li><p>Sizing of the building electrical service and voltage must
+match the WaveStar Bill of Materials (see <xref format="dita"
+href="System Unpack and Inspection 1128.dita#SystemUnpackAndInspection1128-C428065B"
+scope="local" type="topic"><?Pub _previewtext
+text="System Unpack and Inspection"?></xref>). </p></li>
+<li><p>Connection to the grounding electrode conductor. </p></li>
+<li><p>Check the building electrical service for correct voltage and
+over current protection.</p></li>
+</ul></p></li>
+<li><p>Verify all unit circuit breakers are in the OPEN or "OFF" position. </p
+></li>
+<li><p>Once all of the above conditions are met, incoming power should
+be applied by energizing the building power circuit breaker supplying
+the STS/PDU system. The following measurements should now be performed:</p
+></li>
+<li><p>Measure the incoming voltage at the input to the STS. This
+should match the units rating (+5% to -10% from nominal rating). </p
+></li>
+<li><p>Check the phase rotation, (clockwise), and voltage at the source
+# 1 Power Input bus.</p></li>
+</ul></p></li>
+<li><p><b>STS Phasing Verification</b>: <ul>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "a" poles on the line side of all input Circuit
+Breakers. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "b" poles on the line side of all input Circuit
+Breaker's. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "c" poles on the line side of all input Circuit
+Breakers. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "a" poles on the line side of all bypass Circuit
+Breakers. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase “b” poles on the line side of all bypass Circuit
+Breakers. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase “c” poles on the line side of all bypass Circuit
+Breakers.</p></li>
+</ul></p></li>
+<li><p><b>PDU energizing</b> <ul>
+<li><p>Place the STS in bypass mode on S1 or S2. </p></li>
+<li><p>Close the PDU input MCCB and verify voltages on the STS monitor. </p
+></li>
+<li><p>Close the distribution MCCBs and verify voltages on the STS
+monitor</p></li>
+</ul></p></li>
+<li><p><b>Acceptance Testing</b> </p><p>Complete the site acceptance
+test as indicated in the "Site Acceptance Report". This test will
+be performed by a Eaton certified service technician. The technician
+will ask the customer representative to sign the completed acceptance
+test report/work order, at which point the warranty period will begin.</p
+></li>
+</ol>
+</body>
+</topic>

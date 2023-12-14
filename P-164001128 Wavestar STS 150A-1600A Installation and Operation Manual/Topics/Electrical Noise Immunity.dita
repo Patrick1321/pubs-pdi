@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Electrical Noise Immunity</title>
+<body>
+<p>Noise immune signal bus(s) are used; optical and/or Can Bus are
+used to route signal between logic PCBs. </p>
+<p>Each Signal Bus continuously transmits “Bus Integrity” signals,
+when not transmitting true data. If the “Bus Integrity” signals are
+not received by all receivers, then that bus is considered discontinuous
+and is alarmed. All signal buses are tri-redundant. The CAN Bus has
+circular redundancy so that there are two paths; one path can be severed
+and the signal will flow via the other path.</p>
+</body>
+</topic>

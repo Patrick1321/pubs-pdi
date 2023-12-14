@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<topic id="AAggregatorReactorSpecifications-AB5E544C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>2500A Aggregator Reactor Specifications</title>
+<body>
+<table>
+<tgroup cols="2">
+<?PubTbl tgroup dispwid="466.00px"?>
+<colspec colname="col1" colwidth="0.93*"/><colspec colname="col2"
+colwidth="1.07*"/>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray1"?><b>Operating Voltage</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?>480V</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Frequency</b
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>50Hz</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Inductance</b
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>67uH
++/- 10%</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Phase</b
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>3</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Rated
+Current</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>2500A</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Insulation
+Class</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>240°C</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Temperature
+Rise</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>150°C</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Withstand
+Rating</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>65000A</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Current
+Limiting</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>14000A</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Losses
+(W)</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>8000W</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table>
+<tgroup cols="8"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/><colspec colname="col4"/><colspec
+colname="col5"/><colspec colname="col6"/><colspec colname="col7"/>
+<colspec colname="col8"/>
+<tbody>
+<row>
+<entry nameend="col8" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"?><p
+>Voltage Drop across 2500 A 67 μH CURRENT LIMITING REACTOR</p><p>Available
+Fault Current 55 kA @ 400 V 50 Hz Source Impedance 4.2 mOhm = 13.37
+μH</p><p> Reactance at 50Hz is 0.0218 Ohm</p><p>Total Impedance =
+80.37 μH = 25.24 mOhm</p><p>Voltage Drop Across Reactor per Phase
+= 63 Volt @ 2500 A</p></entry><?Pub Caret -1?>
+</row>
+<row>
+<entry morerows="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray1"?><b>Current A</b></entry>
+<entry morerows="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Ph/Ph
+Voltage Drop Across Reactor</b></entry>
+<entry nameend="col4" namest="col3"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Power
+Factor 0.8 Lag </b></entry>
+<entry nameend="col6" namest="col5"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Power
+Factor Unity</b></entry>
+<entry nameend="col8" namest="col7"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray1"?><b>Power
+Factor 0.9 Lead</b></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray1"?><b>Load Voltage Volt</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray1"?><b>Percent Voltage Drop</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray1"?><b>Load Voltage Volt</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray1"?><b>Percent Voltage Drop</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray1"?><b>Load Voltage Volt</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray1"?><b>Percent Voltage Rise</b></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>250</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>10.93 </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>393.54</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>1.62</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>399.85</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>0.04 </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>404.88</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>1.22</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>500</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>21.87</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>387.28</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>3.18</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>399.40</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>0.15 </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>410.00</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>2.50</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>750</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>32.80</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>381.23</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>4.69</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>398.65</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>0.34</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>415.35</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>3.84</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>1000</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>43.73</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>375.40</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>6.15</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>397.60</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>0.60</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>420.90</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>5.23</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>1250</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>54.66</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>369.80</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>7.55</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>396.25</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>0.94</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>426.67</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>6.67</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>1500</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>65.60</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>364.44</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>8.89</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>394.58</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>1.35</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>432.64</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>8.16</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>1750</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>76.53</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>359.34</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>10.17</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>392.61</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>1.85</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>438.79</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>9.70</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>2000</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>87.46</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>354.50</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>11.38</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>390.32</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>2.42</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>445.14</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>11.28</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>2250</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>98.39</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>349.93</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>12.52</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>387.71</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>3.07</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>451.65</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>12.91</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>2500</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>109.33</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>345.65</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>13.59</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>384.77</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>3.81</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>458.34</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>14.58</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p></p>
+</body>
+</topic>

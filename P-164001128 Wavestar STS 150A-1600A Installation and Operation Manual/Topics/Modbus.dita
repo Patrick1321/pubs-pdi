@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus</title>
+<body>
+<p>The STS has an isolated RS422/RS485 Modbus RTU interface with soft
+bias provided. It can be configured for baud rate, parity, and address.
+Note that the address range is 1 to 255 and that the address if each
+device must be unique. Refer to <xref format="dita"
+href="Settings Screen.dita" scope="local" type="topic"><?Pub _previewtext
+text="Settings Screen"?></xref>for information on the configuration
+screen. Jumpers on the monitor circuit board select either a 2 wire
+or 4 wire configurations for connection. Contact Eaton Customer Service
+(1-800-843-9433).for assistance. The external connection for the RS422/RS485
+is provided for by terminals that are located on the Customer Interface
+(Contractor)board. Refer to <xref format="dita"
+href="Remote Customer Interface 1128.dita" scope="local" type="topic"
+><?Pub _previewtext text="Remote Customer Interface 1128"?></xref
+> for information on the contractor board. The points list for the
+remote communication will be provided with the order, but you can
+contact the factory @ 1-800-843-9433 with the serial number of the
+unit and ask for customer support to e-mail you an electronic version.</p>
+</body>
+</topic>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Glossary1127-C415A7AC" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Glossary</title><?Pub Caret -2?>
+<body>
+<p><simpletable relcolwidth="0.27* 1.73*">
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none" border-top-style="none"?><p>BMS </p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"
+border-top-style="none"?><p>Building Management System.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>dBA </p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Decibel A-weighting.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>IRIG time codes</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Inter-Range Instrumentation Group time codes.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>KAIC</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Kilo Ampere Interrupting Capacity, or Thousand Ampere Interrupting
+Capacity, a rating of the maximum short-circuit or overload current
+that a circuit breaker can safely interrupt.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>LL RMS</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Line-to-line, root mean squared.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>MCCB</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Molded case circuit breaker.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>Modbus RTU</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Modbus Remote Terminal Unit, the basic Modbus protocol.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?>Modbus TCP/IP</stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?>Modbus
+RTU messages wrapped in TCP/IP protocol, providing faster communications
+than Modbus RTU.</stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>NC</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Normally closed; refers to the normal state of a dry contact when
+not signaling an event. The dry contact opens to signal an event.</p
+></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>NO</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Normally open; refers to normal state of a dry contact when not signaling
+an event. The dry contact closes to signal an event.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>PIN</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Personal Identification Number, used to identify users and track
+their activities. Each user PIN is associated with a user name, access
+authorization, and a password.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>POG</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Power or Gate.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>Power or Gate</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Power or Gate (POG) is the faster of the two STS 2000A transfer algorithms,
+but does not reduce transformer inrush as does the VSS algorithm.
+See also <i>Volt Second Synchronizing</i>.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>ROI</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Redundant Operator Interface.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>SAS</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Simple Algorithm Switch.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>SAS Board</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>A logic board that backs up the Monitor logic. The SAS board monitors
+transfers and takes over a transfer operation if it senses that the
+Monitor is not functional. The SAS board has a simpler transfer algorithm
+than the Monitor’s VSS or POG algorithms.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>SCR</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>silicon-controlled rectifier.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>silicon-controlled rectifier</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>The semiconductor power-switching element used in the WaveStar Static
+Transfer Switch.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>SMTP</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Simple Mail Transfer Protocol.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>SNMP</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Simple Network Management Protocol.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>SNTP</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Simple Network Time Protocol.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>STS</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Static Transfer Switch.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>static transfer switch</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>A transfer switch using semiconductor power switching elements, such
+as silicon controlled rectifiers.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>TCP/IP</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Transmission Control Protocol/Internet Protocol, the standard Internet
+protocol.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>THD</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Total harmonic distortion.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>UTC</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Coordinated Universal Time.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>VSS</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>Volt Second Synchronizing.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>Volt Second Synchronizing</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>The Volt Second Synchronizing (VSS) algorithm reduces transformer
+inrush, limiting it to 150% of the transformer rating, but in practice
+usually much less, typically less than 100% of the full load transformer
+rating. The VSS algorithm is patented by PDI.</p></stentry>
+</strow>
+<strow>
+<stentry><?PubTbl cell border-bottom-style="none" border-left-style="none"
+border-right-style="none"?><p>WaveStar</p></stentry>
+<stentry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><p
+>WaveStar devices can interact with downstream Branch Circuit Monitoring
+Systems.</p></stentry>
+</strow>
+</simpletable></p>
+</body>
+</topic>

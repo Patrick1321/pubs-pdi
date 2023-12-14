@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SystemLayout-D289AC87"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Layout</title>
+<body>
+<p>Figures <xref format="dita"
+href="#./Figure1STS2000A3-poleGeneralAssembl-D289E1F1" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 1 STS 2000A 3-pole, General Assembly Drawing"?></xref
+>, <xref format="dita"
+href="#./Figure2STS2000AFrontViewPanelsOff-D28A012C" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 2 STS 2000A Front View, Panels Off"?></xref>, and <xref
+format="dita" href="#./Figure4STS2000ARearViewPanelsOff-D28A069E"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 4 STS 2000A Rear View, Panels Off"?></xref> show the
+layout of the STS 2000A. Figure <xref format="dita"
+href="#./Figure3OperatorInterfacesTouchscree-D28A03AA" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 3 Operator Interfaces: Touchscreen Display and Redundant Operator Interface"
+?></xref> shows operator interfaces. Figure <xref format="dita"
+href="#./Figure5STS2000A3-PoleOne-lineDiagra-D28A08F6" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 5 STS 2000A 3-Pole One-line Diagram"?></xref> has the
+1-line electrical drawing.</p>
+<fig id="Figure1STS2000A3-poleGeneralAssembl-D289E1F1">
+<title>STS 2000A 3-pole, General Assembly Drawing</title>
+<image href="..\Graphics\1.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure2STS2000AFrontViewPanelsOff-D28A012C">
+<title>STS 2000A Front View, Panels Off</title>
+<image href="..\Graphics\2x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure3OperatorInterfacesTouchscree-D28A03AA">
+<title>Operator Interfaces: Touchscreen Display and Redundant Operator
+Interface</title>
+<image href="..\Graphics\3.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure4STS2000ARearViewPanelsOff-D28A069E">
+<title>STS 2000A Rear View, Panels Off</title>
+<image href="..\Graphics\4.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure5STS2000A3-PoleOne-lineDiagra-D28A08F6">
+<title>STS 2000A 3-Pole One-line Diagram</title>
+<image href="..\Graphics\5.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+<p> Notes for figure 5:</p>
+<p><image href="..\Graphics\Note2.pdf" scale="85" scope="local">
+</image></p>
+</fig>
+</body>
+</topic>

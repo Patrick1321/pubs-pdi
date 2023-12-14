@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SystemSetupAdministration1127-C41080E2" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Setup: Administration</title><?Pub Caret -2?>
+<body>
+<p>This chapter describes administrative setup.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Administrative Access Level.dita"><xi:fallback><!--Fallback markup for "Administrative Access Level.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Initial Administrator Access.dita"><xi:fallback><!--Fallback markup for "Initial Administrator Access.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Users Screen.dita"><xi:fallback><!--Fallback markup for "Users Screen.dita"--></xi:fallback
+></xi:include>
+<?Pub _newpage?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Setting Up a New User.dita"><xi:fallback><!--Fallback markup for "Setting Up a New User.dita"--></xi:fallback
+></xi:include>
+</topic>

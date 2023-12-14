@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TransferProcessPowerSwitchingCompon-D289C2F1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transfer Process: Power Switching Components</title>
+<body>
+<p>There are three sets of Molded Case Circuit Breakers (MCCBs) or
+Molded Case Switches (MCSWs) controlling whether the system is in
+Normal or Bypass Mode and two sets of SCRs, which provide power switching
+for transfers: </p>
+<p>Source 1 MCCB and Source 2 MCCB are breakers from the two power
+sources to the SCRs. </p>
+<p>SCR 1 and SCR 2 open or close to control which source powers the
+load. </p>
+<p>Bypass 1 MCCB and Bypass 2 MCCB are used to shunt power around
+STS logic and power switching elements for maintenance. </p>
+<p>Isolation 1 MCSW and (optional) Isolation 2 MCSW isolate components
+for maintenance during Bypass Mode. The second optional isolation
+MCSW provides redundancy.</p>
+<fig id="Figure6NormalModeMCCBMCSWAndSCRConf-D28D5DA2">
+<title>Normal Mode MCCB/MCSW and SCR Configuration</title>
+<image href="..\Graphics\6.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>In Normal Mode operation (<xref format="dita"
+href="#./Figure6NormalModeMCCBMCSWAndSCRConf-D28D5DA2" scope="local"
+type="fig">Figure 6</xref>), the Monitor controls the transfer process: <ul>
+<li><p>The MCCBs for Source 1 and 2 are both closed, allowing a power
+path from either source, henceallowing the load to be automatically
+transferred from one source to the other. </p></li>
+<li><p>The Isolation MCSWs are closed to provide a power path for
+either source. </p></li>
+<li><p>System logic opens or closes SCR 1 or SCR 2 to transfer the
+load rapidly from one source to the other. </p></li>
+<li><p>Bypass 1 and 2 MCCBs are both open while the bypass is unused. </p
+></li>
+</ul></p>
+<p>The Monitor logic continuously monitors the two power sources using
+its sensing algorithms and controls transfers, using the POG or VSS
+algorithm, as specified by the user. The Monitor is itself continuously
+monitored by the Simple Algorithm Switch (SAS), which provides a backup
+transfer process using a simpler algorithm, if the Monitor fails.<fig
+id="Figure7STSOnBypassBypass1-D28D793A">
+<title>STS on Bypass (Bypass 1)</title>
+<image href="..\Graphics\7.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+<p>In Bypass Mode operation (<xref format="dita"
+href="#./Figure7STSOnBypassBypass1-D28D793A" scope="local" type="fig"
+>Figure 7</xref>), operators isolate logic and power components for
+maintenance by changing the open/closed MCCB and MCSW states. Kirk
+Keys enforce correct coordination between breakers, preventing cross-currents
+between sides.</p>
+</body>
+</topic>

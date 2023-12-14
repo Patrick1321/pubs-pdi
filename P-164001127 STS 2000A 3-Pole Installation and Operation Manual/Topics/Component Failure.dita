@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Component Failure</title>
+<body>
+<p>The STS has substantial component redundancy and a single component
+failure will normally not impact operation. Nevertheless, if alarms
+indicate component failure, call Eaton Service (1-800-843-9433).</p>
+</body>
+</topic>

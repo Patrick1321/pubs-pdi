@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modes of Operation for the STS or STS/PDU System</title>
+<body>
+<p>The four available modes of operation are:<ol>
+<li><p>Normal mode - the STS operate per the above listed description </p
+></li>
+<li><p>Remote Operator Interface mode – the operating of the STS is
+transferred to the remote panel with LED indicators and toggle switches. </p
+></li>
+<li><p>Bypass - The WaveStar STS unit/system is equipped with Bypass
+MCCBs or MCSWs so that the unit can be placed in a configuration where
+the logic can be disconnected. This action requires the operator to
+toggle Kirk Keys and bypass breakers/switches to the desired source.
+Information on operation of this is found later in the manual and
+there is also information through the Help Screen to perform the Bypass
+operation. </p></li>
+<li><p>Maintenance mode – the STS Unit is equipped with a Maintenance
+Bypass switch to bypass the logic for clearing of certain faults without
+taking the unit to Bypass. Consult with Eaton Customer Support prior
+to using this mode.</p></li>
+</ol></p>
+</body>
+</topic>

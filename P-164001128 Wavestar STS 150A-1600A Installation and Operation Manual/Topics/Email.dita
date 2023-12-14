@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Email</title>
+<body>
+<p>The STS can send email by SMTP if an alarm condition exists. The
+IP address of the SMTP server, domain, name, from email address, and
+the recipient’s email address can be set from the EMAIL screen; refer
+to section X. The email will include a link to the alarm web page.</p>
+</body>
+</topic>

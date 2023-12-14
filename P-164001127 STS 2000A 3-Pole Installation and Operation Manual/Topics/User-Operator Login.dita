@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="UserOperatorLogin-D2942927"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>User/Operator Login</title>
+<body>
+<p>Viewing screens does not require login, nor does viewing screens
+remotely using a web browser. However, to use controls or change parameters,
+a user must log in from the <b>Operator </b>panel on the <b>Home</b
+> screen and have an access level that permits the action. </p>
+<p><u>Only one user can be logged into the STS at a time</u>. While
+logged in, a user’s access level applies to all actions taken at the
+display. </p>
+<p>To log in or log out, follow instructions in <xref format="dita"
+href="#./Figure14LoggingInFromTheHomeScreen-D2952C44" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 14 Logging in from the Home Screen"?></xref> and <xref
+format="dita" href="#./Figure15KeyboardScreen-D2952F05" scope="local"
+type="fig"><?Pub _previewtext text="Figure 15 Keyboard Screen"?></xref
+>. Every time a user logs in or out, the event is recorded in the
+Event Log. After five (5) minutes of operator inactivity, the display
+reverts to the <b>Home</b> screen and the active user is logged out
+to prevent inadvertent or non-authorized operator access.<fig
+id="Figure14LoggingInFromTheHomeScreen-D2952C44">
+<title>Logging in from the Home Screen</title>
+<image href="..\Graphics\14.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><fig id="Figure15KeyboardScreen-D2952F05">
+<title>Keyboard Screen</title>
+<image href="..\Graphics\15a.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

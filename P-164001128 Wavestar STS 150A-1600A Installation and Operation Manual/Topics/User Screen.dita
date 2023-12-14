@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="UserScreen-D723E09E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>User Screen</title>
+<body>
+<p>Touching the “User” button icon on the Home Screen displays the
+“User” screen. </p>
+<p>The Users Screen display show many Users are active and provides
+for the Administrator to set up new users and their level of access
+to the switch. Each user will be assigned a Password and PIN #. The
+Administrator is the only user allowed access to setup Names, Pins,
+Passwords, and Class. The arrow keys on the right side of the screen
+allow the Administrator to select the user to be set up or modified.
+Then by using one of the four icons below, the Name, PIN, password
+and Class can beset through the use of the either the Keyboard or
+Numeric Screen.</p>
+<fig id="UsersScreen-D7285172">
+<title>Users Screen</title>
+<image href="..\Graphics\25x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

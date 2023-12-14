@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixLInternalConnectionDetail-D62F845F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix L – Internal Connection Detail</title>
+<body>
+<p>Connection to the input breakers (Source 1 and Source 2) is made
+directly to the bus work on the backof the breakers. This bus work
+is provide with pre-drilled holes for standard two hole lugs that
+have 1¾"spacing and ½" diameter holes.</p>
+<p>Lugs for connection to the bus are provided by others (i.e. The
+installing Contractor) and should be sized to fit these dimensions.. </p>
+<fig>
+<image href="..\Graphics\43x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig>
+<image href="..\Graphics\44x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

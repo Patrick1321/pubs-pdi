@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="HomeScreen-D723E08F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Home Screen</title>
+<body>
+<p>The Home Screen is the first screen displayed when the unit is
+turned on and it is also displayed when the “home” screen icon is
+touched at the bottom of the screen from any other screen. This screen
+displays STS input source power parameters, output power parameters,
+unit status, graphic one line, and rotary switch icon.<fig
+id="HomeScreen-D722A903">
+<title>Home Screen</title>
+<image href="..\Graphics\4x.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig><note>The monitor will revert back to the Home Screen after
+5 minutes of operator inactivity. When this happens, the Operator
+will be logged out to prevent inadvertent or non-authorized operator
+usage.</note>The monitor is designed as so anyone can view the different
+screens for unit and power information, but a login is required in
+order to make any changes through the monitor. This is started from
+the Home Screen in the section marked for Operator Login. The operator
+presses the “Log In” Icon, which will display the Keyboard screen
+for password and PIN # entry. Once entered, the operators PIN #, time,
+and date will be documented in the event log. To log in, the password
+is entered, and then the right arrow key followed by the PIN#. Once
+this is entered, press “OK”.<fig id="KeyboardScreen-D722A6C1">
+<title>Keyboard Screen</title>
+<image href="..\Graphics\5x.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p><?Pub Caret 100?>
+<p>To Log out of the STS monitor, you press the “Log In” Icon and
+then press the “Cancel” Icon in the Keyboard Screen. This will take
+you back to the Home Screen as “Locked”</p>
+<p>There are four levels of Passwords (PW’s) available:<ol>
+<li><p><b>Administrator: </b>no restrictions with the exception of
+calibration (only Eaton authorized service representatives can calibrate
+the unit), the Administrator is the only operator that can clear the
+event log and set the password and PIN# levels. </p></li>
+<li><p><b>Manager:</b> Same as the Administrator, except a manager
+cannot clear the Event Log, change remote communication parameters,
+or setup user password and PIN#. </p></li>
+<li><p><b>Operator:</b> Can only operate the home screen preferred
+source control and internal MCSW/MCCBs, without alarms. The operator
+can view all collected data through screen viewing. </p></li>
+<li><p><b>Service:</b> These are the passwords set for Eaton Authorized
+service representatives for when they come in to the site for scheduled
+and non scheduled maintenance. These passwords will be pre-set in
+the monitor prior to shipment. This has no restriction, with the exception
+that Service cannot clear the Event Log. This must be approved and
+completed under the Administrator login.</p></li>
+</ol></p>
+<p>Once the unit is started up, contact Eaton service or work with
+the technician at the startup to get a temporary Administrator Password
+and PIN #. The password allows access and the PIN # identifies the
+operator. The administrator must never give out his password and PIN
+#, the STS security is based on the identification of all operators
+via the PIN #, and this security provides for accurate forensics if
+there is problem with the STS. </p>
+<p>To initially set up STS users (the Operators), the Administrator
+presses the Log In icon. This will bring up the Keyboard Screen. When
+the administrators password and PIN # is entered and the OK Icon is
+touched, the Users Screen will be displayed. </p>
+<p>The administrator will enter all of the other user (Manager and
+Operator) information, passwords and PIN #s </p>
+<p>Change the administrator password and PIN # </p>
+<p>Add spare PIN #’s for new operators.</p>
+<p>Passwords and PIN #’s for use by Eaton service will be pre-installed
+on the unit when it arrives to the site by Eaton. </p>
+<p>After initial startup, commissioning testing or restart, the administrator
+should clear any alarms that occurred during testing. </p>
+<p>The operators PIN#, time, and date will be documented in the event
+log which can be accessed by pressing the Log Icon at the bottom of
+the Home Screen. Viewing screens to obtain data does not require log-in.</p>
+<p>The row of button icons at the bottom of the screen will select
+all other major screens when pressed. The “next” icon will display
+two more rows of button icons.<fig id="ButtonIcons-D722A342">
+<title>Button Icons</title>
+<image href="..\Graphics\6x.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>The Controls section of the Home Screen allows the operator
+to select the “preferred source” and switch between two sources. After
+a successful login, the operator can switch the preferred source by
+touching the virtual switch to move from Source 1 to Source 2 as shown
+in the picture below. When this switch is moved the Execute Icon will
+be highlighted as a precaution. The operator must press the Execute
+Icon to transfer the source, or the Cancel.<fig
+id="ControlsPanel-D722A0A5">
+<title>Controls Panel</title>
+<image href="..\Graphics\7x.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>The Status Panel displays the general status of the unit. It
+shows which source is open or available, which bypass is being used,
+and how many alarms are present. </p>
+<p>The Normal/Alarm icon found between the “Status” panel and the
+Graphic One Line, determines if there are any alarms present. If the
+Icon is green and reads Normal, then the CB/MCCB is in normal position
+and there are no alarms. If the Icon is red and reads Alarm, then
+the operator should press the Alarms Icon button on the bottom row
+to access the Alarms screen for details.<fig id="StatusPanel-D722B95A">
+<title>Status Panel</title>
+<image href="..\Graphics\8x.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p>
+<p>The Graphic One line is a display of the direction of the current.
+At the top of the Graphic One Line is the text display of both STS
+input source, and power parameters. Also the degree of phase shift
+between sources is displayed. At the bottom is the text display of
+the STS output power parameters.</p>
+<fig id="GraphicOneLine-D722D7C9">
+<title>Graphic One Line</title>
+<image href="..\Graphics\9x.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+</body>
+</topic>

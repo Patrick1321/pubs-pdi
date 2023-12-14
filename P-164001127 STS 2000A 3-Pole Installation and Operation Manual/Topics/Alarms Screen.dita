@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AlarmsScreen-CEFCAF37"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Alarms Screen</title>
+<body>
+<p>Touch <b>Alarms </b>button alarms on <b>Home </b>or other screens
+to display the <b>Alarms </b>screen. </p>
+<p>When there are alarms indicated, view the <b>Alarms </b>screen
+at the unit (<xref format="dita" href="#./Figure31AlarmsScreen-CEFB1100"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 31 Alarms Screen"?></xref>) or in a web browser. <fig
+id="Figure31AlarmsScreen-CEFB1100">
+<title>Alarms Screen</title>
+<image href="..\Graphics\31.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>The <b>Alarms </b>screen displays all alarms with date-time
+stamps and the points’ names. The point names are the same as in the
+points lists.</p>
+<p>Touching the <b>Reset </b>button will clear all points from the <b
+>Alarms </b>Screen. If the alarm conditions remain active in the unit
+after clearing the screen, the alarms will show again. </p>
+</body>
+</topic>

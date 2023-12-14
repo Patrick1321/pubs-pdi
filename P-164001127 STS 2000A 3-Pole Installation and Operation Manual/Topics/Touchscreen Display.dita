@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TouchscreenDisplay-D2941F76"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Touchscreen Display</title>
+<body>
+<p>The STS has a 10.4-inch diagonal touchscreen display. The STS has
+a comprehensive set of screens covering setup, transfer controls,
+alarms, events, status, and measurements. </p>
+<p>Changes to controls or parameters must be made from the touchscreen
+display; they cannot be changed remotely from a Building Management
+System (BMS) or from a web browser. (The BMS can issue dry contact
+control signals, such as Remote EPO or Remote Source Select.)</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Voice Unit.dita"><xi:fallback><!--Fallback markup for "Voice Unit.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Home Screen.dita"><xi:fallback><!--Fallback markup for "Home Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Navigation Buttons.dita"><xi:fallback><!--Fallback markup for "Navigation Buttons.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="User-Operator Login.dita"><xi:fallback><!--Fallback markup for "User-Operator Login.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 466?>

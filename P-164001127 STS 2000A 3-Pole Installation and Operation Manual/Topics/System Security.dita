@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SystemSecurity-D289C2F6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Security</title>
+<body>
+<p>The STS 2000A is designed for mission-critical environments and
+has security features appropriate to that environment: <ul>
+<li><p>The administrator assigns each user a unique Personal Identification
+Number (PIN) associated with an access level, such as administrator
+or operator, determining what actions the user can perform. </p></li>
+<li><p>A PIN and password are required to login. </p></li>
+<li><p>No changes to system parameters or STS operation can be made
+through the touchscreen Monitor without a valid user login, and no
+changes at all can be made remotely via web access. </p></li>
+<li><p>Only one user can be logged in at a time. The Event Log records
+and time-stamps the user’s login, changes to parameters or actions
+while the user is logged in, and the user’s logout. </p></li>
+<li><p>Doors require a key to be opened, controlling access to the
+MCCBs/MCSWs, ROI, and components. </p></li>
+<li><p>When an STS font door is opened, the unit alarms and the alarm
+is logged into the Event Log.</p></li>
+</ul></p>
+</body>
+</topic>

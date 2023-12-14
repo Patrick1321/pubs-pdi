@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SystemSetupNetworking1127-C4115BF8" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Setup: Networking</title><?Pub Caret -2?>
+<body>
+<p>The parameters for networking options are mainly found on the Settings
+screen. The STS has several networking options, which can all be used
+simultaneously.</p>
+<p>In addition, the STS has several methods to provide summary alarm
+notifications, including by email and modem. Dry contacts provide
+a separate means of communication, using the Contractor Boards (See <xref
+format="dita" href="Customer Communications Connections 1127.dita" scope="local"
+type="topic"><?Pub _previewtext
+text="Customer Communications Connections 1127"?></xref>.)</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Settings Screen.dita"><xi:fallback><!--Fallback markup for "Settings Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Ethernet.dita"><xi:fallback><!--Fallback markup for "Ethernet.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Time Settings.dita"><xi:fallback><!--Fallback markup for "Time Settings.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="SNMP.dita"><xi:fallback><!--Fallback markup for "SNMP.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Web Server.dita"><xi:fallback><!--Fallback markup for "Web Server.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Email Alarm Notification.dita"><xi:fallback><!--Fallback markup for "Email Alarm Notification.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modem Land Line.dita"><xi:fallback><!--Fallback markup for "Modem Land Line.dita"--></xi:fallback
+></xi:include>
+</topic>

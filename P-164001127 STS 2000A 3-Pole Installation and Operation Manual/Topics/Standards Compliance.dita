@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="StandardsCompliance-D289C2F7"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Standards Compliance</title>
+<body>
+<p>The STS 2000A system is listed to these standards: <ul>
+<li><p>Underwriters Laboratories: listed to UL standard 891. </p></li>
+<li><p>ETL: listed to UL1008 and to applicable parts of CSA 22.2. </p
+></li>
+</ul></p>
+<p>The STS 2000A system is also designed, manufactured, tested, and
+installed, as applicable, in accordance with these standards: <ul>
+<li><p>American National Standards Institute (ANSI) </p></li>
+<li><p>Canadian Standards Association (CSA) </p></li>
+<li><p>Institute of Electrical and Electronics Engineers (IEEE) </p
+></li>
+<li><p>National Electrical Code (NEC) </p></li>
+<li><p>National Electrical Manufacturers Association (NEMA) </p></li>
+<li><p>National Fire Protection Association (NFPA)</p></li>
+</ul></p>
+</body>
+</topic>

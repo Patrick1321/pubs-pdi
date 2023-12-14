@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="WarrantyValidationRequest-D37A425C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Warranty Validation Request</title>
+<body>
+<p>Thank you for your recent purchase of PDI equipment. Our innovative
+designs, quality equipment and top-notch service have allowed us to
+serve the power quality, industrial and commercial markets since 1978.
+The warranty for your equipment becomes effective from the date of
+commissioning by a PDI Certified Technician. Please complete the above
+information and return to PDI by fax at 804-737-1549. We will activate
+the warranty and return the warranty agreement for your records. </p>
+<p><b>Customer Information </b></p>
+<p><table>
+<tgroup cols="3">
+<?PubTbl tgroup cbmarg="1.00pt" clmarg="1.00pt" crmarg="1.00pt"
+ctmarg="1.00pt"?>
+<colspec colname="COLSPEC64" colwidth="68.80pt"/><colspec colname="col1"
+colwidth="0.07*"/><colspec colname="col2" colwidth="1.93*"/>
+<tbody>
+<row>
+<entry colsep="0" nameend="col1" namest="COLSPEC64" rowsep="0"><?PubTbl
+cell border-left-style="none" border-top-style="none"?><p>Customer: </p
+></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"
+border-top-style="none"?><b>________________________________________</b
+></entry>
+</row>
+<row>
+<entry colsep="0" nameend="col1" namest="COLSPEC64" rowsep="0"><?PubTbl
+cell border-left-style="none"?><p>Location: </p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?><b>________________________________________</b
+></entry>
+</row>
+<row>
+<entry colsep="0" nameend="col1" namest="COLSPEC64" rowsep="0"><?PubTbl
+cell border-left-style="none"?><p>Contact: </p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?><b>________________________________________</b
+></entry>
+</row>
+<row>
+<entry colsep="0" nameend="col1" namest="COLSPEC64" rowsep="0"><?PubTbl
+cell border-left-style="none"?><p>Contact Phone: </p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?><b>________________________________________</b
+></entry>
+</row>
+<row>
+<entry colsep="0" nameend="col1" namest="COLSPEC64"><?PubTbl
+cell border-bottom-style="none" border-left-style="none"?><p>Contact
+E-mail: </p></entry>
+<entry><?PubTbl cell border-bottom-style="none" border-right-style="none"?><b
+>________________________________________</b></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<section><title>Equipment Information</title><table>
+<?PubTbl table border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>
+<tgroup cols="4"><colspec colname="col1" colsep="1"/><colspec
+colname="col2" colsep="1"/><colspec colname="col3" colsep="1"/><colspec
+colname="col4"/>
+<tbody>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-style="none"
+border-left-width="1.00pt" border-right-width="0.25pt" border-top-style="none"
+border-top-width="1.00pt"?></entry>
+<entry colsep="0" rowsep="0"><p>(If different from above) </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Serial # </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Location </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Contact </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>Contact Phone </p
+></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry></entry>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+<section><title>PDI use only</title><table>
+<?PubTbl table border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>
+<tgroup cols="2">
+<?PubTbl tgroup crmarg="0.00pt" dispwid="900.00px"?>
+<colspec colname="COLSPEC73" colwidth="166.48pt"/><colspec
+colname="col3" colsep="1"/>
+<tbody>
+<row rowsep="1">
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-left-width="1.00pt"
+border-top-width="1.00pt"?><p>Commissioning Date: </p></entry>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row rowsep="1">
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-left-width="1.00pt"?><p
+>Warranty Commencement: </p></entry>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="1.00pt"
+border-left-width="1.00pt"?><p>Warranty Completion Date: </p></entry>
+<entry><?Pub _cellfont Shading="gray2"?></entry>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+</body>
+</topic>

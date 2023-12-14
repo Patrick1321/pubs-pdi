@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="LevellingUnitsAndAttachingUnitsToFl-D9CD3EB8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Levelling Units and Attaching Units to Floor Stands</title>
+<body>
+<p>The STS or STS/PDU System can be installed on a bare floor or on
+optional floor stands in a raised floor application.</p>
+<p>If installed on a bare floor, position the unit and adjust the
+leveling feet located in each corner of the frame base to level and
+stabilize the unit. If the PDU’s are part of the system, install the
+STS unit first as described above and then repeat the procedure for
+the PDU’s adjacent to the STS Unit. They are bolted together at the
+top hats for security and stability. </p>
+<p>If the STS is installed on an optional floor stand, position the
+STS directly over the floor stand. </p>
+<p>For 150-800A STS units, anchor the STS to the floor stand using
+one of the following techniques:</p>
+<ol>
+<li><p>Use 1/2" all-thread to bolt the STS to the floor stand’s corner
+holes (0.75" dia.). </p></li>
+<li><p>Remove and invert the STS leveling feet. Bolt them to the floor
+stand using the removed hardware through the same holes in the STS
+and the corresponding corner holes in the floor stand.</p></li>
+</ol>
+<fig>
+<title>Floor Stands for 150A-800A STS</title>
+<image href="..\Graphics\1x.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+<p>For 1000A STS units, a pair of floor stands must first be bolted
+together in the field using provided hardware. Then attach the STS
+1000A to the assembled floor stand using (4) provided brackets. Installer
+provides additional connection hardware (bolts, nuts, etc.). See the
+following illustrations for more information. </p>
+<p>The 1000A floor stands can be ordered with optional covers. The
+right side cover (as shown on the following illustration) must be
+removed for cable entry. Eaton recommends that the optional left side
+cover also be removed at installation to provide additional air flow
+to the unit.<fig>
+<title>Floor Stand for 1000A Static Transfer Switch</title>
+<image href="..\Graphics\2xa.pdf" placement="-dita-use-conref-target">
+</image>
+</fig><fig>
+<title>Attaching 1000A Static Transfer Switch to Floor Stand</title>
+<image href="..\Graphics\3x.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>If the PDU’s are part of the system, install the STS unit first
+as described above and then repeat the procedure for the PDU’s. You
+should position the floor stand and adjust the feet located in each
+corner of the frame to level and stabilize the floor stand. Anchor
+the floor stand directly to the floor using the holes provided in
+the four feet.</p><?Pub Caret 155?>
+<p><b>Note for Primary or Secondary STS/PDU Systems</b>: Cables are
+provided for interconnection of the units. Ensure that these cables
+are carefully laid out and routed between the units as you position
+the units before making the final tightening of the bolts to the floor
+stands and each other. Cables will be marked and routed in a way not
+to cause damage. A connection diagram will be included in your unit.
+Please refer to this diagram for these interconnections. Be sure to
+remove the sides that will be in between the STS and PDU sections.
+A bracket is provided to connect the cabinets. Once the units are
+placed into position, attach this bracket to hold the units together
+as a System.</p>
+</body>
+</topic>

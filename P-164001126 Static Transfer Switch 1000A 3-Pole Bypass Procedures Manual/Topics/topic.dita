@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<topic id="Dead-FrontKirkKeyLayout-CE56F159"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Dead-Front Kirk Key Layout</title>
+<body>
+<p>Customers with other WaveStar Static Transfer Switches should note
+that these bypass procedures are different than bypass procedures
+for Eaton PDI STSs of different amperages. Unlike MCCBs on other Eaton
+PDI STSs, the Bypass MCCBs on the 1000A STS are available with only
+a single Kirk-Key lock, which does not provide sufficient interlock
+control. To provide the needed interlocks, four (4) Kirk Key locks
+are installed above the MCCBs on the dead-front panel. Kirk Keys are
+moved between the dead-front panel locks and the MCCBs or MCSWs for
+the bypass procedures.</p>
+<p>The dead-front Kirk Keys locks are labeled (<xref format="dita"
+href="#./Figure1Kirk-KeyLayoutInDeadFrontPan-CE57E77F" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 1 Kirk-Key Layout in Dead Front Panel"?></xref>) as follows:<ul>
+<li><p>Left Kirk-Key block: Utility Input Source #1 (left key), Bypass
+Source #2 (right key) </p></li>
+<li><p>Right Kirk-Key block: Bypass Source #1 (left key), Utility
+Input Source #2 (right key)</p></li>
+</ul><fig id="Figure1Kirk-KeyLayoutInDeadFrontPan-CE57E77F">
+<title>Kirk-Key Layout in Dead Front Panel</title>
+<image href="..\Graphics\1.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p>
+</body>
+</topic>

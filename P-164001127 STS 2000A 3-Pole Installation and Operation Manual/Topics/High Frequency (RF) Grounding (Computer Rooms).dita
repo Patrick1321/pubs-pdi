@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="HighFrequencyRFGroundingComputerRoo-CE6C86AD"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>High Frequency (RF) Grounding (Computer Rooms)</title>
+<body>
+<p>In addition to the power grounding system, a reference grounding
+system for high frequency noise is desirable (with the two systems
+being bonded together for the same reference potential). A grid made
+up of 2-foot squares will provide an effective signal reference grounding
+system. The raised floor can be utilized if it has solidly connected
+metal stringers ensuring good electrical connection. If this type
+of floor is not available, a grid can be fabricated by laying a mesh
+(2-foot squares) of braided copper strap directly on the concrete
+sub floor (electrically connected at each intersection point). The
+frames of all the data processing equipment, including the STS, should
+be connected (by the shortest possible distance) to the reference
+grid with braided copper strap. Finally, the signal reference grid
+should be bonded to the WaveStar for a single point equipotent ground
+reference </p>
+<p>For optimum performance all distances for power and high frequency
+grounding should be kept to an absolute minimum. To summarize, a radial
+grounding system of this type (utilizing a single ground point) will
+insure that your facility is electrically safe, complies with all
+code requirements, and will be essentially free of ground caused computer
+noise and problems.</p>
+</body>
+</topic>

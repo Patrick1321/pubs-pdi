@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="LogWebPage-CEFEDB66"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Log Web Page</title>
+<body>
+<p>The Event Log is displayed in the <b>Log </b>page. It can also
+be downloaded to a CSV file (<xref format="dita"
+href="#./Figure40EventLogDownloadToSpreadshe-CEFED72A" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 40 Event Log Download to Spreadsheet"?></xref>) in the
+same way as the Analog web page. <fig
+id="Figure40EventLogDownloadToSpreadshe-CEFED72A">
+<title>Event Log Download to Spreadsheet</title>
+<image href="..\Graphics\40.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

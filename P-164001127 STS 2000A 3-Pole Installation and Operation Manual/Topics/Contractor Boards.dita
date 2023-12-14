@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ContractorBoards-CE734ABD"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Contractor Boards</title>
+<body>
+<p>Customer connections are made through either of two PCBs, a Basic
+Contractor Board or an Enhanced Contractor Board, providing connection
+points for dry contacts, communications ports, and Remote EPO. </p>
+<p>The Contractor Board is installed near the base of the STS, attached
+to an interior front enclosure panel behind the locked outer doors
+and accessible through its own small panel door (<xref format="dita"
+href="#./Figure10ContractorBoardAccess-CE718516" scope="local"
+type="fig"><?Pub _previewtext text="Figure 10 Contractor Board Access"
+?></xref>).<fig id="Figure10ContractorBoardAccess-CE718516">
+<title>Figure 10 Contractor Board Access</title>
+<image href="..\Graphics\10.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>The following sections describe the formats of the Basic and
+Enhanced Contractor Boards.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Basic Contractor Board.dita"><xi:fallback><!--Fallback markup for "Basic Contractor Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Enhanced Contractor Board Connections.dita"><xi:fallback><!--Fallback markup for "Enhanced Contractor Board Connections.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus RTU Connection.dita"><xi:fallback><!--Fallback markup for "Modbus RTU Connection.dita"--></xi:fallback
+></xi:include>
+</topic>

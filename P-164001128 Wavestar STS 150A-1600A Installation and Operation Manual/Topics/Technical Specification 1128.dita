@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="TechnicalSpecification1128-C42BC2A0" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Technical Specification</title><?Pub Caret -1?>
+<body>
+<p></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Standards.dita"><xi:fallback><!--Fallback markup for "Standards.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Electrical Requirements.dita"><xi:fallback><!--Fallback markup for "System Electrical Requirements.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Reliability.dita"><xi:fallback><!--Fallback markup for "System Reliability.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Redundancy.dita"><xi:fallback><!--Fallback markup for "Redundancy.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Electrical Noise Immunity.dita"><xi:fallback><!--Fallback markup for "Electrical Noise Immunity.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Enclosure Construction.dita"><xi:fallback><!--Fallback markup for "System Enclosure Construction.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Cooling.dita"><xi:fallback><!--Fallback markup for "System Cooling.dita"--></xi:fallback
+></xi:include>
+</topic>

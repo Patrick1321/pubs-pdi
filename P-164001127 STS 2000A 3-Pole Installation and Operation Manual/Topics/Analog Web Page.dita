@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AnalogWebPage-CEFEDB63"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Analog Web Page</title>
+<body>
+<p>On any STS web page, click <b>Analog </b>to display the <b>Analog </b
+>web page (<xref format="dita" href="#./Figure38AnalogWebPage-CEFEA185"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 38 Analog Web Page"?></xref>). All Analog Points (see <xref
+format="dita"
+href="Digital and Analog Points 1127.dita#AnalogScreenPoints-CFE70E7A"
+scope="local" type="topic"><?Pub _previewtext
+text="Analog Screen Points"?></xref>) can be displayed on this page.
+The color-coding of points is the same as the indicator dot in the <b
+>Analog Values </b>screen (<xref format="dita"
+href="Status, Alarms, and Other Diagnostic Information 1127.dita#AnalogValuesScreen-CEFCB8F4/Figure30AnalogValuesScreen-CEFCB8F8"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 30 Analog Values Screen"?></xref>), but is applied to
+the entire point entry: <ul>
+<li><p>Green = OK/Normal </p></li>
+<li><p>Red = Alarm/Not OK </p></li>
+<li><p>Blue = Status only, alarms not applicable </p></li>
+<li><p>Black = Point not used or invalid in this STS configuration</p
+></li>
+</ul><fig id="Figure38AnalogWebPage-CEFEA185">
+<title>Analog Web Page</title>
+<image href="..\Graphics\38.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>Digital Points currently cannot be displayed in a web page.</p>
+</body>
+</topic>

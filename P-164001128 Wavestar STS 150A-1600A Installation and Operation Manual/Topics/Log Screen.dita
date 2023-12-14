@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="LogScreen-D723E099"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Log Screen</title>
+<body>
+<p>Touching the “Log” button icon on the Home Screen displays the
+Event Log. </p>
+<p>The Event Log Screen is a record of all events that have taken
+place while the STS have been in operational. Each event or alarm
+is Time/Date stamped in the order of occurrence. These events,(which
+include alarms, abnormalities, and operator logins and logouts) are
+described in the center panel. The arrows on the right side of the
+panel allow the operator to scroll through events. </p>
+<p>When the Clear Icon is pressed all events in the Log are cleared
+from the screen. This action can only be completed by the Administrator.</p>
+<fig id="fig-1522-D72344EC">
+<title>Log Screen</title>
+<image href="..\Graphics\11x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

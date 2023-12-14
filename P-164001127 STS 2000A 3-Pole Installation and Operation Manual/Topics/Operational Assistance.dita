@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="OperationalAssistance-D289C2F6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Operational Assistance</title>
+<body>
+<p><ul>
+<li><p>The Voice Unit annunciates alarms (“Static switch, new alarm”)
+and cleared alarms at the unit and provides operator cautions (“You
+are not authorized for this function”). </p></li>
+<li><p>The Help function provides both text and voice-over instructions
+to guide operators through transfer tasks for going to Bypass Mode
+and returning from Bypass to Normal Mode. The instructions are context-specific,
+providing information for transfers appropriate to the current STS
+source-to-output connections.</p></li>
+</ul></p>
+</body>
+</topic>

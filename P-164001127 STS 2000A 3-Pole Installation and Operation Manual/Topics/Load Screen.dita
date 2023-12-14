@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="LoadScreen-CEFCA13D"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Load Screen</title>
+<body>
+<p>Touching the <b>Load </b>button displays the <b>Load </b>Screen
+(<xref format="dita" href="#./Figure35LoadScreen-CEFC521A" scope="local"
+type="fig"><?Pub _previewtext text="Figure 35 Load Screen"?></xref
+>). <fig id="Figure35LoadScreen-CEFC521A">
+<title>Load Screen</title>
+<image href="..\Graphics\35.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+<p>The <b>Load </b>Screen Bar Chart displays the current for both
+sources and the output, total KVA, peak KVA, and total KW as bar charts.
+All bars start green, but turn yellow when they reach 80% or higher
+and turn red when they reach 100% or higher. </p>
+<p>Load values are defined by Eaton PDI on the Configuration Screen
+(<xref format="dita"
+href="System Setup Networking 1127.dita#ModemLandLine-CEF88901/Figure28ModemSetupScreen-CEF91E52"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 28 Modem Setup Screen"?></xref>). 100% load values are
+stored in the Analog Points list as Rated Total KVA (point 93) and
+Rated Phase Amp (point 94). </p>
+<p>The <b>Trend </b>panel on the lower half of the screen shows the
+trend for total KVA. </p>
+</fig></p>
+</body>
+</topic>

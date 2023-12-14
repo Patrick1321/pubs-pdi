@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SpecialTransferSituations-CEE1506F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Special Transfer Situations</title>
+<body>
+<p>To keep power flowing to the output load, STS logic responds to
+several special circumstances: </p>
+<p><ul>
+<li><p><b>Excessive transfers</b>. If transfers between sources become
+excessive, the logic dynamically adjusts certain transfer parameters
+to minimize thrashing between sources until one or the other power
+source stabilizes. </p></li>
+<li><p><b>Excessive load current</b>. If the load current exceeds
+an adjustable preset level, automatic transfers are disabled until
+load current falls below that level, even if the voltage on the selected
+source exceeds the transfer limits. </p></li>
+<li><p><b>Shorted power switching element</b>. Shorted SCRs cannot
+be opened and the load must remain on or be transferred to the side
+with the shorted SCR to avoid cross-currents. Hence, <ul>
+<li><p>If there is a shorted SCR on the non-conducting side, the load
+is transferred to the non-conducting side and retransfer is inhibited.
+The input switch or circuit breaker on the previously conducting side
+is opened. An alarm is sounded and recorded with a date-and-time stamp
+in the Event Log. </p></li>
+<li><p>If there is a shorted SCR on the conducting side, transfer
+is inhibited and the input switch or circuit breaker on the non-conducting
+side is opened. An alarm is sounded and recorded with a time/date
+stamp in the event log. </p></li>
+</ul></p></li>
+<li><p><b>Open power switching element.</b> If there is an open SCR
+on the preferred or alternate side, the load will either remain or
+transfer to the “good” side, and retransfer is inhibited. </p></li>
+<li><p><b>Cross currents</b>. If cross currents between sources are
+detected, the STS logic will transfer the load to the non-conducting
+side and lock on that source. </p></li>
+<li><p><b>Failure of both sources</b>. If both sources fail, the logic
+locks on the last available source for 100ms. After 100 ms, the logic
+will transfer the load to the first available source that returns
+to acceptable operating limits.</p></li>
+</ul><b>Example A: </b><ol>
+<li><p>Source 1 is the preferred source and supporting the load. </p
+></li>
+<li><p>Source 1 experiences an outage. </p></li>
+<li><p>The load is transferred to Source 2. </p></li>
+<li><p>The current inrush reduces voltage to Source 2 for 2 cycles. </p
+></li>
+<li><p>This causes the internal voltage monitors to detect an outage
+on both sources. </p></li>
+<li><p>The logic locks the load on Source 2 for 100 ms, allowing the
+source voltage to stabilize, and the load is not dropped.</p></li>
+</ol><b>Example B:</b> <ol>
+<li><p>Source 1 is the preferred source and supporting the load. </p
+></li>
+<li><p>Source 2 experiences an outage (load remains on Source 1). </p
+></li>
+<li><p>While Source 2 is unavailable, Source 1 experiences an 8 ms
+transient outage. </p></li>
+<li><p>The load remains connected to Source 1 even though both sources
+experience outages for 8ms.</p></li>
+</ol></p>
+</body>
+</topic>

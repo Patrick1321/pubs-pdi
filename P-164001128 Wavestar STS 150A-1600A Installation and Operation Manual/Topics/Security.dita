@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Security</title>
+<body>
+<p><ul>
+<li><p>To reduce the possibility of issues with STS operation that
+may be factored to human input, there are several security options
+designed into the unit to protect the system. </p></li>
+<li><p>No operations through the touch screen monitor can be completed
+without a valid login. A Password (PW) and PIN# are required by the
+operator in order to login. The PIN # identifies the operator and
+records their activities during the login period in the event log.
+There is also an optional fingerprint and/or swipe card device that
+can be installed for the auto entry of Password and the PIN #. Contact
+Eaton Customer Support for information regarding these options. </p
+></li><?Pub Caret 256?>
+<li><p>If the front door is opened without a valid login, the unit
+alarms and the alarm is logged into the event log. All operation of
+the internal MCSW/MCCBs is tied in the event log to the operator’s
+Login identification.</p></li>
+</ul></p>
+</body>
+</topic>

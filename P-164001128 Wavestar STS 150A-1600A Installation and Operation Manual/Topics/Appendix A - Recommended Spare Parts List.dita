@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixARecommendedSparePartsList-D62F6E71"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix A – Recommended Spare Parts List</title>
+<body>
+<p>WaveStar TRANSFER SWITCH</p>
+<p>100 – 800 Amp Models</p>
+<p><table>
+<?PubTbl table border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>
+<title>Static Transfer Switch Spare Parts Kit (Option A)</title>
+<tgroup cols="5">
+<?PubTbl tgroup dispwid="377.00px"?>
+<colspec colname="col1" colsep="1" colwidth="50.00pt"/><colspec
+colname="col2" colsep="1" colwidth="100.00pt"/><colspec colname="col3"
+colsep="1" colwidth="10.41pt"/><colspec colname="col4" colsep="1"
+colwidth="70.00pt"/><colspec colname="col5" colwidth="6.21pt"/>
+<tbody>
+<row rowsep="1">
+<entry nameend="col5" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>WaveStar™ Static Transfer Switch
+Spare Parts Kit (Option A)</b></p></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Qty </b></p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Description </b></p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Part #</b></p></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1</p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>Battery, Lithium, 3V 2/3 AG</p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"?><p
+>BAT09260</p></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>10 </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>Bussman-FNQ.5 Fuse </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"?><p
+>FUS-FNQ.5 </p></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>PCB, DCPS-Out-Top </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"?><p
+>PCB08553 </p></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>PCB, DCPS-Out-Bottom </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"?><p
+>PCB08554 </p></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>DC Gate Driver </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"?><p
+>PCB08028 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-right-width="0.25pt"?><p>1 </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-right-width="0.25pt"?><p
+>Pulse Gate Driver </p></entry>
+<entry nameend="col5" namest="col4"><p>PCB08048 </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table><table>
+<?PubTbl table border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>
+<title>Static Transfer Switch Spare Parts Kit (Option B)</title>
+<tgroup cols="3"><colspec colname="1" colsep="1" colwidth="50.10pt"/>
+<colspec colname="2" colsep="1" colwidth="110.04pt"/><colspec
+colname="3" colwidth="77.20pt"/>
+<thead>
+<row rowsep="1">
+<entry nameend="3" namest="1" valign="top"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>WaveStar™ Static Transfer Switch
+Spare Parts Kit (Option B)</b><b> </b></p></entry>
+</row>
+<row rowsep="1">
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Qty </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Description </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Part # </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>WaveStar™ Spare Parts Kit (Option A) </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?><p> </p
+></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>22MM, 2 Pos Selector Sw </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>SWT01826 </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>12V Contact Block, NO </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>SWT01829 </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Tri-Redundant SAS Board </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>PCB08383 </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>12V Contact Block, NC </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>SWT01830 </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Surge Capacitor with Bracket </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>SSP02155 </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>PCB, DCPS-S1,S2 - Top </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>PCB08555 </p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-right-width="0.25pt"?><p>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-right-width="0.25pt"?><p>PCB, DCPS-S1,S2 - Bottom </p
+></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><p>PCB08556 </p
+></entry>
+</row>
+</tbody>
+</tgroup>
+</table><table>
+<?PubTbl table border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>
+<title>Static Transfer Switch Spare Parts Kit (Option C)</title>
+<tgroup cols="3"><colspec colname="1" colsep="1" colwidth="50.10pt"/>
+<colspec colname="2" colsep="1" colwidth="110.04pt"/><colspec
+colname="3" colwidth="76.38pt"/>
+<thead>
+<row rowsep="1">
+<entry nameend="3" namest="1" valign="top"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>WaveStar™ Static Transfer Switch
+Spare Parts Kit (Option C)</b><b> </b></p></entry>
+</row>
+<row rowsep="1">
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Qty </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Description </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Part # </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>WaveStar™ Spare Parts Kit (Option A &amp; B) </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p> </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>24V, 4 pole relay </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>RLY04535 </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>PCB, Back up Operator Interface </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>PCB08940 </p></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Graphics Monitor Board </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>PCB08845 </p
+></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Touch Panel </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>DIS08899 </p
+></entry>
+</row>
+<row rowsep="1">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Display, LCD </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>DIS08900 </p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-right-width="0.25pt"?><p>1 </p></entry>
+<entry><?PubTbl cell border-right-width="0.25pt"?><p>Inverter, Backlight </p
+></entry>
+<entry><p>DIS08901 </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</body>
+</topic>

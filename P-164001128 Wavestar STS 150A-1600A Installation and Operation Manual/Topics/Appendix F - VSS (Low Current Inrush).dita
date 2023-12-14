@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixFVSSLowCurrentInrush-D62F788B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix F – VSS (Low Current INRUSH)</title>
+<body>
+<p>Eaton PDI WaveStar STS or STS/PDU System </p>
+<p>Low Inrush Transfer Utilizing the Eaton PDI Volt Second Synchronization
+(VSS) Method</p>
+<ol>
+<li><p><b>Introduction</b></p><p>One of the limiting factors in applying
+STS or STS/PDU Systems (STS) in mission critical facilities has been
+the inability of the electrical infrastructures to withstand the transformer
+inrush when switching occurs on the primary (or 480 volt) side of
+the transformer. Inrush currents can reach as high as 10-12 times
+the transformer rating causing breakers and molded case switches in
+the STS (or devices upstream) to trip creating an outage in the facility. </p
+><p>Eaton  has a solution to this dilemma through our patented Volt
+Second Synchronization (VSS) transfer algorithm that controls magnetic
+inrush current in transformer loads and limits it to 1.5 times the
+rated current. The transfer outage time and the waveform distortions
+during transfers have an affect on non-linear loads that are connected
+to the secondary side of the transformer. Short transfer outage times
+and waveform peak conservation algorithms is necessary for any STSs
+that feed non-linear loads. </p><p>Typically non-linear loads, servers
+and other computers use Switch Mode Power Supplies (SMPS) which generate
+non-linear load currents. The SMPS receives AC power from the transformer
+and generates DC power for the internal logic. SMPS only draw power
+from the peaks of the input power waveforms; RMS values are associated
+with linear loads and evaluations based on linear RMS loads will not
+provide accurate data for evaluation of SMPS applications. </p><p
+>To conserve all voltage waveform peaks, the transfer outage time
+of each phase must be short enough to assure that no peaks are lost.
+Since SMPS generally use single phase power, each individual phase
+must maintain power at the waveform peaks. </p><p>There are four methods
+of achieving low transformer saturation (inrush) currents when the
+transformer is connected to the load bus of an STS. These methods
+are as follows: </p><p>Phase Delay Method (referred to as phase displacement
+method) </p><p>Volt Second Balance Method </p><p>Volt Second Wave
+Shaping Method (with RMS conservation) </p><p>Eaton PDI Volt Second
+Synchronization (VSS) Method (with Peak conservation)</p></li>
+<li><p><b>Phase Delay Method</b></p><p>This method measures the half
+cycle phase delay from the time of the disconnection of one source
+to the reconnection of the other source with approximately the same
+half cycle delay; this will maintain volt second continuity. </p><p
+>When transferring from one source to the other when the connecting
+source lags the disconnecting source there is a direct relationship
+between the size of the phase shift and the length of the outage.</p
+><p>If the source phase shifts are small, the transfer outage is of
+short duration.</p><p>If the source phase shifts are large, the transfer
+outage is of long duration.</p><p>The transfer outage time of at least
+one phase can exceed 15 Ms, depending on the source phase shift and
+detect time. When the connecting source leads the disconnecting source
+the transfer outage is large at small phase angles. </p><p>This method
+is simple to implement but does not support SMPS very well.</p></li>
+<li><p><b>Volt Seconds Balancing Method </b></p><p>This method determines
+the volt seconds applied to the magnetic load by the disconnecting
+source, and determines the volt seconds that will be supplied by the
+connecting source. The volt seconds applied to the magnetic load cannot
+exceed the maximum rated volt seconds.</p><p>This basic algorithm
+must be optimized to obtain the desired waveform during the transfer
+outage. </p><p>The Volt Second Wave Shaping Method (with RMS conservation)
+and Eaton PDI Volt Second Synchronization (VSS) Method (with Peak
+conservation), described below, are two separate and distinct solutions
+to optimize the limitations of the Volt Second Balancing Method. </p
+><p>Volt Second Wave Shaping Method (with RMS conservation) </p><p
+>This method insures that the maximum volt seconds rating of the transformer
+is not exceeded when the STS transfer between out of phase sources.
+The voltage waveform is shaped during the transfer transition time
+to maximize the RMS voltage when transferring. Since RMS voltage is
+meaningful for linear load and not non-linear loads, this is not the
+best algorithm for single phase non-linear loads but does not provide
+the best transfer algorithm for SMPS. </p><p>Eaton PDI Volt Second
+Synchronization (VSS) Method (with Peak conservation) </p><p>This
+transfer algorithm, VSS with peak conservation, reduces magnetic load
+current inrush and maintains voltage peaks for the optimum operation
+of SMPS. The voltage waveform is shaped during the transfer transition
+time to maximize the peak power of the voltage waveform when transferring.
+This is the best algorithm for single phase non-linear loads and also
+maintains RMS voltage for linear loads.</p></li>
+<li><p><b>Conclusion </b></p><p>Eaton has evaluated algorithms for
+all the above methods of reducing transformer current in-rush for
+initial start-up, restart-up and for transfer and has standardized
+on the VSS with peak conservation algorithm for the WaveStar STS systems.</p
+><p>Figures 1 and 2 depict transfers at 15 degrees (both lagging and
+leading respectively) without the VSS feature. Figure 3 and 4 are
+examples of the same STS and transformer system with the VSS method.
+Figures 5, 6, 7 and 8 depict the same transfers performed 45 degrees
+out of phase. </p><p>In each case the transfers were performed under
+no load conditions; no load conditions always result in higher inrush
+currents.</p><p>The waveforms indicate there is no loss in the applied
+voltage peaks; this will allow maximum power to be supplied to load
+SMPS. </p><p>When evaluating low inrush algorithms, the peak current
+during transfer is the most critical measure of performance. The Eaton
+PDI VSS method provides the best option to manage the transfer with
+less impact on the SMPS and other electrical equipment. </p></li>
+</ol>
+</body>
+</topic>

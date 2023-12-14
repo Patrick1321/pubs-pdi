@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="CircuitBreakerRatingAndUpstreamProt-CE6C86B2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Circuit Breaker Rating and Upstream Protection</title>
+<body>
+<p>The STS 2000A has input source and bypass MCCBs that are 100 percent
+rated for 2000A, the full load rating of the unit. Consequently the
+STS 2000A does not itself need upstream circuit breaker protection.
+However, customers should provide circuit breaker protection for the
+input wires to the STS as required by the NEC. </p>
+<p>For additional information, refer to your local codes and the National
+Electric Code (NEC).</p>
+</body>
+</topic>

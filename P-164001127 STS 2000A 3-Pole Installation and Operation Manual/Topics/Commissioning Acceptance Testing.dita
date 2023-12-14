@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CommissioningAcceptanceTesting-D292B866"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Commissioning: Acceptance Testing</title>
+<body>
+<p>As part of acceptance testing, the STS should pass a Performance
+Test at 80% load minimum. </p>
+<p>An Eaton service technician will perform or witness the Site Acceptance
+Test as indicated in the "Site Acceptance Report.” The technician
+will then ask the customer representative to sign the completed Acceptance
+Test Report/Work Order. The Warranty Period begins when the customer
+signs the Acceptance Test/Work Order.</p>
+</body>
+</topic>

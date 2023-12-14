@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixJAnalogScreenPointsInformat-D62F806B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix J – Analog Screen Points Information</title>
+<body>
+<p>Analog Alarm Default Settings</p>
+<table>
+<title>Analog Alarm Default Settings</title>
+<tgroup cols="5">
+<?PubTbl tgroup cbmarg="2.00pt" ctmarg="2.00pt" dispwid="416.00px"?>
+<colspec colname="1" colwidth="70.00pt"/><colspec colname="2"
+colwidth="50.00pt"/><colspec colname="3" colwidth="50.00pt"/><colspec
+colname="4" colwidth="50.00pt"/><colspec colname="5" colwidth="50.00pt"/>
+<thead>
+<row>
+<entry nameend="5" namest="1" valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Voltage Alarms 600 Volt Points </b></p></entry>
+</row>
+<row>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>High Limit </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Setting </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Low Limit </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+> Setting </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>V phase-phase </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>660 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>540 </p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>V phase-neutral </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>380 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>311 </p></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-style="none"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-style="none"?></entry>
+</row>
+<row>
+<entry nameend="5" namest="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Voltage Alarms 480 Volt Points </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Parameter </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>High Limit </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Setting </b></p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Low Limit </b></p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b> Setting </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>V phase-phase </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>528 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>432 </p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>V phase-neutral </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>305 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>249 </p></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-style="none"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-style="none"?></entry>
+</row>
+<row>
+<entry nameend="5" namest="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Voltage Alarms 208 Volt Points </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Parameter </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>High Limit </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Setting </b></p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Low Limit </b></p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b> Setting </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>V phase-phase </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>229 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>187 </p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>V phase-neutral </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>132 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>108 </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table>
+<title>Current Alarms</title>
+<tgroup cols="5">
+<?PubTbl tgroup cbmarg="2.00pt" ctmarg="3.00pt" dispwid="377.00px"?>
+<colspec colname="col1" colwidth="50.00pt"/><colspec colname="col2"
+colwidth="50.00pt"/><colspec colname="col3" colwidth="10.41pt"/>
+<colspec colname="col4" colwidth="50.00pt"/><colspec colname="col5"
+colwidth="6.21pt"/>
+<tbody>
+<row>
+<entry nameend="col5" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Current Alarms </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Current </b></p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>High Limit </b></p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Setting </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>200a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>220 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>250a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>275 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>300a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>330 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>350a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>385 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>400a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>440 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>450a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>495 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>500a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>550 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>600a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>660 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>700a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>770 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>800a </p></entry>
+<entry nameend="col3" namest="col2"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>110% </p></entry>
+<entry nameend="col5" namest="col4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>880 </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table>
+<title>KVA Phase and KVA Total Alarms</title>
+<tgroup cols="7">
+<?PubTbl tgroup cbmarg="2.00pt"?>
+<colspec colname="col1" colwidth="50.00pt"/><colspec colname="col2"
+colwidth="50.00pt"/><colspec colname="col3" colwidth="50.00pt"/>
+<colspec colname="col4" colwidth="50.00pt"/><colspec colname="col5"
+colwidth="50.00pt"/><colspec colname="col6" colwidth="50.00pt"/>
+<colspec colname="col7" colwidth="50.00pt"/>
+<tbody>
+<row>
+<entry nameend="col7" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>KVA Phase and KVA Total Alarms for
+600 Volt Unit </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Current </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>High Limit </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Setting </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>High Limit </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Setting </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>200a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>76 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>228 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>250a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>95 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>285 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>300a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>114 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>343 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>350a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>133 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>400 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>400a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>152 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>457 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>450a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>171 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>514 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>500a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>190 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>571 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>600a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>228 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>685 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>700a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>266 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>799 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>800a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>304 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>913 </p></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-style="none"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-style="none"?></entry>
+</row>
+<row>
+<entry nameend="col7" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>KVA Phase and KVA Total Alarms for 480 Volt
+Unit </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Current </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>High Limit </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Setting </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>High Limit </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Setting </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>200a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>61 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>183 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>250a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>76 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>229 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>300a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>91 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>274 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>350a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>107 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>320 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>400a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>122 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>366 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>450a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>137 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>412 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>500a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>152 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>457 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>600a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>183 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>549 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>700a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>213 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>640 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>800a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>244 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>732 </p></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-style="none"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-style="none"?></entry>
+</row>
+<row>
+<entry nameend="col7" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>KVA Phase and KVA Total Alarms for 208 Volt
+Unit </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Current </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>High Limit </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Setting </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>High Limit </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Setting </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>200a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>26 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>79 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>250a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>33 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>99 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>300a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>40 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>119 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>350a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>46 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>139 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>400a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>53 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>159 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>450a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>59 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>178 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>500a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>66 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>198 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>600a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>79 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>237 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>700a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>92 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>277 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>800a </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA <?Pub _font TypeSize="11pt"?>⌽<?Pub /_font?></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>106 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>317 </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table>
+<title>Switch Default Settings</title>
+<tgroup cols="5"><colspec colname="1" colwidth="90.05pt"/><colspec
+colname="2" colwidth="88.62pt"/><colspec colname="COLSPEC2"
+colwidth="68.43pt"/><colspec colname="COLSPEC3" colwidth="96.18pt"/>
+<colspec colname="COLSPEC4" colwidth="78.54pt"/>
+<tbody>
+<row>
+<entry colname="1" morerows="0" nameend="2" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Switching – Fast Settings </b></p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"
+border-top-style="none"?></entry>
+<entry nameend="COLSPEC4" namest="COLSPEC3"><?PubTbl cell
+border-bottom-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Switching – Selectors </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Parameter </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Value </b></p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Switch </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Value </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>High Limit </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>120% </p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Mode </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>VSS </p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Low Limit </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>80% </p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Retransfer </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Yes </p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Delay </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>0 Samples </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-style="none"?></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Ratchet </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2% </p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Switching – Retransfer </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-style="none"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Value </b></p></entry>
+</row>
+<row>
+<entry nameend="2" namest="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Switching – Slow Settings </b></p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Delay </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>10 Seconds </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Value </b></p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>High Limit </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Low Limit </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Delay </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>256 Samples </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Ratchet </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>0 </p></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-style="none"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-style="none"?></entry>
+<entry><?PubTbl cell border-bottom-style="none" border-right-style="none"?></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

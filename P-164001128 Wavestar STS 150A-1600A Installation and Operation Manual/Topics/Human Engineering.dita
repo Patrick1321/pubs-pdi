@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Human Engineering</title>
+<body>
+<p>To help assist the Human operators, the help system has been designed
+to provide support to perform basic tasks. <ul>
+<li><p>Voice over and text operating instructions are available through
+the help screen for various operations of a standard operating nature </p
+></li>
+<li><p>The normal and redundant displays are visible with the door
+open. This allows the operator to continue viewing the instructions
+and or mimic while performing operations on the MCSW/MCCB.</p></li>
+</ul></p>
+</body>
+</topic>

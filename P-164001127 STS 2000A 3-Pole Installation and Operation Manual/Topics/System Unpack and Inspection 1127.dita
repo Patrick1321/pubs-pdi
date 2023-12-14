@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SystemUnpackAndInspection1127-C40F0763" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Unpack and Inspection</title><?Pub Caret -2?>
+<body>
+<p><note type="important">Read this entire Installation and Operation
+manual before installing and operating the unit. <p>Upon receipt of
+the STS, the Installer should perform the following steps to assure
+a high quality installation.</p></note></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="External Inspections.dita"><xi:fallback><!--Fallback markup for "External Inspections.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Unloading, Unpacking, and Handling.dita"><xi:fallback><!--Fallback markup for "Unloading, Unpacking, and Handling.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Internal Inspections.dita"><xi:fallback><!--Fallback markup for "Internal Inspections.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Internal Wiring Inspection.dita"><xi:fallback><!--Fallback markup for "Internal Wiring Inspection.dita"--></xi:fallback
+></xi:include>
+</topic>

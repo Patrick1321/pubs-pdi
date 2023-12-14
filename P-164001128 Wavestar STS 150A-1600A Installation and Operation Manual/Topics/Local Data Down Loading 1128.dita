@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="LocalDataDownLoading1128-C42A6F2A" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Local Data Down Loading</title><?Pub Caret -2?>
+<body>
+<p></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="USB Port.dita"><xi:fallback><!--Fallback markup for "USB Port.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Memory Stick.dita"><xi:fallback><!--Fallback markup for "Memory Stick.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="IR Connection.dita"><xi:fallback><!--Fallback markup for "IR Connection.dita"--></xi:fallback
+></xi:include>
+</topic>

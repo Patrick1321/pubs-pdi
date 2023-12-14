@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TimeSynchronizationSettingsScreenSN-CEF888F6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Time Synchronization Settings Screen (SNTP)</title>
+<body>
+<p>The Time Synchronization feature with SNTP requires the STS Ethernet
+connection. </p>
+<p>Prerequisites:</p>
+<ol>
+<li><p>1.The <b>Ethernet Settings </b>on the <b>Settings </b>screen
+must be configured.</p></li>
+<li><p>The Ethernet port must be connected to a network with a reachable
+time server supporting SNTP. </p></li>
+<li><p>You must have the IP address of the time server. The time server
+could be a dedicated timeserver possibly with a GPS receiver, a local
+computer running time server software, or a timeserver on the Internet.
+You should preferably use a local time server. All equipment related
+to the STS should use the same time server if they have access.</p
+></li>
+</ol>
+<fig id="Figure25TIMEScreen-CEF923B6">
+<title>TIME Screen</title>
+<image href="..\Graphics\25.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>To have the STS use Simple Network Time Protocol (SNTP), follow
+these steps:<ol>
+<li><p>Press <b>Time </b>button at the bottom of the screen. The <b
+>TIME</b> screen displays (<xref format="dita"
+href="#./Figure25TIMEScreen-CEF923B6" scope="local" type="fig"><?Pub
+_previewtext text="Figure 25 TIME Screen"?></xref>).</p></li>
+<li><p>Press the <b>Server </b>button. Enter the time server’s IP
+address.</p></li>
+<li><p>Press the <b>Zone </b>button. Enter the time zone offset from
+Coordinated Universal Time (UCT) (-4 is Eastern Daylight time).</p
+></li>
+<li><p>Make sure the <b>Use SNTP Server</b> checkbox has a green check.
+Touch <b>Use SNTP Server </b>to toggle between the green check (use
+SNTP Server) and red X (do not use SNTP Server).</p></li>
+<li><p>Press <b>Get </b>to initialize time and verify that Time Synchronization
+is working.</p></li>
+<li><p>Touch<b> Set </b>to confirm date/time. </p></li>
+<li><p>Touch <b>Save </b>to save settings.</p></li>
+</ol></p>
+</body>
+</topic>

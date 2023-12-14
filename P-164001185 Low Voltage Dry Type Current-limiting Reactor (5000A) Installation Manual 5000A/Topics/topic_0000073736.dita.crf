@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Description-E37D5537"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Description</title><body><p>The Aggregator Reactor is a stand-alone unit with no operational controls. Switching to reserve power occurs at the downstream RPP Bypass Cabinet. For operational procedures on switching downstream RPPs to reserve power, see these companion PDI manuals:<ul>
+<li><p>Reactor Power Panel V2 (250A) Installation and Operation P–164001118.</p
+></li></ul><ul><li><p>Retrofit Bypass Cabinet for Reactor Power Panels (250A) Installation and Operation P–164001119 </p
+></li></ul>Cable entry can be from top or bottom of the unit. An Aggregator Reactor can also have an optional side car that provides additional cable entry space for conduit. The side car allows already installed floor conduit to align with the unit. See section <xref
+format="dita" href="Power Cabling 1115.dita" scope="local" type="topic"
+>Power Cabling</xref>.</p><p>Left and right front panel doors enable infrared scanning from the front of the unit. </p>
+<p>The 2500A Aggregator Reactor cabinet structure and dimensions are shown below.</p>
+<fig><title>Aggregator Reactor 2500A Dimensions</title><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\0000012241_P-164001115 Aggregator Reactor (2500A) Installation Manual\Graphics\1x.pdf"
+placement="-dita-use-conref-target" scope="local"></image></fig></body>
+</topic>

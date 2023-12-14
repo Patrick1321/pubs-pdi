@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="STSSetup-D292B86B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>STS Setup</title>
+<body>
+<p>After installation, start-up, and communications configuration,
+the STS should be set up in three categories: <ul>
+<li><p>Administrative setup: assign user PINs, passwords, and access
+levels. See <xref format="dita" href="System Setup Administration 1127.dita"
+scope="local" type="topic"><?Pub _previewtext
+text="System Setup: Administration 1127"?></xref>. </p></li>
+<li><p>Operational setup: configure transfer parameters. See <xref
+format="dita" href="System Setup Operation 1127.dita" scope="local"
+type="topic"><?Pub _previewtext text="System Setup: Operation 1127"
+?></xref>.</p></li>
+<li><p>Network setup: configure networking options and addresses.
+See <xref format="dita" href="System Setup Networking 1127.dita" scope="local"
+type="topic"><?Pub _previewtext text="System Setup: Networking 1127"
+?></xref>.</p></li>
+</ul></p>
+</body>
+</topic>

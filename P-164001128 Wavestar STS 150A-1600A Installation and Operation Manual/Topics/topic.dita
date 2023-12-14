@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>General</title>
+<body>
+<p>This manual covers user operation and installation of the WaveStar<?Pub
+_font TypeSize=".69em" Offset=".33em"?>®<?Pub /_font?> Static Transfer
+Switch (STS) or STS/PDU Systems from 150 Amperes to 1600 Amperes.
+The manual also covers STS/PDU systems up to 300KVA. </p>
+<p>For standalone STS 2000A systems, see <i>WaveStar<?Pub _font
+TypeSize=".69em" Offset=".33em"?>®<?Pub /_font?> Static Transfer Switch
+2000A 3-Pole, Installation and Operation</i>, Control Number DOC15139. </p>
+<p>The Eaton PDI STS or STS/PDU System WaveStar units are designed
+to be an integral part of your power system, allowing easy relocation
+and expansion of your present system capacity requirements. This manual
+will help you install and operate your WaveStar STS or STS/PDU System.</p>
+</body>
+</topic>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixBUpstreamCircuitBreakerRati-D62F70B3"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix B – Upstream Circuit Breaker Rating</title>
+<body>
+<p>The WaveStar Static Transfer Switch (STS) must be protected by
+an upstream circuit breaker. To meet the ETL UL1008 certification,
+this upstream circuit breaker must be sized to the unit’s full load
+rating or less. <note>NEC/Local codes may not allow continuous full-loading
+of the STS when using an 80% rated upstream circuit breaker.</note
+>To ensure maximum loading, the STS should be sized for 125% of the
+intended load, or the upstream protective device should be a 100%
+rated circuit breaker. </p>
+<p>For additional information, please refer to your local codes and
+the National Electric Code (NEC).</p>
+</body>
+</topic>

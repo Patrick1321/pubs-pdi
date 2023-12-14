@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TroubleShooting1128-C42C9099" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Trouble Shooting</title><?Pub Caret -2?>
+<body>
+<p><note type="warning"><ul>
+<li><p>Danger: there is high voltage equipment inside the wavestar
+cabinet. </p></li>
+<li><p>Do not operate the unit without all covers securely in place.</p
+></li>
+</ul></note><note type="caution"><ul>
+<li><p>Do not touch the printed circuit boards containing the processor
+and logic circuits Without first consulting the factory. Serious damage
+can be done by untrained Personnel.</p></li>
+<li><p>Do not allow servicing by unauthorized personnel. You may void
+your warranty.</p></li>
+</ul></note>If after reviewing and checking all the recommended correction
+procedures for any problem, please do not hesitate to contact Power
+Distribution, Inc. For service related calls or scheduling.<table>
+<tgroup cols="2"><colspec colname="col1"/><colspec colname="col2"/>
+<thead>
+<row>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?>Symptom</entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?>Probable Cause</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry morerows="2"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>No power
+to unit.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>No building power to Power</p><p>Input bus. Restore building power.</p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Unit not connected to Power</p><p>Input bus. Connect unit to Power
+Input bus.</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Input breaker not closed </p><p>Turn on or reset breaker.  </p></entry>
+</row>
+<row>
+<entry morerows="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>Specific
+output circuit is dead.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Output circuit breaker is off.</p><p>Turn on or reset breaker.</p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Output circuit breaker and/or cable are not connected to Equipment.
+Connect (if authorized) output circuit to equipment and turn on.</p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>No output voltage from unit but the
+unit</p><p>indicators are on.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Input circuit breaker off or tripped.</p><p>Check display panel for
+alarms; acknowledge or reset alarms then turn on or reset breaker.</p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Monitor display will not operate.</p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Blown
+Fuse (1, 2, 3, or 4)</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Monitor will not display volts and
+amps.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Not in MONITOR mode.</p><p>See Monitor section</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</body>
+</topic>

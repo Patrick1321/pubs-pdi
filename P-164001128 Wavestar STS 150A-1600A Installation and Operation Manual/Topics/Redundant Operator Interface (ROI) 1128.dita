@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="RedundantOperatorInterfaceROI1128-C42A0A3A" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Redundant Operator Interface (ROI)</title><?Pub Caret -2?>
+<body>
+<p>This panel is used if main graphics display/touch screen fails,
+or if non-transfer manual operation is desired.<fig
+id="RedundantOperatorInterface-D7367FE7">
+<title>Redundant Operator Interface</title>
+<image href="..\Graphics\28x.pdf"
+placement="-dita-use-conref-target"></image>
+</fig><ol>
+<li><p>When the “Mode of operation” switch is in the Redundant Position,
+this panel is active &amp; main display is also active if operating
+properly. The “preferred select” icon on the main graphic screen is
+inactive. When the “Mode of operation” switch is in the in Normal
+Position, this panel is inactive &amp; the main-graphics display is
+active. </p></li>
+<li><p>Normal Position- This panel is inactive &amp; the main-graphics
+display is active. </p></li>
+<li><p>Alarm LED illuminated if there is any alarm or abnormal status. </p
+></li>
+<li><p>LED illuminated if maintenance mode switch is in “maintenance”
+mode (abnormal mode) </p></li>
+<li><p>Source 1 and Source 2 row of two LED’s. The left LED indicates
+whether that source is Available. The right LED indicates if the source
+is powering the load. The indicators can be Red or Green. The definition
+of the color is shown on the panel. </p></li>
+<li><p>Source Select Switch. This is a momentary toggle switch that
+can be used to transfer the load between sources. If a source is selected
+manually by the controls on this panel, that source will be preferred
+when returned to graphic mode (normal) </p></li>
+<li><p>Service Port - to be used by service personnel only</p></li>
+</ol></p>
+</body>
+</topic>

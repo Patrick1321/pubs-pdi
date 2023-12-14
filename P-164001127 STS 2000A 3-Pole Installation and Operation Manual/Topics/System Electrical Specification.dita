@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SystemElectricalSpecification-CE6C86AB"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Electrical Specification</title>
+<body>
+<p>Voltage: </p>
+<p><ul>
+<li><p>Nominal STS input voltage ratings are 600VAC, 480VAC, 400VAC,
+240VAC, 208VAC, LL RMS 3- phase, (3) wires + ground. </p></li>
+<li><p>Voltage Range: +/-10% of nominal </p></li>
+<li><p>Source Voltage Distortion: Up to 15% THD plus notches, flat
+topping, and/or ringing transients </p></li>
+<li><p>The STS output voltage is the same as the input voltage. </p
+></li>
+<li><p>Frequency: (60) Hz. +/-0.5 Hz; (50) Hz +/-0.5Hz</p></li>
+</ul></p>
+<p>Current: <ul>
+<li><p>The STS continuous current rating is 2000A input and output. </p
+></li>
+<li><p>If the STS output is to a PDU, the STS continuous current rating
+must match or exceed the PDU input rating.</p></li>
+</ul></p>
+<p>Short circuit rating: 65 KAIC up to 600 volts </p>
+<p>Load Power Factor Range: 0.5 to 1.0, leading or lagging </p>
+<p>Load Crest Factor: Up to 3.5 </p>
+<p>Overload Capacity with Molded Case Circuit Breaker (MCCB) trip
+settings set to highest limits:</p>
+<p><ul>
+<li><p>125% for 15 minutes </p></li>
+<li><p>150% for 2 minutes </p></li>
+<li><p>300% for 30 seconds</p></li>
+<li><p>500% for 10 seconds</p></li>
+</ul></p>
+<p>Ground: STS2000A system includes a computer grade single-point
+ground compliant with FIPS Pub 94 and NEC requirements.</p>
+</body>
+</topic>

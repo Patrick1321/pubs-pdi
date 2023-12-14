@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="RedundantOperatorInterface-D2942929"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Redundant Operator Interface</title>
+<body>
+<p>The ROI panel is located in a covered compartment just below the
+touchscreen display. Login is not required to use the ROI; key access
+to the front doors provides security. </p>
+<p>The ROI panel is <b><i>always active</i></b>: the toggle switches
+are enabled and the LEDs are valid in both Normal and Redundant modes
+(see <xref format="dita"
+href="#./Figure16RedundantOperatorInterfaceR-D29663BC" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 16 Redundant Operator Interface (ROI)"?></xref> for an
+explanation of LEDs and toggle switches). </p>
+<p>The ROI panel has these functions:</p>
+<ol>
+<li><p>The ROI panel sets the operational mode of the STS, either
+Normal or Redundant Mode (see <xref format="dita"
+href="Operational Modes 1127.dita" scope="local" type="topic"><?Pub
+_previewtext text="Operational Modes 1127"?></xref>): <ol>
+<li><p>The <b>MODE OF OPERATION</b> toggle switch should be left in
+NORMAL except for rare circumstances. </p></li>
+<li><p>When the <b>MODE OF OPERATION</b> toggle switch is set to <b
+>REDUNDANT</b>, both the ROI panel and the touchscreen display are
+active, if the Monitor and display are operating properly, but the
+SAS board controls transfers, not the Monitor. Redundant Mode is required,
+for example, when the Monitor must be restarted, because it provides
+a backup transfer capability while the Monitor is restarting. Circumstances
+requiring Redundant Mode are rare and time spent in Redundant Mode
+should be brief.</p></li>
+</ol></p></li>
+<li><p>In Normal Mode, the ROI panel automatically backs up <ol>
+<li><p>the display, providing a means to manually transfer the load
+if the touchscreen is not functional, and </p></li>
+<li><p>the Monitor logic, if Monitor logic fails. The SAS board is
+always in standby mode, providing continuous backup to Monitor logic
+and the display.</p></li>
+</ol></p></li>
+<li><p>In <b>REDUNDANT</b> mode, the ROI can also be used to directly
+initiate a transfer using the <b>SOURCE SELECTOR</b> momentary toggle
+switch.</p><p><b>NOTE 1</b>: The <b>SOURCE SELECTOR</b> switch operates
+slightly differently in Normal and Redundant modes:<ul>
+<li><p>In Normal mode, it sets the Preferred Source control to Source
+1 or 2, as selected. This can cause a transfer, if other circumstances
+allow it. </p></li>
+<li><p>In Redundant mode, it causes an immediate transfer to the specified
+source, if the target power source is within specification and the
+load is not already on that source.</p></li>
+</ul></p><p><b>NOTE 2</b>: The <b>MAINTENANCE</b> light on the ROI
+panel refers to the Maintenance Bypass, an internal switch used by
+service personnel to disable MCCB/MCSW trip units during maintenance.</p
+></li>
+</ol>
+<fig id="Figure16RedundantOperatorInterfaceR-D29663BC">
+<title>Redundant Operator Interface (ROI)</title>
+<image href="..\Graphics\16.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

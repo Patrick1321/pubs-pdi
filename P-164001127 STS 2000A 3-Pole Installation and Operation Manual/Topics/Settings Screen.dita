@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SettingsScreen-CEF888F1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Settings Screen</title><?Pub Caret -2?>
+<body>
+<p>Touch the <b>Settings </b>button on the <b>Home </b>screen to display
+the Settings Screen (<xref format="dita"
+href="#./Figure24SettingsScreen-CEF92862" scope="local" type="fig"
+><?Pub _previewtext text="Figure 24 Settings Screen"?></xref>). </p>
+<p>The <b>Settings</b> screen has panels for Modbus RTU, Ethernet,
+manual Time setting, and the Home page banner heading. </p>
+<fig id="Figure24SettingsScreen-CEF92862">
+<title>Settings Screen</title>
+<image href="..\Graphics\24.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p><b>Modbus Settings</b> This Panel is used to set parameters for
+Modbus RTU: Modbus address, baud rate, and parity. The Modbus address
+can be changed by touching the Address button. This will display the
+Keyboard Screen for entering the address for the unit. Pressing the
+other buttons in this panel will allow for the adjustment of those
+fields. The parity can be selected from the following: Even (E), Odd
+(O) or None (N). </p>
+</body>
+</topic>

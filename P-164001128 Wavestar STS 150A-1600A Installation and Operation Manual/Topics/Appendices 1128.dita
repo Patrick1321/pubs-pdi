@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Appendices1128-C42B0DDB" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendices</title><?Pub Caret -2?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix A - Recommended Spare Parts List.dita"><xi:fallback><!--Fallback markup for "Appendix A - Recommended Spare Parts List.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix B - Upstream Circuit Breaker Rating.dita"><xi:fallback><!--Fallback markup for "Appendix B - Upstream Circuit Breaker Rating.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix C - Installation Instructions - Stand Alone STS.dita"><xi:fallback><!--Fallback markup for "Appendix C - Installation Instructions - Stand Alone STS.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix D - Installation Instructions - Primary STS-PDU System.dita"><xi:fallback><!--Fallback markup for "Appendix D - Installation Instructions - Primary STS-PDU System.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix E - Installation Instructions - Secondary STS-PDU System (topic.dita"><xi:fallback><!--Fallback markup for "Appendix E - Installation Instructions - Secondary STS-PDU System (topic.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix F - VSS (Low Current Inrush).dita"><xi:fallback><!--Fallback markup for "Appendix F - VSS (Low Current Inrush).dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix G - Standard Design Drawings.dita"><xi:fallback><!--Fallback markup for "Appendix G - Standard Design Drawings.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix H - Digital Screen Points Information (Rev 2.86 and Higher) (to.dita"><xi:fallback><!--Fallback markup for "Appendix H - Digital Screen Points Information (Rev 2.86 and Higher) (to.dita"--></xi:fallback
+></xi:include>
+<?Pub _newpage?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix I - Analog Screen Points Information.dita"><xi:fallback><!--Fallback markup for "Appendix I - Analog Screen Points Information.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix J - Analog Screen Points Information.dita"><xi:fallback><!--Fallback markup for "Appendix J - Analog Screen Points Information.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix K - Internal Component Identification.dita"><xi:fallback><!--Fallback markup for "Appendix K - Internal Component Identification.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Appendix L - Internal Connection Detail.dita"><xi:fallback><!--Fallback markup for "Appendix L - Internal Connection Detail.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="STS Testing - Commissioning Methodology.dita"><xi:fallback><!--Fallback markup for "STS Testing - Commissioning Methodology.dita"--></xi:fallback
+></xi:include>
+</topic>

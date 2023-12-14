@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Features/ Options</title>
+<body></body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Two transfer algorithms.dita"><xi:fallback><!--Fallback markup for "Two transfer algorithms.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Security.dita"><xi:fallback><!--Fallback markup for "Security.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Maintainability.dita"><xi:fallback><!--Fallback markup for "Maintainability.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Reliability.dita"><xi:fallback><!--Fallback markup for "Reliability.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Communication and Down Load capabilities.dita"><xi:fallback><!--Fallback markup for "Communication and Down Load capabilities.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Human Engineering.dita"><xi:fallback><!--Fallback markup for "Human Engineering.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Graphics Monitor-touch screen has the following screen features.dita"><xi:fallback><!--Fallback markup for "Graphics Monitor-touch screen has the following screen features.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Built in test.dita"><xi:fallback><!--Fallback markup for "Built in test.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 29?>

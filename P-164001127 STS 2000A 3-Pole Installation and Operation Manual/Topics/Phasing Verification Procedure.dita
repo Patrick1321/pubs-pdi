@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PhasingVerificationProcedure-D2905523"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Phasing Verification Procedure</title>
+<body>
+<p>With all Circuit Breakers (MCCBs and MCSWs) open, verify correct
+phasing by verifying the following measurements: <ul>
+<li><p>Zero volts between the phase A poles on the line side of all
+input Circuit Breakers. </p></li>
+<li><p>Zero volts between the phase B poles on the line side of all
+input Circuit Breakers. </p></li>
+<li><p>Zero volts between the phase C poles on the line side of all
+input Circuit Breakers. </p></li>
+<li><p>Zero volts between the phase A poles on the line side of all
+bypass Circuit Breakers. </p></li>
+<li><p>Zero volts between the phase B poles on the line side of all
+bypass Circuit Breakers. </p></li>
+<li><p>Zero volts between the phase C poles on the line side of all
+bypass Circuit Breakers.</p></li>
+</ul></p>
+</body>
+</topic>

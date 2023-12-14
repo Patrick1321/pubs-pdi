@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="topic-13-C4094DF2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Basic Characteristics</title>
+<body>
+<p><b>Purpose</b> The purpose of the STS is to keep power supplied
+to a downstream mission-critical load by switching between redundant
+power sources. </p>
+<p>While a site UPS removes power anomalies originating between the
+power station and the site, the STS mitigates the effects of anomalies
+between the Uninterruptible Power Supply (UPS), utility power source,
+or other source and the STS load. These anomalies include: <ul>
+<li><p>Loss of an upstream utility or UPS source </p></li>
+<li><p>Out of specification power from a power source </p></li>
+<li><p>Faulty transformers in PDUs </p></li>
+<li><p>Circuit breaker nuisance tripping</p></li>
+</ul><b>Transfer Switch</b> The STS 2000A is a standalone transfer
+switch with two AC input sources and one AC output load. The STS transparently
+transfers the output load automatically from one power source to the
+other, if the active source fails or goes out of specification, or
+manually by operator directive, for testing or maintenance. </p>
+<p><b>Static Transfer Switch</b> Unlike electromechanical transfer
+switches, a static transfer switch has no moving parts. It uses semiconductor
+technology, specifically silicon controlled rectifiers (SCRs), as
+power switching elements, achieving faster transfers. </p>
+<p><b>Sources </b>The two input AC power sources should be independent
+power sources that are nominally of the same voltage, phase rotation,
+and frequency. Inputs are usually from uninterruptible power supplies
+(UPSs), but can be utility power sources, transformer outputs, or
+PDU outputs. </p>
+<p><b>Output load</b> The STS has a single AC output that supplies
+redundant power to downstream loads. </p>
+<p><b>3-pole </b>The STS switches a 3-phase AC load between the two
+AC sources. The neutral wire is not switched.</p>
+</body>
+</topic>

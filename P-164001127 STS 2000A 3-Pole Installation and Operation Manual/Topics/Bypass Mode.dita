@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="BypassMode-CEE15073"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Bypass Mode</title>
+<body>
+<p>The STS has a Bypass Mode for maintenance. In Bypass Mode, all
+electronic components are isolated from the power sources to allow
+safe unit servicing.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Kirk Key Interlocks.dita"><xi:fallback><!--Fallback markup for "Kirk Key Interlocks.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Procedure for Going to Bypass 1.dita"><xi:fallback><!--Fallback markup for "Procedure for Going to Bypass 1.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Help Assistance for Bypass.dita"><xi:fallback><!--Fallback markup for "Help Assistance for Bypass.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 168?>

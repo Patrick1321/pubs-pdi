@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="RemoteSourceSelectOption-CE734ACF"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Remote Source Select Option</title>
+<body>
+<p>Two external two dry contacts can be used to control the remote
+selection of the preferred source. Dry contact closures are generally
+used when two UPSs supply power to the system. If the preferred UPS
+goes to bypass mode, the “good” UPS becomes preferred: <ul>
+<li><p>Signal 1 (Remote Select S1) dry contact closure will make Source
+1 preferred. </p></li>
+<li><p>Signal 2 (Remote Select S2) dry contact closure will make Source
+2 preferred. </p></li>
+<li><p>If both dry contacts closures are open, the preferred source
+control is returned to the system operator control panel.</p></li>
+</ul></p>
+<p>Any remote control signal or closure puts the unit into a “Retransfer=Yes"
+mode to ensure system redundancy. Normally the closures are controlled
+by auxiliary contacts in the UPS bypass circuit breakers. If both
+dry contacts close, the first input to the STS is recognized.</p>
+</body>
+</topic>

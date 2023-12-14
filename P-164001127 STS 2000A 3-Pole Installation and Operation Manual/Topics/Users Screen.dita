@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="UsersScreen-CEE36877"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Users Screen</title>
+<body>
+<p><ul>
+<li><p>Touch the User button at the bottom of a display screen to
+display the Users Screen (<xref format="dita"
+href="#./Figure20UsersScreen-D299BF2F" scope="local" type="fig"><?Pub
+_previewtext text="Figure 20 Users Screen"?></xref>). </p></li>
+<li><p>The Users screen: <ul>
+<li><p>Lets the Administrator set up new users and their level of
+access to the switch. </p></li>
+<li><p>Displays the names of registered users and unassigned slots.</p
+></li>
+</ul></p></li>
+<li><p>Scroll through the User list using the scroll bar on the right
+side of the screen to highlight a user name or number. </p></li>
+<li><p>Set up or modify a user’s profile using the <b>Name, PIN, Password</b
+>, and <b>Class</b> buttons. Each user must be assigned a Password
+and PIN.</p></li>
+<li><p>The Administrator sets a user’s access Class by touching the
+Class button and entering the first letter of the Class:<ul>
+<li><p>A: Administrator </p></li>
+<li><p>S: Service </p></li>
+<li><p>O: Operator</p></li>
+</ul></p></li>
+<li><p>The Eaton PDI class is hard coded and cannot be assigned by
+the administrator.</p></li>
+</ul></p>
+<fig id="Figure20UsersScreen-D299BF2F">
+<title>Users Screen</title>
+<image href="..\Graphics\20.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+</body>
+</topic>

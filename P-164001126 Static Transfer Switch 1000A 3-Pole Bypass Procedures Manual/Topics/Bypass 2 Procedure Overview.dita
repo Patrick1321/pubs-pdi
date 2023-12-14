@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Bypass2ProcedureOverview-CE56C24D"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Bypass 2 Procedure Overview</title>
+<body>
+<p>Bypass 2 Procedure is symmetric to the Bypass 1 Procedure. </p>
+<p>At the start of this procedure, Source 2 is assumed the active
+power source. Refer to the STS Monitor’s One-Line mimic on the STS
+Home screen to verify that Source 2 (SCR 2) is powering the load.
+If going to bypass on Bypass Source 2: <ol>
+<li><p>Turn OFF Source 1. (This insures that the opposite source is
+not active while Bypass 2 is active.) </p></li>
+<li><p>Turn ON (close) Bypass Source 2. (Bypass Source 1 and 2 cannot
+be active together. The bar on the dead front panels prevents you
+removing both Bypass 1 and Bypass 2 keys at once.) </p></li>
+<li><p>Turn OFF (open) Source 2 and lock out. </p></li>
+<li><p>Turn OFF (open) the Isolation MCCBs or MCSWs.</p></li>
+</ol></p>
+</body>
+</topic>

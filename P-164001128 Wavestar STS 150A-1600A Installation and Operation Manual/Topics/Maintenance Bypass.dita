@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Maintenance Bypass</title>
+<body>
+<ol>
+<li><p>See the unit drawings in the Appendix for MCSW/MCCB configuration
+and location. </p></li>
+<li><p>The WaveStar is furnished with key-interlocked maintenance
+bypass MCSW/MCCBs (Customer to designate whether to have MCSW or MCCB
+provided for the bypass disconnects at the time of order) which allow
+the transfer switch to be bypassed by the operator without interruption
+of the load power. When the unit is in maintenance bypass, all electronic
+components can be isolated from the input, output, and bypass connections
+to allow safe unit servicing without access to hazardous voltages. </p
+></li>
+<li><p>MCSW/MCCB Interlocking Key Configuration:</p><ul>
+<li><p>The Source 1 and Source 2 bypass MCSW/MCCB are keyed interlocked.
+Only one can be closed at a time, but both can be open at the same
+time.</p></li>
+<li><p>The Source 1 input MCSW/MCCB and the Source 2 bypass MCSW/MCCB
+are key interlocked with key #1. The key must be inserted into the
+lock and turned before that MCSW/MCCB can be closed. </p></li>
+<li><p>The Source 2 input MCSW/MCCB and Source 1 bypass MCSW/MCCB
+are key interlocked with key #2. The key must be inserted and turned
+before that MCSW/MCCB can be closed. </p></li>
+<li><p>The Bypass 1 MCSW/MCCB and the Bypass 2 MCSW/MCCB are key interlocked
+with key #3. The key must be inserted into the lock and turned before
+that MCSW/MCCB can be closed. </p></li>
+<li><p>Key #1, key #2 and key #3 are different and none of these keys
+can be removed from a MCSW/MCCB unless the MCSW/MCCB is in the open
+position. </p></li>
+<li><p>In the normal operation, the keys are in the input MCSW/MCCB’s
+and the input MCSW/MCCB’s are closed, and neither bypass MCSW/MCCB
+can be closed.</p></li>
+</ul></li>
+</ol>
+<p><b>Example Procedure for going to bypass on the WaveStar on Source
+1</b></p>
+<p>(The load must be powered by Source 1):</p>
+<ol>
+<li><p>Open Source #2 input MCSW/MCCB </p></li>
+<li><p>Rotate and Remove the key from the Source 2 Input MCSW/MCCB
+and insert it in the Source 1 bypass MCSW/MCCB and turn. </p></li>
+<li><p>Verify key #3 is in Bypass 1. (If the key #3 is located in
+Bypass 2, remove it and insert it in Bypass 1. </p></li>
+<li><p>Close the Source #1 bypass MCSW/MCCB, since the MCSW/MCCB closes
+“around” the power switch element, bypass is transparent to the load. </p
+></li>
+<li><p>Now both the Source 1 input MCSW/MCCB and the isolation MCSW
+can be opened and the STS Unit is bypassed.</p></li>
+</ol>
+</body>
+</topic>

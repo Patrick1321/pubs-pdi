@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="HelpScreen-D723E09E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Help Screen</title>
+<body>
+<p>Touching the “Help” button icon on the Home Screen displays the
+“Help” screen. </p>
+<p>The Help Screen provides the Operator step by step instructions
+for performing certain functions in the STS unit. The procedures are
+listed and change when operations are performed to complete a specific
+function. It does this by using the Red/Green Icons in the order to
+which actions need to be completed from the top of the screen to the
+bottom.</p>
+<fig id="HelpScreen-D726353F">
+<title>Help Screen</title>
+<image href="..\Graphics\21x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The top icon will always be the first action that needs to be completed.
+Each action that needs to be performed by the operator will be marked
+with a red X. As the operator performs each task the Icon will change
+to a green check mark to show that it has been completed. </p>
+<p>The Next Icon will switch the screen to additional function help
+that is programmed in the STS Unit.</p>
+</body>
+</topic>

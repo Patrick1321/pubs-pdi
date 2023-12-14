@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Time and Materials</title>
+<body>
+<p>In most cases the customer will be covered by START UP service
+or Maintenance Contracts, however, there may be times when the customer
+needs PDI service and lacks the benefits that these two packages provide.
+Therefore, PDI provides Time and Material coverage for those in need
+of our customer support engineers.</p>
+<?Pub _newpage?>
+<table>
+<tgroup cols="4"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/><colspec colname="col4"/>
+<tbody>
+<row>
+<entry align="center" nameend="col4" namest="col1" rowsep="0"><?PubTbl
+cell border-left-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><b>POWER DISTRIBUTION, INC.</b> <p><b><i
+>Maintenance Agreement </i></b></p></entry>
+</row>
+<row>
+<entry nameend="col4" namest="col1" rowsep="0"><?PubTbl cell
+border-left-width="0.25pt" border-right-width="0.25pt"?>This agreement,
+between Power Distribution, Inc. and <b>(__________________) </b>hereinafter
+referred to as "Customer", is for Preventative and/or Remedial Maintenance
+Service, and/or other service as described below. The location of
+the equipment covered under this agreement is as follows: </entry>
+</row>
+<row>
+<entry nameend="col4" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><b>CUSTOMER
+INFORMATION:</b></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>BILLING </b></p></entry>
+<entry nameend="col4" namest="col3"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>EQUIPMENT LOCATION </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>COMPANY NAME </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry nameend="col4" namest="col3"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>ADDRESS 1 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry nameend="col4" namest="col3"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>ADDRESS 2 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry nameend="col4" namest="col3"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>CITY, STATE </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry nameend="col4" namest="col3"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>POINT OF CONTACT </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry nameend="col4" namest="col3"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry nameend="col4" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>EQUIPMENT </p
+></entry>
+</row>
+<row>
+<entry nameend="col4" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Manufacturer </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Model # </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>kVA </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Sales Order # </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Power Distribution, Inc </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry nameend="col4" namest="col1" rowsep="0"><?PubTbl cell
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>All equipment
+shall have the same level of coverage under this agreement. The maintenance
+levels of coverage are per the marked selections below. </p><p><b
+><u>WORKSCOPE: </u></b></p><p>*Two (2) Preventative Maintenance Visits
+annually</p><p>*Remedial Maintenance (4 hour response for load down
+situation.</p><p>*7x24 Coverage (No additional charges for nights/weekends/holidays.</p
+></entry>
+</row>
+<row>
+<entry nameend="col4" namest="col1" rowsep="0"><?PubTbl cell
+border-left-width="0.25pt" border-right-width="0.25pt"?><p><b><u>TERMS:</u
+></b></p><p>This agreement shall remain in force for ___ <b>year(s) </b
+>from <b>_____________</b>. This agreement shall continue for successive
+one (1) year terms unless terminated by either party by written notice
+given at least sixty (60) days prior to the anniversary of the Service
+Commencement Date. In consideration of the above, the Customer shall
+pay PDI the amount of $_____________ as invoiced. Customer shall be
+invoiced within thirty (30) days of Service Commencement Date. </p
+><p></p></entry>
+</row>
+<row>
+<entry nameend="col4" namest="col1" rowsep="0"><?PubTbl cell
+border-left-width="0.25pt" border-right-width="0.25pt"?>Terms and
+Conditions on the second page of this contract are a part of this
+Agreement for Services. </entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"></entry>
+</row>
+<row>
+<entry align="left" colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?><p
+><b><u>ACKNOWLEDGMENT</u> </b></p><p>Power Distribution, Inc. </p
+><p>Signature </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-width="0.25pt"?></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"></entry>
+</row>
+<row>
+<entry colsep="0" nameend="col2" namest="col1" rowsep="0"><?PubTbl
+cell border-left-width="0.25pt"?><p>__________________________________ </p
+><p>Service Program Administrator </p></entry>
+<entry nameend="col4" namest="col3" rowsep="0"><?PubTbl cell
+border-right-width="0.25pt"?> <p>__________________________________ </p
+><p>Title </p></entry>
+</row>
+<row>
+<entry colsep="0" nameend="col2" namest="col1" rowsep="0"><?PubTbl
+cell border-left-width="0.25pt"?><p>__________________________________ </p
+><p>Date </p></entry>
+<entry nameend="col4" namest="col3" rowsep="0"><?PubTbl cell
+border-right-width="0.25pt"?> <p>__________________________________ </p
+><p>Phone Number </p></entry>
+</row>
+<row>
+<entry nameend="col4" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?>This agreement
+is not valid until acknowledged by PDI Service Program Administrator.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

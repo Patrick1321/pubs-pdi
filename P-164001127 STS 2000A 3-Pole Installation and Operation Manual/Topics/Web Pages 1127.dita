@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="WebPages1127-C4122531" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Web Pages</title>
+<body>
+<p>The STS has a web server for viewing STS status remotely. The web
+pages are similar to the screens on the STS display, but not identical.
+Web pages can be viewed, but no changes in STS parameters or controls
+can be made through the web server. For example, you cannot reset
+alarms, clear the number of transfers, or clear plots. You cannot
+change operational parameters or initiate transfers remotely. </p>
+<p>Connect to the web server using the IP address set up in the <b
+>Ethernet </b>panel of the <b>Settings </b>screen (<xref format="dita"
+href="System Setup Networking 1127.dita#SettingsScreen-CEF888F1/Figure24SettingsScreen-CEF92862"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 24 Settings Screen"?></xref>). <fig
+id="Figure37STSWebServerHomePage-CEFE26C9">
+<title>STS Web Server Home Page</title>
+<image href="..\Graphics\37.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>The pages that can be displayed are given in buttons on the
+web <b>Home </b>page (<xref format="dita"
+href="#./Figure37STSWebServerHomePage-CEFE26C9" scope="local" type="fig"
+><?Pub _previewtext text="Figure 37 STS Web Server Home Page"?></xref
+>). The web pages correspond to STS screens as follows: <table>
+<title> STS Screen to Web Page Correspondence </title>
+<tgroup cols="2"><colspec colname="col1" colwidth="100.00pt"/><colspec
+colname="col2" colwidth="100.00pt"/>
+<thead>
+<row>
+<entry valign="top"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><p><b>STS Web
+Page </b></p></entry>
+<entry valign="top"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><p><b>STS Screen </b></p><b></b></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Home </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>— </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>One Line </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Home </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Analog </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Analog Values </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Alarms </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Alarms </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Log </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Event Log </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Waveforms </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Plots </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Downstream </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Branch </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Service </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>— </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Contact Eaton PDI </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>— </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>The <b>Contact Eaton PDI </b>web page has a link to send email
+to Eaton PDI service and a link to the Eaton PDI corporate web site.
+The <b>Downstream </b>page is not valid for the standalone STS 2000A
+because it has no distribution branch circuits.</p><?Pub Caret 808?>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Analog Web Page.dita"><xi:fallback><!--Fallback markup for "Analog Web Page.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="One-Line Page.dita"><xi:fallback><!--Fallback markup for "One-Line Page.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Log Web Page.dita"><xi:fallback><!--Fallback markup for "Log Web Page.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Waveforms Page.dita"><xi:fallback><!--Fallback markup for "Waveforms Page.dita"--></xi:fallback
+></xi:include>
+</topic>

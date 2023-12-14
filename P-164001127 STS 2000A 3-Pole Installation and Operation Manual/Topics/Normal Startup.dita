@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Normal Startup</title>
+<body>
+<p>Powering up the STS for normal operation can be done as follows:<ol>
+<li><p>The STS should be left in Normal mode configuration for MCCBs
+and MCSWs as shown in <xref format="dita"
+href="Introduction System Description 1127.dita#TransferProcessPowerSwitchingCompon-D289C2F1/Figure6NormalModeMCCBMCSWAndSCRConf-D28D5DA2"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 6 Normal Mode MCCB/MCSW and SCR Configuration"?></xref
+>, Normal Mode MCCB/MCSW Configuration.</p></li><?Pub Caret 125?>
+<li><p>Apply power to the STS externally by closing circuit breakers
+feeding the unit.</p></li>
+</ol></p>
+</body>
+</topic>

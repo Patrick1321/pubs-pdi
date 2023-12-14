@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="One-LinePage-CEFEDB65"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>One-Line Page</title>
+<body>
+<p>Click the <b>One Line </b>button to display a one-line diagram
+similar to the <b>Home </b>screen one-line diagram (<xref format="dita"
+href="Operational Interfaces 1127.dita#HomeScreen-D2941F73/Figure13TouchscreenDisplayHomeScree-D2942719"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 13 Touchscreen Display: Home Screen"?></xref>) and interpreted
+essentially the same way (<xref format="dita"
+href="#./Figure39One-LineWebPage-D2FB6119" scope="local" type="fig"
+><?Pub _previewtext text="Figure 39 One-Line Web Page"?></xref>). <fig
+id="Figure39One-LineWebPage-D2FB6119">
+<title>One-Line Web Page</title>
+<image href="..\Graphics\39.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

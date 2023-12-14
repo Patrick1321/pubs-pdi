@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Unloading, Unpacking, and Handling</title>
+<body>
+<p>You should unpack your Eaton PDI product with the same care used
+in packing the product for safe and efficient delivery to your facility. </p>
+<p><ul>
+<li><p>Use the shipping skid provided to move the system as close
+as possible to the final installation position. A forklift or pallet
+jack can be used to move the skid. Do not exceed a 10- degree tilt
+if moving with a forklift. Tipping the unit can cause it to fall which
+can cause damage or injury to personnel. </p></li>
+<li><p>Exercise care when handling STS system cabinets to avoid equipment
+damage or injury to personnel. </p></li>
+<li><p>Before moving the unit, check the unit size and weight in <xref
+format="dita"
+href="Installation Planning 1127.dita#SystemEnclosure-CE6C86A8"
+scope="local" type="topic"><?Pub _previewtext text="System Enclosure"
+?></xref>. </p></li>
+<li><p>Plan your route for moving the equipment. Ensure that all passages
+are large enough to accommodate the unit and support the weight. Check
+for any non-negotiable corners or offsets in hallways. </p></li>
+<li><p>To remove the unit from the skids, carefully cut the bands
+holding the unit or unit modules to the pallets. Use cautions as bands
+are under tension and can cause personal injury. When opening the
+shipping package, use care not to puncture the packaging with sharp
+objects. Remove all plastic wrapping and packing material from the
+unit.</p></li>
+<li><p>Lift the units off the skids with a forklift capable of handling
+the weight of the unit. Lift the STS unit from the front between the
+shipping skids. Ensure that the unit is located on a level floor with
+room to maneuver around it.</p></li>
+</ul></p>
+</body>
+</topic>

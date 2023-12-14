@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Retransfer- Yes/No</title>
+<body>
+<p>This select switch icon which is located on the “Switch” Settings
+screen of the touch screen monitor. When the switch is in the “Yes”
+position, the logic will always connect the load to the selected “preferred
+source” as long as it is within specified, acceptable limits. This
+is the normal operating mode for the STS unit and the default position
+of the switch. After a transfer, once the “preferred source” has returned
+to within acceptable parameters, the unit will automatically switch
+the load back to the preferred source. When in the “No” position,
+the logic will not retransfer to the “preferred source” once a transfer
+has been performed, even after the “preferred source” returns to acceptable
+parameters. It will remain on the alternate source until it fails.
+If the other source is good, it will then transfer to the original
+preferred source.</p>
+</body>
+</topic>

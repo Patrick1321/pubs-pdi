@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Communications1128-C42A237B" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Communications</title><?Pub Caret -2?>
+<body>
+<p></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus.dita"><xi:fallback><!--Fallback markup for "Modbus.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="SMNP.dita"><xi:fallback><!--Fallback markup for "SMNP.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Web.dita"><xi:fallback><!--Fallback markup for "Web.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modem Land Line.dita"><xi:fallback><!--Fallback markup for "Modem Land Line.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modem Cell.dita"><xi:fallback><!--Fallback markup for "Modem Cell.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Email.dita"><xi:fallback><!--Fallback markup for "Email.dita"--></xi:fallback
+></xi:include>
+</topic>

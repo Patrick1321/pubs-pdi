@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PositioningTheSTS2000AUnit-D292B861"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Positioning the STS 2000A Unit</title>
+<body>
+<p>The stand-alone STS 2000A requires front access for normal operation
+and both front and rear access for installation and maintenance. <ol>
+<li><p>1. The standalone STS 2000A requires 30" front and rear access
+for installation and maintenance, allowing the unit to be fully serviced
+and complying with the 1996 National Electric Code for access to Circuit
+Breaker distribution equipment. </p></li>
+<li><p>Check STS floor loading to verify that the STS 2000A system
+does not exceed the raised floor loading specifications. System weight
+and cabinet dimensions are given in <xref format="dita"
+href="Installation Planning 1127.dita#SystemEnclosure-CE6C86A8"
+scope="local" type="topic"><?Pub _previewtext text="System Enclosure"
+?></xref>. </p></li>
+<li><p>If additional raised floor supports are required, contact Eaton
+Service (1-800-843-9433) or your raised floor manufacturer for either
+floor jacks or full frame floor stands and their specifications. </p
+></li>
+<li><p>The STS 2000A does not have casters or leveling feet because
+of the weight of the unit.</p></li>
+</ol></p>
+</body>
+</topic>

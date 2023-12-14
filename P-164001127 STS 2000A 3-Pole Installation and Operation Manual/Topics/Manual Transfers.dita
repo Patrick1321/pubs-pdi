@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ManualTransfers-CEE1506F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Manual Transfers</title>
+<body>
+<p>Manual transfers can be made in three ways: <ol>
+<li><p>In Normal Mode, from <b>Home</b> screen, switching the <b>Preferred
+Source</b> to the other source will manually transfer the load to
+the other source if: <ol>
+<li><p>Preferred Source = Current Source, and </p></li>
+<li><p>the new Preferred Source is within acceptable voltage limits
+and phase tolerances. The selected transfer algorithm, VSS or POG,
+is used.</p></li>
+</ol></p></li>
+<li><p>In Normal Mode, toggling the <b>SOURCE SELECTOR</b> momentary
+toggle switch on the <b>ROI panel</b> is an alternative way to set
+the Preferred Source. Transfer behavior is the same as in (1.) above.</p
+></li>
+<li><p>In Redundant Mode, from the <b>ROI panel</b>, toggling the <b
+>SOURCE SELECTOR</b> momentary toggle switch directly transfers the
+load to the other source, if not already on that source and the other
+source is within specification. The SAS logic board controls the transfer,
+not the Monitor logic.</p></li>
+</ol></p>
+</body>
+</topic>

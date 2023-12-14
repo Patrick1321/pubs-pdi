@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Two transfer algorithms</title>
+<body>
+<ol>
+<li><p>POG: 4 Ms or less transfer time for outages; 2ms for manual
+transfers </p></li>
+<li><p>VSS: The Volt Second Synchronizing algorithm reduces the inrush
+of magnetic load; the transfer time can range from 4ms to 8 Ms depending
+on the phase shift between the sources.</p></li>
+</ol>
+</body>
+</topic>

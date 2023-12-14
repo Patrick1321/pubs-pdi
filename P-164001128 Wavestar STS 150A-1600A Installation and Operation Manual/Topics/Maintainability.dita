@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Maintainability</title>
+<body>
+<ul>
+<li><p>Hot swap ability - all logic Printed Circuit Boards (PCBs)
+can be hot swapped, without loss of basic function and without placing
+the STS unit in bypass. Molded Case Switches (MCSW)/Molded Case Circuit
+Breakers (MCCB) can be replaced as long as they are not conducting
+at the time (They are on the opposite source of the one that the unit
+is selected to). However, it should be noted that once a MCSW is removed,
+the unit cannot transfer. This will allow for component replacement
+on the non-conducting side of the STS unit and it does not require
+side or rear access.<note>Maintenance on the units should only be
+performed by a qualified technician.</note></p></li>
+<li><p>All connections can be IR scanned without access to the rear.</p
+></li>
+</ul>
+</body>
+</topic>

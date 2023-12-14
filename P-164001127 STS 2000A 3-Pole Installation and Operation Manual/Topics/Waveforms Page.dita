@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="WaveformsPage-CEFEDB69"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Waveforms Page</title>
+<body>
+<p>The <b>Waveforms </b>page (<xref format="dita"
+href="#./Figure41WaveformsWebPage-CF000004" scope="local" type="fig"
+><?Pub _previewtext text="Figure 41 Waveforms Web Page"?></xref>)
+corresponds to the <b>Plots </b>screen (<xref format="dita"
+href="Status, Alarms, and Other Diagnostic Information 1127.dita#PlotsScreen-CEFCA86B/Figure33PlotsScreen-CEFCA86C"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 33 Plots Screen"?></xref>). Click the <b>Get </b>button
+to click through the waveforms associated with events. Waveforms are
+time-and-date stamped to let you associate them with specific events
+in the <b>Alarms </b>or <b>Log </b>web pages. Up to 25 events with
+waveforms or plots are stored. </p>
+<p>Multiple web sessions can be in progress simultaneously. You can
+view a <b>Log </b>page in one session while viewing <b>Waveforms </b
+>in another. </p>
+<fig id="Figure41WaveformsWebPage-CF000004">
+<title>Waveforms Web Page</title>
+<image href="..\Graphics\41.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

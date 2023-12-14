@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixGStandardDesignDrawings-D62F7A8B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix G – Standard Design Drawings</title>
+<body>
+<fig><image href="..\Graphics\31ax.pdf" scope="local"></image>
+</fig>
+<fig><image href="..\Graphics\32x.pdf" scope="local"></image>
+</fig>
+<fig><image href="..\Graphics\33ax.pdf" scope="local"></image>
+</fig>
+<fig><image href="..\Graphics\34x.pdf" scope="local"></image>
+</fig>
+<fig><image href="..\Graphics\35x.pdf" scope="local"></image>
+</fig>
+<fig><image href="..\Graphics\36x.pdf" scope="local"></image>
+</fig>
+</body>
+</topic>

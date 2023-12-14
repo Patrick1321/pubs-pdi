@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Control Functions</title>
+<body></body><?Pub Caret -3?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Normal Mode.dita"><xi:fallback><!--Fallback markup for "Normal Mode.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Manual Transfer.dita"><xi:fallback><!--Fallback markup for "Manual Transfer.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Retransfer- Yes-No.dita"><xi:fallback><!--Fallback markup for "Retransfer- Yes-No.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Logic Controlled Functions.dita"><xi:fallback><!--Fallback markup for "Logic Controlled Functions.dita"--></xi:fallback
+></xi:include>
+</topic>

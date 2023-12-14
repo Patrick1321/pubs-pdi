@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AnalogValuesScreen-D723E09C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Analog Values Screen</title>
+<body>
+<p>Touching the “Analog” button icon on the Home Screen displays the
+Analog Screen. </p>
+<p>The Analog screen will display the analog Values screen shown in<xref
+format="dita" href="#./AnalogValues-D7241329" scope="local" type="fig"
+><?Pub _previewtext text="Analog Values"?></xref>.</p>
+<p> The red or green indicators at the beginning of each row indicate
+normal (green) and abnormal(red) states. This column will display
+OK or Not Alarm if the value is normal or Alarm if the value is abnormal. </p>
+<p>The second column is a description of measured parameters. </p>
+<p>The third column is a description of the analog values. The four
+button icons below the Values panel are used to set the high and low
+limits for alarms, calibration of the values, and clear the text.<fig
+id="AnalogValues-D7241329">
+<title>Analog Values</title>
+<image href="..\Graphics\14x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>Touching these icons will display the Numeric Pad Screen for
+entering this data. Once the information is entered in the Numeric
+Pad Screen, the OK is pushed to accept the data. </p>
+<p>The arrow Icons on the right side of the Values panel allows the
+operator to scroll through the text list to select the Analog Value
+to set.</p>
+<fig id="NumericPadScreen-D7247AF0">
+<title>Numeric Pad Screen</title>
+<image href="..\Graphics\15x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>
