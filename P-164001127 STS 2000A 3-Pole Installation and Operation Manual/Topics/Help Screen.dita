@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="HelpScreen-CEFC9880"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Help Screen</title>
+<body>
+<p>Touching the <b>Help </b>button on the <b>Home </b>screen displays <b
+>Help </b>screen, overlayed on the <b>Home </b>screen (see <xref
+format="dita"
+href="Operational Modes 1127.dita#HelpAssistanceForBypass-CEE1507C/Figure19HelpForBypassOperations-D297E3DF"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 19 Help for Bypass Operations"?></xref>, Help for Bypass
+Operations, and <xref format="dita"
+href="#./Figure36HelpProcedureExamples-CEFC93A4" scope="local"
+type="fig"><?Pub _previewtext text="Figure 36 Help Procedure Examples"
+?></xref>). </p>
+<p>The <b>Help </b>screen provides the operator a step-by-step procedure
+for going to and returning from Bypass. The procedure steps are listed
+and tracked as operations are performed. </p>
+<p>Touch the <b>Next </b>arrowhead to display another help procedure. <fig
+id="Figure36HelpProcedureExamples-CEFC93A4">
+<title>Help Procedure Examples</title>
+<image href="..\Graphics\36.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

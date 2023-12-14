@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InstallationProcedures1128-C42848A2" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation Procedures</title>
+<body>
+<p>The following section of your WaveStar Series Owner's Manual covers
+the general requirements for the installation of the standalone WaveStar
+STS or a WaveStar STS /PDU systems and its associated components.
+Accessories and special options are covered in the Appendix or separately
+by drawings/instructions shipped with the available options.<note
+>A licensed electrician or a trained Eaton field representative must
+install Unit. A trained Eaton field representative must perform start
+up or commissioning. To validate the warranty, Please complete the
+validation request form as provided in <xref format="dita"
+href="Installation Procedures 1128.dita" scope="local" type="topic"
+><?Pub _previewtext text="Installation Procedures  1128"?></xref> and
+notify Eaton Service Department upon completion of the startup to
+initiate the Warranty Coverage.</note>An installation drawing showing
+the input/output connection points similar to the one shown is located
+in the Appendix - Drawings and Arrangement Documents</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Positioning the STS.dita"><xi:fallback><!--Fallback markup for "Positioning the STS.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Recommended Minimum Service Clearances.dita"><xi:fallback><!--Fallback markup for "Recommended Minimum Service Clearances.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Levelling Units and Attaching Units to Floor Stands.dita"><xi:fallback
+><!--Fallback markup for "Levelling Units and Attaching Units to Floor Stands.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Electrical Connection.dita"><xi:fallback><!--Fallback markup for "Electrical Connection.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 878?>

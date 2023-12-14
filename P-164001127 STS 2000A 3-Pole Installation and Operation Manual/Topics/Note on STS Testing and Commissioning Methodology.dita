@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="NoteOnSTSTestingAndCommissioningMet-D292B867"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Note on STS Testing and Commissioning Methodology</title>
+<body>
+<p>The Eaton PDI WaveStar Static Transfer Switch (STS) has built in
+redundant logic and transfer abilities. The primary logic is connected
+to the line side of input Molded Case Switches (MCSW) and output bus
+in the static switch to detect upstream events – this then allows
+the switch to sense and transfer sources. The 30 Ctrl Nr: PM375118-004
+primary logic has embedded software that controls both the low inrush
+algorithm and the concurrent recording of any switch transfer events
+with its real time wave form capture feature. The secondary logic
+is connected to the load side of the input MCSWs in the static switch
+and is used to trigger the switch to transfer upon opening of the
+input MCSWs along with the primary logic. </p>
+<p>When performing transfer testing / operation of the static switch,
+the recommended method is to perform transfers automatically by using
+the front touch screen / graphics on the static switch or alternatively
+to manually use the redundant operation interface panel. When performing
+outage testing, the preferred method is to perform any outage operation
+by opening the upstream breaker suppling power to the either source
+on the static switch. This simulates a true site event and allows
+the primary logic to detect a real event upstream of the switch. If
+an outage is performed by opening the MCSWs at the static switch,
+the switch will still fail safe and transfer, however some of the
+primary logic has been bypassed and thus, this is not the recommended
+method for initiating an outage.</p>
+<p>When connecting load banks to the static switch to test the switch
+operation under load conditions, it is important that the fan logic
+on the load banks is connected to a separate power source. The reason
+for this method is that in some cases, the load bank’s fan logic may
+not sustain power during the 4 ms to 8 ms transfer of the switch –
+this may cause the load banks to drop power during an event that is
+seen by the switch to be normal and recorded on the switch as a “good”
+transfer event as per the design of the switch.</p>
+</body>
+</topic>

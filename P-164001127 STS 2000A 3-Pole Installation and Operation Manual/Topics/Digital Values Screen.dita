@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="DigitalValuesScreen-CEFCBDDC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Digital Values Screen</title>
+<body>
+<p>Touch the <b>Digital </b>button in the navigation buttons to display
+the <b>Digital </b>screen. </p>
+<fig id="Figure29DigitalValuesScreen-CEF9EE40">
+<title>Digital Values Screen</title>
+<image href="..\Graphics\29.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The Digital screen displays the Digital Values screen as shown
+in <xref format="dita" href="#./Figure29DigitalValuesScreen-CEF9EE40"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 29 Digital Values Screen"?></xref>.<ul>
+<li><p>The first column is the description of the digital point value’s
+alarm or abnormal state. Their dot indicator at the beginning of each
+row indicating the general state of point (for explanation of indicator,
+see <xref format="dita" href="#./Figure29DigitalValuesScreen-CEF9EE40"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 29 Digital Values Screen"?></xref>). </p></li>
+<li><p>The second column describes the status of the alarm or abnormal
+state listed in the first column. </p></li>
+<li><p>The third column is the date/time stamp of when the alarm or
+abnormal state occurred.</p></li>
+</ul></p>
+</body>
+</topic>

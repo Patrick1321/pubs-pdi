@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixCInstallationInstructionsSt-D62F72B2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix C – Installation Instructions – Stand Alone STS</title>
+<body>
+<p>The WaveStar STS must be commissioned and acceptance tested by
+Eaton certified technician(s). The sequence of commissioning is <ul>
+<li><p>Before applying power to the STS, open all MCSW or MCCBs in
+the STS:</p></li>
+<li><p>Verify the incoming power matches the unit rating. </p></li>
+<li><p>Verify the upstream protective devices are rated equal to or
+less than the rating of the STS. </p></li>
+<li><p>Verify the instantaneous trip settings on the upstream circuit
+breakers are set at maximum. </p></li>
+<li><p>Apply power to the STS with all internal MCSWs or MCCBs open </p
+></li>
+<li><p>Verify input phasing between sources is correct </p></li>
+<li><p>Close source 1, S1, bypass MCSW or MCCB and verify output voltage
+is present. </p></li>
+<li><p>Open S1 bypass MCSW or MCCB and close source 2, S2, bypass
+MCSW or MCCB and verify output voltage is present.</p></li>
+</ul></p><?Pub Caret 63?>
+<ol>
+<li><p><b>Site Test and Initial Power UP (Phasing)</b>:<ul>
+<li><p>All the work performed in this section must be performed or
+witnessed by a Eaton Service Representative. </p></li>
+<li><p>Before applying utility input power to the unit, the installing
+electrician and the Eaton service representative should be present
+to verify that the following initial conditions are met: <ul>
+<li><p>Inspect the power input and output bus connections and the
+building electrical service. </p></li>
+<li><p>Sizing of the building electrical service and voltage must
+match the WaveStar Bill of Materials (see <xref format="dita"
+href="System Unpack and Inspection 1128.dita#SystemUnpackAndInspection1128-C428065B"
+scope="local" type="topic"><?Pub _previewtext
+text="System Unpack and Inspection"?></xref>). </p></li>
+<li><p>Connection to the grounding electrode conductor. </p></li>
+<li><p>Check the building electrical service for correct voltage and
+over current protection. </p></li>
+<li><p>Place all unit circuit breakers is in the OPEN OR "OFF" position.</p
+></li>
+</ul></p></li>
+<li><p> Once all of the above conditions are met, incoming power should
+be applied by energizing the building power circuit breaker supplying
+the Automatic Transfer Device or Static Automatic Transfer Switch. </p
+><p>The following measurements should now be performed:</p></li>
+<li><p>Measure the incoming voltage at the input to the unit. This
+should match the units rating (+5% to -10% from nominal rating). </p
+></li>
+<li><p>Check the phase rotation, (clockwise), and voltage at the source
+# 1 Power Input bus.</p></li>
+</ul></p></li>
+<li><p><b>Phasing Verification</b>: <ul>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "a" poles on the line side of all input Circuit
+Breakers. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "b" poles on the line side of all input Circuit
+Breaker's. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "c" poles on the line side of all input Circuit
+Breakers. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "a" poles on the line side of all bypass Circuit
+Breakers. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "b" poles on the line side of all bypass Circuit
+Breakers. </p></li>
+<li><p>With all Circuit Breaker's open, verify there is zero volts
+between the phase "c" poles on the line side of all bypass Circuit
+Breakers.</p></li>
+</ul></p></li>
+<li><p><b>Acceptance Testing</b> </p><p>Performance Test the STS or
+STS/PDU System at Least 80% Load. </p><p>Complete the Site Acceptance
+Test as Indicated in the "Site Acceptance Report". This test will
+be performed by the Eaton service Technician. The technician will
+ask the Customer Representative to sign the completed acceptance test
+report/Work Order, at which point the warranty period will begin.</p
+></li>
+</ol>
+</body>
+</topic>

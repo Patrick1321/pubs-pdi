@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>What the STS or STS/PDU System Does</title>
+<body>
+<p>The site UPS (Uninterruptible Power Supply) removes power anomalies
+originating between the power station and the site. The WaveStar STS
+(or STS/PDU System) mitigates the effects of the anomalies between
+the UPS and the STS. These anomalies include: <ul>
+<li><p>Circuit breaker nuisance tripping</p></li>
+<li><p>Loss of one upstream UPS source </p></li>
+<li><p>Faulty transformers In the System PDU Units</p></li>
+</ul>The purpose of the transfer switch is to allow a transparent
+load transfer from one source to another source in case of a failure
+of one source or when manually initiated for testing or maintenance.</p>
+</body>
+</topic>

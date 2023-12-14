@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Introduction1127-AB58A64E" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Description</title>
+<body>
+<p>This manual describes installation and operation of the Eaton PDI<?Pub
+_font TypeSize=".69em" Offset=".33em"?>®<?Pub /_font?> WaveStar<?Pub _font
+TypeSize=".69em" Offset=".33em"?>®<?Pub /_font?> Static Transfer Switch
+2000 Amperes 3-Pole (STS 2000A). The Static Transfer Switch (STS)
+is a three-pole, two-position transfer device that transparently transfers,
+automatically or manually, an output load between two three-phase
+input power sources.</p><?Pub Caret 56?>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="topic.dita"
+><xi:fallback><!--Fallback markup for "topic.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Layout.dita"><xi:fallback><!--Fallback markup for "System Layout.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transfer Process Algorithms .dita"><xi:fallback><!--Fallback markup for "Transfer Process Algorithms .dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transfer Process Power Switching Components.dita"><xi:fallback
+><!--Fallback markup for "Transfer Process Power Switching Components.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="High Availability through Redundancy.dita"><xi:fallback><!--Fallback markup for "High Availability through Redundancy.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Operational Information and Controls.dita"><xi:fallback><!--Fallback markup for "Operational Information and Controls.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Security.dita"><xi:fallback><!--Fallback markup for "System Security.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Communications.dita"><xi:fallback><!--Fallback markup for "Communications.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Optional Features.dita"><xi:fallback><!--Fallback markup for "Optional Features.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Standards Compliance.dita"><xi:fallback><!--Fallback markup for "Standards Compliance.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Using This Manual.dita"><xi:fallback><!--Fallback markup for "Using This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Conventions Used in This Manual.dita"><xi:fallback><!--Fallback markup for "Conventions Used in This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Symbols, Controls, and Indicators.dita"><xi:fallback><!--Fallback markup for "Symbols, Controls, and Indicators.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Getting Help.dita"><xi:fallback><!--Fallback markup for "Getting Help.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Warranty.dita"><xi:fallback><!--Fallback markup for "Warranty.dita"--></xi:fallback
+></xi:include>
+</topic>

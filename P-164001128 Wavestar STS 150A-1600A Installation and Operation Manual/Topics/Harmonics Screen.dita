@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="HarmonicsScreen-D723E09E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Harmonics Screen</title>
+<body>
+<p>Touching the “Harmonic” button icon on the Home Screen displays
+the “Harmonics” screen. </p>
+<p>The Harmonics Screen displays both the Output Voltage and Current
+of the STS and at what percentage they are currently running. </p>
+<p>The top panel displays the Output Voltage. It does this through
+graphic bars representing the three phases. Each phase is color coordinated
+as follows: Phase A is black, Phase B is red, and Phase Cis blue.
+The yellow bar on the left side of the panel represents the Total
+Harmonic Displacement (THD).</p>
+<fig id="HarmonicsScreen-D7291AFA">
+<title>Harmonics Screen</title>
+<image href="..\Graphics\23x.pdf" scope="local"></image></fig>
+<p>The Output Current panel directly below the Output Voltage panel
+represents the current phases and THD in the same manner.</p>
+</body>
+</topic>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>External Inspections</title>
+<body>
+<ol>
+<li><p>While the STS is still on the truck, inspect the equipment
+and shipping skids for any signs of damage or mishandling. If the
+system shows any damage, note it on the freight bill and file a damage
+claim with the carrier within 24 hours. Please contact Eaton Service
+(1-800-843-9433) if damage has occurred. Do not attempt to install
+the system if damage is apparent. </p></li>
+<li><p>Locate the bag containing the keys for the front doors, which
+will be attached to the cabinet. </p></li>
+<li><p>Verify that all units have been received. </p></li>
+<li><p>Compare the contents of the shipment with the bill of lading.
+Report any missing items to the carrier and Eaton PDI immediately. </p
+></li>
+<li><p>If you ordered spare parts, verify that they arrived. </p></li>
+<li><p>If the unit is to be stored before installation, it should
+be stored in a dry environment within storage temperatures specified
+in <xref format="dita"
+href="Installation Planning 1127.dita#EnvironmentalSpecifications-CE6C86AA"
+scope="local" type="topic"><?Pub _previewtext
+text="Environmental Specifications"?></xref> . Use the original packing
+materials or other suitable means to keep the unit clean.</p></li>
+</ol>
+</body>
+</topic>

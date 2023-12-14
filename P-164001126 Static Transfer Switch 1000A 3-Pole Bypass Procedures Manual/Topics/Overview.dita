@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Overview-CE56C243"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Overview</title>
+<body>
+<p>At the start of this procedure, Source 1 is assumed the active
+power source. Refer to the STS Monitor’s One-Line mimic on the STS
+Home screen to verify that Source 1 (SCR 1) is powering the load. </p>
+<p>If going to bypass on Bypass Source 1: <ol>
+<li><p>Turn OFF (open) Source 2 and lock out. (This ensures that the
+source on the opposite side is not active while Bypass 1 is active.) </p
+></li>
+<li><p>Turn ON (close) Bypass Source 1. (Bypass Source 1 and 2 cannot
+be active together. The bar on the dead front panels prevents you
+removing both Bypass 1 and Bypass 2 keys at once.) </p></li>
+<li><p>Turn OFF (open) Source 1 and lock out. </p></li>
+<li><p>Turn OFF (open) the Isolation MCCBs or MCSWs.</p></li>
+</ol></p>
+</body>
+</topic>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="OptionalIsolationMCSW-CE6C86B2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Optional Isolation MCSW</title>
+<body>
+<p>By default there is one isolation MCSW. The customer can specify
+a second isolation MCSW to provide a redundant MCSW at time of order.</p>
+</body>
+</topic>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="HomeScreen-D2941F73"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Home Screen</title>
+<body>
+<p>The<b> Home</b> screen (<xref format="dita"
+href="#./Figure13TouchscreenDisplayHomeScree-D2942719" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 13 Touchscreen Display: Home Screen"?></xref>) is the
+first screen displayed when the STS is turned on. </p>
+<p><b>Home</b> screen has a dynamic graphic 1-line mimic showing active
+and inactive paths from sources to output with power measurements: <ul>
+<li><p>The active path between one source and the output is shown
+in <u>yellow</u>.</p></li>
+<li><p>Inactive paths or bypass paths are shown in <u>blue</u>.</p
+></li>
+</ul></p>
+<p>The <b>Status </b>Panel summarizes the general status of the unit.
+It shows which source is open or available, which bypass is being
+used, and how many alarms are present. </p>
+<p>The <b>Normal/Alarm</b> status indicator shows if alarms are present: <ul>
+<li><p>If no alarms are outstanding, the indicator is <u>green</u
+> and reads <b>Normal</b> </p></li>
+<li><p>If the indicator is <u>red</u> and reads <b>Alarm</b>, then
+the operator should touch the Alarms button on the bottom row to access
+the <b>Alarms</b> screen for a list of outstanding alarms.</p></li>
+</ul></p>
+<p><b>Transfers</b> panel has a counter of the number of transfers
+that have occurred since the last <b>Clear</b> of this counter.</p>
+<p>The <b>Home</b> screen also has <b>Preferred Source</b> control
+(see <xref format="dita"
+href="Operational Modes 1127.dita#PreferredSource-CEE1506E" scope="local"
+type="topic"><?Pub _previewtext text="Preferred Source"?></xref>).</p>
+<fig id="Figure13TouchscreenDisplayHomeScree-D2942719">
+<title>Touchscreen Display: Home Screen</title>
+<image href="..\Graphics\13a.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

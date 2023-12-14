@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<topic id="Introduction1126-AB5845B1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Introduction</title>
+<body>
+<p>The 1000A Static Transfer Switch (STS) has bypass circuits to allow
+maintenance to occur on the STS while the bypass circuit provides
+power to the load. The procedures for going between normal or static
+mode STS operation and bypass operation use Kirk Keys to control which
+paths are active.</p>
+<p>Kirk Keys protect against two situations that can cross-connect
+STS sides causing damage to the STS and possibly to upstream equipment
+such as a UPS: <ul>
+<li><p>The two Bypass MCCBs must not be both ON.</p></li>
+<li><p>A Bypass must not be active while the Source on the opposite
+side is active. </p></li>
+</ul></p>
+<p>The STS has Kirk-Key lock-outs to prevent these cross-connects
+occurring.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="topic.dita"
+><xi:fallback><!--Fallback markup for "topic.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="topic_0000073717.dita"><xi:fallback><!--Fallback markup for "topic_0000073717.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Using This Manual.dita"><xi:fallback><!--Fallback markup for "Using This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Conventions Used in This Manual.dita"><xi:fallback><!--Fallback markup for "Conventions Used in This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Symbols, Controls, and Indicators.dita"><xi:fallback><!--Fallback markup for "Symbols, Controls, and Indicators.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Getting Help.dita"><xi:fallback><!--Fallback markup for "Getting Help.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Warranty.dita"><xi:fallback><!--Fallback markup for "Warranty.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 669?>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="CustomerPowerConnections-CE6C86B5"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Customer Power Connections</title>
+<body>
+<p>All power wiring and control wiring must comply with NEC and applicable
+local codes, including power connections to the input and output buses. </p>
+<p>Input power and load cabling connections are through the top or
+bottom of the unit (<xref format="dita"
+href="Introduction System Description 1127.dita#SystemLayout-D289AC87/Figure4STS2000ARearViewPanelsOff-D28A069E"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 4 STS 2000A Rear View, Panels Off"?></xref>). </p>
+<p>Connections to the input breakers (Source 1 and Source 2) are made
+directly to the bus work on the back of the breakers (<xref
+format="dita" href="#./Figure8STSRearCustomerConnectionsTo-CE6D0008"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 8 STS Rear: Customer Connections to 3-Phase Buses, Sources and Output"
+?></xref>). The bus work has predrilled holes for standard two-hole
+lugs that have 1¾" vertical spacing, 2" horizontal spacing, and ½"
+diameter holes (<xref format="dita"
+href="#ClassAComputingDevice-CE6C86B6/Figure9GeneralAssemblyDrawingCustom-CE6CFC97"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 9 General Assembly Drawing: Customer Power Connections"
+?></xref>). </p>
+<p>Lugs for connection to the bus are provided by others (specifically,
+by the Installing Contractor) and should be sized to fit these dimensions.</p>
+<note type="warning">Verify that all input power and control circuits
+are de-energized and locked out before making connections to the input
+bus or other connections inside the unit. <p>Only a qualified electrical
+contractor should install power or control wiring or torque the connections.</p
+></note>
+<fig id="Figure8STSRearCustomerConnectionsTo-CE6D0008">
+<title>STS Rear: Customer Connections to 3-Phase Buses, Sources and
+Output</title>
+<image href="..\Graphics\8.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

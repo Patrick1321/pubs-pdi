@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Internal Wiring Inspection</title>
+<body>
+<note type="important">The Installer should review the STS for connections
+and safety prior to final positioning and installation.</note>
+<p>If any loose connections are found during the installation, contact
+Eaton Service (1-800-843-9433). <ol>
+<li><p>Check these connections to make sure vibration has not loosened
+the terminal screws. <ol>
+<li><p>Input source and MCCBs </p></li>
+<li><p>Bypass MCCBs </p></li>
+<li><p>Isolation MCSW(s)</p></li>
+</ol></p></li>
+<li><p>Check these feeders: <ol>
+<li><p>Check the feeders running from the load side of the input and
+bypass breakers. </p></li>
+<li><p>Check the feeders running to the Isolation MCCB or MCSW.</p
+></li>
+</ol></p></li>
+<li><p>Check all lugs on the following for tightness: <ol>
+<li><p>Neutral Bus </p></li>
+<li><p>Ground Bus </p></li>
+<li><p>Bus bars </p></li>
+<li><p>Circuit breakers </p></li>
+<li><p>SCR switch modules</p></li>
+</ol></p></li>
+</ol></p>
+</body>
+</topic>

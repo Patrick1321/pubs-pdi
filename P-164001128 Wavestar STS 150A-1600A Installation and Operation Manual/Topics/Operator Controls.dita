@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Operator Controls</title>
+<body>
+<p>There are 5 sets of operator controls:<ol>
+<li><p>Graphic/touch screen “source select” which is located on the
+“Home Screen”. This provides the operator the ability to select the
+preferred source and manually change sources. This will be defaulted
+to Source 1 upon system startup. </p></li>
+<li><p>Graphic/touch screen “retransfer yes/no” which is located on
+the “Switch Settings” Screen. This allows the operator to disable
+the auto retransfer function of the STS unit to the preferred source
+so that the source can be verified prior to reapplying the critical
+load. This will be defaulted to the “Yes” position which will allow
+for retransfers. </p></li>
+<li><p>Graphic/touch screen “POG/VSS” which is located on the “Switch
+Settings” Screen. This selects the mode of transfer. This will be
+defaulted to the “VSS” Position. </p></li>
+<li><p>Redundant operator interface (ROI) panel – This is a secondary
+operating panel located below the Graphic Display. In normal mode,
+this panel is not in use. </p></li>
+<li><p>Input and bypass circuit breakers that must be manually toggled
+by the user.</p></li><?Pub Caret 1?>
+</ol></p>
+</body>
+</topic>

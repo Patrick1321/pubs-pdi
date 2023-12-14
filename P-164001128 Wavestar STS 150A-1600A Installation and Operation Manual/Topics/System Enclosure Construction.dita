@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Enclosure Construction</title>
+<body>
+<p>The Enclosures for both PDU and STS modules are constructed to
+NEMA Type-1 and are primed and painted with suitable semi-gloss enamel
+both inside and out. The Color is Pearl White with black top venting. </p>
+<p>Each module cabinet is designed for the data center or telecommunication
+environment. Each cabinet has heavy-duty casters. Once the system
+is placed in its final position, the unit features stabilizing pads,
+which can be adjusted to stabilize the unit. </p>
+<p>The Transformer / Distribution Module enclosure also includes a
+pre-punched output computer power cable landing tray on the front
+and/or sidecar side of the system featuring ample output cable space
+for both immediate and future cabling requirements. </p>
+<p>Conduit termination plates will be provided in the bottom of the
+PDU module for termination of the output cables. </p>
+<p>The distributed floor weight will be less than 250 lb. per. ft.</p>
+<p><b>Access</b></p>
+<p>The required service access for IR scanning and maintenance will
+be at the front of the STS module only. </p>
+<p>Depending on configuration of the PDU distribution, only front
+access or front/side access is required only STS/PDU systems.</p>
+<p><b>Hazardous Voltages Safety</b></p>
+<p>The STS or STS/PDU system is designed to minimize the exposure
+of hazardous voltages to allow safe servicing of the unit while the
+load is energized. Barriers are used on and round any exposed surface
+with more than 42 volts peak applied including connections, to protect
+personnel during maintenance.</p>
+<p><b>Secondary STS/PDU system Input Source Power Junction Boxes,
+Optional</b></p>
+<p>The two input power sources are connected to the system via two
+power junction boxes. The junction box is a removable-covered, NEMA
+12 box. Each box shall contains four (4) mechanical power terminal
+blocks accommodating two (2) 350 MCM AWG copper/aluminum wire for
+the connection of the DELTA configured incoming power feeds to the
+system. </p>
+<p>Each power junction box is equipped with a ten foot (10') long
+system main input power cable is provided with each system. The cable
+consists of liquid-tight flexible metal conduit and contains the appropriate
+size and number of copper conductors to comply with 1993 NEC standards.
+This field installed cable contains two (2) box connectors thus allowing
+ease of installation onto the power junction box and to the system.</p>
+</body>
+</topic>

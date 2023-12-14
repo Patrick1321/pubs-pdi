@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Introduction-58E46190" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Introduction</title>
+<topic id="IntendedUse-58E46461">
+<title>Intended Use</title>
+<body>
+<p>The Eaton© Low Voltage Dry Type Current-limiting Reactor 5000A
+(hereafter “the Reactor”) is a power conditioning system that limits
+fault current under short-circuit conditions, helping to support overall
+NFPA-70E and NFPA-75 safety.</p>
+<p>The Reactor is to be installed between a switchboard and switchgear
+and will be electrically connected to them with flexible busbar connectors.</p>
+</body>
+</topic>
+<topic id="Description-58E65731">
+<title>Description</title>
+<body>
+<p>The Reactor is a stand-alone unit with no operational controls.</p>
+<p>The Reactor is connected to adjacent switchgear and switchboard
+with flexible busbar connectors. See section <xref format="dita"
+href="Power Connections 1185.dita" scope="local" type="topic"><?Pub
+_previewtext text="Power Connections"?></xref>.</p>
+<p>Panels on all four sides lift off. Side panels are removed and
+discarded for connection to the adjacent switchgear or switchboard.</p>
+<p>The Reactor has the following dimensions:<ul>
+<li><p>46" [1168.4 mm] W x 96" [2438.4 mm] H x 48"[1219.15 mm] D.</p
+></li>
+</ul><fig>
+<title>Eaton Low Voltage Dry Type Current-limiting Reactor 5000A</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\PDI Revisions\WR23092 to 23096 PDI Startup\WR23096\P-164001185 Low Voltage Dry Type Current-limiting Reactor (5000A) Installation Manual 5000A R02\Graphics\1.pdf"
+placement="break"></image><?Pub Caret 0?>
+</fig></p>
+<p>Front, back, top, and bottom panels are ventilated. When side panels
+are removed for connection to the adjacent switchgear and switchboard,
+additional side ventilation is provided through these units. </p>
+<p>Routine maintenance can be performed from the front of the unit.
+The front of the unit has service doors on the left and right side
+for viewing and infrared scanning of busbar connections. The lower
+front panel can be removed to adjust or re-torque connections.</p>
+</body>
+</topic>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Using This Manual.dita"><xi:fallback><!--Fallback markup for "Using This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Conventions Used in This Manual.dita"><xi:fallback><!--Fallback markup for "Conventions Used in This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Symbols, Controls, and Indicators.dita"><xi:fallback><!--Fallback markup for "Symbols, Controls, and Indicators.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Getting Help.dita"><xi:fallback><!--Fallback markup for "Getting Help.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Warranty.dita"><xi:fallback><!--Fallback markup for "Warranty.dita"--></xi:fallback
+></xi:include>
+</topic>

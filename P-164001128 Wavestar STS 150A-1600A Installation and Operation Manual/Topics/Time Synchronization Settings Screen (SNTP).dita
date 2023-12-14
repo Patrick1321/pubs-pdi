@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TimeSynchronizationSettingsScreenSN-D723E09C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Time Synchronization Settings Screen (SNTP)</title>
+<body>
+<p>The Time Synchronization feature with SNTP uses the Ethernet connection
+of the WaveStar Static Switch. This is the same Ethernet connection
+that is used for TCP/IP and SNMP Communications, so the Ethernet Setting
+on the “Settings” screen must be configured first and the Ethernet
+port must be connected to a network with a reachable timeserver supporting
+SNTP. The IP address of the time server must be known. This could
+be a dedicated time server possibly with a GPS receiver, a local computer
+running time server software, or a time server on the Internet. It
+is preferred to use a local time server.</p>
+<fig id="SNTPScreen-D7252CF7">
+<title>SNTP Screen</title>
+<image href="..\Graphics\17x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>To configure the WaveStar Static Switch to use SNTP follow these
+steps:<ol>
+<li><p>Select the “Time” screen. </p></li>
+<li><p>Press the “Server” button and enter the time server’s IP. </p
+></li>
+<li><p>Press the “Zone” button and enter the time zone offset from
+UCT (-4 is Eastern Daylight time). </p></li>
+<li><p>If the “Use SNTP Server” check box is a red X, press it to
+make it a green check mark. </p></li>
+<li><p>Press the “Save” button to save the settings. </p></li>
+<li><p>Press the “Get” button to verify that the time is set</p></li>
+</ol></p>
+</body>
+</topic>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Communications-D289C2F6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Communications</title>
+<body>
+<p>The STS 2000A can transmit alarms, status, and waveform data to
+remote locations and receive control signals using several communications
+methodologies:<ul>
+<li><p> Modbus RTU using RS422/485 (4-wire or 2-wire) </p></li>
+<li><p>Ethernet 10/100 Mb supporting these protocols: <ul>
+<li><p>ModBus TCP/IP </p></li>
+<li><p>HTTP for the STS web server, providing web browser access to
+display pages </p></li>
+<li><p>SNMP (Simple Network Management Protocol) </p></li>
+<li><p>SNTP (Simple Network Time Protocol) for time synchronization </p
+></li>
+<li><p>SMTP (Simple Mail Transfer Protocol) for E-mail summary alarm
+alerts </p></li>
+</ul></p></li>
+<li><p>Land line 9600 Modem for dial out summary alarm notification </p
+></li>
+<li><p>Dry contact input and output signals, used for status conditions,
+summary alarm notification, remote EPO,and remote switching of input
+sources </p></li>
+<li><p>•USB download of the Event Log using the display’s USB port </p
+></li>
+</ul></p>
+<p>All of the above communications methods can be used simultaneously.</p>
+</body>
+</topic>

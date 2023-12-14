@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="BasicContractorBoard-CE734ABE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Basic Contractor Board</title>
+<body>
+<fig id="Figure11BasicContractorBoard-CE71AF1F">
+<title>Figure 11 Basic Contractor Board</title>
+<image href="..\Graphics\11.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The Basic Contractor Board connections (<xref format="dita"
+href="#./Figure11BasicContractorBoard-CE71AF1F" scope="local" type="fig"
+><?Pub _previewtext text="Figure 11 Basic Contractor Board"?></xref
+>) are as follows: </p>
+<p>Dry Contact Remote Relays: Programmable NO or NC dry contacts for
+external output of specific internal alarms or status:</p>
+<p> <ol>
+<li><p><b>Relay 1</b>: Summary Alarm – signals when there is any active
+alarm on the STS. </p></li>
+<li><p><b>Other Relays</b>: </p><p><b>Relay 2</b>: Load on S1</p><p
+><b>Relay 3</b>: Load on S2</p><p><b>Relay 4</b>: Output OK<note>Remote
+relays can accept dry contacts rated up to 2A/250V.</note> </p></li>
+<li><p><b>ModBus Connectio</b>n – 4 wire configuration connection </p
+></li>
+<li><p><b>Building Alarms</b> – Input terminal block to provide unit
+with input on four (4) external building alarms </p></li>
+<li><p><b>Remote EPO</b> – Connection point for input of remote EPO
+signal to system. This is a dry contact connection point. Connection
+of voltage to this point can cause damage to the unit. Connect external
+dry contacts to terminals marked +24v and EPO for EPO circuit. The
+return position enables a light for the remote EPO button.</p></li>
+</ol><fig id="Figure12EnhancedContractorBoardEnha-CE722BAA">
+<title>Enhanced Contractor Board (Enhanced Remote Customer Interface
+Board)</title>
+<image href="..\Graphics\12.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

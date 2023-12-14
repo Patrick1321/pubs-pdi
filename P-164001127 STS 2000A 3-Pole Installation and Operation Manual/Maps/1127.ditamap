@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<techinfomap xml:lang="en"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfomap.xsd"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Eaton Retrofit Bypass Cabinet for Vertiv Reactor Power Panels
+(250A) Installation and Operation Manual</title>
+<contentref format="dita" href="..\Topics\cover 1127.dita"
+navtitle="Eaton© Static Transfer Switch 2000A 3-Pole" scope="local"
+type="coverpage"></contentref>
+<toc/>
+<figurelist/>
+<tablelist/>
+<division navtitle="Introduction">
+<contentref format="dita"
+href="..\Topics\Introduction System Description 1127.dita"
+navtitle="System Description" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Safety">
+<contentref format="dita" href="..\Topics\Safety 1127.dita"
+navtitle="Safety" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Installation Planning">
+<contentref format="dita"
+href="..\Topics\Installation Planning 1127.dita"
+navtitle="Installation Planning" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="System Unpack and Inspection">
+<contentref format="dita"
+href="..\Topics\System Unpack and Inspection 1127.dita"
+navtitle="System Unpack and Inspection" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Installation and Startup Procedures">
+<contentref format="dita"
+href="..\Topics\Installation and Startup Procedures 1127.dita"
+navtitle="Installation and Startup Procedures" scope="local"
+type="topic"></contentref>
+</division>
+<division navtitle="Customer Communications Connections">
+<contentref format="dita"
+href="..\Topics\Customer Communications Connections 1127.dita"
+navtitle="Customer Communications Connections" scope="local"
+type="topic"></contentref>
+</division>
+<division navtitle="Operational Interfaces">
+<contentref format="dita"
+href="..\Topics\Operational Interfaces 1127.dita"
+navtitle="Operational Interfaces" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Operational Modes">
+<contentref format="dita"
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22046 0000012251_P-164001127 STS 2000A 3-Pole Installation and Operation Manual\Topics\Operational Modes 1127.dita"
+navtitle="Operational Modes" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="System Setup: Administration">
+<contentref format="dita"
+href="..\Topics\System Setup Administration 1127.dita"
+navtitle="System Setup: Administration" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="System Setup: Operation">
+<contentref format="dita"
+href="..\Topics\System Setup Operation 1127.dita"
+navtitle="System Setup: Operation" scope="local" type="topic">
+</contentref><?Pub Caret -1?>
+</division>
+<division navtitle="System Setup: Networking">
+<contentref format="dita"
+href="..\Topics\System Setup Networking 1127.dita"
+navtitle="System Setup: Networking" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Status, Alarms, and Other Diagnostic Information">
+<contentref format="dita"
+href="..\Topics\Status, Alarms, and Other Diagnostic Information 1127.dita"
+navtitle="Status, Alarms, and Other Diagnostic Information"
+scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Web Pages">
+<contentref format="dita" href="..\Topics\Web Pages 1127.dita"
+navtitle="Web Pages" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Operator Procedures">
+<contentref format="dita" href="..\Topics\Operator Procedures 1127.dita"
+navtitle="Operator Procedures" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Troubleshooting">
+<contentref format="dita" href="..\Topics\Troubleshooting 1127.dita"
+navtitle="Troubleshooting" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Digital and Analog Points">
+<contentref format="dita"
+href="..\Topics\Digital and Analog Points 1127.dita"
+navtitle="Digital and Analog Points" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Service">
+<contentref format="dita" href="..\Topics\Service 1127A.dita"
+navtitle="Service" scope="local" type="topic"></contentref>
+</division>
+</techinfomap>

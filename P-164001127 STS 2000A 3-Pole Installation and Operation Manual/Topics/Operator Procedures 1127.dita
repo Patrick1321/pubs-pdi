@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="OperatorProcedures1127-C41255B8" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Operator Procedures</title><?Pub Caret -2?>
+<body>
+<p>Once configured, the STS requires few operator interventions. The
+following procedures cover the main interventions.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Startup after Power Rework.dita"><xi:fallback><!--Fallback markup for "Startup after Power Rework.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Normal Startup.dita"><xi:fallback><!--Fallback markup for "Normal Startup.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Restarting the Monitor.dita"><xi:fallback><!--Fallback markup for "Restarting the Monitor.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="SAS Board Transfers.dita"><xi:fallback><!--Fallback markup for "SAS Board Transfers.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Component Failure.dita"><xi:fallback><!--Fallback markup for "Component Failure.dita"--></xi:fallback
+></xi:include>
+</topic>

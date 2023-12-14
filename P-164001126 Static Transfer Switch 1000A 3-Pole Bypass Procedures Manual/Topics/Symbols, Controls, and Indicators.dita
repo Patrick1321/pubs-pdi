@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<topic id="SymbolsControlsAndIndicators-CE57D89F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Symbols, Controls, and Indicators</title>
+<body>
+<p>The following are examples of symbols used on the UPS or accessories
+to alert you to important information:</p>
+<table frame="none" id="RISKOFELECTRICSHOCK-ObserveTheWarni-EEF3822E">
+<tgroup cols="2"><colspec colname="1" colsep="0" colwidth="7.0*"/>
+<colspec colname="2" colwidth="25.58333*"/>
+<tbody>
+<row rowsep="0">
+<entry align="left" morerows="0" nameend="1" namest="1" valign="middle"
+><image href="..\Graphics\specSymElectricShock.pdf" placement="inline"
+scope="local"></image></entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+><p><b>RISK OF ELECTRIC SHOCK</b> - Observe the warning associated
+with the risk of electric shock symbol.</p></entry>
+</row>
+<row rowsep="0">
+<entry align="left" morerows="0" nameend="1" namest="1" valign="middle"
+><image href="..\Graphics\specSymCaution.pdf" placement="inline"
+scope="local"></image></entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+><p><b>CAUTION: REFER TO OPERATOR'S MANUAL</b> - Refer to your operator's
+manual for additional information, such as important operating and
+maintenance instructions.</p></entry>
+</row>
+<row rowsep="0">
+<entry align="left" morerows="0" nameend="1" namest="1" valign="middle"
+><image href="..\Graphics\specSymBatteryDisposal.pdf" placement="inline"
+scope="local"></image></entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+>This symbol indicates that you should not discard the UPS or the
+UPS batteries in the trash. This product contains sealed, lead-acid
+batteries and must be disposed of properly. For more information,
+contact your local recycling/reuse or hazardous waste center.</entry>
+</row>
+<row>
+<entry align="left" morerows="0" nameend="1" namest="1" valign="middle"
+><image href="..\Graphics\specSymBatteryDisposalWEEE.pdf" placement="inline"
+scope="local"></image></entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+>This symbol indicates that you should not discard waste electrical
+or electronic equipment (WEEE) in the trash. For proper disposal,
+contact your local recycling/reuse or hazardous waste center.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

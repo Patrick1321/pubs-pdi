@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AlarmScreen-D723E097"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Alarm Screen</title>
+<body>
+<p>Touching the “Alarms” button icon on the Home Screen displays “Alarm”
+screen. </p>
+<p>This screen displays all date/time stamped points with the alarm
+listings. The red or green icons at the beginning of each row indicate
+whether that point is in alarm. If the icon is red, it is an alarm.
+If the icon is green and reads “OK” it is not an alarm. Each point
+has a description showing what kind of alarm it is. </p><?Pub Caret 0?>
+<p>Pressing the Clear Icon will clear all points from the Alarms Screen. <note
+> Should the alarms be active in the unit; the alarms will come back
+after clearing the screen.</note></p>
+<fig id="AlarmScreen-D72913E2">
+<title>Alarm Screen</title>
+<image href="..\Graphics\10x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

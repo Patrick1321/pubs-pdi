@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SwitchSettingsScreen-CEF58935"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Switch Settings Screen</title>
+<body>
+<p>Touch the <b>Switch button</b> in the navigation buttons to display
+the <b>Switch Settings</b> screen (<xref format="dita"
+href="#./Figure23SwitchSettingsScreen-D29AFF0A" scope="local" type="fig"
+><?Pub _previewtext text="Figure 23 Switch Settings Screen"?></xref
+>). The <b>Switch Settings</b> screen is used to select or adjust
+parameters for sense and transfer algorithms. </p><?Pub Caret 91?>
+<p>Two of the three main transfer parameters—transfer algorithm and
+re-transfer setting—are set on the <b>Switch Settings</b> screen and
+require administrator or other higher level authorization. The remaining
+choice—Preferred Source—is set on the Home screen and requires operator-level
+authorization.</p>
+<p>Use the <b>Controls </b>panel to select the transfer algorithm
+and retransfer behavior by setting these virtual switches: </p>
+<p><ul>
+<li><p><b>Mode (VSS/POG): </b>When the <b>VSS/POG </b>switch is touched
+to be moved, the <b>Execute </b>button is highlighted as a precaution.
+The operator must touch <b>Execute </b>to move the virtual switch
+to the opposite position, or <b>Cancel </b> to revert back to the
+previous selection. (See also <xref format="dita"
+href="Introduction System Description 1127.dita#TransferProcessAlgorithms-D289C2EF"
+scope="local" type="topic"><?Pub _previewtext
+text="Transfer Process: Algorithms "?></xref>.)</p></li>
+<li><p><b>Retransfer (Yes/No): </b>When <b>Retransfer=Yes</b>, the
+STS will switch back to the original preferred source after an outage
+on that source has ended and the power on this source is within prescribed
+parameters. When the <b>Retransfer </b>switch is touched to be moved, <b
+>Execute </b>is highlighted as a precaution. Touch <b>Execute</b> to
+move the virtual switch to the opposite position, or <b>Cancel </b
+>to revert back to the previous selection.</p></li>
+</ul></p>
+<p>The remaining parameters are <b>Optimization parameters </b>for
+the sense, transfer, and retransfer algorithms. These parameters have
+been experimentally set and optimized by Eaton PDI. <b>NOTE: </b> Eaton
+PDI strongly recommends that the <b>Fast</b>, <b>Delayed</b>, and <b
+>Retransfer Delay </b>settings not be changed.<fig
+id="Figure23SwitchSettingsScreen-D29AFF0A">
+<title>Switch Settings Screen</title>
+<image href="..\Graphics\23.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p>
+</body>
+<?Pub _newpage?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Switch Default Settings.dita"><xi:fallback><!--Fallback markup for "Switch Default Settings.dita"--></xi:fallback
+></xi:include>
+</topic>

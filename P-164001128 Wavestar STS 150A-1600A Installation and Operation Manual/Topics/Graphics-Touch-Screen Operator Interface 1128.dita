@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="GraphicsTouch-ScreenOperatorInterfa-C429BA08"
+xml:lang="en-EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Graphics/Touch-Screen Operator Interface</title>
+<body>
+<p>There are several set-up screens that must be viewed to verify
+and set up STS operational parameters. </p>
+<p>These are:<ul>
+<li><p> Setting up Passwords and PIN numbers </p></li>
+<li><p>Initial set up via the “Settings” screen and the “Switch settings”
+screen </p></li>
+<li><p>ModBus and SNMP settings </p></li>
+<li><p>Banner and Time settings </p></li>
+<li><p>E-Mail settings </p></li>
+<li><p>Ethernet settings </p></li>
+<li><p>Web setting </p></li>
+<li><p>IR settings –contact factory</p></li>
+</ul></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Home Screen.dita"><xi:fallback><!--Fallback markup for "Home Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Alarm Screen.dita"><xi:fallback><!--Fallback markup for "Alarm Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Log Screen.dita"><xi:fallback><!--Fallback markup for "Log Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Plots Screen.dita"><xi:fallback><!--Fallback markup for "Plots Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Digital Screen.dita"><xi:fallback><!--Fallback markup for "Digital Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Analog Values Screen.dita"><xi:fallback><!--Fallback markup for "Analog Values Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Settings Screen.dita"><xi:fallback><!--Fallback markup for "Settings Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Time Synchronization Settings Screen (SNTP).dita"><xi:fallback><!--Fallback markup for "Time Synchronization Settings Screen (SNTP).dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Switch Screen.dita"><xi:fallback><!--Fallback markup for "Switch Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Help Screen.dita"><xi:fallback><!--Fallback markup for "Help Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Branch Screen.dita"><xi:fallback><!--Fallback markup for "Branch Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Harmonics Screen.dita"><xi:fallback><!--Fallback markup for "Harmonics Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Load Screen.dita"><xi:fallback><!--Fallback markup for "Load Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="User Screen.dita"><xi:fallback><!--Fallback markup for "User Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="SNMP Screen.dita"><xi:fallback><!--Fallback markup for "SNMP Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Email Screen.dita"><xi:fallback><!--Fallback markup for "Email Screen.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 431?>

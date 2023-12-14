@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="RetransferControl-CEE1506E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title> Retransfer Control</title>
+<body>
+<p>The Retransfer control determines whether the STS maintains an
+affinity for the Preferred Source whenever it is within acceptable
+parameters.</p>
+<p><b>Retransfer = Yes:</b></p>
+<p><ul>
+<li><p>If <b>Re-transfer = Yes</b>, the load has an affinity for the
+Preferred Source. After transferring the load to the alternate source,
+when the Preferred Source returns to a condition that is within tolerance
+for at least the preset adjustable retransfer time delay, the load
+will be automatically be re-transferred back to the Preferred Source. </p
+></li>
+<li><p>The load will always be transferred to the Preferred Source
+whenever the source is in-tolerance however long the Preferred Source
+takes to come back within specification—and will remain connected
+to the Preferred Source until it fails or a transfer is manually initiated. </p
+></li>
+<li><p> <b>Retransfer = Yes</b> is the default setting for this control.</p
+></li>
+</ul></p>
+<p><b>Retransfer = No:</b></p>
+<p><ul>
+<li><p>The automatic retransfer to the Preferred Source can be disabled
+by an authorized user with administrator, service, or Eaton PDI level
+privileges, by setting <b>Retransfer = No</b>. </p></li>
+<li><p>If <b>Retransfer = No</b>, there is no affinity to the Preferred
+Source, except at startup. The logic will transfer the load from the
+failing source to the “good” source and will remain on that source
+even after the Preferred Source returns to acceptable limits. The
+only effect of specifying a Preferred Source is to specify the source
+used at STS startup. </p></li>
+<li><p><b>Retransfer = No</b> also allows the operator verify the
+power source prior to reapplying the critical load. After verifying
+power reliability on the Preferred Source, the operator can force
+a manual transfer back.</p></li>
+</ul></p>
+</body>
+</topic>

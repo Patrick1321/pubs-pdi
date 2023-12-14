@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixKInternalComponentIdentific-D62F82A2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix K – Internal Component Identification</title>
+<body>
+<fig>
+<image href="..\Graphics\37x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p><b>MCSW Circuit Breakers </b></p>
+<ol>
+<li><p>1.Input 1</p></li>
+<li><p>2.Input 2</p></li>
+<li><p>3.Bypass 1</p></li>
+<li><p>4.Bypass 2</p></li>
+<li><p>5.Isolation 1</p></li>
+<li><p>6.Isolation 2 (Optional)</p></li>
+<li><p>7.SAS Logic Fuses</p></li>
+</ol>
+<fig>
+<image href="..\Graphics\38x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig>
+<image href="..\Graphics\39x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig>
+<image href="..\Graphics\40x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p><b>Source 1/ Source 2 DCPS PCB – boards for the two sources are
+stacked. </b></p>
+<fig>
+<title>Output DCPS PCB</title>
+<image href="..\Graphics\41x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig>
+<image href="..\Graphics\42x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

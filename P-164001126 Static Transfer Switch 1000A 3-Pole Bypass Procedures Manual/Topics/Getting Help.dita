@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<topic id="GettingHelp-CE57D8A0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Getting Help</title>
+<body>
+<p>If help is needed with any of the following:</p>
+<ul>
+<li><p>Scheduling initial startup</p></li>
+<li><p>Regional locations and telephone numbers</p></li>
+<li><p>A question about any of the information in this manual</p></li>
+<li><p>A question this manual does not answer</p></li>
+</ul>
+<p>Please call the Eaton Help Desk at:</p>
+<p>United States:<b>1-800-843-9433</b> or <?Pub _font Weight="bold"
+?>1-919-870-3028<?Pub /_font?></p>
+<p>Canada:<b>1-800-461-9166 ext 260</b> </p>
+<p>All other countries:<b>Call your local service representative</b
+></p>
+<p>Please use the following e-mail for manual comments, suggestions,
+or to report a technical error in this manual.</p>
+<p><?Pub _font Weight="bold"?>E-ESSDocumentation@eaton.com<?Pub /_font
+?></p>
+<p>Eaton PDI Static Transfer Switch website: <xref format="html"
+href="https://www.eaton.com/us/en-us/catalog/backup-power-ups-surge-it-power-distribution/eaton-pdi-static-transfer-switch.resources.html"
+scope="external">Eaton PDI Static Transfer Switch</xref></p>
+</body>
+</topic>

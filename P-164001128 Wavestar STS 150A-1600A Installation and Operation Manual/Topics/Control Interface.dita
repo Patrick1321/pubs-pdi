@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Control Interface</title>
+<body>
+<ol>
+<li><p>All control cabling to and from the WaveStar should be rated
+for 10 amperes and the insulation should be rated for 600 volts AC,
+unless otherwise specified on the drawings. </p></li>
+<li><p>All monitored parameters and alarms are available via ModBus
+RTU protocol or optional SNMP. Connection to the unit is through a
+RS422/485 communications port using; see section XII for details on
+connecting to the ModBus interface on the contractor board. </p></li>
+<li><p>Remote Source Select Option - Two external 120 VAC signals
+or the closure of two dry contacts can be used to control the remote
+selection of the preferred source. These signals or closures are generally
+used when two UPSs supply power to the system. If the preferred UPS
+goes to bypass mode, the “good” UPS should become preferred. Signal
+#1 (120 VAC) or closure will make PDU 1 preferred. Signal # 2 (120
+VAC) or closure will make PDU 2 preferred. If both signals and closures
+are low (zero volts or open contacts) the preferred source control
+is returned to the system operator control panel. Any remote control
+signal or closure defaults the unit into an auto-retransfer "Yes"
+mode to ensure system redundancy. Normally the signals or closures
+are controlled by auxiliary contacts in the UPS bypass CB’s. If both
+are signals or closures, the first input to the STS unit is recognized.
+If this option is purchased with the unit, the factory must be notified
+as to whether the remote control signal will be the application 120
+VAC or a dry-contact closure. Contact your Eaton sales representative
+for additional information on this option.</p></li>
+</ol>
+</body>
+</topic>

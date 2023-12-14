@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SettingsScreen-D723E09C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Settings Screen</title>
+<body>
+<p>Touching the “Settings” button icon on the Home Screen displays
+the “Settings” screen. </p>
+<p>The Banner Settings Panel is used to set the Unit ID, which is
+displayed on the Home Screen. This can be done by pressing the Banner
+Icon which will bring up the Numeric Pad Screen for data entry. </p>
+<p>The Time Settings Panel allows the operator to change the Date/Time
+settings. This can be done by pressing the Set Icon, which will bring
+up the Keyboard Screen.</p>
+<fig id="SettingsScreen-D7252F79">
+<title>Settings Screen</title>
+<image href="..\Graphics\16x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The Ethernet Settings Panel allows the operator to set a different
+IP address if a different address than the DHCP address is required.
+This Ethernet Panel also has IP settings for Mask, and Gateway. Mac
+IP settings are factory default and cannot be changed. </p>
+<p>If the DHCP Icon is green then the DHCP address will be used under
+the Address settings. If the DHCP Icon is red, a separate address
+can be used in its place. The Modbus Settings Panel is used to set
+Modbus address, baud rate, and parity. </p>
+<p>The Modbus address can be changed by pressing the Address Icon.
+This will display the Numeric Pad Screen for entering the address
+for the unit. Pressing the other icons in this panel will allow for
+the adjustment of those fields. The parity can be selected from the
+following: Even (E), Odd (O) or None (N).</p>
+</body>
+</topic>

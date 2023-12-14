@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ClearancesAndServiceAccess-CE6C86A8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Clearances and Service Access</title>
+<body>
+<p><ul>
+<li><p>Ventilation clearances required: <ul>
+<li><p>6" both sides </p></li>
+<li><p>24" overhead</p></li>
+</ul></p></li>
+<li><p>Service clearances required: <ul>
+<li><p>30" front and rear service clearance </p></li>
+<li><p>Front and rear access is required for installation and maintenance. </p
+></li>
+<li><p>All input and output power connections must be made from rear
+of the unit.</p></li>
+</ul></p></li>
+<li><p>For ease of servicing: </p><ul>
+<li><p>All control and logic components are mounted separately from
+the power components. </p></li>
+<li><p>All MCCBs and MCSWs are draw-out type for ease of replacement.</p
+></li>
+</ul></li>
+</ul></p>
+</body>
+</topic>

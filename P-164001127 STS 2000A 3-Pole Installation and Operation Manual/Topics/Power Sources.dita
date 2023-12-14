@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PowerSources-CE6C86B3"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Power Sources</title>
+<body>
+<p>The two input feeds for the STS should be from separate and independent
+sources to avoid a common source failure. The input feeds should nominally
+be of the same voltage and phase rotation. The input power wire size
+should be based on the upstream over current protection device, observing
+NEC and local codes. </p>
+<p>If the sources are temporarily fed from a common upstream feeder,
+the unit should be put in bypass until two separate source feeders
+are available.</p>
+</body>
+</topic>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PointsLists-CEFCB8F5"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Points Lists</title>
+<body>
+<p>The STS has two points lists (Modbus Register Maps): </p>
+<ul>
+<li><p>Digital Points, listed in <xref format="dita"
+href="Digital and Analog Points 1127.dita#DigitalScreenPoints-CFE70E1D"
+scope="local" type="topic"><?Pub _previewtext
+text="Digital Screen Points"?></xref>.</p></li>
+<li><p>Analog Points, listed in <xref format="dita"
+href="Digital and Analog Points 1127.dita#AnalogScreenPoints-CFE70E7A"
+scope="local" type="topic"><?Pub _previewtext
+text="Analog Screen Points"?></xref>.</p></li>
+</ul>
+<p>These are replicated in the <b>Digital Values </b>and <b>Analog
+Values </b>screens. </p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Digital Values Screen.dita"><xi:fallback><!--Fallback markup for "Digital Values Screen.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Analog Values screen.dita"><xi:fallback><!--Fallback markup for "Analog Values screen.dita"--></xi:fallback
+></xi:include>
+</topic>

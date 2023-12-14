@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Multi-SwitchLinkOptionN1UPS-CE734ACF"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Multi-Switch Link Option (N+1 UPS)</title>
+<body>
+<p>In an N+1 UPS Configuration, there are multiple STS units, each
+with a preferred source fed by a separate UPS. The alternate source
+on all STSs is provided by a single backup UPS. </p>
+<p>All STS units in an N+1 UPS configuration must have Enhanced Contractor
+Boards and the Multi-Switch Link Option installed, providing coordination
+among the STSs. </p>
+<p>Because the backup UPS can only provide power through the STS to
+a single downstream load, when an STS transfers its load to the backup
+UPS, the STS must signal the other STS units that it is using the
+UPS. The other STS units are locked out and cannot transfer to the
+backup source. </p>
+<p>An “Inhibit Transfer” alarm is signaled on each STS. The STSs are
+prevented from transferring until the Preferred Source on the STS
+using the backup UPS returns to normal and the STS retransfers the
+load back to the Preferred Source.</p>
+</body>
+</topic>

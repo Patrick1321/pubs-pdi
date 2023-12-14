@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AnalogValuesScreen-CEFCB8F4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Analog Values screen</title>
+<body>
+<p>Touch the <b>Analog </b>button in the navigation buttons to display
+the <b>Analog Values </b>screen as shown in <xref format="dita"
+href="#./Figure30AnalogValuesScreen-CEFCB8F8" scope="local" type="fig"
+><?Pub _previewtext text="Figure 30 Analog Values Screen"?></xref
+>. <fig id="Figure30AnalogValuesScreen-CEFCB8F8">
+<title>Analog Values Screen</title>
+<image href="..\Graphics\30.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>Each row displays an analog point with its status and last measurement.
+The dot indicators at the beginning of each row indicate the status
+of the point: <ul>
+<li><p>Green = Normal </p></li>
+<li><p>Red = Abnormal (alarm)</p></li>
+<li><p>Blue = Status point only, will not generate an alarm </p></li>
+<li><p>Black = Point is not used or is invalid in this STS implementation</p
+></li>
+</ul>The first column also displays a text interpretation of the point’s
+status, such as <b>OK</b>, <b>Low</b>, or <b>Not Alarm</b>. </p>
+<p>To set parameters for a point, use the scroll bar to highlight
+a point. Then touch one of these buttons below the panel:<ul>
+<li><p>Set High sets the upper bound on acceptable measurements </p
+></li>
+<li><p>Set Low sets the lower bound on acceptable measurements </p
+></li>
+<li><p>Calibration to calibrate the measurement</p></li>
+</ul><b>Clr TX </b>button clears the transfer counter on the <b>Home </b
+>page, resetting it to zero. <ul>
+<li><p>Touch <b>Clear TX </b>once to clear transfer counter since
+last <b>Clear TX</b>. This is the same as the <b>Clear</b> button
+on <b>Home </b>screen <b>Transfers </b>panel. The counter is stored
+in <b>Xfrs Since Clr</b>, a point in the Analog Points list.</p></li>
+<li><p>Touch <b>Clear TX </b>a second time to clear the cumulative
+total transfers counter, stored in <b>Xfers Total </b>in the Analog
+Points list.</p></li>
+</ul><b>Clr PK </b>clears the peak value measurement for each analog
+point. Each peak value will be immediately replaced on the point’s
+next measurement. </p>
+</body>
+</topic>

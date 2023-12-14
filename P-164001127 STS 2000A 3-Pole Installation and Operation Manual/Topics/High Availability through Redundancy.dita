@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="HighAvailabilityThroughRedundancy-D289C2F4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>High Availability through Redundancy</title>
+<body>
+<p>To keep a mission-critical load continuously supplied with power,
+the STS must itself be continuously operational. To the fullest extent
+practical, the STS 2000A employs redundant circuits and components
+to eliminate single points of failure.<ul>
+<li><p>The STS is designed for an <b>MTBF</b> exceeding 2,000,000
+hours. </p></li>
+<li><p>The STS has dynamic <b>tri-redundant logic</b> with voting
+circuits. Each level monitors the power beings applied to the load,
+if one level does not transfer the load in specified times, the second
+level will transfer the load within the CBEMA/ITS curve. </p></li>
+<li><p>The STS has <b>quad-redundant gate drivers</b>, redundant drivers
+for each set of SCRs. The drivers can not inhibit or out vote the
+other. Therefore, both source 1 and source 2 SCRs have two levels
+of isolated, independent gate drivers. </p></li>
+<li><p>The STS has <b>tri-redundant logic power supplies</b>. The
+configuration of each DC logic power supply is such that a short circuit
+on one PCB cannot prevent the other PCBs from receiving tri-redundant
+power.Each PCB receives logic power via three isolated connectors. </p
+></li>
+<li><p>The STS has <b>N+3 fan redundanc</b>y for forced air-cooling
+of the SCRs. </p></li>
+<li><p>The STS uses <b>tri-redundant fiber optic lite</b> pipes and
+circular redundant CAN Bus to route logic signals between logic PCBs. </p
+></li>
+<li><p><b>Noise immune signal buses</b>: the STS uses optical buses
+and/or CAN buses to route signals between logic PCBs. <ul>
+<li><p>All signal buses are tri-redundant. </p></li>
+<li><p>Each signal bus continuously transmits “bus integrity” signals,
+when not transmitting true data. If the “bus integrity” signals are
+not received by all receivers, then that bus is considered discontinuous
+and is alarmed. </p></li>
+<li><p>The CAN Bus has circular redundancy so that there are two paths.
+One path can be severed and signals will continue to flow via the
+other path.</p></li>
+</ul></p></li>
+<li><p>• The STS has <b>two levels of operator controls and status
+displays</b>. The Monitor and display is backed up by the Redundant
+Operator Interface (ROI).</p></li>
+</ul></p>
+</body>
+</topic>

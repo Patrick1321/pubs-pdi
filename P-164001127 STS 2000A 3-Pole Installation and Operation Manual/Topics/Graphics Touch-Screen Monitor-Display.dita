@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="GraphicsTouch-ScreenMonitorDisplay-D289C2F4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Graphics Touch-Screen Monitor/Display</title>
+<body>
+<p>The STS has a front touchscreen display that can display the following
+information:<ul>
+<li><p>A dynamic one-line mimic display, showing the active source-to-output
+path, bypass, and measurements (See <xref format="dita"
+href="#SystemLayout-D289AC87/Figure3OperatorInterfacesTouchscree-D28A03AA"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 3 Operator Interfaces: Touchscreen Display and Redundant Operator Interface"
+?></xref>, Operator Interfaces: Touchscreen Display and Redundant
+Operator Interface) </p></li>
+<li><p>Setup and configuration settings </p></li>
+<li><p>Administrative and operational controls </p></li>
+<li><p>Alarm Log and Event Log </p></li>
+<li><p>AC wave form capture for transfer events or displaying the
+current wave structure </p></li>
+<li><p>Digital and Analog Points (Modbus registers) </p></li>
+<li><p>Voltage and current measurements for input sources and output
+load </p></li>
+<li><p>Harmonics for both voltage and current </p></li>
+<li><p>Load trending</p></li>
+</ul></p>
+</body>
+</topic>

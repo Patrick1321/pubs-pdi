@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Alarms-CEFCC050"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Alarms</title>
+<body>
+<p>An alarm is signaled when any monitored condition is out of normal
+specification. Active alarms are signaled in several ways:</p>
+<ul>
+<li><p>The <b>Home</b> screen shows Alarm status and gives an alarm
+count. </p></li>
+<li><p>The Voice Unit of the STS states: “Static Switch, new alarm.” </p
+></li>
+<li><p>A summary alarm can be signaled when any alarm occurs by one
+or more of these means: <ul>
+<li><p>Dry contact </p></li>
+<li><p>SNMP trap </p></li>
+<li><p>Email notification </p></li>
+<li><p>Modem dial out</p></li>
+</ul></p></li>
+<li><p>The <b>Alarms</b> screen lists a new alarm. </p></li>
+<li><p>The <b>Event Log</b> screen adds an alarm. </p></li>
+<li><p>The <b>Alarms</b> or <b>Log web</b> page shows a new alarm.</p
+></li>
+</ul>
+</body>
+</topic>

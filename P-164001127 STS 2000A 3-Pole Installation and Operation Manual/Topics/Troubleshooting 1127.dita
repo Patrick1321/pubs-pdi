@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Troubleshooting1127-C4129BD6" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Troubleshooting</title><?Pub Caret -2?>
+<body>
+<p><note type="warning"><ul>
+<li><p>Danger: The STS 2000A has high voltages inside the cabinet! </p
+></li>
+<li><p>Do not operate the unit without all covers securely in place. </p
+></li>
+<li><p>Do not allow servicing by unauthorized personnel. You may void
+your warranty. </p></li>
+<li><p>Do not touch the printed circuit boards containing the processor
+and logic circuits without first consulting Eaton Service (1-800-843-9433)..
+Untrained personnel can seriously damage the equipment and may cause
+themselves serious or fatal injuries.</p></li>
+</ul></note>If after reviewing and checking all the recommended correction
+procedures for any problem, please do not hesitate to contact Power
+Distribution, Inc. for service related calls or scheduling. <table>
+<title>Troubleshooting</title>
+<tgroup cols="2"><colspec colname="col1"/><colspec colname="col2"/>
+<thead>
+<row>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Symptom </b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Probable Cause </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry morerows="2"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>No power
+to unit. </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>No building power to Power </p><p>Input bus. Restore building power. </p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Unit not connected to Power </p><p>Input bus. Connect unit to Power
+Input bus. </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Input breaker not closed </p><p>Turn on or reset breaker. </p></entry>
+</row>
+<row>
+<entry morerows="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>Specific
+output circuit is dead. </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Output circuit breaker is off. </p><p>Turn on or reset breaker. </p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Output circuit breaker and/or cable are not connected to Equipment.
+Connect (if authorized) output circuit to equipment and turn on. </p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>No output voltage from unit but the
+unit indicators are on. </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Input circuit breaker off or tripped. </p><p>Check display panel
+for alarms; acknowledge or reset alarms then turn on or reset breaker. </p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Monitor and display will not operate. </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Blown Fuse (1, 2, 3, or 4) </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</body>
+</topic>

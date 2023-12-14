@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="EthernetConnection-CE734AC3"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Ethernet Connection</title>
+<body>
+<p>The Monitor PCB has an Ethernet port and cable. The Ethernet cable
+hangs down from the Monitor with a an RJ45 jack connection that is
+close to the Contractor Board. </p>
+<p>Use the <b>Settings</b> screen to set Ethernet parameters (<xref
+format="dita" href="System Setup Networking 1127.dita#Ethernet-CEF888F4"
+scope="local" type="topic"><?Pub _previewtext text="Ethernet"?></xref
+>). The Ethernet connection allows you to run TCP/IP, Modbus TCP/IP,
+HTTP for the web server, SNMP, SNTP for time synchronization, and
+SMTP for email summary alarm alerts. <xref format="dita"
+href="System Setup Networking 1127.dita#SystemSetupNetworking1127-C4115BF8"
+scope="local" type="topic"><?Pub _previewtext
+text="System Setup: Networking 1127"?></xref> describes configuration
+for these options.</p>
+</body>
+</topic>

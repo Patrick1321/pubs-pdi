@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="RedundantModeOperation-CEE15073"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Redundant Mode Operation</title>
+<body>
+<p>Redundant Mode is entered when the <b>MODE OF OPERATION</b> toggle
+switch is set to <b>REDUNDANT</b>. </p>
+<p>In Redundant Mode:</p>
+<p><ul>
+<li><p>The SAS board controls transfers and Monitor logic is bypassed.</p
+></li>
+<li><p>Retransfer Yes/No is not a setting on the ROI panel and retransfer
+does not apply: The SAS board has no memory of previous transfers;
+it simply transfers when the current source is out of specification
+and the other source is within specification.</p></li><?Pub Caret 1?>
+</ul></p>
+<p><ul>
+<li><p>Preferred Source does not apply: <ul>
+<li><p>Automatic transfers: When the currently active source goes
+out of specification, the SAS board will transfer to the alternate
+source if it is within specification. </p></li>
+<li><p>Manual transfers: Using the momentary <b>SOURCE SELECTOR</b
+> toggle switch causes a transfer to the selected source, if it is
+not already on that source.</p></li>
+</ul></p></li>
+</ul></p>
+<p>Redundant Mode is also entered if the SAS board detects the Monitor
+has failed. The SAS board then performs the load transfer.</p>
+</body>
+</topic>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SystemGrounding-CE6C86AD"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Grounding</title>
+<body>
+<p>The system includes a computer grade single-point ground in accordance
+with FIPS Pub 94 and the requirements of the NEC. (See <xref
+format="dita"
+href="#CustomerPowerConnections-CE6C86B5/Figure8STSRearCustomerConnectionsTo-CE6D0008"
+scope="local" type="fig"><?Pub _previewtext
+text="STS Rear: Customer Connections to 3-Phase Buses, Sources and Output"
+?></xref>), STS 2000A 3-Pole One-line Diagram.) </p>
+<p>All input and output power feeds must include an equipment grounding
+means as required by the NEC and local codes.</p>
+</body>
+</topic>

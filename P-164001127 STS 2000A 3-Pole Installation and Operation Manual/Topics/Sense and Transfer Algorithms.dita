@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SenseAndTransferAlgorithms-D289C2F1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Sense and Transfer Algorithms</title>
+<body>
+<p>Sense algorithms detect that the active power source is going out
+of specification and that a transfer is required. Eaton PDI has optimized
+STS sense algorithms experimentally, but algorithm parameters can
+be adjusted by administrators if necessary. </p>
+<p>Transfer algorithms move the load to the other source. Transfers
+are not performed by connecting the two sources (“Make before Break”),
+which would cause cross-currents between sources. </p>
+<p>Administrators can choose between two transfer algorithms using
+the front panel touchscreen: <ul>
+<li><p><b>POG (Power or Gate)</b> (fast) algorithm transfers the load
+as quickly as possible from one source to another without connecting
+the sources together. <ul>
+<li><p>Automatic transfers including sense time are ≤ 1/4 cycle for
+all phase conditions. </p></li>
+<li><p>Manual transfers are ≤ 1/8 cycle for in-phase conditions (phase-synchronized
+sources). </p></li>
+</ul></p></li>
+<li><p><b>VSS (low inrush)</b> algorithm transfers the load in 3/4
+of a cycle or less, including sense time, and will balance the volt
+seconds of any magnetic load so as to not draw in-rush current. <ul>
+<li><p>Automatic transfers are ≤ 3/4 cycle for all phase conditions,
+including sense time. </p></li>
+<li><p>Manual transfers are ≤ 1/8 cycle for in-phase conditions.</p
+></li>
+</ul> </p></li>
+</ul></p>
+<p>The STS 2000A can successfully switch the load between sources
+that are 180⁰ out-of-phase within the above-specified cycle times.</p>
+<p>VSS is the recommended and default algorithm and should be used
+whenever there are transformers downstream of the STS, including small
+transformers embedded in devices. The POG algorithm can be used when
+there are no downstream transformers.</p>
+</body>
+</topic>

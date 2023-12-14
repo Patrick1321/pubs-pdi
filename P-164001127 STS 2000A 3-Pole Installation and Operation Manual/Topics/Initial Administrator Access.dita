@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InitialAdministratorAccess-CEE36877"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Initial Administrator Access</title>
+<body>
+<p>STS security is based on the identification of each user by a PIN
+with an associated password. The PIN identifies the user and the password
+allows access. This scheme also provides a login history and accurate
+forensics if there is problem with the STS. </p>
+<p>To initially set up STS users, Eaton PDI provides a temporary Administrator
+PIN and password. The administrator should: <ol>
+<li><p>Log in on the Home screen in the Operator panel. </p></li>
+<li><p>Navigate to the Users screen </p></li>
+<li><p>Change the administrator PIN and password and then keep them
+secure. </p></li>
+<li><p>Set up each user’s security information as described in the
+following sections.</p></li>
+</ol></p>
+<p>After initial startup, commissioning, testing, or restart, the
+administrator should clear any alarms that occurred.</p>
+</body>
+</topic>

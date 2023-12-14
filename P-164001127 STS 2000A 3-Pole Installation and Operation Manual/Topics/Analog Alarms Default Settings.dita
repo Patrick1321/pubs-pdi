@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AnalogAlarmsDefaultSettings-CFE70EB4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Analog Alarms Default Settings</title>
+<body>
+<table>
+<?PubTbl table border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>
+<title>Voltage Alarms Default Settings</title>
+<tgroup cols="5"><colspec colname="1" colsep="1" colwidth="65.00pt"/>
+<colspec colname="2" colsep="1" colwidth="56.00pt"/><colspec colname="3"
+colsep="1" colwidth="56.00pt"/><colspec colname="4" colsep="1"
+colwidth="56.00pt"/><colspec colname="5" colwidth="56.00pt"/>
+<tbody>
+<row rowsep="1">
+<entry nameend="5" namest="1"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><p><b>Voltage Alarms 600 Volt Points: </b
+></p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Parameter </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>High Limit </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Setting </b></p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Low Limit </b></p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?><p><b
+>Setting</b> </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>V phase-phase </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>660 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>540 </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>V phase-neutral </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>380 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>311 </p></entry>
+</row>
+<row rowsep="1">
+<entry nameend="5" namest="1"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><p><b>Voltage Alarms 480 Volt Points: </b
+></p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Parameter </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>High Limit </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Setting </b></p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Low Limit </b></p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?><p><b
+>Setting</b> </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>V phase-phase </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>528 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>432 </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>V phase-neutral </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>305 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>249 </p></entry>
+</row>
+<row rowsep="1">
+<entry nameend="5" namest="1"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><p><b>Voltage Alarms 208 Volt Points: </b
+></p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Parameter </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>High Limit </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Setting </b></p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Low Limit </b></p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?><p><b
+>Setting</b> </p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>V phase-phase </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>229 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt"?><p>187 </p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-right-width="0.25pt"?><p>V phase-neutral </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-right-width="0.25pt"?><p>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-right-width="0.25pt"?><p>132 </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-right-width="0.25pt"?><p>90% </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><p>108 </p
+></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table>
+<title>Current Alarms Default Settings</title>
+<tgroup cols="3"><colspec colname="1" colwidth="49.46pt"/><colspec
+colname="2" colwidth="50.00pt"/><colspec colname="3" colwidth="50.00pt"/>
+<thead>
+<row>
+<entry nameend="3" namest="1" valign="top"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><p
+><b>Current Alarms </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Current </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>High Limit </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setting </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>2000A </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2200 </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table>
+<title>KVA Alarms Default Settings 600V Unit</title>
+<tgroup cols="7"><colspec colname="1" colwidth="50.00pt"/><colspec
+colname="2" colwidth="50.00pt"/><colspec colname="3" colwidth="50.00pt"/>
+<colspec colname="4" colwidth="50.00pt"/><colspec colname="5"
+colwidth="50.71pt"/><colspec colname="6" colwidth="50.00pt"/><colspec
+colname="7" colwidth="50.00pt"/>
+<thead>
+<row>
+<entry nameend="7" namest="1" valign="top"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><p
+><b>KVA Phase and KVA Total Alarms for 600 Volt Unit </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Current </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Parameter </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>High Limit </b></p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setting </b></p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Parameter </b></p></entry>
+<entry colname="6" morerows="0" nameend="6" namest="6"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>High Limit </b></p></entry>
+<entry colname="7" morerows="0" nameend="7" namest="7"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setting </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>2000A </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>760</p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry colname="6" morerows="0" nameend="6" namest="6"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="7" morerows="0" nameend="7" namest="7"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2283</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table>
+<title>KVA Alarms Default Settings 480V Unit</title>
+<tgroup cols="7"><colspec colname="1" colwidth="50.00pt"/><colspec
+colname="2" colwidth="50.00pt"/><colspec colname="3" colwidth="50.00pt"/>
+<colspec colname="4" colwidth="50.00pt"/><colspec colname="5"
+colwidth="50.71pt"/><colspec colname="6" colwidth="50.00pt"/><colspec
+colname="7" colwidth="50.00pt"/>
+<tbody>
+<row>
+<entry nameend="7" namest="1"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><p><b>KVA Phase
+and KVA Total Alarms for 480 Volt Unit </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Current </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Parameter </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>High Limit </b></p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setting </b></p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Parameter </b></p></entry>
+<entry colname="6" morerows="0" nameend="6" namest="6"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>High Limit </b></p></entry>
+<entry colname="7" morerows="0" nameend="7" namest="7"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setting </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>2000A </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>610 </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry colname="6" morerows="0" nameend="6" namest="6"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="7" morerows="0" nameend="7" namest="7"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1830</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table>
+<title>KVA Alarms Default Settings 208V Unit</title>
+<tgroup cols="7"><colspec colname="1" colwidth="50.00pt"/><colspec
+colname="2" colwidth="50.00pt"/><colspec colname="3" colwidth="50.00pt"/>
+<colspec colname="4" colwidth="50.00pt"/><colspec colname="5"
+colwidth="50.71pt"/><colspec colname="6" colwidth="50.00pt"/><colspec
+colname="7" colwidth="50.00pt"/>
+<tbody>
+<row>
+<entry nameend="7" namest="1"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><p
+><b>KVA Phase and KVA Total Alarms for 208 Volt Unit </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Current </b></p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Parameter </b></p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>High Limit </b></p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setting </b></p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Parameter </b></p></entry>
+<entry colname="6" morerows="0" nameend="6" namest="6"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>High Limit </b></p></entry>
+<entry colname="7" morerows="0" nameend="7" namest="7"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setting </b></p></entry>
+</row>
+<row>
+<entry colname="1" morerows="0" nameend="1" namest="1"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>2000A </p></entry>
+<entry colname="2" morerows="0" nameend="2" namest="2"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA </p></entry>
+<entry colname="3" morerows="0" nameend="3" namest="3"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="4" morerows="0" nameend="4" namest="4"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>265 </p></entry>
+<entry colname="5" morerows="0" nameend="5" namest="5"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>KVA total </p></entry>
+<entry colname="6" morerows="0" nameend="6" namest="6"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colname="7" morerows="0" nameend="7" namest="7"><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>793</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

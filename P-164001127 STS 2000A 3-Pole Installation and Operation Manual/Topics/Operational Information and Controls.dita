@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="OperationalInformationAndControls-D289C2F4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Operational Information and Controls</title>
+<body>
+<p>The STS has a color graphics touchscreen, a backup operator interface
+(the ROI), help screens, and audible voice assistance that supplements
+the display in certain situations.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Graphics Touch-Screen Monitor-Display.dita"><xi:fallback><!--Fallback markup for "Graphics Touch-Screen Monitor-Display.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Operational Assistance.dita"><xi:fallback><!--Fallback markup for "Operational Assistance.dita"--></xi:fallback
+></xi:include>
+</topic>

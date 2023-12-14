@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="DownloadingTheEventLogFile-CEFCC058"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Downloading the Event Log File</title>
+<body>
+<p>A USB port on the front of the touchscreen display compartment
+lets you download the log file to a PC. When a PC is connected to
+this port with a USB cable, a shortcut is created on the PC’s desktop.
+Clicking this shortcut will automatically download the Event Log as
+a CSV file to the PC. For security reasons, no other action is taken.
+The PC cannot send input to the STS and cannot request any other information. </p>
+</body>
+</topic>

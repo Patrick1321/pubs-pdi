@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Manual Transfer</title>
+<body>
+<p>Manual transfers can be accomplished using the “Preferred Source”
+switch icon on the Home Screen. The logic will allow manually initiated
+transfers between the two input sources if the selected source is
+within acceptable voltage limits and phase tolerances. As described
+above, this also changes the source that is designated as the Preferred
+Source.</p>
+</body>
+</topic>

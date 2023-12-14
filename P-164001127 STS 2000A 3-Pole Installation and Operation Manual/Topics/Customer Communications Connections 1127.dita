@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C40F9698" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Customer Communications Connections</title><?Pub Caret -2?>
+<body>
+<p>Customers establish communications with the STS 2000A through these
+connections: <ul>
+<li><p>• Ethernet connection, supporting several protocols and STS
+features </p></li>
+<li><p>• Contractor Board connections, including: <ul>
+<li><p>Dry contact signals </p></li>
+<li><p>Modbus RTU </p></li>
+<li><p>Modem landline (9600 baud dial) for summary alarm notification </p
+></li>
+<li><p>Multi-Switch Link Option, supporting an N+1 UPS configuration</p
+></li>
+</ul></p></li>
+</ul> </p>
+<p>All communications protocols and options can be used simultaneously.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Contractor Boards.dita"><xi:fallback><!--Fallback markup for "Contractor Boards.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Ethernet Connection.dita"><xi:fallback><!--Fallback markup for "Ethernet Connection.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Dry Contact Signals.dita"><xi:fallback><!--Fallback markup for "Dry Contact Signals.dita"--></xi:fallback
+></xi:include>
+</topic>

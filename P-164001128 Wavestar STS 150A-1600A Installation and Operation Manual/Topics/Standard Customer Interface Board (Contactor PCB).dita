@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Standard Customer Interface Board (Contactor PCB)</title>
+<body>
+<fig>
+<title>Standard Customer Interface Board</title>
+<image href="..\Graphics\29x.pdf"
+placement="-dita-use-conref-target" scale="30"></image>
+</fig>
+<ol>
+<li><p><b>Summary Alarm </b>– Dry Contact point to advise when unit
+is in alarm. </p></li>
+<li><p><b>Dry Contact Remote Relays </b>– Programmable N.O. or N.C.
+dry contacts for external output of specific internal alarms. Status
+points are: </p><ul>
+<li><p>Load on S1 </p></li>
+<li><p>Load on S2 </p></li>
+<li><p>Output OK </p></li>
+</ul></li>
+<li><p><b>ModBus Connection </b>– 4 wire configuration connection
+is located on the Customer connection terminal block </p></li>
+<li><p><b>Building Alarm </b>– Input terminal block to provide unit
+with input on four (4) external building alarms </p></li>
+<li><p><b>Remote EPO </b>– Connection point for input of remote EPO
+signal to system. This is a dry contact connection point. Connection
+of voltage to this point can cause damage to the unit. Connect external
+dry contacts to terminals marked +24V and EPO for EPO circuit. The
+return position is if there is also a light for the remote EPO button. </p
+></li>
+<li><p><b>SNMP-Web Enabled </b>– (Provided external to contractor
+board and not shown) Wire with jack connection to accept RJ45 plug
+hanging in area of Customer connection terminal block. </p></li>
+</ol>
+</body>
+</topic>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SiteRequirementsSTSInspection1128-C4287C87" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Site Requirements &amp; STS Inspection</title><?Pub Caret -2?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="General Information.dita"><xi:fallback><!--Fallback markup for "General Information.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Grounding.dita"><xi:fallback><!--Fallback markup for "Grounding.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Internal Wiring.dita"><xi:fallback><!--Fallback markup for "Internal Wiring.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Input Power And Load Cabling.dita"><xi:fallback><!--Fallback markup for "Input Power And Load Cabling.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Control Interface.dita"><xi:fallback><!--Fallback markup for "Control Interface.dita"--></xi:fallback
+></xi:include>
+</topic>

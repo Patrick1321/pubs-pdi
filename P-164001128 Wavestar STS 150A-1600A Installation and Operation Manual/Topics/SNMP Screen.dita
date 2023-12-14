@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SNMPScreen-D723E09E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>SNMP Screen</title>
+<body>
+<p>Touching the “SNMP” button icon on the Home Screen displays the
+“SNMP” screen. </p>
+<p>The SNMP screen is used to send SNMP Traps to Management Stations
+or Contacts. </p>
+<p>Pressing the Trap Icon will display the Numeric Screen to set the
+IP address of the Management Station SNMP Screen Pressing the Contact
+Icon will display the Keyboard Screen to set the name of the contact
+person who will be receiving the Traps.</p>
+<fig id="SNMPScreen-D7287B1D">
+<title>SNMP Screen</title>
+<image href="..\Graphics\26x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>Pressing the Name Icon will display the Keyboard Screen to enter
+the name or designation of the STS. Pressing the Location Icon will
+display the Keyboard Screen to set the physical location of the STS.
+Touching the Send SMP Traps Icon will switch the Icon from green (ok
+to send traps) to red (do not send Traps)</p>
+</body>
+</topic>

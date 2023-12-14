@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ModemLandLine-CEF88901"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modem Land Line</title>
+<body>
+<p>Touch <b>Modem </b>to display the Modem screen (<xref format="dita"
+href="#./Figure28ModemSetupScreen-CEF91E52" scope="local" type="fig"
+><?Pub _previewtext text="Figure 28 Modem Setup Screen"?></xref>).
+You can connect a 9600 baud modem to the Enhanced Contractor Board.
+The modem can be used to send a summary alarm to one or two specified
+destinations. </p>
+<fig id="Figure28ModemSetupScreen-CEF91E52">
+<title>Modem Setup Screen</title>
+<image href="..\Graphics\28.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>Touch <b>Set #1 </b>to enter the number for destination 1. If dialing
+out with a 9, add commas to pause the modem slightly before it dials
+the outside number. <b>Set #2 </b>lets you set a second number. </p>
+<p>Toggle <b>Use </b>to a green check mark to enable the number. </p>
+<p>Toggle <b>Data </b>to a green check mark to send data to a pager.
+Add commas after the telephone number (to pause the modem) and then
+add numbers to be sent to a pager. The data in the Modem field for
+dial-out number 1 or 2 will have this format: </p>
+<p>9,,,8045551212,,,579802 (Dial out code/commas to pause modem/pager
+number/commas to pause modem/numeric data to be sent to pager) </p>
+<p>Toggle <b>Send Modem Alarms </b>to green check mark to enable sending
+a summary alarm via modem. </p>
+<p>To test the modem dial out feature, touch <b>Dial 1 </b>or <b>Dial
+2 </b>to force the modem to dial number 1 or 2. </p>
+<p>Touch <b>Reset </b>to reset the modem.</p>
+</body>
+</topic>

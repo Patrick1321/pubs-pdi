@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>The Three Pole, Two Position Transfer Switch</title>
+<body>
+<p>The transparent transfer, automatic transfer switch will consist
+of two power switch elements with logic to control the sensing and
+transfer functions of the unit. The transfer switch is a three pole,
+twoposition transfer device designed to automatically and/or manually
+transfer a load between two synchronized, three-phase power sources.
+The intelligence of the logic provides for fast transfers that are
+transparent to the load. The transfer from one source to another is
+not performed by connecting the two sources (Make before Break). This
+would cause cross feeding of one source to the other. The input power
+will be supplied from two different power sources, which are nominally
+of the same voltage, phase rotation, and frequency. The purpose of
+the transfer switch is to allow a transparent load transfer from one
+source to another source in the event of a failure of one source or
+when manually initiated for testing or maintenance. The transfer switch
+will allow for either source to be designated as the "preferred source".
+The load will be transferred to the “preferred source” whenever the
+source is intolerance and will remain connected to the “preferred
+source” until manually initiated to transfer or until the “preferred
+source” fails. The automatic retransfer to the “preferred source”
+can be disabled if so desired by an authorized operator from the “Settings”
+screen. This is generally used after a transfer from a source due
+to a preferred source power loss and the operator wishes to verify
+the preferred source input power is stable prior to retransferring.
+When the automatic retransfer is disabled, the logic will transfer
+the load from the failing source to the “good” source and will remain
+on that source even after the preferred source returns to acceptable
+limits. If the alternate source fails, the unit will transfer to the
+original source (Considering that it is still in acceptable limits).</p>
+</body>
+</topic>

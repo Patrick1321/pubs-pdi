@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="KirkKeyInterlocks-CEE15077"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Kirk Key Interlocks</title>
+<body>
+<fig id="Figure17KirkKeyInterlocksForBypassM-CEE14D8C">
+<title>Kirk Key Interlocks for Bypass Mode</title>
+<image href="..\Graphics\17.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>Bypass Mode is entered by physically setting up the MCCBs and MCSWs
+to go to bypass. The STS has key-interlocked bypass MCCBs/MCSWs allowing
+logic to be disconnected from power sources without interrupting output
+load power (<xref format="dita"
+href="#./Figure17KirkKeyInterlocksForBypassM-CEE14D8C" scope="local"
+type="fig"><?Pub _previewtext text="Kirk Key Interlocks for Bypass Mode"
+?></xref>). Engaging the bypass and returning from bypass to STS normal
+mode both require the operator to manipulate Kirk Keys and MCCBs or
+MCSWs.</p>
+</body>
+</topic>

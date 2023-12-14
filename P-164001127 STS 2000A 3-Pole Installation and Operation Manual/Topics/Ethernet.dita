@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Ethernet-CEF888F4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Ethernet</title>
+<body>
+<p>The STS has an Ethernet port and cable. (For physical attachment
+see <xref format="dita"
+href="Customer Communications Connections 1127.dita#EthernetConnection-CE734AC3"
+scope="local" type="topic"><?Pub _previewtext text="Ethernet Connection"
+?></xref>.) The Ethernet cable must be physically attached to the
+customer network and STS Ethernet addresses set before ModBus TCP/IP,
+SNMP, or SNTP Time Synchronization are configured. </p>
+<p>The <b>Ethernet Settings </b>panel in the <b>Settings </b>screen
+(<xref format="dita"
+href="#SettingsScreen-CEF888F1/Figure24SettingsScreen-CEF92862"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 24 Settings Screen"?></xref>) allows the operator to
+set an IP address if a different address than the DHCP address is
+required.</p>
+<ul>
+<li><p><b>Address</b> is the Ethernet IP address of the Switch, which
+can be set directly or by DHCP. <ul>
+<li><p>If the <b>Use DHCP</b> has a green check mark (√), the DHCP
+address will be used for the IP address in Address.</p></li>
+</ul> <ul>
+<li><p>If the <b>Use DHCP</b> icon has a red X, DHCP is not used to
+set the IP address. Enter an IP address in <b>Address</b> for the
+Switch.</p></li>
+</ul></p></li>
+<li><p>Press <b>Mask</b> to enter Ethernet IP mask address.</p></li>
+<li><p>Press <b>Gateway </b>to enter Ethernet Gateway. </p></li>
+<li><p><b>MAC</b> ID is set in the factory and cannot be changed. </p
+></li>
+<li><p>Toggle <b>Use DHCP</b> button: <ul>
+<li><p>Green check mark: Use DHCP to assign IP address. </p></li>
+<li><p>Red X: Do not use DHCP; use <b>Address</b> IP value.</p></li>
+</ul></p></li>
+<li><p><b>Stat</b> button: shows communications statistics (a service
+function)</p></li>
+<li><p><b>Restart </b>button: restarts the Monitor. On the ROI, the
+Mode of Operation must be set to <b>Redundant </b>so that there is
+a backup transfer process during the restart.</p><note><p>The Monitor
+must be restarted when <b>Ethernet Settings</b> change.</p></note
+></li>
+</ul>
+</body>
+</topic>

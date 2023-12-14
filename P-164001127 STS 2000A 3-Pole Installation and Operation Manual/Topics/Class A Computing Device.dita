@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ClassAComputingDevice-CE6C86B6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Class A Computing Device</title>
+<body>
+<p>This equipment generates, uses, and can radiate radio frequency
+energy and if not installed and used in accordance with the instruction
+manual, may cause interference to radio communications. It has been
+tested and found to comply with the limits for a class A computing
+device pursuant to subpart B of part 15 of FCC rules, which are designed
+to provide reasonable protection against such interference when operated
+in a commercial environment. Operation of this equipment in a residential
+area is likely to cause interference in which case the user at his/her
+own expense will be required to take whatever measures may be required
+to correct the interference.</p>
+<fig id="Figure9GeneralAssemblyDrawingCustom-CE6CFC97">
+<title>General Assembly Drawing: Customer Power Connections</title>
+<image href="..\Graphics\9.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

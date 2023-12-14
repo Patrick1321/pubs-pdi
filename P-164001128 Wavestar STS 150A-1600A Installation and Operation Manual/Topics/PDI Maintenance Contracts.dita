@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDI Maintenance Contracts</title>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Features & Benefits.dita"><xi:fallback><!--Fallback markup for "Features & Benefits.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="A promise of prompt courteous service..dita"><xi:fallback><!--Fallback markup for "A promise of prompt courteous service..dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="You receive 2 comprehensive Preventative Maintenance visits annually. (t.dita"><xi:fallback><!--Fallback markup for "You receive 2 comprehensive Preventative Maintenance visits annually. (t.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDI provides Flexibility and Commitment..dita"><xi:fallback><!--Fallback markup for "PDI provides Flexibility and Commitment..dita"--></xi:fallback
+></xi:include>
+</topic>

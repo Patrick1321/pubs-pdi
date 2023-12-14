@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>SAS Board Transfers</title>
+<body>
+<p>If the Monitor fails to transfer the load, the SAS board will take
+over the transfer. If Alarms appear showing the SAS board in control,
+follow these steps: </p>
+<ol>
+<li><p>Check the <b>Alarms </b>page for alarms showing the SAS board
+is in control.</p></li>
+<li><p>Login on the <b>Home </b>page as Administrator or other higher
+level authorization.</p></li>
+<li><p>Touch the <b>Reset </b>button on the <b>Alarms </b>page to
+clear alarms. (Alarms will remain listed in the Event Log.)</p></li>
+<li><p>Check that SAS board alarms clear and do not reappear.</p></li>
+<li><p>If SAS board alarms reappear, contact Eaton Service (1-800-843-9433).</p
+></li>
+</ol>
+</body>
+</topic>

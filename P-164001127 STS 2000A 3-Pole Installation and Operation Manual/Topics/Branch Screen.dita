@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="BranchScreen-CEFCC060"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Branch Screen</title>
+<body>
+<p>The standalone STS 2000A does not have distribution branch circuits
+and the Branch screen does not apply.</p>
+</body>
+</topic>

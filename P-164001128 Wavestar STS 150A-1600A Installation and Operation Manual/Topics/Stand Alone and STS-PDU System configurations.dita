@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Stand Alone and STS/PDU System configurations</title>
+<body>
+<p>The stand-alone WaveStar STS or WaveStar STS/PDU System can be
+connected between two sources, generally two UPSs. The stand-alone
+WaveStar STS has a single output load. The WaveStar STS/PDU System
+is generally an integrated system consisting of the STS unit and any
+normal PDU distribution system. </p>
+<p>There are three configurations of WaveStar. One is a stand-alone
+STS and there are also two configurations of STS/PDU systems.</p>
+<ul>
+<li><p>A stand-alone STS has two input sources and the output supplies
+redundant power to down stream loads. Source voltage will vary depending
+on the application. </p></li><?Pub Caret 1?>
+<li><p>A primary STS/PDU system contains a single PDU with an internal
+transformer and STS bolted together. The two input sources are connected
+the STS and the STS output is connected to the PDU input. The PDU
+distribution is connected to the site loads. In this configuration
+the STS unit is generally a 480V application feeding the PDU transformer
+to be stepped down to the 120/208V for distribution. </p></li>
+<li><p>A secondary STS/PDU system contains two PDU’s with internal
+transformers and a STS, all bolted together. Each input source is
+connected to the one PDU. The input of the PDU is generally 480V and
+is stepped down to 208V for the output. Each of the two PDU outputs
+is connected to the STS inputs. In this configuration, the STS unit
+is generally a 208V application. The STS output is connected to the
+distribution, which is located in the PDU sections. Since the PDU
+units are redundant, one PDU can be made “electrically cold” for maintenance
+while the other PDU powers the load.</p></li>
+</ul>
+</body>
+</topic>

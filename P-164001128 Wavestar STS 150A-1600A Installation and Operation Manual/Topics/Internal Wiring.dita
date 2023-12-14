@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Internal Wiring</title>
+<body>
+<p>Verify all Lug connections are tight. In the event that any loose
+connections are found during the installation of the unit, please
+contact Eaton Service (1-800-843-9433).<ol>
+<li><p>Check the main input connections at the main breakers and the
+bypass breakers to be sure vibration have not loosened the terminal
+screws. </p></li>
+<li><p>In the same manner, check the feeders running from the load
+side of the input and bypass breakers. </p></li>
+<li><p>Check the feeders running to the output circuit breaker or
+output switch. </p></li>
+<li><p>Check all lugs for tightness on the following: <ol>
+<li><p>\Neutral Bus </p></li>
+<li><p>Ground Bus </p></li>
+<li><p>Bus bars </p></li>
+<li><p>Circuit breakers </p></li>
+<li><p>SCR switch modules</p></li>
+</ol></p></li>
+</ol></p><?Pub Caret 140?>
+</body>
+</topic>

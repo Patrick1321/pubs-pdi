@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InstallationPlanning-C40A1857" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation Planning</title><?Pub Caret -2?>
+<body>
+<p>This chapter has planning information for the 3-pole STS 2000A.
+Additional specifications and planning information can be found in
+the following: <ul>
+<li><p><xref format="dita"
+href="Customer Communications Connections 1127.dita" scope="local"
+type="topic"><?Pub _previewtext
+text="Customer Communications Connections 1127"?></xref> </p></li>
+<li><p>GUIDE SPECIFICATION Eaton PDI 2000 Amp 3-Pole Static Transfer
+Switch</p></li>
+</ul></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Enclosure.dita"><xi:fallback><!--Fallback markup for "System Enclosure.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Clearances and Service Access.dita"><xi:fallback><!--Fallback markup for "Clearances and Service Access.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Cooling.dita"><xi:fallback><!--Fallback markup for "Cooling.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Environmental Specifications.dita"><xi:fallback><!--Fallback markup for "Environmental Specifications.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Electrical Specification.dita"><xi:fallback><!--Fallback markup for "System Electrical Specification.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Surge Protection.dita"><xi:fallback><!--Fallback markup for "Surge Protection.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Grounding.dita"><xi:fallback><!--Fallback markup for "Grounding.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Wiring and Connections.dita"><xi:fallback><!--Fallback markup for "Wiring and Connections.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Class A Computing Device.dita"><xi:fallback><!--Fallback markup for "Class A Computing Device.dita"--></xi:fallback
+></xi:include>
+</topic>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Normal Mode</title>
+<body>
+<ol>
+<li><p>The WaveStar is in the auto mode when all of the following
+are true: <ol>
+<li><p>The Redundant Operator Interface panel mode switch is in “normal”
+position. </p></li>
+<li><p>The Graphic/touch screen Home Screen “Preferred Source” icon
+switch is in either position. </p></li>
+<li><p>The Graphic/touch screen Switch Settings Screen “Mode - VSS/POG”
+icon switch is in either position. </p></li>
+<li><p>Graphic/touch screen Switch Settings Screen “Retransfer-Yes/No”
+icon switch is in “Yes” position. </p><p>When the STS is in “Normal”
+or “auto” operation, the load is connected to the “preferred source”,
+as long as all of the phases of the voltage and frequency of the source
+are within acceptable limits. Upon failure of the “preferred source”,
+the load will be transferred to the “alternate source.” The default
+transfer voltage limits are +/- 10% of the nominal input voltage for
+steady state conditions, with low voltage transfer limits having an
+inverse time relationship. This is within the CBEMA/ITS computer voltage
+tolerance envelope. After the “preferred source” returns to a condition
+that is within tolerance for at least the preset adjustable retransfer
+time delay (typically 4 seconds) the load will be retransfer automatically
+to the “preferred source”.</p></li>
+</ol></p></li>
+<li><p>Either input source can be designated as the “preferred source”
+by the “Preferred Source – 1 / 2” control switch icon on the Home
+screen which can be activated by an authorized operator. </p></li>
+<li><p>In normal mode the there are two start, restart and transfer
+algorithms. These are POG and VSS.</p><p>POG and VSS algorithms -
+Either the POG or VSS algorithm can be selected via the “Switch Settings”
+screen.<ul>
+<li><p><b>VSS algorithm:</b> The Volt Second Synchronizing algorithm
+(Eaton PDI Patented) reduces the inrush of magnetic load; the transfer
+time can range up to 8 ms depending on the phase shift between sources.
+Up to 45 degree phase shift between sources the transfer time is up
+to 4 ms for outages and 2 ms for manual transfers.</p></li>
+<li><p><b>POG algorithm:</b> This algorithm has a shorter transfer
+time than the VSS algorithm, but inrush currents are not controlled.</p
+></li>
+</ul></p><?Pub Caret -2?></li>
+</ol>
+</body>
+</topic>

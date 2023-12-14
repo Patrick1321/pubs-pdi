@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="GoingToBypass2-CE56C24E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Going to Bypass 2</title>
+<body>
+<p><ol>
+<li><p>Open Source 1 MCCB and lock OFF: <ol>
+<li><p>Open (turn OFF) Source 1 MCCB. </p></li>
+<li><p>Lock Source 1: Turn S1 key to extend locking bar. </p></li>
+<li><p>Source 1 is now disabled, but Source 2 is active. </p></li>
+<li><p>Remove S1 key from Source 1 lock. </p></li>
+<li><p>Insert S1 key in S1 key position in dead-front panel Kirk-Key
+blocks. </p></li>
+</ol></p></li>
+<li><p>Close Bypass Source 2: <ol>
+<li><p>Turn Bypass S2 key to extend bar and lock Kirk Keys in dead-front
+panel. (Extending the locking bar prevents removing the Bypass S1
+key, preventing bypass cross-connect.) </p></li>
+<li><p>Remove Bypass S2 key from dead-front panel lock. </p></li>
+<li><p>Insert Bypass S2 key into Bypass Source 2 MCCB lock. </p></li>
+<li><p>Unlock Bypass Source 2 MCCB, moving blocking bar to the right. </p
+></li>
+<li><p>Close (Turn ON) MCCB Bypass Source 2. </p></li>
+</ol></p></li>
+<li><p>Open Source 2 MCCB: <ol>
+<li><p>Open (turn OFF) S2 MCCB. </p></li>
+<li><p>Turn S2 key to lock MCCB open. </p></li>
+<li><p>Remove S2 key and move it to S2 key position in top left dead-front
+key block. </p></li>
+</ol></p></li>
+<li><p>Open (turn OFF) Isolation MCCBs or MCSWs. (There may be one
+or two Isolation MCCBs or MCSWs.)</p></li>
+</ol></p>
+</body>
+</topic>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDI Background</title>
+<body>
+<p>PDI designs and manufactures redundant power and distribution products
+for the power quality market. The WaveStar STS and STS/PDU system
+is completely self-contained, factory-tested unit designed to transfer
+critical load between multiple power sources without interruption.
+Additionally the STS/PDU systems provide distribution systems. </p>
+<p>PDI was founded in 1978 as a Virginia corporation with the corporate
+offices and factory located in Richmond, VA. Since its inception,
+PDI has strived to provide quality products to meet the demanding
+needs of our industry. PDI’s roots are in the computer power distribution
+and voltage regulation market. As this market has evolved and the
+need for quality power has grown, PDI has developed innovative solutions
+to meet the power quality needs of new technologies. Our patented
+harmonic cancellation systems and the UL listed STS or STS/PDU Systems,
+line regulators, and harmonic mitigation products are prime examples
+of our innovation.</p>
+<p> PDI was awarded the Frost &amp; Sullivan 2004 award for Market
+Leadership and the 2005 award for Customer Value Enhancement. This
+document will describe the operation and configuration of a three
+phase, two input STS or STS/PDU System. </p>
+<p>The appendices contain spare parts, warranty data, and equipment
+drawings. </p>
+<p>An installation drawing is included in the Appendix. The installation
+supervisor should review the drawing prior to installation. Questions
+pertaining to this manual, the installation or operation of the STS
+or STS/PDU System (STS) should be directed to the PDI service department
+@ 1-800-225-4838.</p>
+<table>
+<tgroup cols="3">
+<?PubTbl tgroup cbmarg="0.20pt" clmarg="0.20pt" crmarg="0.20pt"
+ctmarg="0.20pt" dispwid="580.00px"?>
+<colspec colname="col1" colwidth="150.00pt"/><colspec colname="COLSPEC3"
+colwidth="100.00pt"/><colspec colname="COLSPEC0" colwidth="80.00pt"/>
+<tbody>
+<row>
+<?PubTbl row breakpenalty="10000"?>
+<entry colsep="0" morerows="2" rowsep="0"><?PubTbl cell border-bottom-style="none"
+border-left-style="none" border-top-style="none"?>PDI Service contact
+information: Power Distribution Inc. 4200 Oakleys Court <p>Richmond,
+Virginia 23223</p><p>service@pdicorp.com</p></entry>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-top-style="none"?></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"
+border-top-style="none"?></entry>
+</row>
+<row>
+<?PubTbl row breakpenalty="10000"?>
+<entry colsep="0" rowsep="0">Toll Free: (800)-225-4838 </entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?>Phone:
+(804) 737-9880</entry>
+</row>
+<row>
+<?PubTbl row breakpenalty="10000"?>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-bottom-style="none"?></entry>
+<entry rowsep="0"><?PubTbl cell border-bottom-style="none"
+border-right-style="none"?></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

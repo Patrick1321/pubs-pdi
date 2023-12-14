@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Communication and Down Load capabilities</title>
+<body>
+<p>Alarm and status data as well as waveform data can be transmitted
+to remote locations via Modbus RTU, WEB and E-mail as standard. Data
+can also be transferred via any of the following protocols as options:
+ModBus TCP/IP, SNMP, land line Modem or cell Modem. </p>
+<p>This information can also be down loaded locally via, PC using
+USB port or Optional memory stick or using a PDA using IR. Contact
+the Eaton Factory or your local Sales representative regarding this
+option.</p>
+</body>
+</topic>

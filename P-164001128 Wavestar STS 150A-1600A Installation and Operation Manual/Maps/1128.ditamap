@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<techinfomap xml:lang="en"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfomap.xsd"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Eaton Wavestar STS 150A-1600A Installation and Operation Manual</title>
+<contentref format="dita" href="..\Topics\cover 1128.dita"
+navtitle="Eaton© Wavestar Static Transfer Switch 150A-1600A"
+scope="local" type="coverpage"></contentref>
+<toc/>
+<division navtitle="Introduction">
+<contentref format="dita" href="..\Topics\Introduction 1128.dita"
+navtitle="Introduction" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Safety">
+<contentref format="dita" href="..\Topics\Safety 1128.dita"
+navtitle="Safety " scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Class A Computing Device: Information to User">
+<contentref format="dita"
+href="..\Topics\Class A Computing Device Information to User 1128.dita"
+navtitle="Class A Computing Device: Information to User " scope="local"
+type="topic"></contentref>
+</division>
+<division navtitle="System Unpack and Inspection">
+<contentref format="dita"
+href="..\Topics\System Unpack and Inspection 1128.dita"
+navtitle="System Unpack and Inspection" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Installation Procedures">
+<contentref format="dita"
+href="..\Topics\Installation Procedures 1128.dita"
+navtitle="Installation Procedures" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Site Requirements &amp; STS Inspection">
+<contentref format="dita"
+href="..\Topics\Site Requirements &amp; STS Inspection 1128.dita"
+navtitle="Site Requirements &amp; STS Inspection" scope="local"
+type="topic"></contentref>
+</division>
+<division navtitle="Startup/Power-Up of the Unit">
+<contentref format="dita"
+href="..\Topics\Startup-Power-Up of the Unit 1128.dita"
+navtitle="Startup/Power-Up of the Unit" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Operational Description – STS or STS/PDU System">
+<contentref format="dita"
+href="..\Topics\Operational Description – STS or STS-PDU System 1128.dita"
+navtitle="Operational Description – STS or STS/PDU System" scope="local"
+type="topic"></contentref>
+</division>
+<division navtitle="Graphics/Touch-Screen Operator Interface">
+<contentref format="dita"
+href="..\Topics\Graphics-Touch-Screen Operator Interface 1128.dita"
+navtitle="Graphics/Touch-Screen Operator Interface" scope="local"
+type="topic"></contentref>
+</division>
+<division navtitle="Redundant Operator Interface (ROI)">
+<contentref format="dita"
+href="..\Topics\Redundant Operator Interface (ROI) 1128.dita"
+navtitle="Redundant Operator Interface (ROI)" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Communications">
+<contentref format="dita" href="..\Topics\Communications 1128.dita"
+navtitle="Communications" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Local Data Down Loading">
+<contentref format="dita"
+href="..\Topics\Local Data Down Loading 1128.dita"
+navtitle="Local Data Down Loading" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Remote Customer Interface">
+<contentref format="dita"
+href="..\Topics\Remote Customer Interface 1128.dita"
+navtitle="Remote Customer Interface" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Technical Specification">
+<contentref format="dita"
+href="..\Topics\Technical Specification 1128.dita"
+navtitle="Technical Specification 1128" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Trouble Shooting">
+<contentref format="dita" href="..\Topics\Trouble Shooting 1128.dita"
+navtitle="Trouble Shooting" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Service">
+<contentref format="dita"
+href="..\Topics\Warranty, Maintenance and Terms 1128.dita"
+navtitle="Warranty, Maintenance and Terms" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Appendices">
+<contentref format="dita" href="..\Topics\Appendices 1128.dita"
+navtitle="Appendices" scope="local" type="topic"></contentref><?Pub
+Caret -1?>
+</division>
+</techinfomap>

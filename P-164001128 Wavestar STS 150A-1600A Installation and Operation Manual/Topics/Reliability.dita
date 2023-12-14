@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Reliability</title>
+<body>
+<ul>
+<li><p>There is a redundant operator interface (ROI) using LED’s and
+toggle switches in the event the graphic display/touch screen is not
+operable </p></li>
+<li><p>The STS unit is very reliable through the use of dynamic redundancy
+of Tri-Redundant logic; Tri-Redundant power supplies; quad-redundant
+gate drivers and N+3 redundant fans on units including fans.</p></li>
+</ul>
+</body>
+</topic>

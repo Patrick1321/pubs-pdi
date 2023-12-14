@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="VoiceUnit-D2942924"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Voice Unit</title>
+<body>
+<p>A Voice Unit provides short audible statements that supplement
+text or graphics in certain situations, such as “Static Switch, new
+alarm,” or “Static Switch, alarm cleared.” The Voice Unit also steps
+operator through text procedures from the Help screens.</p>
+</body>
+</topic>

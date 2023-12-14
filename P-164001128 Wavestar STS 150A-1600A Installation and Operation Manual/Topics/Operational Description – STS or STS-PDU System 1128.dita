@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="OperationalDescriptionSTSOrSTSPDUSy-C429391B"
+xml:lang="en-EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Operational Description – STS or STS/PDU System</title><?Pub
+Caret -2?>
+<body>
+<p></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="The Three Pole, Two Position Transfer Switch.dita"><xi:fallback><!--Fallback markup for "The Three Pole, Two Position Transfer Switch.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modes of Operation for the STS or STS-PDU System.dita"><xi:fallback><!--Fallback markup for "Modes of Operation for the STS or STS-PDU System.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Operator Controls.dita"><xi:fallback><!--Fallback markup for "Operator Controls.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Control Functions.dita"><xi:fallback><!--Fallback markup for "Control Functions.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Shorted Power Switching Element.dita"><xi:fallback><!--Fallback markup for "Shorted Power Switching Element.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Open Power Switching Element.dita"><xi:fallback><!--Fallback markup for "Open Power Switching Element.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Maintenance Bypass.dita"><xi:fallback><!--Fallback markup for "Maintenance Bypass.dita"--></xi:fallback
+></xi:include>
+</topic>

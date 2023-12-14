@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SettingUpANewUser-CEE3687A"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Setting Up a New User</title>
+<body>
+<p>To set up a new STS user follow the steps in <xref format="dita"
+href="#./HowToSetupANewUser-D29A2154" scope="local" type="table"><?Pub
+_previewtext text="How to Setup a New User"?></xref>.<table
+id="HowToSetupANewUser-D29A2154">
+<title>How to Setup a New User</title>
+<tgroup cols="2"><colspec colname="col1" colwidth="0.67*"/><colspec
+colname="col2" colwidth="1.33*"/>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>1. Log in on
+the <b>Home</b> screen <b>Operator</b> panel with Administrator or
+equivalent level privileges.</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><image href="..\Graphics\21A.pdf"
+scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>2. Touch <b>User </b>button (or <b
+>More </b>to see <b>User </b>button) to navigate to the <b>Users</b
+> screen.</p><p> </p><p>3. Using scroll bar, scroll down to an available
+user entry (in this example, <b>User 2</b>). The user entry becomes
+highlighted, blinking with alternating red/blue coloring. </p><p> </p
+><p>The entry can be an existing user, whose access properties (such
+as PIN or password) you wish to modify.</p><p> </p><p>4. Touch <b
+>Name </b>to bring up the touch screen keyboard.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21B.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5. Enter user name, such as "HENRY
+SMITH". </p><p> </p><p>Touch <b>OK </b>to enter name. ____________________</p
+><p><b>Buttons: </b> </p><p> </p><p><b>OK</b> button enters data.</p
+><p> </p><p> Use arrow keys (<b>˂ ˃</b>) to position cursor: entering
+data overwrites text at cursor position; it does not insert text. </p
+><p> </p><p><b>Clear </b>button clears entire entry. </p><p> </p><p
+><b>Cancel </b>button returns to <b>Users </b>page without changing
+data. </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21C.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>6. <b>Name </b>now shows on <b>Users </b
+>screen.</p><p> </p><p>7. Touch <b>Pin </b>to bring up touchscreen
+keyboard to enter user’s PIN.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21D.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>8. Enter <b>Pin </b>using touchscreen
+keyboard. </p><p> </p><p>Touch <b>OK</b>.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21E.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>9. Touch <b>Password </b>on <b>Users </b
+>screen. </p><p> </p><p>Enter <b>Password </b>using touchscreen keyboard. </p
+><p> </p><p>Touch <b>OK</b>.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21F.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>10. Touch <b>Class</b>. </p><p>Enter
+authorization <b>Class</b> using first letter of class:</p><p> </p
+><p>• A: Administrator</p><p>• S: Service</p><p>• O: Operator</p><p
+> </p><p>Touch <b>OK</b>. </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21G.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>11. Log out as Administrator in order
+to test the user log in. (See<xref format="dita"
+href="Operational Interfaces 1127.dita#UserOperatorLogin-D2942927"
+scope="local" type="topic"><?Pub _previewtext text="User/Operator Login"
+?></xref> to log out.) </p><p> </p><p>Only one user at a time can
+be logged in. </p><p> </p><p>Operator panel shows <b>Locked</b>. </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21H.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry morerows="2"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p>12. Log
+in as user ("Henry Smith" in this example):</p><p> </p><p>Touch <b
+>Log In </b>on <b>Operator Panel </b>on Home screen.</p><p> </p><p
+>Enter <b>pin.password </b> with touchscreen keyboard. </p><p> </p
+><p>13. User now shows as logged in on <b>Operator</b> panel on the <b
+>Home</b> screen.</p><p> </p><p>14. Log the User out. (See <xref
+format="dita"
+href="Operational Interfaces 1127.dita#UserOperatorLogin-D2942927"
+scope="local" type="topic"><?Pub _previewtext text="User/Operator Login"
+?></xref>)</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21i.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Enter <b
+>pin. password</b>. (Do not forget the dot between pin and password.)
+The PIN identifies the user, not the user name.</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21j.pdf" scope="local"></image></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>15. All user log-ins and log-outs
+are logged. The <b>Event Log </b>screen shows these events for both
+the Administrator and the User.</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><image
+href="..\Graphics\21k.pdf" scope="local"></image></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</body>
+</topic>

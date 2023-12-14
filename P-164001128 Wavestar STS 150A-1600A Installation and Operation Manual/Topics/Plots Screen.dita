@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PlotsScreen-D723E099"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Plots Screen</title>
+<body>
+<p>Touching the “Plots” button icon on the home screen displays the
+“Plots” screen. </p>
+<p>The top two columns of the Plot Screen are the displays for Source
+1 and Source 2’s voltage. </p>
+<p>The lower two columns are the displays for the Output Voltage and
+the Output Amps. </p>
+<p>These four columns display the three phases of each source and
+output as waveforms captures. The waveforms are color coded for each
+phase. Phase A is blue, Phase B is red, and Phase C is black. These
+displays will show breaks in the waves if there has been an outage
+or a transfer.</p>
+<fig id="WaveformCapture-D723DDCD">
+<title>Waveform Capture</title>
+<image href="..\Graphics\12x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>Likewise the bottom panel will display the time/date stamp of the
+operator, the outage, and/or the retransfer. </p>
+<p>Pressing the Now icon will result in an instantaneous plot while
+touching the Clear icon will result in the plots being cleared. </p>
+<p>The arrow icons on the right of the plots panel allow the operator
+to scroll through the listed plots to display the waveform captures
+for the specific event selected.</p>
+</body>
+</topic>

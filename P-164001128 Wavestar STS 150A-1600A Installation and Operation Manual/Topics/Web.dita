@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Web</title>
+<body>
+<p>The STS includes a web server. All values and alarms are displayed
+on various web pages. A link to email Eaton service as well as a link
+to the Eaton corporate web site is provided.</p>
+</body>
+</topic>

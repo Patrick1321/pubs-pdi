@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InstallationAndStartupProcedures112-C40F6119"
+xml:lang="en-EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation and Startup Procedures</title>
+<body>
+<p><note type="danger"><ul>
+<li><p>Severe or fatal injury can result from electrical shock during
+contact with high voltage conductors, monitoring PCBs, or similar
+equipment. </p></li>
+<li><p>Disconnect power before drilling holes, attaching cables or
+conduit, or connecting PDUs to other power distribution equipment. </p
+></li>
+<li><p>Use Lock Out/Tag Out procedures. </p></li>
+<li><p>Wear suitable personal protective clothing and use protective
+equipment for performing mechanical and electrical installations. </p
+></li>
+<li><p>Leave ample space for attaching and routing wires.</p></li>
+</ul></note><note type="important"><ul>
+<li><p>A licensed electrician must install each unit. </p></li>
+<li><p>Startup by an Eaton certified technician is required to validate
+the warranty. </p></li>
+<li><p>To validate the warranty, please complete the Warranty Validation
+Request form and notify Eaton PDI Service Department upon completion
+of the startup to initiate the Warranty Coverage.</p></li>
+</ul></note>Installation is the responsibility of the Installer, who
+may be an Installing Contractor. The Installer must be an electrician
+certified for the locality where the installation is being performed. </p>
+<p>An Eaton-certified technician must perform or witness Commissioning
+and Start-up of the STS 2000A unit to validate the warranty.</p><?Pub
+Caret 8?>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Installation Instructions.dita"><xi:fallback><!--Fallback markup for "Installation Instructions.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Additional Installation Requirements.dita"><xi:fallback><!--Fallback markup for "Additional Installation Requirements.dita"--></xi:fallback
+></xi:include>
+</topic>

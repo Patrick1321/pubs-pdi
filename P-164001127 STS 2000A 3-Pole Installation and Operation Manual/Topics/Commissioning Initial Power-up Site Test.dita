@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CommissioningInitialPower-upSiteTes-D292B863"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Commissioning: Initial Power-up Site Test</title>
+<body>
+<p>An Eaton certified technician must commission and perform acceptance
+testing on the STS 2000A unit to initiate warranty coverage. All the
+work performed in this section must be performed or witnessed by an
+Eaton Service Representative. </p>
+<p>The commissioning sequence is as follows:<ol>
+<li><p>Before applying input power to the STS, the Installer and the
+Eaton Service Representative should perform the following checks: <ol>
+<li><p>a. Verify that the incoming power matches the unit rating (building
+electrical service and voltage) match the unit rating and the STS
+2000A Bill of Materials. </p></li>
+<li><p>b. Check the customer connections to input and output buses. </p
+></li>
+<li><p>c. Verify that the STS is connected to the grounding electrode
+conductor. </p></li>
+</ol></p></li>
+<li><p>Before applying input power to the STS, open all MCCBs and
+MCSWs in the STS. </p></li>
+<li><p>With all internal MCCBs and MCSWs open, apply power to the
+unit by energizing the building power circuit breaker or UPS output
+circuit breaker supplying the STS 2000A unit. </p></li>
+<li><p>Perform the following measurements: <ol>
+<li><p>Measure the incoming voltage at input to the unit. Incoming
+voltage should match the unit’s rating (-10% to +5% of nominal rating). </p
+></li>
+<li><p>Check for correct phase rotation (clockwise) and voltage at
+the source 1 Power Input bus. </p></li>
+<li><p>Verify input phasing is correct as given in <xref format="dita"
+href="#InstallationAndStartupProcedures112-C40F6119" scope="local"
+type="topic"><?Pub _previewtext
+text="Installation and Startup Procedures 1127"?></xref>. </p></li>
+</ol></p></li>
+<li><p>The initial bring-up <b>must</b> be performed in Bypass Mode: <ol>
+<li><p>Close Bypass 1 MCCB and verify output voltage is present. </p
+></li>
+<li><p>Open Bypass 1 MCCB; close Bypass 2 MCCB; and verify output
+voltage is present.</p></li>
+</ol></p></li>
+</ol></p>
+</body>
+</topic>

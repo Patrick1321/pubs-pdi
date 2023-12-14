@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Logic Controlled Functions</title>
+<body>
+<ol>
+<li><p><u>Transfer Inhibit Function in Auto Mode</u>. This mode is
+controlled automatically by the logic. The load current is continually
+sensed and if it exceeds an adjustable preset level (which is deemed
+to represent an over load or fault condition) the logic will disable
+the automatic transfer function of the Unit, even if the voltage on
+the selected source exceeds the transfer limits. The load current
+transfer inhibit will be automatically reset to normal conditions
+after the load current returns to normal for continued load protection
+against an input source failure.</p></li>
+<li><p><u>Both Sources Fail Mode:</u> If there is an outage of both
+sources detected, the logic locks on the last available source for
+100 ms. After 100 ms, the logic will then transfer the load to the
+first available source that returns to a condition that is within
+acceptable limits. </p><p>An example of this function is:</p><p><b
+>Example #1:</b><ul>
+<li><p>Source/Transformer #1 is the preferred source and supporting
+the load. </p></li>
+<li><p>Source/Transformer #1 experiences an outage. </p></li>
+<li><p>The load is transferred to Source/Transformer #2. </p></li>
+<li><p>The current inrush dips Source/Transformer #2 for 2 cycles
+(33.33 ms). </p></li>
+<li><p>This causes the internal voltage monitors to detect an outage
+on both sources. </p></li>
+<li><p>The logic locks the load on Source/Transformer #2 for 100ms,
+which allows the source voltage to stabilize, and the load is not
+dropped. </p></li>
+</ul></p><p><b>Example #2:</b></p><ul>
+<li><p>Source/Transformer #1 is the preferred source and supporting
+the load.</p></li>
+<li><p>Source/Transformer #2 experiences an outage (load remains on
+Source 1).</p></li>
+<li><p>While Source/Transformer #2 is unavailable, Source/Transformer
+#1 experiences an 8ms transient outage. </p></li>
+<li><p>The load remains connected to Source/Transformer #1 even though
+both sources experience outages for 8 ms.</p></li>
+</ul></li>
+<li><p><u>Retransfer Hysteresis &amp; Delay</u>. The logic inhibits
+retransfer, even when retransfer is enabled, if the preferred source
+is not within the hysteresis setting. This setting is adjustable from
+95 to 99% of nominal, i.e. the retransfer cannot occur until the preferred
+source voltage has returned to the hysteresis setting for an adjustable
+period of time (typically 4 seconds). </p></li>
+<li><p><u>Excessive Transfers</u>. If there are excessive transfers
+(typically four transfers within five minutes), the logic will automatically
+decrease the preset transfer points in -2% decrement for a total of
+-4%. </p><p>If there are no transfers in a 60 minute period, the transfer
+point increment in 2% steps to the original preset point.</p></li>
+</ol>
+</body>
+</topic>

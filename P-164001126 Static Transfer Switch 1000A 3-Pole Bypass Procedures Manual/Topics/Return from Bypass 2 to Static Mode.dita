@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ReturnFromBypass2ToStaticMode-CE56C250"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Return from Bypass 2 to Static Mode</title>
+<body>
+<p><ol>
+<li><p>Close Isolation MCSWs or MCCBs. </p></li>
+<li><p>Make Source 2 active: <ol>
+<li><p>Remove Source 2 Key from top Kirk-Key block on top of dead-front
+panel. </p></li>
+<li><p>Insert Source 2 Key into S2 lock on Source 2 MCCB. </p></li>
+<li><p>Turn S2 Key to open lock on Source 2 MCCB. </p></li>
+<li><p>Close Source 2 MCCB. </p></li>
+<li><p>Verify that Source 2 (SCR 2) is active: check the one-line
+image on the STS Monitor on <b>Home</b> screen to verify that <b>SCR
+2</b> (Source 2) is the active path. </p></li>
+</ol><note type="caution">DO NOT PROCEED IF SOURCE 2 IS NOT ACTIVE!
+You will drop the load when you turnoff Bypass Source 2. </note></p
+></li>
+<li><p>Turn OFF Bypass Source 2: <ol>
+<li><p>Open (turn OFF) Bypass Source 2 MCCB.</p></li>
+<li><p>Turn key in Bypass Source 2 to lock open. </p></li>
+<li><p>Remove key from Bypass Source 2 MCCB lock. </p></li>
+<li><p>Insert key into Bypass Source 2 position in top Kirk-Key blocks
+on dead front panel. </p></li>
+<li><p>Turn key to retract locking bar. </p></li>
+</ol></p></li>
+<li><p>Make Source 1 active: <ol>
+<li><p>Remove Source 1 key from Source 1 key position in top key blocks
+in dead front panel. </p></li>
+<li><p>Insert key into Source 1 MCCB lock. </p></li>
+<li><p>Turn key to retract locking bar. </p></li>
+<li><p>Close S1 MCCB. </p></li>
+</ol></p></li>
+</ol></p>
+<p>STS is now in Static Mode.</p>
+</body>
+</topic>

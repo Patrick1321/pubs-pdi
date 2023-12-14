@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="GoingToBypass1-CE56C245"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Going to Bypass 1</title>
+<body>
+<fig>
+<title>Open Source 2 MCCB and Lock</title>
+<image href="..\Graphics\3.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig>
+<title>Close Bypass Source 1</title>
+<image href="..\Graphics\4.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig>
+<title>Open Source 1 MCCB</title>
+<image href="..\Graphics\5a.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig>
+<title>Open Isolation MCCBs/MCSWs</title>
+<image href="..\Graphics\6a.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

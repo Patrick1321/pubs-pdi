@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SwitchScreen-D723E09C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Switch Screen</title>
+<body>
+<p>Touching the “Switch” button icon on the Home Screen displays the
+“Switch” screen. </p>
+<p>The Switch Screen is used to adjust parameters for detection algorithms.</p>
+<fig id="SwitchScreen-D7257FBD">
+<title>Switch Screen</title>
+<image href="..\Graphics\18x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The Control panel portion of the Switch Screen has two virtual
+switches: </p>
+<p><b>Mode (VSS/POG)</b>: The Operator may switch between Volt Second
+Synchronization (VSS) algorithms that control the inrush of magnetic
+field during an out of phase transfer, or the POG algorithm that has
+shorter transfer times, but no inrush control. When the VSS/POG switch
+is touched to be moved, the Execute Icon will be highlighted as a
+precaution. The operator must press the Execute Icon to move the virtual
+switch to the opposite position, or the Cancel.<fig
+id="ModeSelection-D725AFDC">
+<title>Mode Selection</title>
+<image href="..\Graphics\19x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+<p><b>Retransfer (YES/NO):</b> </p>
+<p>The second switch on the Control Panel is the Retransfer Switch.
+When set to “Yes”, the STS will switch back to the original preferred
+source after an outage on that source has ended and the power on this
+source is within prescribed parameters. When the Retransfer switch
+is touched to be moved, the Execute Icon will be highlighted as a
+precaution. The operator must press the Execute Icon to move the virtual
+switch to the opposite position, or the Cancel.<fig
+id="RetransferSelection-D725E1F2">
+<title>Retransfer Selection</title>
+<image href="..\Graphics\20x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+<p>The Fast panel is used to set the parameters for the fastest detection
+algorithm. Since noise can trigger this detector, the settings should
+have larger limits than the Delay panel. These are generally set at
+120% and 80%. When each of these Icons is pressed the Numeric Pad
+Screen is brought up for data entry. The Ratchet Icon determines the
+increase in the High and Low limits when there are multiple transfers
+in a short period of time; this is typically set at 2%. </p>
+<p>The Delayed Panel sets the parameters for the slower detector.
+These parameters are typically set for the long period of the CEBMA/ITC
+curve, 100% and 10% with a delay of 1 second. When pressed, each Icon
+brings up the Numeric Pad Screen for data entry. </p>
+<p>The Retransfer Delay panel sets the parameters for retransfer and
+determines the time the preferred source must be within tolerance
+before retransfer. When the Delay Icon is pressed the Numeric Pad
+Screen is brought up to enter the delay value.</p>
+</body>
+</topic>

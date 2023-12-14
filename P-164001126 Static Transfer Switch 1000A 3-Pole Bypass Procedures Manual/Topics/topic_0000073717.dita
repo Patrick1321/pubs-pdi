@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<topic id="StaticModeKeyPositions-CE56F841"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Static Mode Key Positions</title>
+<body>
+<p>The normal operating position of the 1000A Static Transfer Switch
+is static mode in which both input sources are enabled (Source 1 and
+Source 2 MCCBs are closed), allowing the STS to switch between them,
+and Isolation MCCBs or MCSWs are closed,. The static mode key configuration
+is shown in <xref format="dita"
+href="#./Figure2StaticModeKirkKeyPositionsAn-CE56F843" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 2 Static Mode: Kirk Key Positions and MCCB States"?></xref
+>.</p>
+<fig id="Figure2StaticModeKirkKeyPositionsAn-CE56F843">
+<title>Static Mode: Kirk Key Positions and MCCB States</title>
+<image href="..\Graphics\2.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

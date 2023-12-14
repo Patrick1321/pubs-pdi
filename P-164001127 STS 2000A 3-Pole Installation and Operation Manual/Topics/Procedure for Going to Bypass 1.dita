@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ProcedureForGoingToBypass1-CEE1507A"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Procedure for Going to Bypass 1</title>
+<body>
+<fig id="Figure18ProcedureForGoingToBypass1-CEE177FE">
+<title>Procedure for Going to Bypass 1</title>
+<image href="..\Graphics\18.pdf" scope="local"></image></fig>
+<p>Bypass procedure is illustrated in <xref format="dita"
+href="#./Figure18ProcedureForGoingToBypass1-CEE177FE" scope="local"
+type="fig"><?Pub _previewtext text="Procedure for Going to Bypass 1"
+?></xref>. The load is assumed to be powered by Source 1. <ol>
+<li><p>Open Source 2 input MCCB. </p></li>
+<li><p>Rotate and remove the key from the Source 2 input MCCB; insert
+it in the Source 1 BypassMCCB and turn the key. </p></li>
+<li><p>Verify key 3 is in Bypass 1. (If key 3 is located in Bypass
+2, remove it and insert it in Bypass1.) </p></li>
+<li><p>Close Source 1 Bypass MCCB; because the MCCB closes “around”
+the power switchelement, bypass is transparent to the load. </p></li>
+<li><p>Open Source 1 input MCCB. </p></li>
+<li><p>Open the isolation MCSW(s): STS switching logic is bypassed.</p
+></li>
+</ol></p>
+</body>
+</topic>

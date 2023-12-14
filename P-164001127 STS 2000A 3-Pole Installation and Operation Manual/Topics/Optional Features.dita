@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="OptionalFeatures-D289C2F7"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Optional Features</title>
+<body>
+<p>The STS 2000A 3-pole has these optional features: <ul>
+<li><p>A second MCSW Isolation Switch, providing redundancy for the
+Isolation Switch </p></li>
+<li><p>Enhanced Contractor Board, providing additional dry contact
+and communications options (see <xref format="dita"
+href="Customer Communications Connections 1127.dita#EnhancedContractorBoardConnections-CE734AC1"
+scope="local" type="topic"><?Pub _previewtext
+text="Enhanced Contractor Board Connections"?></xref> and other Chapter
+5 sections) </p></li>
+<li><p>Multi-Switch Link Option, allowing an N+1 UPS configuration
+(see <xref format="dita"
+href="Customer Communications Connections 1127.dita#Multi-SwitchLinkOptionN1UPS-CE734ACF"
+scope="local" type="topic"><?Pub _previewtext
+text="Multi-Switch Link Option (N+1 UPS)"?></xref>)</p></li>
+</ul></p>
+</body>
+</topic>

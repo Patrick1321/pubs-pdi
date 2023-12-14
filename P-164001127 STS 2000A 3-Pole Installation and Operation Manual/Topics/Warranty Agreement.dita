@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="WarrantyAgreement-D37A405C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Warranty Agreement</title>
+<body>
+<table>
+<tgroup cols="2">
+<?PubTbl tgroup clmarg="2.00pt" crmarg="0.00pt" dispwid="491.00px"?>
+<colspec colname="col1" colwidth="0.51*"/><colspec colname="col2"
+colwidth="1.50*"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-style="none"
+border-top-style="none"?>Job #: __________________ </entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"
+border-top-style="none"?>Model #: <b>_______________________</b></entry>
+</row>
+<row>
+<entry colsep="0" nameend="col2" namest="col1" rowsep="0"><?PubTbl
+cell border-left-style="none" border-right-style="none"?>Equipment
+Location Address: <b>_______________________________________</b></entry>
+</row>
+<row>
+<entry align="center" nameend="col2" namest="col1" rowsep="0"><?PubTbl
+cell border-left-style="none" border-right-style="none"?> <b>________________________________________</b
+></entry>
+</row>
+<row>
+<entry align="center" nameend="col2" namest="col1" rowsep="0"><?PubTbl
+cell border-left-style="none" border-right-style="none"?> <b>________________________________________</b
+></entry>
+</row>
+<row>
+<entry align="center" nameend="col2" namest="col1" rowsep="0"><?PubTbl
+cell border-left-style="none" border-right-style="none"?> <b>(_______)________________________________</b
+></entry>
+</row>
+<row>
+<entry align="center" colsep="0" nameend="col2" namest="col1" rowsep="0"
+><?PubTbl cell border-left-style="none" border-right-style="none"?> <b
+>________________________________________</b></entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-bottom-style="none"
+border-left-style="none"?></entry>
+<entry rowsep="0"><?PubTbl cell border-bottom-style="none"
+border-right-style="none"?>Contact Name: ________________________________________________ </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p>PDI warrants that its products will perform as specified in PDI
+publications, providing such products are properly installed, cared
+for, and properly operated under the specified environmental conditions. </p>
+<p>Standard products manufactured by PDI are warranted to be free
+from defects in workmanship and material for a period of twelve (12)
+months from initial start up or eighteen (18) months from date of
+shipment. Any products which are defective in workmanship or material
+will be repaired or replaced at the option of PDI. The obligation
+of PDI hereunder will be limited solely to repair and replacement
+at its factory of products that fall within the foregoing limitations
+and will be conditioned upon receipt by PDI of written notice within
+the warranty period of any alleged defects or deficiency. No products
+will be returned to PDI without its prior consent. </p>
+<p>Where it is impractical to return suspected faulty equipment to
+PDI for repair or replacement, PDI will provide on-site service upon
+request. Replacement parts and on-site labor necessary for fitting
+replacement parts and removal of faulty parts will be undertaken at
+no charge. Charges will, however, be made for travel to and from the
+installation site. Where an on-site warranty is in effect, the no-charge
+labor will be between 8 a.m. and 6 p.m., Monday through Friday, excluding
+national holidays. If the customer request STS or STS/PDU System service
+outside the above hours, the customer agrees to pay the incremental
+difference between PDI's overtime and normal labor rates. </p>
+<p>All warranties hereunder are contingent upon the initial start-up
+being done by PDI trained or other authorized personnel and upon proper
+use in the application for which the product was intended and do not
+cover products which have been modified or repaired without PDI approval
+or which have been subjected to neglect, accident, improper installation,
+or application or on which the original identification marks have
+been removed or altered. These warranties will not apply if adjustment,
+repair or parts replacement is required because of accident, neglect,
+misuse, secondary transportation or other causes other than ordinary
+use.</p>
+<p>PDI's liability under this warranty will be in lieu of any warranty
+or condition implied by law as the quality or fitness for any particular
+use of the goods, and save as provided in this clause, PDI shall not
+be under any liability, whether in contract, tort or otherwise for
+consequential damages resulting from defects in PDI products. </p>
+<p>This warranty shall apply to all products manufactured by PDI unless
+this agreement is modified by addendum. </p>
+<p>This agreement will be effective from ______________to _______________.</p>
+</body>
+</topic>

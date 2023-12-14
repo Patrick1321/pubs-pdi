@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SystemEnclosure-CE6C86A8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Enclosure</title>
+<body>
+<p>The STS 2000A enclosure is designed for the data center or telecommunications
+environment. The enclosure is shown in <xref format="dita"
+href="Introduction System Description 1127.dita#SystemLayout-D289AC87/Figure1STS2000A3-poleGeneralAssembl-D289E1F1"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 1 STS 2000A 3-pole, General Assembly Drawing"?></xref
+> , and enclosure details are listed below. <ul>
+<li><p>NEMA-1 rated </p></li>
+<li><p>Dimensions: 90"W x 60"D x 84"H </p></li>
+<li><p>Enclosure is primed and painted with suitable semi-gloss enamel
+both inside and out. The Color is Pearl White with black top venting. </p
+></li>
+<li><p>Large cable entry/exit openings top and bottom: <ul>
+<li><p>Top entry: 33.75" x 29.00" </p></li>
+<li><p>Bottom entry: 37.50" x 25.50"</p></li>
+</ul></p></li>
+<li><p>STS weight is approximately 5400 lbs.</p></li>
+</ul></p>
+</body>
+</topic>

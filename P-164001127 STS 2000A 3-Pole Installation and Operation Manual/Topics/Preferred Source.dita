@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PreferredSource-CEE1506E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Preferred Source</title>
+<body>
+<p>In Normal mode operation, the load is connected to the designated
+Preferred Source by default, as long as the voltage and frequency
+of all phases of that source are within acceptable limits. <ul>
+<li><p>At initial startup, Source 1 is the default Preferred Source. </p
+></li>
+<li><p>The Preferred Source can then be set by a logged-in user with
+at least operator access privileges on the Home screen. </p></li>
+<li><p>Either input power source can be designated as the Preferred
+Source by the setting the Preferred Source – 1 / 2 virtual control
+on the Home screen. </p></li>
+<li><p>When the Preferred Source fails—that is, when the Preferred
+Source goes outside acceptable predefined limits—the STS transfers
+the load to the alternate source using the chosen algorithm, VSS or
+POG.</p></li>
+</ul></p>
+</body>
+</topic>

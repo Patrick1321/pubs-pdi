@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="DryContactInputSignals-CE734ACF"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Dry Contact Input Signals</title>
+<body>
+<p><xref format="dita"
+href="#./Table1OutputDryContactSignalsRemote-CE73A245" scope="local"
+type="table"><?Pub _previewtext text="Table 2 Input Dry Contact Signals"
+?></xref> lists dry contact signals to the STS from an external source,
+such as the BMS. <ul>
+<li><p><b>Remote EPO</b> shuts down the STS. </p></li>
+<li><p><b>Remote Select S1 or Remote Select S2</b> causes the STS
+to switch to that designated source. </p></li>
+<li><p><b>Building Alarm 1-8</b> are input signals for various building
+sensors, such as fire, temperature, cooling failure, or under floor
+water. The name of the Building Alarm is specified in the points list.
+A building alarm causes a point to be activated in the points list,
+but causes no other action.</p></li>
+</ul></p>
+<table id="Table1OutputDryContactSignalsRemote-CE73A245">
+<title>Input Dry Contact Signals</title>
+<tgroup cols="3"><colspec colname="col1" colwidth="0.81*"/><colspec
+colname="col2" colwidth="1.07*"/><colspec colname="col3"
+colwidth="1.06*"/>
+<thead>
+<row>
+<entry morerows="1" valign="middle"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>External Dry
+Contact Signal</entry>
+<entry morerows="1" valign="middle"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?>Basic Contractor Board </entry>
+<entry morerows="1" valign="middle"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?>Enhanced Contractor Board</entry>
+</row>
+<row>
+<entry></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Remote EPO</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Available</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Available</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Remote Select S1</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Not Available</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Switch to Source 1</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Remote Select S2</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Not Available</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Switch to Source 2</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Building Alarm 1</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Building Alarm 2</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Building Alarm 3</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Building Alarm 4</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Building Alarm 5</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Not Available</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Building Alarm 6</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Not Available</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Building Alarm 7</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Not Available</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Building Alarm 8</p><?Pub Caret -2?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Not Available</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Name Definable</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

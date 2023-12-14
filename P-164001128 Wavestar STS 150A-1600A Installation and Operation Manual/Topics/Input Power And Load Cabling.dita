@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Input Power And Load Cabling</title>
+<body>
+<p><note type="warning"><ul>
+<li><p>The STS Source 1 and Source 2 inputs should be fed from separate
+and independent source feeders. If the sources are temporarily fed
+from a common upstream feeder, the unit should be left in bypass until
+two separate source feeders are available.</p></li>
+<li><p>Verify that incoming high voltage circuits are not energized
+before Making any connections in the input bus!</p></li>
+</ul></note><ol>
+<li><p>Input power and load cabling connections are on the top or
+bottom of the unit.</p></li>
+<li><p>The input power to the WaveStar input buses must be installed
+in accordance with the electrical codes. Only a qualified electrical
+contractor should install wiring or torque the connections.</p></li>
+</ol><note>See appendix for input power connection information.</note
+></p>
+</body>
+</topic>

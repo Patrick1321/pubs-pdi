@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Restarting the Monitor</title>
+<body>
+<p>When the Ethernet settings are changed on the <b>Settings </b>screen
+(<xref format="dita" href="System Setup Networking 1127.dita#Ethernet-CEF888F4"
+scope="local" type="topic"><?Pub _previewtext text="Ethernet"?></xref
+>), the Monitor must be restarted. Because the Monitor logic controls
+transfers, the STS must briefly be put in Redundant Mode to provide
+a backup transfer capability to the Monitor:<ol>
+<li><p>On the <b>Home </b>screen, make note of the existing parameters,
+particularly <b>Preferred Source</b> and the actively conducting source
+as indicating by the <b>yellow line </b>on the One-line display.</p
+></li>
+<li><p>Use the STS key to open the left-side doors in front of the
+display. Open the ROI panel.</p></li>
+<li><p>On the ROI, set the <b>MODE OF OPERATION </b>toggle switch
+to <b>REDUNDANT </b>mode.</p></li>
+<li><p>Login on the <b>Home </b>page as Administrator or other higher
+level authorization.</p></li>
+<li><p>In the navigation buttons, touch the <b>Setup </b>button to
+display the <b>Settings </b>screen.</p></li>
+<li><p>In the <b>Ethernet Settings </b>panel, touch the <b>Restart </b
+>button to restart the Monitor. Touch the button just once: the restart
+will take around 30-45 seconds and it is not immediately apparent
+that the restart is proceeding.</p></li>
+<li><p>When the <b>Home </b>screen reappears, do a visual check of
+Monitor parameters and settings for correctness:<ol>
+<li><p>On the dynamic One-line display, verify that the currently
+conducting source matches the source indicated by yellow line.</p
+></li>
+<li><p>Verify that the <b>Preferred Source</b> selector is selecting
+the currently conducting source. (If the <b>Preferred Source</b> selector
+is not the current source, it will force a transfer when you return
+to <b>NORMAL</b> mode.)</p></li>
+<li><p>If the Preferred Source is <b><i><u>not</u></i></b> the currently
+conducting source, login on the Home screen with at least operator-level
+authorization and set the Preferred Source selector to the source
+recorded in step 1.</p></li>
+</ol></p></li>
+<li><p>After validating the Monitor, at the ROI set the <b>MODE OF
+OPERATION </b>toggle switch to <b>NORMAL </b>mode.</p></li>
+<li><p>Close and lock the STS doors.</p></li>
+</ol></p>
+</body>
+</topic>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Reliability</title>
+<body>
+<p>MTBF - The STS or STS/PDU system is designed for high reliability
+and high availability with an MTBF exceeding 2,000,000 hours. To the
+fullest extent practical, redundant circuits and components are used
+to eliminate single points of failure.</p>
+</body>
+</topic>

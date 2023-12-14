@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Side Car Cable Entry</title>
+<body>
+<p>When installing an Aggregator Reactor over existing conduit in
+the concrete floor, conduits may not align with the bottom cable entry
+panels. The Aggregator Reactor can have an optional side car that
+provides additional cable entry space to enable conduit installed
+in the concrete floor to correctly align with cable entry panels.</p>
+<p>The side car interior is open with no panels between the side car
+and the Aggregator Reactor bus bars, providing easy access to bus
+bars.</p>
+<fig>
+<title>Side Car Cable Entry</title>
+<image href="..\Graphics\7x.pdf"></image></fig>
+<fig>
+<title>Side Car and Reactor Conduit Panels</title>
+<image href="..\Graphics\8x.pdf" placement="-dita-use-conref-target">
+</image>
+</fig>
+</body>
+</topic>

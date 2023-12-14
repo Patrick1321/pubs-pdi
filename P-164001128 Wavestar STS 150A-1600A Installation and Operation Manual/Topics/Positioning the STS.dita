@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PositioningTheSTS-D9CD3EB6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Positioning the STS</title>
+<body>
+<p>The Standalone WaveStar STS is designed to require front and side
+access for installation, unless fitted with an under the floor junction
+box. </p>
+<p>The WaveStar STS /PDU system, both primary and secondary, are designed
+to require only front and side access for installation. </p>
+<p>The stand-alone WaveStar STS and WaveStar STS/PDU systems are designed
+to require only front access for only during normal operation, preventative
+maintenance, IR scanning, and service.<ol>
+<li><p>The standalone WaveStar STS and WaveStar STS /PDU systems are
+designed to allow the use of every available square foot of computer
+room space for operating various computer equipment. The WaveStar
+Series requires thirty-six inches (36”) of front access and if required,
+thirty inches (30") on side access for installation and service area.
+The thirty-six inches (36”) of front access space allows the unit
+to be fully serviced while also complying with the 1996 National Electric
+Code for access to Circuit Breaker distribution equipment. </p></li>
+<li><p>The system is enclosed in a substantial cabinet and contains
+electrical apparatus such as molded case circuit breakers, SCRs and
+power delivery bus work. Consequently, floor loading should be addressed
+to verify the Eaton PDI system does not exceed the raised floor loading
+specifications. Refer to the installation drawings in the Appendix
+- Drawings and Arrangement Documents for weights and dimensions. </p
+></li>
+<li><p>If additional raised floor supports are required, contact Eaton
+or your raised floor manufacturer for either floor jacks or full frame
+floor stands and their specifications.</p></li>
+</ol></p>
+</body>
+</topic>

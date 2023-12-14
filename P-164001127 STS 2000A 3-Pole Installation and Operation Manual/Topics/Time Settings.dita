@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TimeSettings-CEF888F6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Time Settings</title>
+<body>
+<p>Time stamps are important data for log entries and alarms. The
+STS clock should be synchronized with clocks in other equipment to
+accurately diagnose problems affecting multiple systems. You can set
+the STS clock manually or with the Time Synchronization feature. </p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Manual Time Setting.dita"><xi:fallback><!--Fallback markup for "Manual Time Setting.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Time Synchronization Settings Screen (SNTP).dita"><xi:fallback><!--Fallback markup for "Time Synchronization Settings Screen (SNTP).dita"--></xi:fallback
+></xi:include>
+</topic>

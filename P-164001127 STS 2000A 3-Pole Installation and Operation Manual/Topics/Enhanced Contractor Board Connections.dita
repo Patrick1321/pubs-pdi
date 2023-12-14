@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="EnhancedContractorBoardConnections-CE734AC1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Enhanced Contractor Board Connections</title>
+<body>
+<p>The Enhanced Contractor Board is available as an option. This expanded
+version allows for additional connection points of previously discussed
+interfaces as well as additional high end interface options (<xref
+format="dita"
+href="#BasicContractorBoard-CE734ABE/Figure12EnhancedContractorBoardEnha-CE722BAA"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 12 Enhanced Contractor Board (Enhanced Remote Customer Interface Board)"
+?></xref>). <note>Remote relays can accept dry contacts rated up to
+2A/250V.</note> </p>
+<p>The Contractor Boards have multiple applications in Eaton PDI products
+and not all connections are supported on the STS 2000A. The following
+connections are not currently supported on this product: <ul>
+<li><p>Inter-Range Instrumentation Group (IRIG) time codes </p></li>
+<li><p>Cell-phone modem connection</p></li>
+</ul></p><?Pub Caret 61?>
+</body>
+</topic>

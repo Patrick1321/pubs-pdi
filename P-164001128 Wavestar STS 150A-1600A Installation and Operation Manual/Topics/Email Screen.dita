@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="EmailScreen-D723E09E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Email Screen</title>
+<body>
+<p>Touching the “Email” button icon on the Home Screen displays the
+“Email” Screen. </p>
+<p>The Email Screen allows the operator to set up the unit to send
+emails when there is an alarm or change of state on the unit. This
+can be done by pressing the icons on the right side to bring up either
+the Keyboard or Numeric Screens for entering the Server, Domain, Name,
+and from where and to where the email is to be sent.<fig
+id="EmailScreen-D72920F5">
+<title>Email Screen</title>
+<image href="..\Graphics\27x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>To have the Emails sent to multiple persons within an organization,
+the IT Administrator can set up a group mail address through MS Outlook
+or another mail portal and this address can be used in the WaveStar
+STS. </p>
+<p>The Send Email Icon is red when the email has not been sent. When
+the operator presses the Icon, it will turn green indicating the email
+has been sent.</p>
+</body>
+</topic>

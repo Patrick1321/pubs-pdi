@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="EnvironmentalSpecifications-CE6C86AA"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Environmental Specifications</title>
+<body>
+<p><ul>
+<li><p>Storage temperature range: -40° to +80°C </p></li>
+<li><p>Storage Altitude: Up to 40,000 feet above sea level </p></li>
+<li><p>Operating temperature range: 0° to 40°C </p></li>
+<li><p>Operating altitude: <ul>
+<li><p>Up to 5000 feet above sea level without de-rating. </p></li>
+<li><p>Above 5000 feet, output current is de-rated by 6% per 1000
+feet. </p></li>
+</ul></p></li>
+<li><p>Relative humidity: 0 to 95% without condensation </p></li>
+<li><p>Audible Noise: ≤ 65 dBA at 5 ft. without alarm activation</p
+></li>
+</ul></p>
+</body>
+</topic>

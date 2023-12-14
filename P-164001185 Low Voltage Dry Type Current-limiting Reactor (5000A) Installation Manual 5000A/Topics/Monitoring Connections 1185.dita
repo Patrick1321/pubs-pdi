@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="MonitoringConnections-58F3F63A"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Monitoring Connections</title>
+<body>
+<p>Each single-phase reactor has Qty. (6) Pt100 temperature sensors
+installed in reactor windings. </p>
+<p>Sensors wires are terminated to the terminal block in the Reactor
+controls compartment, which provides an interface between the Reactor
+and an external customer-provided monitoring system. </p>
+<p>Remove the cover of the controls compartment to expose the terminal
+block. External monitoring system connections are made to the top
+of the terminal block and are provided by others.</p>
+<fig>
+<title>Controls Compartment</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\PDI Revisions\WR23092 to 23096 PDI Startup\WR23096\P-164001185 Low Voltage Dry Type Current-limiting Reactor (5000A) Installation Manual 5000A R02\Graphics\8.pdf"
+placement="-dita-use-conref-target"></image>
+</fig>
+<fig>
+<title>Terminal Block for Sensor Wiring</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\PDI Revisions\WR23092 to 23096 PDI Startup\WR23096\P-164001185 Low Voltage Dry Type Current-limiting Reactor (5000A) Installation Manual 5000A R02\Graphics\9.pdf"
+placement="-dita-use-conref-target"></image>
+</fig>
+<fig>
+<title>Pt100 Sensor Wire Schematic</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\PDI Revisions\WR23092 to 23096 PDI Startup\WR23096\P-164001185 Low Voltage Dry Type Current-limiting Reactor (5000A) Installation Manual 5000A R02\Graphics\10.pdf"
+placement="break"></image><?Pub Caret 0?>
+</fig>
+</body>
+</topic>

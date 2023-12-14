@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installing the Optional Side Car</title>
+<body>
+<p>The Reactor will sometimes be installed over existing conduit in
+a concrete floor and the position of the conduit may not match the
+unit’s cable entry panels. To accommodate the spacing of existing
+conduit, an optional Side Car provides more cable entry space.</p>
+<p>The Side Car has removable side panels allowing it to be attached
+to either side of an Reactor.<ol>
+<li><p>On the sides to be joined together:</p><ol>
+<li><p>On the Reactor, remove the top and bottom side panels.</p></li>
+<li><p>On the Side Car, remove the top and bottom side panels.</p
+><note>Side Car side panels can be removed from either side to make
+a Left-Hand or Right-Hand Side Car.</note><fig>
+<title>Side Car Configurations</title>
+<image href="..\Graphics\4x.pdf" placement="-dita-use-conref-target">
+</image>
+</fig></li>
+</ol></li>
+<li><p>Move the Side Car up against the Reactor so that edges and
+holes align.</p></li>
+<li><p>Bolt units together at (4) bolt locations (2 upper, 2 lower)
+in the upper and lower frames.</p></li>
+<li><p>Secure the Side Car to the floor using customer-provided ½"
+[13 mm] hardware as for the Reactor.</p><fig>
+<title>Side Car Joining</title>
+<image href="..\Graphics\5x.pdf" placement="-dita-use-conref-target">
+</image>
+</fig></li>
+</ol></p>
+</body>
+</topic>

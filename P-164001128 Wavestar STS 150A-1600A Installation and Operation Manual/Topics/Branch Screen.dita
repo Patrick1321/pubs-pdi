@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="BranchScreen-D723E09E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Branch Screen</title>
+<body>
+<p>Touching the “Branch” button icon on the Home Screen displays the
+“Branch” screen. The Branch Screen displays the status of the Branch
+Circuit Breakers currents. </p>
+<p>The Left and Right Branch Amps Panels represent the left and right
+Circuit Breakers. The Status column lists the Circuit Breaker number
+and current status. If the status has a green icon then its status
+is OK. If the icon is red, it will read one of three types of status.
+The Loss status denotes a recent loss in current or a tripped breaker.
+The Warn status means the current is up to 80% of breaker or higher.
+The Alarm status means the current is over 100% of breaker.<fig
+id="BranchCircuitsScreen-D72682B3">
+<title>Branch Circuits Screen</title>
+<image href="..\Graphics\22x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>The Now column displays the present current for each breaker.
+The Peak column displays the highest current that has occurred. The
+Rated column displays what the breaker is rated at. </p>
+<p>The Panel Input Voltage panel located beneath the Left Branch Amp
+panel lists the line to line and line to neutral voltages. </p>
+<p>The Panel Total Current panel located beneath the Right Branch
+Amp panel lists the currents for Phases A, B, and C. </p>
+<p>The Clear Icon will clear all peaks, losses, warnings, and alarms
+when pressed. The Address arrows are for selecting the Modbus address
+of the Panel Board.</p>
+</body>
+</topic>

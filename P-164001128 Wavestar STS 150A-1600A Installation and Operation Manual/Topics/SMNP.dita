@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>SMNP</title>
+<body>
+<p>The STS supports SNMP over its Ethernet interface. Traps are sent
+if an alarm condition exists, and values can be read. The trap target
+IP address, name, contact, and location and these can be set from
+the SNMP screen. To have an electronic version of the MIB emailed
+to you, call the factory at 1-800-843-9433 and ask for customer support.</p>
+</body>
+</topic>

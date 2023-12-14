@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Bibliography-D208C600" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Bibliography</title><?Pub Caret -2?>
+<body>
+<p></p>
+<section><title>Points Lists</title><p>Points lists for PDUs can be
+downloaded from the PDI website. Go to <b>Service Software Downloads:</b
+>:</p><p><xref format="html"
+href="https://www.pdicorp.com/services/service-software-downloads"
+scope="external">https://www.pdicorp.com/services/service-software-downloads</xref
+></p><p>For all STS products, select and download <b>Modbus RTU Points
+Lists</b>, a zip file. Unzip the file and open the directory <b>Modbus
+RTU Points List</b>. </p><p>Several product directories are listed.
+Click on the directory <b>Wavestar Static Switch</b>, which contains
+a spreadsheet link for the STS Analog and Digital points lists. The
+spreadsheet has two tabs, <b>Analog </b>and <b>Digital</b>. </p></section>
+<section><title>Manuals and Other Documentation for PDI Products</title
+><p>Installation and Operation manuals and other documentation for
+specific products can be downloaded from the product pages on the
+PDI website. Go to <b>Products </b>and select the appropriate Product
+Page: </p><p><xref format="html" href="https://www.pdicorp.com/products"
+scope="external">https://www.pdicorp.com/products</xref></p><p>Products
+are organized under the general categories, <b>Transform</b>, <b>Distribute</b
+>, and <b>Monitor</b>. For example, documentation for the WaveStar
+Static Transfer Switches can be downloaded from the product page: </p
+><p><xref format="html"
+href="https://www.pdicorp.com/products/distribute/static-transfer-switch/"
+scope="external">https://www.pdicorp.com/products/distribute/static-transfer-switch</xref
+></p><p>Select the <b>Downloads </b>tab, then the select the document
+you wish to download. </p></section>
+</body>
+</topic>

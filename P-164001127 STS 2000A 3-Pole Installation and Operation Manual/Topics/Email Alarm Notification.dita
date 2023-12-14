@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="EmailAlarmNotification-CEF88901"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Email Alarm Notification</title>
+<body>
+<p>The STS can email a summary alarm notification by SMTP. The IP
+address of the SMTP server, domain, name, from email address, and
+the recipient’s email address can be set from the <b>EMAIL </b>screen.
+The email will include a link to the <b>Alarms </b>web page.</p>
+<fig id="Figure27EmailScreen-CEF8ED54">
+<title>Email Screen</title>
+<image href="..\Graphics\27.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>Touch the <b>Email </b>button on the navigation buttons to display
+the <b>Email </b>screen (<xref format="dita"
+href="#./Figure27EmailScreen-CEF8ED54" scope="local" type="fig"><?Pub
+_previewtext text="Figure 27 Email Screen"?></xref>). Enter email
+Server, Domain, Name, and email to/from names using screen buttons. </p>
+<p>To have emails sent to a list of contacts within an organization,
+the IT Administrator can set up a group mail address through your
+mail portal and this address can be used as the <b>To </b>address
+on the <b>Email </b>screen. </p>
+<p>The <b>Send Email </b>box has a red X when email notification is
+not enabled. Toggle the box to a green check mark to send email alarm
+notifications. </p>
+</body>
+</topic>

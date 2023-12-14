@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ModbusRTUConnection-CE734AC1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus RTU Connection</title>
+<body>
+<p>The STS has an isolated RS422/RS485 Modbus RTU interface with soft
+bias provided. Both Contractor Boards have external connections for
+RS422/RS485. The Modbus interface can be configured for baud rate,
+parity, and address on the <b>Settings </b>screen (See <xref
+format="dita" href="System Setup Networking 1127.dita#SettingsScreen-CEF888F1"
+scope="local" type="topic"><?Pub _previewtext text="Settings Screen"
+?></xref>). The address range is 1 to 255 and the address of each
+device must be unique. Jumpers on the monitor circuit board select
+either a 2-wire or 4-wire configurations for connection.</p>
+</body>
+</topic>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Shorted Power Switching Element</title>
+<body>
+<ol>
+<li><p>If there is a shorted power-switching element on the non-conducting
+side, the load is transferred to the non-conducting side and retransfer
+is inhibited. The input switch or circuit breaker on the previously
+conducting side is opened. An alarm is sounded and recorded with a
+time/date stamp in the event log. </p></li>
+<li><p>If there is a shorted power-switching element on the conducting
+side, transfer is inhibited and the input switch or circuit breaker
+on the non-conducting side is opened. An alarm is sounded and recorded
+with a time/date stamp in the event log. </p></li>
+<li><p>If Cross Current between sources is detected, the STS logic
+will transfer the load to the nonconducting side and lock on that
+source. An alarm is sounded and recorded with a time/date stamp on
+the event log.</p></li>
+</ol>
+</body>
+</topic>

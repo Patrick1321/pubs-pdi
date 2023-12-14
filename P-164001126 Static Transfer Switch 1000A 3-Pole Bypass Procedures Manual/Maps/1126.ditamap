@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<techinfomap xml:lang="en"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfomap.xsd"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Eaton Static Transfer Switch 1000A 3-Pole Bypass Procedures
+Manual</title>
+<contentref format="dita" href="..\Topics\cover 1126.dita"
+navtitle="Eaton© Static Transfer Switch 1000A 3-Pole" scope="local"
+type="coverpage"></contentref><?Pub Caret -1?>
+<toc/>
+<figurelist/>
+<division navtitle="Introduction">
+<contentref format="dita" href="..\Topics\Introduction 1126.dita"
+navtitle="Introduction" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Bypass Procedures">
+<contentref format="dita" href="..\Topics\Procedures 1126.dita"
+navtitle="Bypass Procedures " scope="local" type="topic"></contentref>
+</division>
+<division href="Service and Maintenance">
+<contentref format="dita"
+href="..\Topics\Service and Maintenance 1126.dita"
+navtitle="Eaton Service Contracts" scope="local" type="topic">
+</contentref>
+</division>
+</techinfomap>

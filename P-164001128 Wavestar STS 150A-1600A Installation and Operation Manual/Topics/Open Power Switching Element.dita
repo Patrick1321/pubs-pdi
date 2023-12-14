@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Open Power Switching Element</title>
+<body>
+<p>If there is an open power-switching element on the preferred or
+alternate side, the load will either remain or transfer to the “good”
+side, and retransfer is inhibited. An alarm is sounded and recorded
+with a time/date stamp in the event log.</p>
+</body>
+</topic>

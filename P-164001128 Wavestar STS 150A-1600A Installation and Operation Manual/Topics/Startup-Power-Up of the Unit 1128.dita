@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="StartupPower-UpOfTheUnit1128-C428BAE9" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Startup/Power-Up of the Unit</title><?Pub Caret -2?>
+<body>
+<ol>
+<li><p>Stand-alone STS Unit - see <xref format="dita"
+href="Appendices 1128.dita#AppendixCInstallationInstructionsSt-D62F72B2"
+scope="local" type="topic"><?Pub _previewtext
+text="Appendix C – Installation Instructions – Stand Alone STS"?></xref
+></p></li>
+<li><p>Primary STS/PDU System - see <xref format="dita"
+href="Appendices 1128.dita#AppendixDInstallationInstructionsPr-D62F749B"
+scope="local" type="topic"><?Pub _previewtext
+text="Appendix D – Installation Instructions – Primary STS/PDU System"
+?></xref></p></li>
+<li><p>Secondary STS/PDU System - see <xref format="dita"
+href="Appendices 1128.dita#AppendixEInstallationInstructionsSe-D62F7694"
+scope="local" type="topic"><?Pub _previewtext
+text="Appendix E – Installation Instructions – Secondary STS/PDU System"
+?></xref></p></li>
+</ol>
+<p></p>
+</body>
+</topic>

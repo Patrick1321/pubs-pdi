@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SwitchDefaultSettings-D29AC408"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Switch Default Settings</title>
+<body>
+<table>
+<tgroup cols="5">
+<?PubTbl tgroup dispwid="513.00px"?>
+<colspec colname="col1" colwidth="100.00pt"/><colspec colname="col2"
+colwidth="100.00pt"/><colspec colname="COLSPEC1" colwidth="50.00pt"/>
+<colspec colname="COLSPEC2" colwidth="100.00pt"/><colspec
+colname="COLSPEC3" colwidth="100.00pt"/>
+<thead>
+<row>
+<entry nameend="col2" namest="col1" valign="top"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?>Switching – Fast Settings</entry>
+<entry rowsep="0" valign="top"><?PubTbl cell border-right-width="0.25pt"
+border-top-style="none"?></entry>
+<entry nameend="COLSPEC3" namest="COLSPEC2" valign="top"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><b>Switching
+– Selectors</b></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Value </b></p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Switch </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Value </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>High Limit </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>120% </p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Mode </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>VSS </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Low Limit </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>80% </p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Retransfer </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Yes </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Delay </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>0 Samples </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry nameend="COLSPEC3" namest="COLSPEC2" rowsep="0"><?PubTbl
+cell border-right-style="none"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Ratchet </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2% </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-style="none"?></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-style="none"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry nameend="COLSPEC3" namest="COLSPEC2"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><b>Switching – Retransfer</b></entry>
+</row>
+<row>
+<entry nameend="col2" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><b>Switching – Slow Settings</b></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Value </b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Parameter </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Value </b></p></entry>
+<entry rowsep="0"><?PubTbl cell border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Delay </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>10 Seconds</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>High Limit </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>110% </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Low Limit </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>90% </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Delay </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>256 Samples </p></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"></entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Ratchet </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>0 </p></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-style="none"?></entry>
+<entry colsep="0"><?PubTbl cell border-bottom-style="none"?></entry>
+<entry><?PubTbl cell border-bottom-style="none" border-right-style="none"?></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

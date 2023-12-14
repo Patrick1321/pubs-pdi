@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PlotsScreen-CEFCA86B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Plots Screen</title>
+<body>
+<p>Touch the <b>Plots </b>button in the navigation buttons to display
+the <b>Plots </b>screen (<xref format="dita"
+href="#./Figure33PlotsScreen-CEFCA86C" scope="local" type="fig"><?Pub
+_previewtext text="Figure 33 Plots Screen"?></xref>). <fig
+id="Figure33PlotsScreen-CEFCA86C">
+<title>Plots Screen</title>
+<image href="..\Graphics\33.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>The bottom panel displays a list of events with the date-time
+stamp of the event. The STS records waveforms for up to 25 events. </p>
+<p>These events generate waveform plots: <ul>
+<li><p>Outages (automatic transfers due to a source going out of specification) </p
+></li>
+<li><p>Dual outages, where both sources fail </p></li>
+<li><p>Manual transfers</p></li>
+<li><p>Immediate user-requested plot (<b>Now </b>button)</p></li>
+</ul>Touching the <b>Now </b>button will result in an instantaneous
+plot with the event name <b>Operator</b>. </p>
+<p>The scroll bar on the right of the event list panel allows the
+user to scroll through the event list to display the waveform captures
+for a specific event. </p>
+<p>The top four panels are the plots associated with the currently
+highlighted event. These four panels display the three phases of each
+source and output as waveforms captures. The waveforms are color-coded
+for each phase: Phase A is blue, Phase B is red, and Phase C is black.
+These displays show breaks in the waves if there has been an outage
+or a transfer. </p>
+<p>Touch the <b>Clear </b>button to clear all plots. </p>
+</body>
+</topic>

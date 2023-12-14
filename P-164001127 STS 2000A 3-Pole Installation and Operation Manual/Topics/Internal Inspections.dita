@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Internal Inspections</title>
+<body>
+<p>Execute the following inspections as soon as possible upon arrival
+of your Eaton PDI equipment: <ol>
+<li><p>Open the front door and check the nameplate on the cabinets
+to verify that the model numbers correspond with the ones specified
+on the bill. Record the model and serial numbers in your Installation
+and Operation manual or in other accessible locations for service
+reference. </p></li>
+<li><p>Remove the internal panels and check for any damage that may
+have occurred during shipment. Check for loose connections or unsecured
+components. </p></li>
+<li><p>Verify the system’s circuit breakers are in the “OFF” or OPEN
+position prior to making electrical connections or initial system
+start-up.</p></li>
+</ol></p>
+</body>
+</topic>

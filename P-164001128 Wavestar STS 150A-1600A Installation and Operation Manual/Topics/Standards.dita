@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Standards</title>
+<body>
+<p>The specified system is designed, manufactured, tested, and installed,
+as applicable, in accordance with:<ul>
+<li><p>American National Standards Institute (ANSI) </p></li>
+<li><p>Canadian Standards Association (CSA) </p></li>
+<li><p>Institute of Electrical and Electronics Engineers (IEEE) </p
+></li>
+<li><p>National Electrical Code (NEC) </p></li>
+<li><p>National Electrical Manufacturers Association (NEMA) </p></li>
+<li><p>National Fire Protection Association (NFPA) </p></li>
+<li><p>Underwriters Laboratories Standards </p></li>
+<li><p>The STS/PDU is listed to UL and ULC standards 60950 and 1008</p
+></li>
+<li><p>The STS shall safely withstand without mis-operation or damage </p
+></li>
+<li><p>Transient voltage surges on either AC power input as defined
+by ANSI/IEEE C62.41 for Category B3 locations (high surge exposure
+industrial and commercial facilities) </p></li>
+<li><p>Electrostatic discharges (ESD) up to 10 kV at any point on
+the exterior of the unit </p></li>
+<li><p>Electromagnetic fields from portable transmitters within 3
+feet (1 meter) of the unit</p></li>
+</ul></p>
+</body>
+</topic>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="AdministrativeAccessLevel-CEE36875"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Administrative Access Level</title>
+<body>
+<p>Anyone can view the different display screens, but a login is required
+to use controls or make changes to parameters. The STS has four access
+levels: <ol>
+<li><p>Eaton PDI: This level has authorization for all actions except
+clearing the Event Log. Eaton PDI access is required to use the Configuration
+screen. </p></li>
+<li><p>Service: This access level is for Eaton PDI-authorized service
+representatives. This level has authorization for all actions except
+clearing the Event Log. </p></li>
+<li><p>Administrator: This access level has authorization for all
+actions and screens except Configuration Screen, which is not available
+to users. <note>The Administrator is the only user who can clear the
+Event Log</note></p><?Pub Caret -1?></li>
+<li><p>Operator: An operator can only change the Preferred Source.</p
+></li>
+</ol></p>
+</body>
+</topic>

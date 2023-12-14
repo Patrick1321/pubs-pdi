@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="HelpAssistanceForBypass-CE56C253"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Help Assistance for Bypass</title>
+<body>
+<p>The <b>Help </b>screen also has instructions to guide an operator
+through steps for going to Bypass 1 or 2 or returning from either
+Bypass to Normal operation (<xref format="dita"
+href="#./Figure7HelpForBypass-CE56C750" scope="local" type="fig"><?Pub
+_previewtext text="Figure 7 Help for Bypass"?></xref>). When the system
+senses a step has been completed, the Help screen proceeds to the
+next step. The Voice Unit also calls out each step as the operator
+executes the procedure.</p>
+<fig id="Figure7HelpForBypass-CE56C750">
+<title>Help for Bypass</title>
+<image href="..\Graphics\7.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

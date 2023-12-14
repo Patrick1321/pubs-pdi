@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="EventLogScreen-CEFB9496"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Event Log Screen</title>
+<body>
+<p>Touch the <b>Log </b>button in the navigation buttons to display
+the <b>Event Log Screen </b>(<xref format="dita"
+href="#./Figure32EventLogScreen-CEFB8ADD" scope="local" type="fig"
+><?Pub _previewtext text="Figure 32 Event Log Screen"?></xref>). </p>
+<p>Events include<ul>
+<li><p>Alarms </p></li>
+<li><p>Outages </p></li>
+<li><p>User login and logout </p></li>
+<li><p>Changes in state for digital points (binary states) in the
+Digital Points list (see <xref format="dita"
+href="Digital and Analog Points 1127.dita#DigitalScreenPoints-CFE70E1D"
+scope="local" type="topic"><?Pub _previewtext
+text="Digital Screen Points"?></xref>). </p></li>
+<li><p>Crossed thresholds for analog points (measurements) in the
+Analog Points list (see <xref format="dita"
+href="Digital and Analog Points 1127.dita#AnalogScreenPoints-CFE70E7A"
+scope="local" type="topic"><?Pub _previewtext
+text="Analog Screen Points"?></xref>).</p></li>
+</ul>The <b>Event Log </b>is a record of all such events that have
+taken place while the STS has been operational and since the <b>Log </b
+>was last cleared up to a maximum of 512 entries. The Event Log is
+stored in nonvolatile memory.<fig id="Figure32EventLogScreen-CEFB8ADD">
+<title>Event Log Screen</title>
+<image href="..\Graphics\32.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>Each event is date-and-time-stamped in the order of occurrence.
+Events are described in the center panel. The same event often causes
+multiple log entries because multiple points are affected. </p>
+<p>Scroll through event entries using the right-side scroll bar. </p>
+<p>Touch the <b>Clear </b>button to clear all events in the log. This
+action requires Administrator-level authorization. <b><i>Only </i
+></b>the Administrator can clear the Event Log and it must be done
+from the touchscreen display. (The Event Log can be viewed remotely
+in a web browser, but cannot be cleared from a browser.) </p>
+</body>
+</topic>
