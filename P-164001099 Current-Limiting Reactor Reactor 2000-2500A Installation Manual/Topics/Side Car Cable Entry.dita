@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SideCarCableEntry-9D6AF51B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Side Car Cable Entry</title>
+<body>
+<p>When installing an Current-Limiting Reactor over existing conduit
+in the concrete floor, conduits may not align with the bottom cable
+entry panels. The Current-Limiting Reactor can have an optional side
+car that provides additional cable entry space to enable conduit installed
+in the concrete floor to correctly align with cable entry panels.</p>
+<p>The side car interior is open with no panels between the side car
+and the Current-Limiting Reactor bus bars, providing easy access to
+bus bars.</p>
+<fig id="SideCarCableEntry-9D6B1083">
+<title>Side Car Cable Entry</title>
+<image href="..\Graphics\7.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22032 0000012139_P-164001099 Aggregator Reactor 2000-2500A Installation Manual\Graphics\8.pdf"
+placement="-dita-use-conref-target"></image>
+</body>
+</topic>

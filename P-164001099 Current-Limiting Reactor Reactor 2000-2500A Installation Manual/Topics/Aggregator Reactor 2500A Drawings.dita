@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="AggregatorReactor2500ADrawings-D9336779"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Current-Limiting Reactor 2500A Drawings</title>
+<body>
+<image href="..\Graphics\13.pdf" placement="-dita-use-conref-target"
+scale="85" scalefit="-dita-use-conref-target"></image>
+<image href="..\Graphics\14.pdf" placement="-dita-use-conref-target"
+scale="95" scalefit="-dita-use-conref-target"></image>
+<image href="..\Graphics\15.pdf" placement="-dita-use-conref-target"
+scale="95" scalefit="-dita-use-conref-target"></image>
+</body>
+</topic>

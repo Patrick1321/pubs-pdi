@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CableEntryPanels-9D6AF519"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Entry Panels</title>
+<body>
+<p>The Current-Limiting Reactor has (2) top and (2) bottom cable entry
+panels. Installers can create up to (5) 4.0" cutouts in each panel.
+The unit supports internal cable bend radius for cables up to 600
+MCM.<fig id="fig-122211-9D6B14F4">
+<title>Cable Entry Panels</title>
+<image href="..\Graphics\6.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p><?Pub Caret 4?>
+</body>
+</topic>
