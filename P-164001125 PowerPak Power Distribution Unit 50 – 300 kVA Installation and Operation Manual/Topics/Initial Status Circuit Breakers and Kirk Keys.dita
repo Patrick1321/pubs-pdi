@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="InitialStatusCircuitBreakersAndKirk-CC5DB0BB"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Initial Status: Circuit Breakers and Kirk Keys</title>
+<body>
+<p>The two main input circuit breakers have mechanical interlocks
+using Kirk Keys controlling access to the breakers and the Solenoid
+Key Release Unit (SKRU). There are three (3) locks (<xref format="dita"
+href="#./Figure42PDUInternalPanelKirkKeys-CC5F51CF" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 42 PDU Internal Panel, Kirk Keys"?></xref>) and two (2)
+keys. The starting breaker and lock settings for a transfer are as
+follows: <ul>
+<li><p>Active power source: circuit breaker = closed; Kirk Key lock
+= unlocked; key in lock. </p></li>
+<li><p>Inactive power source: circuit breaker = open; Kirk Key lock
+= locked; no key in lock. </p></li>
+<li><p>Solenoid Key Release Unit (SKRU): Kirk Key lock = locked; key
+in lock. </p></li>
+<li><p>SKRU key is released by a “permissive signal” to the SKRU</p
+></li>
+</ul>Both power sources must be synchronized to perform the transfer.<fig
+id="Figure42PDUInternalPanelKirkKeys-CC5F51CF">
+<title>PDU Internal Panel, Kirk Keys</title>
+<image href="..\Graphics\42.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

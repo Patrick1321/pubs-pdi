@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="OpenTransitionTransfer-CC5DB0C4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Open Transition Transfer</title>
+<body>
+<p>During maintenance you may wish to switch power sources in an open
+transition break-before-make transfer. Power continuity from one source
+to the other is not maintained. The load is dropped. The SKRU key
+is not used. To do an open transition transfer from the primary to
+the alternate source, follow these steps: <ul>
+<li><p>Open (turn off) the primary source circuit breaker. </p></li>
+<li><p>Turn the key of the primary circuit breaker lock to extend
+the bar, locking the breaker. Remove the key. </p></li>
+<li><p>Insert the key into the alternate source circuit breaker lock
+and turn the key to retract the bar. </p></li>
+<li><p>Close the alternate circuit breaker, applying power to the
+PDU from the alternate source voltage.</p><note type="warning">Closing
+the alternate circuit breaker to re-energize the PDU can result in
+inrush on the upstream power sources, such as a UPS. Verify that your
+upstream power sources can handle the inrush or put the upstream UPS
+in bypass mode.</note><fig>
+<title>One-Line Manual Dual PDU with Permissive Signal Wiring Variations</title>
+<image href="..\Graphics\49.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></li>
+</ul></p>
+</body>
+</topic>

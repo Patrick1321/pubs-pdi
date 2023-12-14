@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUProcedures1125-C3A1F5EA" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Procedures</title><?Pub Caret -2?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Normal Start-Up.dita"><xi:fallback><!--Fallback markup for "Normal Start-Up.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Normal Shutdown Procedure.dita"><xi:fallback><!--Fallback markup for "Normal Shutdown Procedure.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Automatic Shutdown Signals.dita"><xi:fallback><!--Fallback markup for "Automatic Shutdown Signals.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Manual or Automatic Restart.dita"><xi:fallback><!--Fallback markup for "Manual or Automatic Restart.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Changing Transformer Taps.dita"><xi:fallback><!--Fallback markup for "Changing Transformer Taps.dita"--></xi:fallback
+></xi:include>
+</topic>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Post-Installation Inspection</title>
+<body>
+<p>After placing the PDU and attaching cables, re-inspect the PDU,
+as follows: <ol>
+<li><p>Visually inspect for and remove any debris that may have fallen
+into the PDU during installation. </p></li>
+<li><p>Transformer: Inspect the transformer for any loose connections
+or displacement during shipment. Check to make sure all terminal lugs
+are tight and secure. </p></li>
+<li><p>Internal feeders: Ensure all lug connections are tight and
+secure. </p></li>
+<li><p>Main input feeder: <ol>
+<li><p>Check the main input feeder connections at the main breaker
+to be sure vibration has not loosened the terminal screws. </p></li>
+<li><p>Check the feeders from the load side of the main breaker to
+the primary side of the transformer. </p></li>
+</ol></p></li>
+<li><p>Check all other lugs (i.e. neutral bus, ground bus, terminal
+blocks, etc.).</p></li>
+</ol></p>
+</body>
+</topic>

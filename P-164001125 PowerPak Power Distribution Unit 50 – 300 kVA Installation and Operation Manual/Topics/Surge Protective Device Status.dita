@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SurgeProtectiveDeviceStatus-CC4641A7"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Surge Protective Device Status</title>
+<body>
+<p>The PDU allows optional SPD/TVSS devices on input and/or output.
+Each SPD/TVSS incorporates a remote signaling dry contact and visual
+status lights. </p>
+<p>The dry contact is closed when the SPD is powered and functional.
+(See <xref format="dita"
+href="#SubfeedCircuitBreakerTrip-CC4526F7/Table11DryContactSignals-CC4526F7"
+scope="local" type="table"><?Pub _previewtext
+text="Table 11 Dry Contact Signals"?></xref>), The dry contact is
+typically wired at the factory to a PDU M4G Board Digital Input.<fig>
+<title>SPD/TVSS Status Lights</title>
+<image href="..\Graphics\31.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

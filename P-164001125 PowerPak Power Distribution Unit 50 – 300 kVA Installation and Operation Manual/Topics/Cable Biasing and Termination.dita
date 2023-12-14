@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CableBiasingAndTermination-CC48CDBF"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Biasing and Termination</title>
+<body>
+<p>Eaton PDI devices have soft biasing (27K pull-up and pull-down
+resistors) on the + and – transmit and receive lines. Therefore, if
+the customer’s Master device allows for control, Eaton  PDI recommends
+that the user <u>turn on biasing</u> and <u>turn off termination</u
+>, which may “fight” the biasing. Biasing the Master device’s lines
+is not critical because the Color Monitor is already biasing the lines.
+If termination is needed because of an extremely long cable run, Eaton
+PDI recommends that a small capacitor be put in series with the terminating
+resistor.</p>
+</body>
+</topic>

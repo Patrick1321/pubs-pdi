@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InputPowerWiring-CBE59318"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Input Power Wiring</title>
+<body>
+<p>Customers must make their own cut-outs for input cable and conduit.
+Pull input power conduit through cut-outs. Connect input phase and
+ground cables to the PDU input terminal block or, for Manual Dual
+PDUs, directly to main input circuit breaker lugs. Torque lugs to
+the circuit breaker manufacturer’s specification, which are typically
+given on the circuit breaker. </p>
+<p>For top cable entry, input and output share the same plate, which
+for input may have solid plate and for output solid plate or panelboard
+knockouts (KOs).</p>
+<fig id="Figure19GroundConnectionsForFront-A-CBE59F10">
+<title>Ground Connections for Front-Access Only PDU</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22041_P-164001125 PowerPak 2 Power Distribution Unit 50 – 300 kVA Installation and Operation Manual\Graphics\19.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The customer safety ground is typically connected to the Component
+Mounting Plate in the Main Cabinet with mechanical lugs. Busbar ground
+connections can be optionally specified.</p>
+<p>For front-access transformers, the Component Mounting Plate is
+removed. A ground connection is typically provided in the input cable
+tray. Alternatively, ground connection can be made to the PDU Input
+Terminal Block (<xref format="dita"
+href="#./Figure19GroundConnectionsForFront-A-CBE59F10" scope="local"
+type="fig"><?Pub _previewtext
+text="Ground Connections for Front-Access Only PDU"?></xref>).</p>
+</body>
+</topic>

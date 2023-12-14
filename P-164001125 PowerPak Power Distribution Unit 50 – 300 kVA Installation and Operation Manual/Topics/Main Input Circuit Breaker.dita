@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-16-C3A0D307"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Main Input Circuit Breaker</title>
+<body>
+<p>The standard Main Input Circuit Breaker is as follows: <ul>
+<li><p>&lt;225kVA: thermal magnetic circuit rated 80% at 480VAC with
+35 kAIC and matched to thetransformer size.</p></li>
+<li><p>225kVA – 3000 kVA: fixed (non-adjustable) electronic trip circuit
+breaker rated 80% at 480VAC with 35 kAIC and matched to the transformer
+size. The PDU has many Main Input Circuit Breaker options with different </p
+><p>PDU voltages, amperages, kAIC ratings, and trip settings. Consult
+with your sales representative or Eaton Engineering for options.</p
+></li>
+</ul><?Pub Caret -1?></p>
+<p></p>
+</body>
+</topic>

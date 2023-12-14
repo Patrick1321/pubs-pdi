@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Spacers-CB5A336C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Spacers</title>
+<body>
+<p>In some cases, spacers are used to extend the PDU enclosure: <ul>
+<li><p>A 6.25" rear spacer is added for larger transformers, 200-300
+kVA (see above, <b></b><xref format="dita"
+href="#PDUDimensions-CB5A336C/MainCabinetwith200KVATransformer36.-CB5B69B4"
+scope="local" type="table"><?Pub _previewtext text="PDU Dimensions"
+?></xref>). </p></li>
+<li><p>A 3" side spacer is used for monitoring components when a dense
+PDU configuration leaves no room inside the Main Cabinet (<xref
+format="dita" href="#./FIGURE1MainCabinetWith3-inSideSpace-CB5B6D27"
+scope="local" type="fig"><?Pub _previewtext
+text=" FIGURE 1 Main Cabinet with 3-in Side Spacer"?></xref>).</p
+></li>
+</ul> </p>
+<p>Your submittal drawings will show dimensions for your specific
+PDU.</p>
+<fig id="FIGURE1MainCabinetWith3-inSideSpace-CB5B6D27">
+<title>Main Cabinet with 3-in Side Spacer</title>
+<image href="..\Graphics\1.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

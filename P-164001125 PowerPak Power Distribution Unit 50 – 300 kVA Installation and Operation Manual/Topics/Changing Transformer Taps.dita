@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ChangingTransformerTaps-CDD3253D"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Changing Transformer Taps</title>
+<body>
+<p>Transformers have jumper cables on each phase connecting one tap
+position to another. Changing the tap jumper cable connection changes
+the transformer voltage output by a predefined percentage. Each transformer
+has a label showing the voltage adjustment provided by a specific
+tap connection. Default connection is 100% of the transformer rating.<fig>
+<title>Transformer Taps</title>
+<image href="..\Graphics\25.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>To change transformer taps on the PDU follow these steps (To
+change transformer taps on PDU with front-facing taps, the procedure
+is the same except that the customer need only open front panel doors.): <ol>
+<li><p>Make sure that the PDU is powered off. </p></li>
+<li><p>Lock out power to the PDU at main circuit breaker(s). </p></li>
+<li><p>Remove rear panels or, if transformer is front-accessible,
+open PDU front doors. </p></li>
+<li><p>Read label on transformer and select the voltage adjustment
+that is closest to the adjustment you require. </p></li>
+<li><p>Disconnect one or both jumper ends as needed to match tap jumper
+numbers, retaining bolts and nuts. </p></li>
+<li><p>Reconnect jumpers to correct numbered positions. Jumpers use
+1/4-20 x 1” hex head bolts. Torque bolts to 72 inch-pounds or 6 foot-pounds.
+Apply torque seal. The bolt size and torque specifications are the
+same for all standard transformers.</p></li>
+<li><p>Replace panels or close doors.</p></li>
+</ol></p>
+</body>
+</topic>

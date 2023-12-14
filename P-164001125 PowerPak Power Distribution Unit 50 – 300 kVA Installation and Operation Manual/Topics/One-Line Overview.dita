@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-15-C3A0D307"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>One-Line Overview</title>
+<body>
+<p><xref format="dita"
+href="#topic-17-C3A0D307/Figure9One-LineForPDUWithSingleMain-CDE910DC"
+scope="local" type="fig"><?Pub _previewtext
+text="One-Line for PDU with Single Main Input Circuit Breaker"?></xref
+> is a general one-line diagram showing the most common electrical
+layout with optional SPD/TVSS devices and input wire specifications. </p>
+<p>One-line diagram for manual dual PDUs showing permissive signal
+connections for the Solenoid Key Release Unit (SKRU) is in (<xref
+format="dita"
+href="Manual Dual PDU Option 1125.dita#TransferProcedureInternalPermissive-CC5DB0C2/Figure46ColorMonitorSynchScreen-CC5F675D"
+scope="local" type="fig"><?Pub _previewtext
+text="Color Monitor Synch Screen"?></xref>).</p>
+</body>
+</topic>

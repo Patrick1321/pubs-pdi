@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Subfeeds-CBE5931A"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Subfeeds</title>
+<body>
+<p>Neutral busbars are rated 200%. </p>
+<p>Neutral wires must be twice the size of phase cables. Neutral and
+ground busbars have two-hole compression lug connections. Holes can
+be 3/8" dia. or 1/2" dia. (<xref format="dita"
+href="#./Figure20DistributionGroundAndNeutra-CBE597EF" scope="local"
+type="fig"><?Pub _previewtext
+text="Distribution Ground and Neutral Busbars"?></xref>). </p>
+<p>Location of busbars depends on customer’s top or bottom cable exit. </p>
+<p>Solid plate is provided at the bottom or top of the main cabinet
+or side car for cable exit. Customers must execute their own cut-outs
+for solid plate cable exit trays.</p>
+<fig id="Figure20DistributionGroundAndNeutra-CBE597EF">
+<title>Distribution Ground and Neutral Busbars</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22041_P-164001125 PowerPak 2 Power Distribution Unit 50 – 300 kVA Installation and Operation Manual\Graphics\20.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TransferProcedureExternalPlusIntern-CC5DB0C2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transfer Procedure: External Plus Internal Permissive Signals</title>
+<body>
+<p>The PDU can be also be configured with a two-stage permissive signal
+(<xref format="dita"
+href="#./Figure48Two-StagePermissiveSignalEx-CC5F9AA9" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 48 Two-Stage Permissive Signal: External plus Internal"
+?></xref>): </p>
+<p><b>Stage 1. An external permissive signal</b> (120V or dry‐contact
+signal) enables or disables the internal permissive signal to the
+SKRU key release signal via the Color Monitor. </p>
+<p><b>Stage 2, internal permissive signal</b>. The PDU checks sources
+for synchronization. The operator uses the Color Monitor Sync Screen
+to release the SKRU key. Use procedure described in <xref format="dita"
+href="#TransferProcedureInternalPermissive-CC5DB0C2" scope="local"
+type="topic"><?Pub _previewtext
+text="10.5.1 Transfer Procedure: Internal Permissive Signal Only"
+?></xref>.</p>
+<fig id="Figure48Two-StagePermissiveSignalEx-CC5F9AA9">
+<title>Two-Stage Permissive Signal: External plus Internal</title>
+<image href="..\Graphics\48.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

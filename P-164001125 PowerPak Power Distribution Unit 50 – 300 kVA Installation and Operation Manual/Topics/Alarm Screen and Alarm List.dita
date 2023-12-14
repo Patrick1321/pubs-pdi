@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AlarmScreenAndAlarmList-CDDB9C9F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Alarm Screen and Alarm List</title>
+<body>
+<p>On any screen, touch the ALARM button to show the ALARM screen. </p>
+<p>The ALARM Screen (<xref format="dita"
+href="#./Figure40ALARMScreenWithAnAlarmList-CDDC791E" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 40 ALARM Screen with an Alarm List"?></xref>) lists all
+outstanding warning and alarms by device name with a date-time stamp
+in a scrollable list. If no alarms are outstanding, there will be
+only one line, “No Alarms”. The warning or alarm gives the device
+name and locates the device component that is the alarm source. For
+example, for a BCMS panelboard device, the alarm may be located to<ul>
+<li><p>the panelboard, such as “Over Current PB”, or</p></li>
+<li><p>the main voltage feed to the panelboard, such as “Over Volt
+Main,” or </p></li>
+<li><p>the individual panelboard circuit, such as “CB 19 Zero Current”.</p
+></li>
+</ul>To further investigate individual circuits in warning/alarm state
+(<xref format="dita"
+href="#./Figure41FindingTheCircuitsInAnAlarm-CDDC7DDF" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 41 Finding the Circuits in an Alarm Condition"?></xref
+>):<ol>
+<li><p>Note the device name and the warning/alarm. </p></li>
+<li><p>Touch the DEVICES button to show the device list. </p></li>
+<li><p>In the device list, scroll to the device name that has the
+warning/alarm. Touch the device name to show the device’s circuit
+list. </p></li>
+<li><p>Step through the device’s screen chain with PREVIOUS/NEXT to
+find the ALARM heading. </p></li>
+<li><p>Scroll within the circuit list on the first device screen to
+find circuit or other component in warning/alarm. An alarm may apply
+to a circuit or to the entire device, such as “Under Current PB.”</p
+><fig id="Figure40ALARMScreenWithAnAlarmList-CDDC791E">
+<title>ALARM Screen with an Alarm List</title>
+<image href="..\Graphics\40.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><fig id="Figure41FindingTheCircuitsInAnAlarm-CDDC7DDF">
+<title>Finding the Circuits in an Alarm Condition</title>
+<image href="..\Graphics\41.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></li>
+</ol></p>
+</body>
+</topic>

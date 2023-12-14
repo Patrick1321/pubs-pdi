@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="DryContactNetwork-CC4641A5"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Dry Contact Network</title>
+<body>
+<p>In addition to the internal Modbus RTU network, the PDU has a network
+of dry contacts providing input signals and alarm and status annunciation.
+Dry contact connections to the Color Monitor, PDU M4G Board, and Contractor
+Board(s) are standard. Optional dry contacts for subfeed circuit breaker
+(trip, trip alarm, and aux status) and SPD/TVSS status are also available.</p>
+<p><xref format="dita"
+href="#SubfeedCircuitBreakerTrip-CC4526F7/Table11DryContactSignals-CC4526F7"
+scope="local" type="table"><?Pub _previewtext text="Dry Contact Signals"
+?></xref> lists available dry contact input and output signals</p><?Pub
+Caret 3?>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Dry Contacts for Subfeed Circuit Breakers (optional).dita"><xi:fallback
+><!--Fallback markup for "Dry Contacts for Subfeed Circuit Breakers (optional).dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Surge Protective Device Status.dita"><xi:fallback><!--Fallback markup for "Surge Protective Device Status.dita"--></xi:fallback
+></xi:include>
+</topic>

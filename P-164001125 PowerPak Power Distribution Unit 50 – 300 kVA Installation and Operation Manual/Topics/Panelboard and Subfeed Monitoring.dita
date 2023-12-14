@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PanelboardAndSubfeedMonitoring-CC4641A2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Panelboard and Subfeed Monitoring</title>
+<body>
+<p>A single BCMS PCB can monitor<ul>
+<li><p>(2) x 42-pole panelboards, or</p></li>
+<li><p>(1) x 84-pole panelboard, plus</p></li>
+<li><p>The main feed(s) associated with each panelboard.</p></li>
+<li><p>Two sets of up to (14) subfeeds (or up to (10) subfeeds if
+neutrals are monitored).</p></li>
+</ul></p>
+<p>Panelboards must have CT strips covering each panelboard circuit.
+Subfeeds must have CTs connected to an intermediate Resistor Board. </p>
+<p>Layout of a BCMS HV board (BCMS PCB) is shown in<xref format="dita"
+href="#MonitoringComponents1125-C3A26EE5/Figure30BCMSHVBoard-CC459E57"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 30 BCMS HV Board"?></xref>.</p>
+</body>
+</topic>

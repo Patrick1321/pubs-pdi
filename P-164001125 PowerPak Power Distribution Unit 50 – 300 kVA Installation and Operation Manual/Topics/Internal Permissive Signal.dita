@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="InternalPermissiveSignal-CC5DB0BE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Internal Permissive Signal</title>
+<body>
+<p>An<b> internal permissive signal </b>requires no wiring at the
+customer site whether used alone or in the two-stage external/internal
+system.</p>
+</body>
+</topic>

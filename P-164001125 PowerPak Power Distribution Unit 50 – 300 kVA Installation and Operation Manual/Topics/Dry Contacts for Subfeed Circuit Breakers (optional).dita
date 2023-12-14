@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="DryContactsForSubfeedCircuitBreaker-CC4641A7"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Dry Contacts for Subfeed Circuit Breakers (optional)</title>
+<body>
+<p>Subfeeds can have optional dry contacts to <ul>
+<li><p>present a trip alarm, or </p></li>
+<li><p>present circuit breaker status. </p></li>
+</ul></p>
+<p>A set of terminal blocks can be installed in the monitoring compartment
+providing an intermediate connection point between the circuit breakers
+and the customer’s dry contact network.</p>
+</body>
+</topic>

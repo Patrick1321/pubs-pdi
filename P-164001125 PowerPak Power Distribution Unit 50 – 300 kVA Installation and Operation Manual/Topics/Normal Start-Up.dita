@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="NormalStart-Up-CDD32536"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Normal Start-Up</title>
+<body>
+<p>After initial PDU startup, you can use the following abbreviated
+procedure to start up the PDU and its downstream equipment: <ol>
+<li><p>Confirm that the PDU’s main input circuit breaker is in the
+OFF position.</p></li>
+<li><p> Confirm that all of the PDU’s output circuit breakers are
+in the OFF position. </p></li>
+<li><p>Apply power to the unit. </p></li>
+<li><p>Set the Main Input Circuit Breaker to the ON position. You
+may have to first manually trip the lever all the way to the OFF position. </p
+></li>
+<li><p>Sequentially energize the distribution output circuit breakers,
+following any special procedures required by equipment attached to
+the PDU. Consult the individual manufacturer’s instructions for these
+requirements.</p></li>
+</ol></p>
+</body>
+</topic>

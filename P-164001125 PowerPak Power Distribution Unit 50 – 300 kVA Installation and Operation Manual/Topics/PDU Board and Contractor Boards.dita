@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUBoardAndContractorBoards-CC450A0B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Board and Contractor Boards</title>
+<body>
+<p>The PDU (M4G) Board sets PDU parameters and monitors the PDU’s
+transformer. </p>
+<p>Every PDU also has a <b>Contractor Board</b>, which functions as
+a terminal block to the PDU Board and is directly connected by a ribbon
+cable to the PDU Board. The customer has a choice of two (2) Contractor
+Boards, which act as an extension of the PDU M4G Board for making
+customer connections for remote control and monitoring: <ul>
+<li><p>Basic Contractor Board </p></li>
+<li><p>Enhanced Contractor Board, which can connect twice as many
+output relays and building alarms</p></li>
+</ul> </p>
+<p><b>Internal</b> PDU signaling, such as the four Digital Inputs,
+is terminated to the <u>PDU (M4G) Board</u>. </p>
+<p><b>External</b> signaling, such as the customer’s REPO signal,
+is terminated to the <u>Contractor Board:</u> Setup of the PDU and
+Contractor Boards is performed during manufacturing. These boards
+can be programmed through a USB programming board the PDU Board. The
+PDU Board’s points list values are also accessible through the customer’s
+BMS, but most points cannot and should not be set by the customer,
+as incorrect settings can cause PDU malfunctions. Measurements values
+in the points list can also be viewed on the Color Monitor.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU M4G Board.dita"><xi:fallback><!--Fallback markup for "PDU M4G Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Basic Contractor Board.dita"><xi:fallback><!--Fallback markup for "Basic Contractor Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Enhanced Contractor Board.dita"><xi:fallback><!--Fallback markup for "Enhanced Contractor Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU M4G Board Points List.dita"><xi:fallback><!--Fallback markup for "PDU M4G Board Points List.dita"--></xi:fallback
+></xi:include>
+</topic>

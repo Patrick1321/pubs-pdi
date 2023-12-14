@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Service1125-C3A4481F" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Eaton Service Contracts</title>
+<body>
+<p>Eaton Service contracts help to provide the added insurance that
+the reliability of your critical power systems is intact. By following
+our stringent maintenance procedures, Eaton’s factory trained Customer
+Support Engineers provide the added assurance for the availability
+of critical systems, thereby maximizing the company’s profitability.
+See below for further details.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Start Up.dita"><xi:fallback><!--Fallback markup for "Start Up.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Service Contracts .dita"><xi:fallback><!--Fallback markup for "Service Contracts .dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Maintenance Contracts.dita"><xi:fallback><!--Fallback markup for "Maintenance Contracts.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Time and Materials.dita"><xi:fallback><!--Fallback markup for "Time and Materials.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Spare Parts Kits.dita"><xi:fallback><!--Fallback markup for "Spare Parts Kits.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 406?>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="MonitoringAlarms1125-C3A34D7A" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Monitoring: Alarms</title><?Pub Caret -2?>
+<body>
+<p>The Color Monitor displays alarms and warnings for all devices
+in the Monitor’s device chain. The Monitor reads the alarms and warnings
+from the points list (Modbus register map) of each device. </p>
+<p>Because the Monitor receives power from the line side of the Main
+Circuit Breaker, it can be used to monitor power and diagnose power
+events, both during PDU Start-up or after an outage.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Summary Alarm Indicators.dita"><xi:fallback><!--Fallback markup for "Summary Alarm Indicators.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Alarm Screen and Alarm List.dita"><xi:fallback><!--Fallback markup for "Alarm Screen and Alarm List.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Alarms by Device Type.dita"><xi:fallback><!--Fallback markup for "Alarms by Device Type.dita"--></xi:fallback
+></xi:include>
+</topic>

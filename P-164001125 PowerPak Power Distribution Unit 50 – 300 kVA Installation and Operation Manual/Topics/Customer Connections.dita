@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CustomerConnections-CC464125"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Customer Connections</title>
+<body>
+<p>Customer connections are made only to the following:<ul>
+<li><p>A Contractor Board, for Modbus RTU network connections, REPO,
+and remote relays. (See <xref format="dita"
+href="#BasicContractorBoard-CC451746" scope="local" type="topic"><?Pub
+_previewtext text="8,3,2 Basic Contractor Board"?></xref>, and <xref
+format="dita" href="#EnhancedContractorBoard-CC451BA3" scope="local"
+type="topic"><?Pub _previewtext text="8,3,3 Enhanced Contractor Board"
+?></xref> .) </p></li>
+<li><p>Color Monitor back panel for Ethernet cable connection (see <xref
+format="dita"
+href="Monitoring PDU Network 1125.dita#ColorMonitorNetworkConnections-CC48CDB4/Figure32ColorMonitorNetworkConnecti-CC4D1807"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 32 Color Monitor Network Connections"?></xref>.</p></li>
+<li><p>Other dry contact connections (see <xref format="dita"
+href="#SubfeedCircuitBreakerTrip-CC4526F7/Table11DryContactSignals-CC4526F7"
+scope="local" type="table"><?Pub _previewtext
+text="Table 11 Dry Contact Signals"?></xref>). </p></li>
+<li><p>External permissive signals (see <xref format="dita"
+href="Manual Dual PDU Option 1125.dita#CustomerWiringForPermissiveSignals-CC5DB0BC"
+scope="local" type="topic">Wiring for External Permissive Signals</xref
+>.)</p></li>
+</ul>Customers can also specify specific values, such as Digital Inputs
+or Alarms, which are programmed by Eaton PDI in manufacturing. </p>
+<p>Other information in this chapter is provided for reference.</p>
+</body>
+</topic>

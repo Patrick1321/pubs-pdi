@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Pre-PlacementInspection-C3A12E78"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Pre-Placement Inspection</title>
+<body>
+<p>The installer or installing contractor should perform a complete
+internal inspection of the PDU <u>after</u> the PDU has been placed
+in its approximate operating position and before electrical hookup.
+The following items must be included in the inspection checklist: <ol>
+<li><p>Transformers: Inspect the transformers for any loose connections
+or displacement during shipment. Check to make sure all terminal lugs
+are tight and secure. </p></li>
+<li><p>Internal feeders: Ensure all lug connections are tight and
+secure. </p></li>
+<li><p>Main input feeder: <ol>
+<li><p>Check the main input feeder connections at the main breaker
+to be sure vibration has not loosened the terminal screws. </p></li>
+<li><p>Check the feeders from the load side of the main breaker to
+the primary side of both transformers.</p></li>
+</ol></p></li>
+<li><p>Check all other lugs (i.e. neutral bus, ground bus, terminal
+blocks, etc.).</p></li>
+</ol></p>
+</body>
+</topic>

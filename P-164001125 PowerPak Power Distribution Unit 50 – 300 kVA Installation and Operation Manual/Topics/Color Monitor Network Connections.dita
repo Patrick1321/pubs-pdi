@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ColorMonitorNetworkConnections-CC48CDB4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Color Monitor Network Connections</title>
+<body>
+<p>The Color Monitor’s backpanel has Modbus RTU and Ethernet ports
+(<xref format="dita"
+href="#./Figure32ColorMonitorNetworkConnecti-CC4D1807" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 32 Color Monitor Network Connections"?></xref>). Modbus
+RTU backpanel connections are typically made in manufacturing. (Customer
+Modbus RTU connections are made to a Contractor Board.) However, the
+customer’s Ethernet cable is connected directly to the Monitor’s Ethernet
+port.</p>
+<fig id="Figure32ColorMonitorNetworkConnecti-CC4D1807">
+<title>Color Monitor Network Connections</title>
+<image href="..\Graphics\32.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure33InternalPDUNetworkModbusAdd-CC4D2EAB">
+<title>Internal PDU Network, Modbus Addressing, Example</title>
+<image href="..\Graphics\33.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus RTU Ports.dita"><xi:fallback><!--Fallback markup for "Modbus RTU Ports.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus RTU 2-Wire vs. 4-Wire Configuration.dita"><xi:fallback><!--Fallback markup for "Modbus RTU 2-Wire vs. 4-Wire Configuration.dita"--></xi:fallback
+></xi:include>
+</topic>

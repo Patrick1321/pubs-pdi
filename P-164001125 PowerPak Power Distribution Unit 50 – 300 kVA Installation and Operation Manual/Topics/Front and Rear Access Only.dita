@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="FrontAndRearAccessOnly-C3A04E2F"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Front and Rear Access Only</title>
+<body>
+<p>Front and rear access PDUs can have the following: <ul>
+<li><p>Main Cabinet with rear-facing transformer taps </p></li>
+<li><p>21" Side Car(s), if side access is not used. </p></li>
+</ul></p>
+<p>9" and 12" Side Cars are not allowed.<fig
+id="Figure8PowerPakPDUFrontAndRearAcces-CB5B9310">
+<title>PowerPak PDU, Front and Rear Access, Main Cabinet with Two
+Panelboards, Doors Off</title><?Pub Caret 0?>
+<image href="..\Graphics\8.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

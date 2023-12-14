@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="MountingOptions-C3A04E2E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Mounting Options</title>
+<body>
+<p>The PDU can be installed on both fixed floor or on a floor stand
+in a raised floor environment. The PDU alone or the PDU with floor
+stand conforms to seismic zone four requirements, California standard,
+per IBC 2010. The following mounting options are available: <ul>
+<li><p>Heavy duty casters and leveling feet are standard on the Main
+Cabinet. Casters can support the weight of the PDU. </p></li>
+<li><p>An optional universal floor stand is available with heights
+from 11-76" H to match raised floor height. See <xref format="dita"
+href="Installation Placing the PDU 1125.dita#PlacingPDUOnOptionalFloorStand-C3A12E78"
+scope="local" type="topic"><?Pub _previewtext
+text="Placing PDU on Optional Floor Stand"?></xref>. Fixed height
+floor stands are also available for 8-11" heights. </p></li>
+<li><p>An optional skirt provides air closure around the PDU.</p></li>
+</ul></p>
+</body>
+</topic>

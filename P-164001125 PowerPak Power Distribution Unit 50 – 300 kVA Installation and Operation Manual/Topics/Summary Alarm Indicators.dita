@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SummaryAlarmIndicators-CDD99DBC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Summary Alarm Indicators</title>
+<body>
+<p>There are two Summary Alarms: <ul>
+<li><p>PDU Remote Relay Summary Alarm signals that an alarm is present
+for the PDU M4G Board or Contractor Board. </p></li>
+<li><p>Color Monitor Summary Alarm signals that an alarm is presented
+on any of its downstream connected devices, including the PDU and
+Contractor Boards and all of the PDU’s BCMS devices. It does not include
+auxiliary contacts for circuit breakers.</p></li>
+</ul></p>
+<p>The Color Monitor indicates that there are extant alarms with three
+general indicators: <ul>
+<li><p>The summary count of warnings and alarms for the Monitor’s
+entire device chain is shown on every screen (<xref format="dita"
+href="#./Figure39AlarmAndWarningSummaryStatu-CDD99DBF" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 39 Alarm and Warning Summary Status Icons"?></xref>).<fig
+id="Figure39AlarmAndWarningSummaryStatu-CDD99DBF">
+<title>Alarm and Warning Summary Status Icons</title>
+<image href="..\Graphics\39.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p></li>
+<li><p>There is also a light under the screen that glows green if
+none of the devices in the Monitor’s chain has warnings or alarms
+and red if there are outstanding warnings or alarms (See<xref
+format="dita"
+href="Manual Dual PDU Option 1125.dita#TransferProcedureUsingInternalPermi-CDD70A43"
+scope="local" type="topic"><?Pub _previewtext
+text="Transfer Procedure Using Internal Permissive Signal"?></xref
+>, the light is in the bezel). </p></li>
+<li><p>In addition, the Monitor has a dry contact (NO) connection
+on the backpanel that signals a summary alarm whenever any alarm is
+present in the Monitor’s device chain (See Monitor backpanel, <xref
+format="dita"
+href="Monitoring PDU Network 1125.dita#ColorMonitorNetworkConnections-CC48CDB4/Figure32ColorMonitorNetworkConnecti-CC4D1807"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 32 Color Monitor Network Connections"?></xref>).</p></li>
+</ul></p>
+</body>
+</topic>

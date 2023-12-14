@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PDUM4GBoard-CC450A09"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU M4G Board</title>
+<body>
+<p>For the following connections, reference <xref format="dita"
+href="#./Figure27PDUM4GBoard-CC450A13" scope="local" type="fig"><?Pub
+_previewtext text="Figure 27 PDU (M4G) Board"?></xref>”. </p>
+<p><b>Transformer CT (current) and voltage connections</b> (top edge
+of <xref format="dita" href="#./Figure27PDUM4GBoard-CC450A13"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 27 PDU (M4G) Board"?></xref>):<ul>
+<li><p>CT connections, output current (ABC), Output 1 and Output 2 </p
+></li>
+<li><p>CT Connection G-N: <ul>
+<li><p>Pins 1-2: Ground CT connection </p></li>
+<li><p>Pins 3-4: Neutral CT connection </p></li>
+</ul></p></li>
+<li><p>Input 1 Voltage-G connection: Input Delta connection is 3-wire
+plus ground (no neutral). </p></li>
+<li><p>Output 1 Voltage-N connection: Output Wye connection is 4-wire
+plus ground. </p></li>
+<li><p>Input 2 or Output 2 Voltage provides a configurable second
+input or output voltage, used with dual input or output PDUs.</p></li>
+</ul>Power and Power Signals <ul>
+<li><p>120VAC Input Power connection provides power to the PDU M4G
+Board. </p></li>
+<li><p>24VDC Output Power connection provides power to WaveStar Color
+Monitor </p></li>
+<li><p>Power Off Controls:<ul>
+<li><p>Remote EPO connection from the Contractor REPO Connection (J6),
+see <xref format="dita"
+href="#MonitoringComponents1125-C3A26EE5/Figure28BasicContractorBoard-CC451746"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 28 Basic Contractor Board"?></xref>. Customer REPO dry
+contact connection is to the Contractor Board. </p></li>
+<li><p>Local EPO connection </p></li>
+<li><p>Thermal wires for transformer temperature measurements, which
+can cause PDU shutdown.</p></li>
+</ul></p></li>
+<li><p>Shunt Trip: The board outputs two voltages for tripping the
+Main Breaker Shunt Trip: <ul>
+<li><p>170VDC: 170 VDC is rectified from 120VAC input power; 170VDC
+must be used for Restart Switch to function. </p></li>
+<li><p>24VDC</p></li>
+</ul></p><fig id="Figure27PDUM4GBoard-CC450A13">
+<title>PDU (M4G) Board</title>
+<image href="..\Graphics\27.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></li>
+<li><p>The<b> Restart Switch</b> determines whether restart is automatic
+or manual after a voltage loss.<ul>
+<li><p><b>Manual:</b> Switch down (away from on-board transformer):
+PDU restart must be done manually after voltage is restored. </p></li>
+<li><p><b>Automatic:</b> Switch up (towards on-board transformer):
+PDU restart is automatic after power is restored. Automatic Restart
+is the default setting. </p></li>
+<li><p>See section <xref format="dita"
+href="PDU Procedures 1125.dita#ManualOrAutomaticRestart-CDD3253C"
+scope="local" type="topic"><?Pub _previewtext
+text="Manual or Automatic Restart"?></xref> for additional information.</p
+></li>
+</ul><note>The Restart Switch requires 170VDC input to the main breaker
+shunt trip to function. It is not operable with the 24VDC input to
+the main breaker shunt trip.</note></p><p><b>Other Input and Output
+Signals</b></p><b>Four Digital Inputs or Alarms</b>: Digital Inputs
+or Alarms are used for signalling internal to the PDU, such as a Door
+Open condition. Digital Inputs can be assigned by Eaton PDI during
+PDU M4G Board setup, when names can also be assigned to the inputs.
+These inputs turn on bits in PDU M4G Board Points List, Modbus Registers
+90-91. <ul>
+<li><p>Default assignments for single input PDU are as follows: <ul>
+<li><p>Digital Input 1: Unassigned </p></li>
+<li><p>Digital Input 2: SPD Primary Device 1 not operational (if installed) </p
+></li>
+<li><p>Digital Input 3: SPD Secondary Device 2 not operational (if
+installed) </p></li>
+<li><p>Digital Input 4: Door Open</p></li>
+</ul></p></li>
+</ul><ul>
+<li><p> Default assignments for Manual Dual PDU are as follows: <ul>
+<li><p>Digital Input 1: Main Input Circuit Breaker 1 is closed. </p
+></li>
+<li><p>Digital Input 2: Main Input Circuit Breaker 2 is closed. </p
+></li>
+<li><p>Digital Input 3: SPD Secondary Device 1 or 2 not operational
+(if installed) </p></li>
+<li><p>Digital Input 4: Door Open</p></li>
+</ul></p></li>
+</ul></li>
+<li><p><b>Output Relay</b>: On a Manual Dual PDU, this relay is triggered
+when prerequisite conditions for a transfer are met and the operator
+presses the <b>KEY RELEASE</b> button on the Color Monitor’s Sync
+screen. The relay signal is transmitted to the Solenoid Key Release
+Unit (SKRU). A phase synchronization check is performed before enabling
+the relay. (See <xref format="dita"
+href="Manual Dual PDU Option 1125.dita#DualInputSourceTransferProcedures-CC5DB0C1"
+scope="local" type="topic"><?Pub _previewtext
+text="Dual Input Source Transfer Procedures"?></xref> Dual Input Source
+Transfer Procedures and <xref format="dita"
+href="Manual Dual PDU Option 1125.dita#TransferProcedureUsingInternalPermi-CDD70A43"
+scope="local" type="topic"><?Pub _previewtext
+text="Transfer Procedure Using Internal Permissive Signal"?></xref
+>.)</p></li>
+</ul></p>
+<p><b>Setup/USB Connection</b>: Used by Eaton PDI representatives
+to program set points, contractor board relays, etc., in the PDU M4G
+and Contractor Boards. PDU board set points cannot be altered through
+normal Modbus register access to prevent registers being accidentally
+altered. See PDU M4G Board points list for further information. (See <xref
+format="dita" href="Bibliography 1125.dita#Bibliography1125-CDD3E145"
+scope="local" type="topic"><?Pub _previewtext text="Bibliography 1125"
+?></xref> for information on downloading points lists.) </p>
+<p><b>RJ12 Modbus Connections</b> on the PDU M4G board are to/from
+the Color Monitor.</p>
+</body>
+</topic>

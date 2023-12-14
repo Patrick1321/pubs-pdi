@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="InstallationPlanningPDULayouts1125-C3A04E2B" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation Planning: PDU Layouts</title>
+<body></body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Enclosure.dita"><xi:fallback><!--Fallback markup for "PDU Enclosure.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Dimensions_0000076260.dita"><xi:fallback><!--Fallback markup for "PDU Dimensions_0000076260.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Mounting Options.dita"><xi:fallback><!--Fallback markup for "Mounting Options.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Clearances.dita"><xi:fallback><!--Fallback markup for "Clearances.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Layouts.dita"><xi:fallback><!--Fallback markup for "PDU Layouts.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Service Access Configurations.dita"><xi:fallback><!--Fallback markup for "PDU Service Access Configurations.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 43?>

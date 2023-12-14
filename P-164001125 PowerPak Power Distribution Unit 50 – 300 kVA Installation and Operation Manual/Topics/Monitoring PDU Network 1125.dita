@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="MonitoringPDUNetwork1125-C3A2FCAA" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Monitoring: PDU Network</title><?Pub Caret -2?>
+<body>
+<p>The PDU’s network is centered on the Color Monitor, which stands
+at the dividing point between the PDU’s <u>internal</u> or downstream
+network and the network upstream or external to the PDU.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Color Monitor and Protocols.dita"><xi:fallback><!--Fallback markup for "Color Monitor and Protocols.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Customer Network Connections.dita"><xi:fallback><!--Fallback markup for "Customer Network Connections.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus Addressing.dita"><xi:fallback><!--Fallback markup for "Modbus Addressing.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Color Monitor Network Connections.dita"><xi:fallback><!--Fallback markup for "Color Monitor Network Connections.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus RTU Cables .dita"><xi:fallback><!--Fallback markup for "Modbus RTU Cables .dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Ethernet Cables.dita"><xi:fallback><!--Fallback markup for "Ethernet Cables.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Setting Color Monitor Network Parameters.dita"><xi:fallback><!--Fallback markup for "Setting Color Monitor Network Parameters.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Device Settings.dita"><xi:fallback><!--Fallback markup for "Device Settings.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Device Readings.dita"><xi:fallback><!--Fallback markup for "Device Readings.dita"--></xi:fallback
+></xi:include>
+</topic>

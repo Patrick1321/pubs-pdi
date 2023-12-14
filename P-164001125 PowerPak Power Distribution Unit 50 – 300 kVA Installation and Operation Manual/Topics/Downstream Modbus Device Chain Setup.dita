@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="DownstreamModbusDeviceChainSetup-CC48CDBF"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Downstream Modbus Device Chain Setup</title>
+<body>
+<p>To set Modbus device chain parameters, touch DEVICES/MODBUS (<xref
+format="dita" href="#./Figure35ModbusRTUSetup-CC4D4018" scope="local"
+type="fig"><?Pub _previewtext text="Figure 35 Modbus RTU Setup"?></xref
+>):<ul>
+<li><p><b>Number of Devices</b> should equal the number of devices
+in the Monitor’s device chain. Up to twenty (20) devices are allowed.
+The Monitor uses this number to determine how many devices to search
+for in its downstream chain. </p></li>
+<li><p>When you add new devices, increment this counter, then press
+“ENTER”. The Monitor will automatically start a new search and find
+all of the downstream devices. The devices will then be listed in
+the <b>DEVICES</b> Screen, where the added devices will initially
+show up as generic device names. </p></li>
+<li><p>For each new device the user should then enter a unique device
+name. Unique device names are needed to isolate alarms and measurements
+to specific devices.</p></li>
+</ul><fig id="Figure35ModbusRTUSetup-CC4D4018">
+<title>Modbus RTU Setup</title>
+<image href="..\Graphics\35.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

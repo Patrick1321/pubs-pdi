@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="UsingCamLocksWithAlternatePowerSour-CC5DB0C1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Using Cam Locks with Alternate Power Source (Optional)</title>
+<body>
+<p>Both power sources are usually hard-wired to the two main circuit
+breakers. However, some customers optionally elect to connect an alternate
+power source via cam locks. Cam locks have ABCG input power connections
+and are color-coded for correct phase and ground connections.<fig>
+<title>Optional Cam Locks for Second Power Source</title>
+<image href="..\Graphics\45.pdf" scope="local"></image></fig>When
+cables are connected to the cam locks, the PDU M4G board will check
+that all ABC voltages are within specification (usually ±10%) and
+then check for correct phase rotation. The PDU will issue an input
+phase rotation error if the operator has incorrectly connected the
+cables, such as inserting B-phase into C-phase.<note>If the customer
+is using cam locks to connect an alternate power source, it is not
+recommended that they select the option to shut down the PDU on phase
+rotation error. If the operator incorrectly wires the phase cables
+into the cam locks, the PDU will shut down immediately.</note></p>
+</body>
+</topic>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="StorageConditions-046A16FB"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Storage Conditions</title>
+<body>
+<p>If the PDU is not to be immediately installed and energized, it
+should be carefully stored in a warm, dry environment, preferably
+a heated building with a uniform temperature and air circulation to
+prevent condensation. It is especially important that the transformer
+be free of condensation and protected from contamination. The transformer
+and PDU should be stored in their factory protective coverings. </p>
+<p>Storage temperature range must be within these limits: -36⁰ C to
++70⁰ C (-33⁰ F to 158⁰ F). </p>
+<p>If the transformer has been exposed to moisture, it should be dried
+out before being energized. Consult Eaton Service if the PDU or transformer
+have been exposed to moisture or contamination.</p>
+</body>
+</topic>
