@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Description-54C07CA8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Description</title>
+<body>
+<p>The Reactor Power Panel V2 (RPP V2) contains a 250A Reactor Cabinet
+and an associated Bypass Cabinet. The two cabinets are bolted together
+for installation as a single unit. All power wiring between the Reactor
+and Bypass Cabinets is done in manufacturing. </p>
+<p>When provided with a suitable reserve power source, the Bypass
+allows the reactor itself to be taken off line for maintenance without
+interrupting power to the load. The Bypass Cabinet has mechanically
+interlocked switches to transfer power between the RPP V2 power and
+reserve power. The </p>
+<p>RPP V2 can be configured in manufacturing for left-hand (LH) or
+right-hand (RH) orientation, which determines whether the Bypass Cabinet
+is located on the LH or RH side.</p>
+<fig>
+<title>RPP V2 (250A) Left Hand Configuration</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\PDI Revisions\WR23092 to 23096 PDI Startup\WR23091\P-164001118 Reactor Power Panel V2 (250A) I_O Manual R02\Graphics\1.pdf"
+placement="break" scope="local"></image>
+</fig>
+</body>
+</topic>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ExternalCabling-0286C518"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>External Cabling</title>
+<body>
+<p>Installers must connect external power cables for these functions:<ol>
+<li><p>Ground (at Reactor Cabinet) </p></li>
+<li><p>Power to load (at Bypass Cabinet) </p></li>
+<li><p>Reserve input power (at Bypass Cabinet) (multiple Bypass Cabinets
+can be daisy-chained from a single reserve power source) </p></li>
+<li><p>Input power (at Reactor Cabinet)</p></li>
+</ol></p>
+<p>Up to MCM350 MCM CU wire can be accommodated for reactor input
+and reserve input power connections. </p>
+<p>Cables should be zip-tied to the glastic lashing bar inside the
+unit. The lashing bar inhibits cable movement during short circuit
+events.</p>
+<note type="warning"><ul>
+<li><p>Power to all power cables being connected must be turned off
+and locked out before making electrical connections to the RPP V2. </p
+></li>
+<li><p>Use a voltage meter to confirm that power is off.</p></li>
+</ul></note>
+<fig>
+<title>Cabinet External Connections</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\11.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig>
+<title>Input Power Connections</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\12.pdf"
+scope="local"></image>
+<p> </p>
+</fig>
+</body>
+</topic>

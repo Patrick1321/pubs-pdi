@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="RelocatingInputBusBars-0286C16E"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Relocating Input Bus Bars</title>
+<body>
+<p>To better align with cable entry in the Reactor Cabinet, Input
+Bus Bars can be relocated to any of (3) positions:<ul>
+<li><p>Bottom front (standard position) </p></li>
+<li><p>Bottom rear </p></li>
+<li><p>Top rear</p><fig>
+<title>Input Bus Bar Positions</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\9.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></li>
+</ul></p>
+<p>Input Bus Bars cannot be relocated to the top front position because
+door components are in the way.</p>
+<p>To relocate Input Bus Bars, do the following:<ol>
+<li><p>Remove (4) bolts attaching the Input Bus Bars brackets to the
+Reactor Cabinet frame. Retain attachment hardware. </p></li>
+<li><p>Do not detach the cables connecting the reactor to the bus
+bars. Do not change the orientation of the Input Bus Bar assembly.
+Brackets allow attachment from front or back. </p></li>
+<li><p>Use retained (4) bolts and associated attachment hardware to
+reattach the Input Bus Bars to your selected location.</p></li>
+</ol><fig>
+<title>Input Bus Bar Attachment</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\10.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<topic id="ReceivingAndUnpackingTheRPP-0285E581"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Receiving and Unpacking the RPP</title>
+<body>
+<p>RPP V2 units are shipped as fully assembled units with internal
+power wiring completed. Units are bolted to shipping pallets and protected
+by two layers of external plastic covering. The RPP is first covered
+by a large plastic bag and then shrink-wrapped. Finally the unit is
+secured to the pallet with metal retaining bands.</p>
+<p> For moving the RPP V2 unit on its pallet, Eaton recommends that
+you leave the retaining bands intact until you have moved the RPP
+to a convenient location for removing it from its pallet.</p>
+<note>Inspect the shipped unit twice, upon receipt and after removing
+packaging materials.</note>
+<ol>
+<li><p>Upon receiving an RPP V2 pallet and before removing packaging,
+inspect the packaging for visible damage. If damage is evident notify
+the shipping company and Eaton (see <xref format="dita"
+href="Introduction 1118.dita#GettingHelp-18-EB4EE957" scope="local"
+type="topic"><?Pub _previewtext text="Getting Help"?></xref> or Eaton
+contact information). </p><p>File any damage claims with the shipping
+company at time of delivery. Damage must be noted on the bill of lading.
+Failure to properly document all damage may result in the unit’s warranty
+being voided.</p><?Pub Caret -1?></li>
+<li><p>Carefully cut the retaining bands, making sure that they do
+not scrape the exterior of the unit or scratch the paint.<note
+type="warning"><ul>
+<li><p>Metal retaining bands are under tension. Exercise caution when
+cutting them. </p></li>
+<li><p>Wear protective clothing including eye, face, and hand protection
+when cutting retaining bands!</p></li>
+</ul></note></p></li>
+</ol>
+</body>
+</topic>

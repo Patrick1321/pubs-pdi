@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C30BC26B" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Drawings</title><?Pub Caret -1?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="RPP V2 Left-Hand Configuration Drawings.dita"><xi:fallback><!--Fallback markup for "RPP V2 Left-Hand Configuration Drawings.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="RPP V2 Right-Hand Configuration Drawings.dita"><xi:fallback
+><!--Fallback markup for "RPP V2 Right-Hand Configuration Drawings.dita"--></xi:fallback
+></xi:include>
+</topic>

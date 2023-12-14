@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="MovingTheRPPV2Unit-028915DB"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Moving the RPP V2 Unit</title>
+<body>
+<p>To move the RPP off the pallet with a forklift or pallet jack,
+do the following:<ol>
+<li><p>The RPP V2 unit is bolted to its pallet using (2) seismic brackets.
+With the RPP pallet resting on the floor, remove the seismic brackets
+and bolts and retain them for unit installation</p></li>
+<li><p>Insert forklift or pallet jack forks under the RPP V2 Cabinet
+at the REACTOR CABINET SIDE. (This may be the left or right side depending
+on configuration.) Inserting forks from the Reactor Cabinet side minimizes
+the risk of damaging the unit’s casters and provides better balance
+because the Reactor Cabinet is the heavier side. DO NOT INSERT FORKS
+FROM THE FRONT OR REAR OF THE UNIT. </p></li>
+<li><p>Move the RPP V2 unit as close to its installation location
+as you can and withdraw the forklift. </p></li>
+<li><p>Roll the RPP on its casters to its installation location.</p
+></li>
+</ol><fig>
+<title>RPP Forklift Positioning</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\2.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+<p>The unit can also be moved with a hoist. The unit has (4) eye bolts
+at top corners for rigging hoist cables. The eye bolts can be removed
+after the unit is placed and attached to the floor.<fig>
+<title>RPP Hoist Attachments</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\3.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

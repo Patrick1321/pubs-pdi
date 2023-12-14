@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<techinfomap xml:lang="en"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfomap.xsd"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Eaton Reactor Power Panel V2 (250A) Installation and Operation
+Manual</title>
+<contentref format="dita" href="..\Topics\cover 1118.dita"
+navtitle="Eaton© Reactor Power Panel V2 (250A)" scope="local"
+type="coverpage"></contentref>
+<toc/>
+<figurelist/>
+<division navtitle="Introduction">
+<contentref format="dita" href="..\Topics\Introduction 1118.dita"
+navtitle="Introduction 1118" scope="local" type="topic"></contentref><?Pub
+Caret -1?>
+</division>
+<division navtitle="Safety">
+<contentref format="dita" href="..\Topics\Safety 1118.dita"
+navtitle="Safety 1118" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Installation">
+<contentref format="dita" href="..\Topics\Installation 1118.dita"
+navtitle="Installation 1118" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Bypass Operation">
+<contentref format="dita" href="..\Topics\Bypass Operation 1118.dita"
+navtitle="Bypass Operation 1118" scope="local" type="topic">
+</contentref>
+</division>
+<division navtitle="Drawings">
+<contentref format="dita" href="..\Topics\Drawings 1118.dita"
+navtitle="Drawings 1118" scope="local" type="topic"></contentref>
+</division>
+<division navtitle="Service and Maintenance">
+<contentref format="dita"
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Topics\Service and Maintenance.dita"
+navtitle="Service and Maintenance" scope="local" type="topic">
+</contentref>
+</division>
+</techinfomap>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C30BC220" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Bypass Operation</title><?Pub Caret -1?>
+<body>
+<p>Operation of the RPP V2 Bypass consists of switching power between
+main RPP power and reserve power. Power switches and the Mechanical
+Interlock are in the Mechanical Transfer Compartment on the front
+of the Bypass Cabinet. The Mechanical Interlock allows only (1) switch
+to be closed at a time.</p>
+<p>To switch power between power sources, do the following:<ol>
+<li><p>Open the Mechanical Transfer Compartment Door. </p></li>
+<li><p>\Open (turn off) both power switches in the Compartment. </p
+></li>
+<li><p>Depress the latch on one or both sides of the Mechanical Interlock
+and slide the Mechanical Interlock from one side to the other until
+the latch catches. The position of the Mechanical Interlock determines
+which source can power the load:</p><p><ul>
+<li><p>Right=RPP (250A reactor) powers the load. </p></li>
+<li><p>Left=Reserve powers the load.</p></li>
+</ul></p></li>
+<li><p>Close (turn on) the RPP Switch or the Reserve Switch according
+to which power source will power the load.<note type="caution">The
+power-switching operation must be conducted in less than 60 seconds
+to prevent loss of power to the load.</note></p></li>
+<li><p>Close the Mechanical Transfer Compartment Door.</p></li>
+</ol></p>
+<p>The Reactor Cabinet also has a circuit breaker controlling main
+power to the Reactor Cabinet.<fig>
+<title>Mechanical Transfer Compartment</title>
+<image href="..\Graphics\13.pdf" placement="-dita-use-conref-target">
+</image>
+</fig></p>
+</body>
+</topic>
