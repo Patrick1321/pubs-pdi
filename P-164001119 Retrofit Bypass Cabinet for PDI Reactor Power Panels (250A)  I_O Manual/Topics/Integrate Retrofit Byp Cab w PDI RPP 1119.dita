@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="IntegrateRetrofitBypassCabinetWithP-C316BE55"
+xml:lang="en-EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Integrate Retrofit Bypass Cabinet with Eaton PDI RPP</title>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Parts List.dita"><xi:fallback><!--Fallback markup for "Parts List.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Recommended Tools.dita"><xi:fallback><!--Fallback markup for "Recommended Tools.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Prepare the PDI RPP.dita"><xi:fallback><!--Fallback markup for "Prepare the PDI RPP.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Install Cover Plate for Removed Display-Monitor.dita"><xi:fallback
+><!--Fallback markup for "Install Cover Plate for Removed Display-Monitor.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Make Cable-Entry Cutouts.dita"><xi:fallback><!--Fallback markup for "Make Cable-Entry Cutouts.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Join Cabinets Together.dita"><xi:fallback><!--Fallback markup for "Join Cabinets Together.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Adjust Leveling Feet on Retrofit Bypass Cabinet.dita"><xi:fallback
+><!--Fallback markup for "Adjust Leveling Feet on Retrofit Bypass Cabinet.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Anchor the Retrofit Bypass Cabinet to the Floor.dita"><xi:fallback
+><!--Fallback markup for "Anchor the Retrofit Bypass Cabinet to the Floor.dita"--></xi:fallback
+></xi:include>
+<?Pub _newpage?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Remove Eye-Bolts.dita"><xi:fallback><!--Fallback markup for "Remove Eye-Bolts.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 59?>

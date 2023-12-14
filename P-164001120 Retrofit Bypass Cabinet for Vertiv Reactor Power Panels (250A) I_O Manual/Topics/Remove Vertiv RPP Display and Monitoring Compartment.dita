@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Remove Vertiv RPP Display and Monitoring Compartment</title>
+<body>
+<ol>
+<li><p>Remove the Vertiv Display Panel and associated parts. The Display
+Panel must be detached from inside the unit.</p><p><image
+href="..\Graphics\8.pdf" placement="-dita-use-conref-target">
+</image></p><ol>
+<li><p>Inside the unit disconnect any cables attached to the Display
+and its associated PCB.</p><p><image href="..\Graphics\9.pdf"
+placement="-dita-use-conref-target"></image></p></li>
+<li><p>From inside the unit unbolt the Display and PCB and remove
+the parts.</p></li>
+</ol></li>
+<li><p>Remove the side panel on the Monitoring Logic Compartment.
+The compartment contains PCBs.</p><p><image
+href="..\Graphics\10.pdf" placement="-dita-use-conref-target">
+</image></p><p>Unplug the monitoring wiring that is connected to PCBs
+in this compartment.</p></li>
+<li><p>Disconnect the cable for monitoring CTs from the monitoring
+board.</p><p><image href="..\Graphics\11.pdf"
+placement="-dita-use-conref-target"></image></p><p>Remove the connector
+on this cable.</p></li>
+<li><p>Install a replacement connector (MOD67280) on the CT cable
+end. The replacement connector is shorted out to prevent the CTs from
+generating a voltage.</p><p><image href="..\Graphics\12.pdf"
+placement="-dita-use-conref-target"></image></p></li>
+<li><p>Unscrew the retaining screws that hold the Vertiv Monitoring
+Logic Compartment in place. Retain screws for attaching cover plate.</p
+><p><image href="..\Graphics\13.pdf"
+placement="-dita-use-conref-target"></image></p><p>Completely remove
+the Monitoring Logic Compartment.</p></li>
+</ol>
+</body>
+</topic>

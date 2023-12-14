@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Spare Parts Kits</title>
+<body>
+<p>Spare parts kits are available for Retrofit Bypass Cabinets that
+are specific to the unit’s configuration.</p>
+<table frame="bottom" id="IconDescription-C52E9780">
+<title>Spares Kits for Retrofit Bypass Cabinets</title>
+<tgroup align="left" cols="2">
+<?PubTbl tgroup dispwid="881.00px"?>
+<colspec colname="1" colsep="0" colwidth="17.98*"/><colspec colname="2"
+colwidth="12.27*"/>
+<thead>
+<row>
+<entry morerows="0" nameend="1" namest="1" valign="bottom"><?Pub _cellfont
+Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt"?>PDI Part Number</entry>
+<entry morerows="0" nameend="2" namest="2" valign="bottom"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="2.00pt"?>Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry morerows="0" nameend="1" namest="1" valign="top"><?PubTbl
+cell border-bottom-width="0.25pt"?><b>EATON VERSION</b></entry>
+<entry morerows="0" nameend="2" namest="2" valign="top"><?PubTbl
+cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>CKB66922 </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>4P,400A,35KA,480V,EATON,LUGS,SWITCH</p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>MET56605 </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>METER,PQM,TRENDPOINT,ENKAPSIS</p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>PWS56550 </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>POWER SPPLY</p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><b>SQUARE D VERSION</b
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>CKB56587</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>4P,400A,35KA,480V,SQD,LUGS,SWITCH</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>MET56605</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>METER,PQM,TRENDPOINT,ENKAPSIS</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>PWS56550</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><p>POWER SPPLY</p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?><b>SQUARE D WITH
+PM8000 MONITOR VERSION</b></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>CKB56587</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>4P,400A,35KA,480V,SQD,LUGS,SWITCH</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>MET57845</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>PWR MTR, SQD,SER-8000,CTRL</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>FUS57270</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>Midget, HLDR,FA,1A,600V</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>FUS57267</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt"?>Midget, HLDR,FA,0.5A,600V</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

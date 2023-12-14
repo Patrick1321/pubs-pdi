@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="IntegrateRetrofitBypassCabinetWithV-F6C60F79" xml:lang="en"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Integrate Retrofit Bypass Cabinet with Vertiv RPP</title>
+<topic id="PartsList-13-F720EE26">
+<title>Parts List</title>
+<body>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\4x 120_ compare.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</body>
+</topic>
+<topic id="RecommendedTools-03F09365">
+<title>Recommended Tools</title>
+<body>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\5x.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</body>
+</topic>
+<topic id="PrepareTheVertivRPP-03F09365">
+<title>Prepare the Vertiv RPP</title>
+<body>
+<p>If you are installing a Retrofit Bypass Cabinet for a legacy Vertiv
+(Liebert) RPP, you must first prepare the RPP as summarized here:<ul>
+<li><p>Remove exterior and interior panels on the Bypass Cabinet side
+of the RPP.</p></li>
+<li><p>Remove RPP Display and the Monitoring Logic Compartment. (Monitoring
+will be installed later in the Retrofit Bypass Cabinet.) </p></li>
+<li><p>Disable or neutralize CTs in the RPP to prevent them generating
+a voltage</p></li>
+<li><p>Disconnect and remove selected cam-loks-to-busbar cables on
+the RPP</p></li>
+<li><p>Attach external label stating that the cam-loks are not energized.</p
+></li>
+</ul><note type="warning"><ul>
+<li><p>Before working on Reactor Power Panel, make sure that power
+to the unit is disconnected and locked out. </p></li>
+<li><p>Verify that power is not on to the RPP. Use a voltage meter
+to verify that voltage is not present.</p></li>
+</ul></note></p>
+</body>
+<topic id="RemoveVertivRPPSidePanels-03F09367">
+<title>Remove Vertiv RPP Side Panels</title>
+<body>
+<ol>
+<li><p>Determine the side of the Vertiv RPP that will face the Retrofit
+Bypass Cabinet.</p><p>On that side, remove the exterior panel. There
+are (4) bolts to remove.</p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\6x.pdf"
+placement="-dita-use-conref-target" scope="local"></image><fig></fig
+></li>
+<li><p>Remove the inside metal panel on the Bypass Cabinet side. Unbolt
+the panel from the inside.</p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\7.pdf"
+placement="-dita-use-conref-target" scope="local"></image></li>
+</ol>
+</body>
+</topic>
+<topic id="RemoveVertivRPPDisplayAndMonitoring-03F09368">
+<title>Remove Vertiv RPP Display and Monitoring Compartment</title>
+<body>
+<ol>
+<li><p>Remove the Vertiv Display Panel and associated parts. The Display
+Panel must be detached from inside the unit.</p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\8.pdf"
+placement="-dita-use-conref-target" scope="local"></image><ol>
+<li><p>Inside the unit disconnect any cables attached to the Display
+and its associated PCB.</p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\9.pdf"
+placement="-dita-use-conref-target" scope="local"></image></li>
+<li><p>From inside the unit unbolt the Display and PCB and remove
+the parts.</p></li>
+</ol></li>
+<li><p>Remove the side panel on the Monitoring Logic Compartment.
+The compartment contains PCBs.</p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\10.pdf"
+placement="-dita-use-conref-target" scope="local"></image><p>Unplug
+the monitoring wiring that is connected to PCBs in this compartment.</p
+></li>
+<li><p>Disconnect the cable for monitoring CTs from the monitoring
+board.</p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\11.pdf"
+placement="-dita-use-conref-target" scope="local"></image><p>Remove
+the connector on this cable.</p></li>
+<li><p>Install a replacement connector (MOD67280) on the CT cable
+end. The replacement connector is shorted out to prevent the CTs from
+generating a voltage.</p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\12.pdf"
+placement="-dita-use-conref-target" scope="local"></image></li>
+<li><p>Unscrew the retaining screws that hold the Vertiv Monitoring
+Logic Compartment in place. Retain screws for attaching cover plate.</p
+><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\13.pdf"
+placement="-dita-use-conref-target" scope="local"></image><p>Completely
+remove the Monitoring Logic Compartment.</p></li>
+</ol>
+</body>
+</topic>
+<topic id="DisconnectAndDisableRPPCam-LokCable-03F0936B">
+<title>Disconnect and Disable RPP Cam-Lok Cables</title>
+<body>
+<p>Vertiv RPPs have cables from input power Cam-Loks to bus bars.
+Some of these cables must be disabled and stored in the RPP.<ol>
+<li><p>Inside the RPP, disconnect wires 4A, 47, 20, 21, 22, and 5
+at both ends:</p><ul>
+<li><p>At the RPP load bus bars (shown at right) </p></li>
+<li><p>At the RPP cam-loks</p><p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\14.pdf"
+placement="-dita-use-conref-target" scale="90" scope="local"></image
+></p><p><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\15.pdf"
+placement="-dita-use-conref-target" scale="90" scope="local"></image
+></p></li>
+</ul></li>
+<li><p>Remove the cables.</p></li>
+</ol></p>
+</body>
+</topic>
+<topic id="MakeCut-OutsInTheCableEntryPanel-03F0936F">
+<title>Make Cut-Outs in the Cable Entry Panel</title>
+<body>
+<p>The Retrofit Bypass Cabinet has no knock-outs. Installers must
+make their own cable-entry cut outs. Cable entry is from the top of
+the unit.<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\16.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p>
+</body>
+</topic>
+</topic>
+<topic id="AttachRetrofitBypassCabinetToVertiv-03F0936F">
+<title>Attach Retrofit Bypass Cabinet to Vertiv (Liebert) RPP</title>
+<body>
+<p>Use the instructions on the following page to attach the Retrofit
+Bypass Cabinet to the Vertiv (Liebert) RPP.</p>
+<p>You will do the following:<ul>
+<li><p>Place cover plates where you removed the Display and Monitoring
+Compartment </p></li>
+<li><p>Join the two cabinets together </p></li>
+<li><p>Add a label to the front of the Vertiv (Liebert) RPP stating
+that Cam-Loks are de-energized. Referenced parts are from <xref
+format="dita" href="#PartsList-13-F720EE26" scope="local" type="topic"
+><?Pub _previewtext text="Parts List"?></xref></p><?Pub Caret -1?></li>
+</ul></p>
+</body>
+</topic>
+<topic id="AdjustLevelingPadsOnBypassCabinet-03F0937E">
+<title>Adjust Leveling Pads on Bypass Cabinet</title>
+<body>
+<p>Adjust Leveling Pads on the Bypass Cabinet to compensate for an
+uneven floor. Both sides of the Retrofit Bypass Cabinet for Vertiv
+RPPs have leveling feet.</p>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\17.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+<p>Use an adjustable wrench to adjust leveling feet.<note type="caution"
+>Do not screw leveling pads completely out of their sockets.</note
+><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\18.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p>
+</body>
+</topic>
+<topic id="AnchorTheRetrofitBypassCabinetToThe-03F09380">
+<title>Anchor the Retrofit Bypass Cabinet to the Floor</title>
+<body>
+<p>Retrieve (1) Seismic Bracket with bolts that you retained when
+removing the Retrofit Bypass Cabinet from its shipping pallet. (Only
+one Bracket is needed. When the units are attached together, the RPP
+side is already secured to the floor.) </p>
+<p>Attach the Seismic Bracket to the free side (outside bottom side)
+of the Retrofit Bypass Cabinet frame as shown below. </p>
+<p>Secure the seismic bracket to two (2) floor anchors. The customer
+must provide floor anchors.<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\19.pdf"
+placement="-dita-use-conref-target" scope="local"></image><image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\20.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p>
+</body>
+</topic>
+<topic id="RemoveEye-Bolts-03F09381">
+<?Pub _newpage?>
+<title>Remove Eye-Bolts</title>
+<body>
+<p>Now that the unit is secured to the floor, unscrew and remove (4)
+corner eye-bolts from the Retrofit Bypass Cabinet.</p>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22038 P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Graphics\21.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</body>
+</topic>
+</topic>

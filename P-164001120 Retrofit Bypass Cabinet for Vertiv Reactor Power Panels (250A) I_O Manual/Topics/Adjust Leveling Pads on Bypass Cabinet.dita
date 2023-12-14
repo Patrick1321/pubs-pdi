@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Adjust Leveling Pads on Bypass Cabinet</title>
+<body>
+<p>Adjust Leveling Pads on the Bypass Cabinet to compensate for an
+uneven floor. Both sides of the Retrofit Bypass Cabinet for Vertiv
+RPPs have leveling feet.</p>
+<p><image href="..\Graphics\17.pdf"
+placement="-dita-use-conref-target"></image></p>
+<p>Use an adjustable wrench to adjust leveling feet.<note type="caution"
+>Do not screw leveling pads completely out of their sockets.</note
+><image href="..\Graphics\18.pdf"
+placement="-dita-use-conref-target"></image></p>
+</body>
+</topic>

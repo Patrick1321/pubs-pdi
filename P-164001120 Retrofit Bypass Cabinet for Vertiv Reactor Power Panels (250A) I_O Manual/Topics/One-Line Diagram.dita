@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="One-LineDiagram-C72887F4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>One-Line Diagram</title>
+<body>
+<p>Power to the load will be provided by the Bypass, which has two
+power sources, the RPP and reserve power. The power output cables
+from the RPP to the load must be disconnected at the RPP and re-cabled
+to the Bypass Cabinet. </p>
+<p>The following illustration shows the one-line diagram for the Retrofit
+Bypass Cabinet. The one-line diagram is the same for LH and RH orientations.</p>
+<fig>
+<title>Retrofit Bypass Cabinet One-line Diagram</title><?Pub Caret -1?>
+<image href="..\Graphics\22.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+<note type="caution"><ul>
+<li><p>A licensed electrician must install the Retrofit Bypass Cabinet
+and connect internal and external wiring. </p></li>
+<li><p>Installers should use Lock-Out/Tag-Out procedures and observe
+other precautions listed in the introductory Safety section.</p></li>
+<li><p>Power wiring and grounding must comply with NEC and applicable
+local codes.</p></li>
+</ul></note>
+</body>
+</topic>

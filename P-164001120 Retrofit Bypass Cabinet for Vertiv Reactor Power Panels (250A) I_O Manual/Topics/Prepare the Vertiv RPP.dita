@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Prepare the Vertiv RPP</title>
+<body>
+<p>If you are installing a Retrofit Bypass Cabinet for a legacy Vertiv
+(Liebert) RPP, you must first prepare the RPP as summarized here:<ul>
+<li><p>Remove exterior and interior panels on the Bypass Cabinet side
+of the RPP. </p></li>
+<li><p>• Remove RPP Display and the Monitoring Logic Compartment.
+(Monitoring will be installed later in the Retrofit Bypass Cabinet.) </p
+></li>
+<li><p>Disable or neutralize CTs in the RPP to prevent them generating
+a voltage. </p></li>
+<li><p>Disconnect and remove selected cam-loks-to-busbar cables on
+the RPP. </p></li>
+<li><p>Attach external label stating that the cam-loks are not energized.</p
+></li>
+</ul><note type="warning"><ul>
+<li><p>Before working on Reactor Power Panel, make sure that power
+to the unit is disconnected and locked out. </p></li>
+<li><p>Verify that power is not on to the RPP. Use a voltage meter
+to verify that voltage is not present.</p></li>
+</ul></note></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Remove Vertiv RPP Side Panels.dita"><xi:fallback><!--Fallback markup for "Remove Vertiv RPP Side Panels.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Remove Vertiv RPP Display and Monitoring Compartment.dita"><xi:fallback><!--Fallback markup for "Remove Vertiv RPP Display and Monitoring Compartment.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Disconnect and Disable RPP Cam-Lok Cables.dita"><xi:fallback><!--Fallback markup for "Disconnect and Disable RPP Cam-Lok Cables.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Make Cut-Outs in the Cable Entry Panel.dita"><xi:fallback><!--Fallback markup for "Make Cut-Outs in the Cable Entry Panel.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 812?>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="CableBypassCabinetToRPP-C72887F7"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Bypass Cabinet to RPP</title>
+<body>
+<p>Legacy Vertiv (Liebert) RPP is shown at right.<ol>
+<li><p>Disconnect power output cables to load (busway) from the RPP
+Output Bus Bars outlined by the red rectangle. (You will later reconnect
+them to the load output of the Retrofit Bypass Cabinet.)</p><p><image
+href="..\Graphics\23.pdf" placement="-dita-use-conref-target"
+scope="local"></image></p></li>
+<li>(4) 2/0 cables (<b>ABCN</b>) with compression lugs are already
+attached to the input of the Retrofit Bypass Cabinet RPP Switch.<p
+><image href="..\Graphics\24.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p><ol>
+<li><p>(1) #2 AWG <b>Ground</b> cable is coiled and attached to the
+Output (Busway) ground bus in the Retrofit Bypass Cabinet.</p><p><image
+href="..\Graphics\24a.pdf" placement="-dita-use-conref-target"
+scope="local"></image></p><note>The cables are pre-cut to the correct
+length.</note></li>
+<li>Run the (5) cables through side panel glastic holes to the Vertiv
+RPP. Use the front set of glastic holes.<p><image
+href="..\Graphics\25.pdf" placement="-dita-use-conref-target"
+scope="local"></image></p></li>
+</ol></li>
+<li><p>Attach the ABCN cables to RPP output bus bars (red rectangle).</p
+><p><image href="..\Graphics\26a.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p><p>Attach
+the Ground wire to the Vertiv ground connection (yellow wire connection).<ul>
+<li><p>Torque for ½”-13 bolts is 57 ft-lbs. </p></li>
+<li><p>Torque for M12 bolts is 77 Nm.</p></li>
+</ul></p></li>
+</ol></p>
+</body>
+</topic>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="UnpackingAndMoving1119-C3172442" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Unpacking and Moving</title><?Pub Caret -3?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Receiving and Unpacking the Retrofit Bypass Cabinet.dita"><xi:fallback
+><!--Fallback markup for "Receiving and Unpacking the Retrofit Bypass Cabinet.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Moving Retrofit Bypass Cabinets.dita"><xi:fallback><!--Fallback markup for "Moving Retrofit Bypass Cabinets.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Clearances and Door Swing.dita"><xi:fallback><!--Fallback markup for "Clearances and Door Swing.dita"--></xi:fallback
+></xi:include>
+</topic>

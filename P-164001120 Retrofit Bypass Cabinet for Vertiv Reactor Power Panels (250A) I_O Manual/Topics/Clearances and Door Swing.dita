@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Clearances and Door Swing</title>
+<body>
+<p><b>Clearances:</b><ul>
+<li><p>Door swing, 12" [305 mm] front and rear</p></li>
+<li><p>Service clearance, front and rear: 30" [762 mm]</p></li>
+<li><p>Ventilation clearance: min. 6" [152.4 mm] front, rear, and
+one side.</p></li>
+</ul></p>
+<p><b>Door Swing:</b> The front and rear doors and the control panel
+doors on the Retrofit Bypass Cabinet can be hinged on the left (LH)
+or the right (RH).outward.</p>
+<p>See detailed drawings <xref format="dita"
+href="Drawings, Retrofit Bypass Cabinets 1120.dita#DrawingsRetrofitBypassCabinets1120-C31F6822"
+scope="local" type="topic"><?Pub _previewtext
+text="Drawings, Retrofit Bypass Cabinets 1120"?></xref>.</p>
+<fig>
+<title>Door Swing Measurements</title>
+<image href="..\Graphics\3.pdf"
+placement="-dita-use-conref-target"></image>
+</fig>
+</body>
+</topic>

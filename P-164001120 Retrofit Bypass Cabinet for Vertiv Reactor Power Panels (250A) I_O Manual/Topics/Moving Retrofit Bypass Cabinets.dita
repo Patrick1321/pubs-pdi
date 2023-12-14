@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Moving Retrofit Bypass Cabinets</title>
+<body>
+<p>Move the Retrofit Bypass Cabinet off its pallet using a hoist.</p>
+<ol>
+<li><p>Each unit has (4) eye-bolts on the top corners for lifting.
+Connect hoist cables to all (4) eye-bolts.</p></li>
+<li><p>Each Cabinet is bolted to its pallet using (2) seismic brackets.
+With the pallet resting on the floor, remove the seismic brackets
+and bolts and retain them for unit installation. (Only (1) seismic
+bracket is required for installation.)</p></li>
+<li><p>Units have no casters and should be hoisted into final position
+after the associated RPP is prepared for installation.<fig>
+<title>Retrofit Bypass Cabinet for Vertiv RPPs</title>
+<image href="..\Graphics\2.pdf" placement="-dita-use-conref-target">
+</image><?Pub Caret 0?>
+</fig></p></li>
+</ol>
+</body>
+</topic>

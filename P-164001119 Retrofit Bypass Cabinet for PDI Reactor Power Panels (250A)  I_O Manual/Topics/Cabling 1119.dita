@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Cabling1119-C3167E65" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cabling</title><?Pub Caret -1?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Cable RPP to Retrofit Bypass Cabinet.dita"><xi:fallback><!--Fallback markup for "Cable RPP to Retrofit Bypass Cabinet.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Cable Bypass Cabinet to RPP.dita"><xi:fallback><!--Fallback markup for "Cable Bypass Cabinet to RPP.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Cable Reserve and Load to Bypass.dita"><xi:fallback><!--Fallback markup for "Cable Reserve and Load to Bypass.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Monitoring Shorting CTs.dita"><xi:fallback><!--Fallback markup for "Monitoring Shorting CTs.dita"--></xi:fallback
+></xi:include>
+</topic>

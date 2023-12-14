@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Introduction1120-C31DBC63" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Introduction</title>
+<body>
+<p></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Intended Use.dita"><xi:fallback><!--Fallback markup for "Intended Use.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Description.dita"><xi:fallback><!--Fallback markup for "Description.dita"--></xi:fallback
+></xi:include>
+<topic>
+<title>Using This Manual</title>
+<body>
+<p>Read this manual thoroughly and make sure you understand the procedures
+before you attempt to install, set up, operate or carry out any maintenance
+work on this Eaton product.</p>
+<p>Read through each procedure before beginning the procedure. Perform
+only those procedures that apply to the unit being installed or operated.</p>
+</body>
+</topic>
+<topic>
+<title>Conventions Used in This Manual</title>
+<body>
+<p>This manual uses these type conventions:</p>
+<note>Some conventions only apply to display screens (if installed).</note>
+<ul>
+<li><p><b>Bold type</b> highlights important concepts in discussions,
+key terms in procedures, and menu options, or represents a command
+or option that you type or enter at a prompt.</p></li>
+<li><p><?Pub _font Posture="italic"?>Italic type<?Pub /_font?> highlights
+notes and new terms where they are defined.</p></li>
+<li><p><screen>Screen type</screen> represents information that appears
+on the screen or LCD.</p><table frame="bottom">
+<tgroup cols="2"><colspec colname="1" colsep="0" colwidth="3.36*"/>
+<colspec colname="2" colwidth="26.88*"/>
+<thead>
+<row>
+<entry align="center" morerows="0" nameend="1" namest="1"
+valign="bottom"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt"?>Icon</entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="bottom"
+><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="2.00pt"?>Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" morerows="0" nameend="1" namest="1" valign="top"
+><?PubTbl cell border-bottom-width="0.25pt"?><image
+href="..\Graphics\note_color.eps" scope="local"></image></entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+><?PubTbl
+cell border-bottom-width="0.25pt"?>Information notes call attention
+to important features or instructions.</entry>
+</row>
+<row>
+<entry align="center" morerows="0" nameend="1" namest="1" valign="top"
+><?PubTbl cell border-bottom-width="0.25pt"?>[Keys]</entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+><?PubTbl
+cell border-bottom-width="0.25pt"?>Brackets are used when referring
+to a specific key, such as [Enter] or [Ctrl].</entry>
+</row>
+</tbody>
+</tgroup>
+</table></li>
+</ul>
+</body>
+</topic>
+<topic>
+<title>Symbols, Controls, and Indicators</title>
+<body>
+<p>The following are examples of symbols used on the RPP or accessories
+to alert you to important information:</p>
+<table frame="none" id="RISKOFELECTRICSHOCK-ObserveTheWarni-EEF3822E">
+<tgroup cols="2"><colspec colname="1" colsep="0" colwidth="7.0*"/>
+<colspec colname="2" colwidth="25.58333*"/>
+<tbody>
+<row rowsep="0">
+<entry align="left" morerows="0" nameend="1" namest="1" valign="middle"
+><image href="..\Graphics\specSymElectricShock.pdf" placement="inline"
+scope="local"></image></entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+><p><b>RISK OF ELECTRIC SHOCK</b> - Observe the warning associated
+with the risk of electric shock symbol.</p></entry>
+</row>
+<row rowsep="0">
+<entry align="left" morerows="0" nameend="1" namest="1" valign="middle"
+><image href="..\Graphics\specSymCaution.pdf" placement="inline"
+scope="local"></image></entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+><p><b>CAUTION: REFER TO OPERATOR'S MANUAL</b> - Refer to your operator's
+manual for additional information, such as important operating and
+maintenance instructions.</p></entry>
+</row>
+<row>
+<entry align="left" morerows="0" nameend="1" namest="1" valign="middle"
+><image href="..\Graphics\specSymBatteryDisposalWEEE.pdf"
+placement="inline" scope="local"></image></entry>
+<entry align="left" morerows="0" nameend="2" namest="2" valign="top"
+>This symbol indicates that you should not discard waste electrical
+or electronic equipment (WEEE) in the trash. For proper disposal,
+contact your local recycling/reuse or hazardous waste center.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>
+<topic id="GettingHelp-18-F6B0901C">
+<title>Getting Help</title>
+<body>
+<note>References to PDI (Power Distribution, Inc.) or Vertiv may appear
+in this manual. Service, warranties and support for these components
+are obtained from Eaton.</note>
+<p>If help is needed with any of the following:</p>
+<ul>
+<li><p>Scheduling initial startup</p></li>
+<li><p>Regional locations and telephone numbers</p></li>
+<li><p>A question about any of the information in this manual</p></li>
+<li><p>A question this manual does not answer</p></li>
+</ul>
+<p>Please call the Eaton Help Desk at:</p>
+<p>United States:<b>1-800-843-9433</b> or <?Pub _font Weight="bold"
+?>1-919-870-3028<?Pub /_font?></p>
+<p>Canada:<b>1-800-461-9166 ext 260</b> </p>
+<p>All other countries:<b>Call your local service representative</b
+></p>
+<p>Please use the following e-mail for manual comments, suggestions,
+or to report a technical error in this manual.</p>
+<p><?Pub _font Weight="bold"?>E-ESSDocumentation@eaton.com<?Pub /_font
+?></p>
+</body>
+</topic>
+<topic>
+<title>Warranty and End User License Agreement</title>
+<body>
+<p>To view the warranty please click on the link or copy the address
+to download from the Eaton website: </p>
+<p><xref format="html"
+href="https://www.eaton.com/content/dam/eaton/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/portfolio/eaton-three-phase-ups-warranty.pdf"
+id="Eaton-three-phase-ups-warrantyPdf-29968729" scope="external">Eaton
+Product Warranty</xref></p>
+<p><xref format="pdf"
+href="https://www.eaton.com/content/dam/eaton/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/portfolio/eaton-three-phase-ups-warranty.pdf"
+scope="external">https://www.eaton.com/content/dam/eaton/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/portfolio/eaton-three-phase-ups-warranty.pdf</xref
+></p>
+<p>https://www.eaton.com/content/dam/eaton/products/backup-power-ups-surge-it-power-distribution/backuppower-ups/portfolio/eaton-three-phase-ups-warranty.pdf</p>
+<p>To view the End User License Agreement please click on the link
+or copy the address to download from the Eaton website:</p>
+<p><xref format="pdf"
+href="https://www.eaton.com/content/dam/eaton/products/support-systems/software-and-cad-registration-form/eaton-end-user-software-license-agreement.pdf"
+scope="external">Eaton End User License Agreement</xref></p>
+<p><xref format="pdf"
+href="https://www.eaton.com/content/dam/eaton/products/support-systems/software-and-cad-registration-form/eaton-end-user-software-license-agreement.pdf"
+scope="external">https://www.eaton.com/content/dam/eaton/products/support-systems/software-and-cad-registration-form/eaton-end-user-software-license-agreement.pdf</xref
+></p>
+</body>
+</topic><?Pub Caret -1?>
+</topic>

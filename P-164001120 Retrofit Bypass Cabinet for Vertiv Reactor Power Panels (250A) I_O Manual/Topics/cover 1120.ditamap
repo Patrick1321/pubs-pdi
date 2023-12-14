@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<techinfomap
+xmlns:atirds="http://www.arbortext.com/namespace/dita/rdstyle"
+atirds:comptype="topicAsMap"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<topicref format="dita"
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23072 aggregator reactor to current-limiting reactor\Add to CO\P-164001120 Retrofit Bypass Cabinet for Vertiv Reactor Power Panels (250A) Installation and Operation Manual\Topics\cover 1120.dita"
+scope="local" type="topic"></topicref><?Pub Caret -1?>
+</techinfomap>

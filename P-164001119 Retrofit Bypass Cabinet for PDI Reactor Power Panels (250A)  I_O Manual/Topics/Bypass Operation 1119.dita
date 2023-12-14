@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="BypassOperation1119-C315D416" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Bypass Operation</title><?Pub Caret -1?>
+<body>
+<p>Operation of the Bypass consists of switching power between main
+RPP power and reserve power. All controls are on the front of the
+Retrofit Bypass Cabinet in the Mechanical Transfer Compartment:<ul>
+<li><p>RPP Power Switch </p></li>
+<li><p>Reserve Power Switch </p></li>
+<li><p>Mechanical Interlock to prevent both switches being on at the
+same time.</p></li>
+</ul></p>
+<p>The Mechanical Interlock also has a label with switching instructions. </p>
+<p>To switch power between power sources, do the following:<ol>
+<li><p>Open Mechanical Transfer Compartment Door (see <xref
+format="dita" href="#./MechanicalTransferCompartmentAccess-C6BFF9C1"
+scope="local" type="fig"><?Pub _previewtext
+text="Mechanical Transfer Compartment Access"?></xref>). </p><fig
+id="MechanicalTransferCompartmentAccess-C6BFF9C1">
+<title>Mechanical Transfer Compartment Access</title>
+<image href="..\Graphics\29.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></li>
+<li><p>Open (turn off) both Power Switches in the Mechanical Transfer
+Compartment. </p></li>
+<li><p>Slide the Mechanical Transfer Interlock from one side to the
+other to switch the power source feeding the load (see <xref
+format="dita" href="#./MechanicalTransferInterlock-C6C005B9"
+scope="local" type="fig"><?Pub _previewtext
+text="Mechanical Transfer Interlock"?></xref>).<ul>
+<li><p>Right=RPP (250A reactor) powers the load. </p></li>
+<li><p>Left=Reserve powers the load.</p></li>
+</ul><fig id="MechanicalTransferInterlock-C6C005B9">
+<title>Mechanical Transfer Interlock</title>
+<image href="..\Graphics\30.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p></li>
+<li><p>Close (turn on) the RPP Power Switch or the Reserve Power Switch
+according to which power source should power the load.<note
+type="caution">The power-switching operation must be conducted in
+less than 60 seconds to prevent loss of power to the load.</note></p
+></li>
+<li><p>Close Mechanical Transfer Compartment Door.</p></li>
+</ol></p>
+</body>
+</topic>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Intended Use</title>
+<body>
+<p>Eaton Retrofit Bypass Cabinets (250A) are designed as an extension
+to installed Reactor Power Panels (RPPs). A Retrofit Bypass Cabinet
+allows input power to be switched between the main RPP power source
+and a reserve power source so that the RPP can be taken off line without
+interrupting power to the load.</p>
+<p>Reactor Power Panels (RPPs) make maintenance of downstream equipment
+safer by limiting fault current and reducing the risk of arc flash.
+A reserve power source for the Bypass temporarily provides the same
+safety benefits as the dedicated RPP while the RPP is off line for
+maintenance.</p>
+<p>Eaton Retrofit Bypass Cabinets are available for installed Eaton
+(PDI) and Vertiv RPPs. This manual describes installation and operation
+of Retrofit Bypass Cabinets for Eaton (PDI) RPPs. A separate manual
+(Number P-164001120) describes installation and operation of the Retrofit
+Bypass Cabinet for Vertiv RPPs.</p>
+</body>
+</topic>

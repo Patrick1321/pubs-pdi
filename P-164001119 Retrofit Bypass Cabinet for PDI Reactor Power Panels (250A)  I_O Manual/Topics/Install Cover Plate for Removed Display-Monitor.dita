@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Install Cover Plate for Removed Display/Monitor</title>
+<body>
+<p>Install cover plate PNL67920 over the opening left when you removed
+the Display/Monitor. Use reatined hex nuts.</p>
+<fig>
+<title>Display Cover Plate</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\10.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

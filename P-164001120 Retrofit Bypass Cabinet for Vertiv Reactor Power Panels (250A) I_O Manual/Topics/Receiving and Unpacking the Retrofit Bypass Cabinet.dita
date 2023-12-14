@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Receiving and Unpacking the Retrofit Bypass Cabinet</title>
+<body>
+<p>Retrofit Bypass Cabinets are shipped bolted to shipping pallets
+and protected by two layers of external plastic covering. The Retrofit
+Bypass Cabinet is first covered by a large plastic bag and then shrink-wrapped.
+Finally the unit is secured to the pallet with metal retaining bands.</p>
+<p>For moving the Retrofit Bypass Cabinet on its pallet, PDI recommends
+that you leave the retaining bands intact until you have moved the
+Retrofit Bypass Cabinet to a convenient location for removing it from
+its pallet.</p>
+<note>Inspect the shipped unit twice, upon receipt and after removing
+packaging materials.</note>
+<ol>
+<li><p>Upon receiving an Retrofit Bypass Cabinet pallet and before
+removing packaging, inspect the packaging for visible damage. If damage
+is evident notify the shipping company and PDI (see below for PDI
+contact information).</p><p>File any damage claims with the shipping
+company at time of delivery. Damage must be noted on the bill of lading.
+Failure to properly document all damage may result in the unit’s warranty
+being voided.</p></li>
+<li>Carefully cut the retaining bands, making sure that they do not
+scrape the exterior of the unit or scratch the paint.<note
+type="warning"><ul>
+<li><p>Metal retaining bands are under tension. Exercise caution when
+cutting them. </p></li>
+<li><p>Wear protective clothing including eye, face, and hand protection
+when cutting retaining bands.</p></li>
+</ul></note></li>
+<li><p>Carefully remove the outer layer of protective shrink wrap
+from the unit and the interior plastic covering bag. Use care to not
+puncture or scratch the Retrofit Bypass Cabinet with cutting tools.</p
+></li>
+<li>After removing the outer external packaging, inspect the unit’s
+exterior panels and doors for any visible damage such as scratches,
+dents, or cracks. If you discover any damage, notify the shipping
+company and PDI Service.<table>
+<tgroup cols="2">
+<?PubTbl tgroup cbmarg="0.20pt" clmarg="0.20pt" crmarg="0.20pt"
+ctmarg="0.20pt"?>
+<colspec colname="col1" colwidth="0.52*"/><colspec colname="COLSPEC3"
+colwidth="1.48*"/>
+<tbody>
+<row>
+<?PubTbl row breakpenalty="10000"?>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-style="none"
+border-top-style="none"?>PDI Service contact information:</entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"
+border-top-style="none"?></entry>
+</row>
+<row>
+<?PubTbl row breakpenalty="10000"?>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-style="none"?>Power
+Distribution Inc. </entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?></entry>
+</row>
+<row>
+<?PubTbl row breakpenalty="10000"?>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-style="none"?>4200
+Oakleys Court </entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?>(800)-225-4838 </entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-left-style="none"?>Richmond,
+Virginia 23223 </entry>
+<entry rowsep="0"><?PubTbl cell border-right-style="none"?>service@pdicorp.com</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0"><?PubTbl cell border-bottom-style="none"
+border-left-style="none"?></entry>
+<entry rowsep="0"><?PubTbl cell border-bottom-style="none"
+border-right-style="none"?></entry>
+</row>
+</tbody>
+</tgroup>
+</table></li>
+</ol>
+</body>
+</topic>

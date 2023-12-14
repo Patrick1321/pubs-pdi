@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="CableReserveAndLoadToBypass-C72887FC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Reserve and Load to Bypass</title>
+<body>
+<p>Reserve power cables and Load power cables are run from overhead
+to Retrofit Bypass Cabinet bus bars.</p>
+<p>To make overhead cable entry easier, Reserve and Load bus bars
+are staggered in the Retrofit Bypass Cabinet.<image
+href="..\Graphics\27.pdf" placement="-dita-use-conref-target"
+scope="local"></image><fig>
+<title>Reserve and Load Power Cables</title>
+</fig></p>
+<image href="..\Graphics\28.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+<p><image href="..\Graphics\29.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p>
+<ol>
+<li><p>Run <b>Load power cables</b> through overhead cable entry to <b
+>Bypass Output Bus Bars</b> (to busway).</p><p>Connect ABCNG cables
+to Bus Bars.<ul>
+<li><p>Torque ½”-13 bolts to 57 ft-lbs. </p></li>
+<li><p>Torque M12 bolts to 77 Nm.</p></li>
+</ul></p><p><image href="..\Graphics\30.pdf"
+placement="-dita-use-conref-target" scope="local"></image></p><p><image
+href="..\Graphics\31.pdf" placement="-dita-use-conref-target"
+scope="local"></image></p></li>
+<li><p>Run <b>Reserve power cables</b> through overhead cable entry
+to <b>Bypass Reserve Bus Bars</b>.</p><p>Connect ABCNG cables to Bus
+Bars<ul>
+<li><p>Torque ½”-13 bolts to 57 ft-lbs. </p></li>
+<li><p>Torque M12 bolts to 77 Nm.</p><note>Phase connections on LH
+and RH units are mirror images of each other.</note></li>
+</ul></p></li>
+</ol>
+</body>
+</topic>

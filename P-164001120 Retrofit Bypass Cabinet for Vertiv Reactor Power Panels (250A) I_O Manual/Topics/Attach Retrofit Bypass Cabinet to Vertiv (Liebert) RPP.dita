@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Attach Retrofit Bypass Cabinet to Vertiv (Liebert) RPP</title>
+<body>
+<p>Use the instructions on the following page to attach the Retrofit
+Bypass Cabinet to the Vertiv (Liebert) RPP. </p>
+<p>You will do the following:<ul>
+<li><p>Place cover plates where you removed the Display and Monitoring
+Compartment </p></li>
+<li><p>Join the two cabinets together </p></li>
+<li><p>Add a label to the front of the Vertiv (Liebert) RPP stating
+that Cam-Loks are de-energized.</p><p>Referenced parts are from <xref
+format="dita" href="#PartsList-C71EF567" scope="local" type="topic"
+><?Pub _previewtext text="Parts List"?></xref>.</p></li>
+</ul></p>
+</body>
+</topic>

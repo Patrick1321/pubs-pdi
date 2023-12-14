@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CableRPPToRetrofitBypassCabinet-C6B6FA92"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable RPP to Retrofit Bypass Cabinet</title>
+<body>
+<p>Power to the load will be provided by the Bypass, which has two
+power sources, the RPP and reserve power. The power output cables
+from the RPP to the load must be disconnected at the RPP and re-cabled
+to the Bypass. </p>
+<p>The following illustration shows the one-line diagram for the Retrofit
+Bypass Cabinet.<fig>
+<title>Retrofit Bypass Cabinet one-line</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22037 P-164001119 Retrofit Bypass Cabinet for PDI Reactor Power Panels (250A) Installation and Operation Manual\Graphics\17.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><note type="warning"><ul>
+<li><p>A licensed electrician must install the Retrofit Bypass Cabinet
+and connect internal and external wiring. </p></li>
+<li><p>Installers should use Lock-Out/Tag-Out procedures and observe
+other precautions listed in the introductory Safety section.</p></li>
+<li><p>Power wiring and grounding must comply with NEC and applicable
+local codes.</p></li>
+</ul></note></p>
+</body>
+</topic>
