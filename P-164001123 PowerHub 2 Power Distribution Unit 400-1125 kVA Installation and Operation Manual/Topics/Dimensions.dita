@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Dimensions-C735A1C8"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Dimensions</title>
+<body>
+<p>The PDU is housed in single NEMA-1 rated main cabinet enclosure.
+An optional side car is attached to the main cabinet to house the
+input breaker if the PDU is greater than 750 kVA. Enclosure depth
+varies as required by specific transformer specifications, such as
+K-factor, temperature rise, inrush, impedance, or aluminum construction. </p>
+<p>Enclosure dimensions are as follows:<ul>
+<li><p>400 kVA: 60" W x 40" D x 84" H, if the PDU has the standard
+transformer. </p></li>
+<li><p>500 kVA: 60” W x 42” D x 84” H, if the PDU has the standard
+transformer. </p></li>
+<li><p>625 – 750 kVA: 60” W x 48-56" D x 84” H", cabinet depth varies
+by transformer requirements. </p></li>
+<li><p>1000 –1125 kVA PDU: 86"W x 56"D x 84"H, includes a side car
+required for the main input circuit breaker.</p></li>
+</ul></p>
+</body>
+</topic>

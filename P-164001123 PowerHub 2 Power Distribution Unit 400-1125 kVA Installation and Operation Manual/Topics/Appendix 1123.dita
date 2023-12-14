@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="AppendixMainOutputCircuitBreakerOpt-C8C75C09"
+xml:lang="en-EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Appendix: Main Output Circuit Breaker Options</title><?Pub Caret -2?>
+<body>
+<p>An optional Main Output Circuit Breaker from the transformer secondary
+to the output subfeeds is available. For this circuit breaker, PDI
+provides Eaton or Square D (Schneider Electric) circuit breakers in
+several frame formats and kAIC ratings. For example, the smallest
+PowerHub 2 PDU at 400 kVA may use M-frame breakers instead of the
+standard R-frame circuit breaker. Main output circuit breakers may
+be 80- or 100-percent rated and may have different trip options. </p>
+<p><b>Voltage</b> Circuit breakers rated at a certain voltage can
+be used at any lesser voltage. For example, a breaker rated at 600V
+can be used at 400V. </p>
+<p><b>Interrupting Ratings</b> kAIC ratings are provided for 60 Hz
+(UL) and 50 or 60 Hz (IEC) at various voltages in the table below
+(<xref format="dita"
+href="#./MainOutputCircuitBreakerKAICRatings-C73C9111" scope="local"
+type="table"><?Pub _previewtext
+text="Main Output Circuit Breaker kAIC Ratings"?></xref>). Interrupting
+ratings are not available for all voltages because vendors test only
+at selected voltages. If a kAIC value is not listed for your output
+voltage, use the kAIC value for the next higher output voltage that
+is listed. The relationship of kAIC to voltage is not necessarily
+linear; therefore, do not extrapolate the kAIC value. </p>
+<p>Consult with your sales representative and Eaton Service for circuit
+breakers appropriate to your application. The part number of your
+breaker will be given in your submittals.</p>
+<table id="MainOutputCircuitBreakerKAICRatings-C73C9111">
+<title>Main Output Circuit Breaker kAIC Ratings</title>
+<tgroup cols="9"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/><colspec colname="col4"/><colspec
+colname="col5"/><colspec colname="col6"/><colspec colname="col7"/>
+<colspec colname="col8"/><colspec colname="col9"/>
+<thead>
+<row valign="middle">
+<entry align="center" colsep="0" morerows="2"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="2.00pt"
+border-left-style="none"?>Eaton Circuit Breaker</entry>
+<entry align="center" colsep="0" morerows="2"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="2.00pt"?>Square
+D Circuit Breaker</entry>
+<entry align="center" colsep="0" nameend="col5" namest="col3"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?>UL/CSA
+Rating (60 Hz)</entry>
+<entry align="center" colsep="0" nameend="col9" namest="col6"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>IEC 60947-2 Rating (50/60 Hz)</entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0" nameend="col5" namest="col3"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?>3 Phase</entry>
+<entry align="center" colsep="0" nameend="col7" namest="col6"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"?>240 VAC</entry>
+<entry align="center" colsep="0" nameend="col9" namest="col8"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>380/415 VAC</entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt"?>240 VAC</entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt"?>480 VAC</entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt"?>600 VAC</entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt"?>lcu</entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt"?>lcs</entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt"?>lcu</entry>
+<entry align="center"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="2.00pt" border-right-style="none"?>lcs</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>FD </b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>MG</b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>35
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>18
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>35
+kA </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>20 kA </entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>HFD </b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>MJ </b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>100
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>35
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>25 kA</entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>5GS</b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>PG</b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>35
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>18
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>35
+kA </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>20 kA </entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>5GH</b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>PJ</b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>100
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?> 65
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?> 35
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?> 50
+kA  </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?> 25 kA  </entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>LGS</b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>PK</b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?> 50
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>25 kA </entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>LGH</b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>PL</b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>125
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>100
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>125
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>85
+kA  </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>45 kA </entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>NGS</b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>RG</b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>35
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>18
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>35
+kA </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>20 kA  </entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b> NGC</b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>RJ</b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>100
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>35
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA  </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>25 kA  </entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>RGH</b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>RK </b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>25
+kA</entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>85
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?> 65
+kA  </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>70
+kA</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>55 kA </entry>
+</row>
+<row valign="middle">
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-style="none"?><b>RGU</b
+></entry>
+<entry align="center" colsep="0"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt"?><b>RL </b></entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>125
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>100
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>50
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>125
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>65
+kA </entry>
+<entry align="center" colsep="0"><?PubTbl cell border-bottom-width="0.25pt"?>85
+kA </entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-style="none"?>45 kA </entry>
+</row>
+<row>
+<entry align="center" colsep="0" nameend="col9" namest="col1"
+valign="middle"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-style="none" border-right-style="none"?>lcu=Interrupting
+capacity ultimate; lcs=Interrupting capacity service</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="DryContactNetwork-C7C4FAC9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Dry Contact Network</title>
+<body>
+<p>In addition to the Modbus network, the PDU has an extensive network
+of dry contacts providing input signals and alarm and status annunciation.
+Table 11 lists available dry contact input and output signals. </p>
+<p>Subfeeds circuit breakers have optional dry contacts to do the
+following (<xref format="dita"
+href="#./Figure30DryContactsForSubfeedCircui-C8C8F0EB" scope="local"
+type="fig"><?Pub _previewtext
+text="Dry Contacts for Subfeed Circuit Breakers"?></xref>):<ul>
+<li><p>Trip a circuit breaker remotely </p></li>
+<li><p>Bell alarm contact: present a trip alarm (changes state when
+breaker is tripped) </p></li>
+<li><p>Auxiliary contact: present circuit breaker change of state
+(open or closed)</p></li>
+</ul><table id="Table11PDUDryContactsTable-C8C8CD00">
+<title>PDU Dry Contacts Table</title>
+<tgroup cols="5"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/><colspec colname="col4"/><colspec
+colname="col5"/>
+<thead>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Device </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Input Signals </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Output Signals </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Signal Meaning </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><?Pub _cellfont Shading="gray2"?><p><b
+>Dry Contact Spec </b>NA=Not Applicable </p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Color Monitor </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Summary Alarm </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>An alarm is present on a device in the Monitor’s device chain. </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>0.5A @ 120VAC 0.5A @ 30VDC </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>PDU board </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>4 Digital Inputs, internal to PDU </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Digital Input 4 = PDU door open (default assignment). </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>NA </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>PDU (Contractor Board) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Remote Emergency Power Off (REPO) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Signal to immediately power down PDU. </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>NA </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>PDU (Contractor Board) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>4-8 Building Alarms </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Assignable meanings. </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>NA </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>PDU (Contractor Board) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>4-8 Remote Relays </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Assignable meanings </p><p>Relay 1 = Summary Alarm for PDU by default </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2A/250V </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Subfeed breaker(s) (optional) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Breaker trip </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Trip subfeed circuit breaker </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Max 5A/600V 24VDC recommended </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Subfeed breaker(s) (optional) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Bell (trip) alarm </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Signals that subfeed circuit breaker has tripped or has been reset </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Max 5A/600V 24VDC recommended </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Subfeed breaker(s) (optional) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Auxiliary contacts </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Signals that subfeed circuit breaker contacts have changed state
+(open or closed) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Max 5A/600V 24VDC recommended </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Surge Protective Device (SPD) <?Pub _font
+TypeSize=".69em" Offset=".33em"?>1<?Pub /_font?> (optional) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>OK/not OK signal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Signals alarm when protection is lost. </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Form C dry contact 125 VAC 1A resistive 30 VDC 2A general purpose </p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>External Permissive Signal (with Manual
+Dual PDU only) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Enable Solenoid Key Release Unit </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Stage 1 permissive signal, enabling SKRU; it can be jumpered to be
+permanently enabled (see section <xref format="dita"
+href="Manual Dual PDU Option 1123.dita#CustomerWiringForPermissiveSignals-C84522B2"
+scope="local" type="topic"><?Pub _previewtext
+text="Customer Wiring for Permissive Signals"?></xref>). </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>NA </p></entry>
+</row>
+<row>
+<entry nameend="col5" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _font
+TypeSize=".69em" Offset=".33em"?>1<?Pub /_font?><b> NOTE:</b> SPD
+characteristics shown for Mersen 100kA and 200 kA SPDs. SPD(s) from
+other vendors may be installed. See vendor specifications for SPD
+status reporting capabilities.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<fig id="Figure30DryContactsForSubfeedCircui-C8C8F0EB">
+<title>Dry Contacts for Subfeed Circuit Breakers</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\30.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

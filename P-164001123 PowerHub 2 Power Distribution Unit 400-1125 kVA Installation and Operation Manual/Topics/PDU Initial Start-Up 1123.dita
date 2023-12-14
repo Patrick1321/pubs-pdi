@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C329A83E" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Initial Start-Up</title>
+<body>
+<p><note type="warning"><ul>
+<li><p>A licensed electrician must install each unit. </p></li>
+<li><p>Startup by an Eaton certified technician is required to validate
+the warranty. </p></li>
+<li><p>Severe or fatal injury can result from electrical shock during
+contact with high voltage conductors, monitoring PCBs, or similar
+equipment. </p></li>
+<li><p>Before inspecting the PDU, make sure that power to the PDU
+is disconnected or shut off. </p></li>
+<li><p>Use Lock Out/Tag Out procedures. </p></li>
+<li><p>Wear suitable personal protective clothing and use protective
+equipment for performi ng mechanical and electrical installations
+and inspections.</p></li>
+</ul></note><note>Before applying utility power to the unit for the
+first time, the electrician performing the installation and/or a factory
+authorized representative should be present to verify that the following
+steps are correctly performed.</note></p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Post-Installation Inspection.dita"><xi:fallback><!--Fallback markup for "PDU Post-Installation Inspection.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Start-Up Procedure.dita"><xi:fallback><!--Fallback markup for "Start-Up Procedure.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 814?>

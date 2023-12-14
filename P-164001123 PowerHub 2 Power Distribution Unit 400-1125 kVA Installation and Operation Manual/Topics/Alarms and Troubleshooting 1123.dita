@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C329A7CC" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Alarms and Troubleshooting</title><?Pub Caret -2?>
+<body>
+<p>Alarms can be issued from any monitored component.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Alarms with WaveStar Infinity Monitoring.dita"><xi:fallback><!--Fallback markup for "Alarms with WaveStar Infinity Monitoring.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Alarms with WaveStar Monitoring.dita"><xi:fallback><!--Fallback markup for "Alarms with WaveStar Monitoring.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Basic Troubleshooting Guidelines.dita"><xi:fallback><!--Fallback markup for "Basic Troubleshooting Guidelines.dita"--></xi:fallback
+></xi:include>
+</topic>

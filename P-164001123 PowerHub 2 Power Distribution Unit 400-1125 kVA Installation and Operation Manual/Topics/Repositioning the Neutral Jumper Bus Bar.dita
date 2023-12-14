@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="RepositioningTheNeutralJumperBusBar-C832C6C0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd"
+xmlns:atict="http://www.arbortext.com/namespace/atict">
+<title>Repositioning the Neutral Jumper Bus Bar</title>
+<body>
+<note type="danger"><ul>
+<li><p>A licensed electrician or an Eaton service representative must
+adjust transformer output voltage. </p></li>
+<li><p>Severe or fatal injury can result from electrical shock during
+contact with high voltage conductors, monitoring PCBs, or similar
+equipment. </p></li>
+<li><p>The PDU MUST BE DE ENERGIZED before working on unit. “Hot work”
+is not allowed. </p></li>
+<li><p>Use Lock Out/Tag Out procedures. </p></li>
+<li><p>Wear suitable personal protective clothing and use protective
+equipment for performing mechanical and electrical installations.</p
+></li>
+</ul></note>
+<note>If the PDU is on warranty, this procedure must be performed
+by an Eaton service representative other Eaton-authorized service
+technician. Making changes to the PDU may void your warranty. See
+also section <xref format="dita"
+href="Introduction 1123.dita#Warranty-C73CBEF4" scope="local"
+type="topic"><?Pub _previewtext text="Warranty"?></xref> Warranty.</note><?Pub
+Caret 101?>
+<p>The following procedure explains how to reposition the neutral
+jumper bus bar when reconfiguring a 3-output transformer with secondary
+output voltages of 480VAC, 415VAC, and 208VAC. <ol>
+<li><p>Remove rear PDU panels. </p></li>
+<li><p>Locate the neutral jumper bus. Remove 20 bolts (3/8-16 x 1-1/4)
+from the five (5) bus connections as shown in <xref format="dita"
+href="#./Figure35NeutralJumperBusAttachmentL-C83E9FFF" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 35 Neutral Jumper Bus Attachment Locations, 3-Output Voltage Transformer"
+?></xref>. (Note how the fastener hardware is installed; you will
+reinstall the hardware in the same way.) Hardware fasteners by count: <ul>
+<li><p>20 bolts </p></li>
+<li><p>40 Belleville washers </p></li>
+<li><p>20 washers </p></li>
+<li><p>20 self-clinching nuts </p></li>
+</ul><note>It is recommended Belleville washers be replaced with new
+Belleville washers.</note></p></li>
+<li><p>Remove the neutral jumper bus. </p></li>
+<li><p>On the <u>old tap connections</u>: <ol>
+<li><p>Clean the connection surfaces of both the taps and the neutral
+jumper bus; remove any debris or torque seal by lightly scuffing with
+high grain sand paper. Take care that debris does not fall into transformer
+windings. </p></li>
+<li><p>To prevent rust, apply anti-oxidation grease on the surface
+of these voltage taps. </p></li>
+</ol></p></li>
+<li><p>For the new tap connections: <ol>
+<li><p>Locate the desired voltage setting on the side of the neutral
+bus bar as shown in <xref format="dita"
+href="#./Figure36NeutralJumperBusPositions3--C8D66398" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 36 Neutral Jumper Bus Positions, 3-Output Voltage Transformer"
+?></xref> </p>.</li>
+<li><p>Clean off existing anti-oxidation grease on the voltage taps
+prior to installing the neutral jumper bus.</p></li>
+</ol></p></li>
+<li><p>Install the <b>neutral bus jumper</b> at the voltage position
+selected in step 5a using hardware saved in step 2. <ol>
+<li><p>Please note: <ul>
+<li><p>480VAC requires jumper ends to face down </p></li>
+<li><p>415VAC and 208VAC require jumper ends to face up </p></li>
+</ul></p></li>
+<li><p>Connect neutral bus jumper to taps using fastener hardware
+reserved in Step 2. </p></li>
+<li><p>Torque connections to specifications in <xref format="dita"
+href="#./Table14Multi-OutputPDUTransformerTa-C83EAE2C" scope="local"
+type="table"><?Pub _previewtext
+text="Table 14 Multi-Output PDU Transformer Taps Torque Specification"
+?></xref>. </p></li>
+</ol></p></li>
+<li><p>Apply torque seal to all connections for visible verification
+of torque.</p></li>
+</ol></p>
+<table id="Table14Multi-OutputPDUTransformerTa-C83EAE2C">
+<title>Multi-Output PDU Transformer Taps Torque Specification</title>
+<tgroup cols="2">
+<?PubTbl tgroup dispwid="488.00px"?>
+<colspec colname="col1" colwidth="1.06*"/><colspec colname="col2"
+colwidth="0.94*"/>
+<thead>
+<row>
+<entry align="center" nameend="col2" namest="col1" valign="top"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?>TORQUE SPECIFICATIONS </entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><b>HARDWARE
+BOLT SIZE 	</b></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><b>	IN/LB </b></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1/4-20 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>85 </p></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5/16-18 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>201 </p></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>3/8-16 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>350 </p></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>7/16-14 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>575 </p></entry>
+</row>
+<row>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1/2-13 </p></entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>875 </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<fig id="Figure35NeutralJumperBusAttachmentL-C83E9FFF">
+<title>Neutral Jumper Bus Attachment Locations, 3-Output Voltage Transformer</title>
+<image href="..\Graphics\35.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+<fig id="Figure36NeutralJumperBusPositions3--C8D66398">
+<title>Neutral Jumper Bus Positions, 3-Output Voltage Transformer</title>
+<image href="..\Graphics\36.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig>
+</body>
+</topic>

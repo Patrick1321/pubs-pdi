@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CableLanding-C7ADC73C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Landing</title>
+<body>
+<p>The PDU is designed for top or bottom cable input and output in
+the front half of the cabinet. Top and bottom cable landing panels
+are removable. The cable landing panels are galvanized solid plate
+(not pre-punched) and are not painted. If aluminum conductors are
+used, there may be limitations on conduit. Differences in conduit
+capacity for copper and aluminum conductors are shown in <xref
+format="dita"
+href="Installation Planning Electrical 1123.dita#CircuitBreakerCapacityAndFrameType-C7A829E3"
+scope="local" type="topic"><?Pub _previewtext
+text="Circuit Breaker Capacity and Frame Type"?></xref>.</p><?Pub Caret -1?>
+<p>When applicable, provisions must be made for cable entry through
+the raised floor once the PDU has been properly located. Cable entry
+openings should be free of any sharp edges and designed to allow permanent
+access for input power cables and distribution cables.</p>
+</body>
+</topic>

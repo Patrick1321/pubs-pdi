@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="BasicTroubleshootingGuidelines-C7372A07"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Basic Troubleshooting Guidelines</title>
+<body>
+<table>
+<title>Basic Troubleshooting Guidelines</title>
+<tgroup cols="3"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/>
+<thead>
+<row>
+<entry valign="top"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>Symptom</entry>
+<entry valign="top"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Probable
+Cause </entry>
+<entry valign="top"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Remedy</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>No power to unit</p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Unit
+not connected to power source. Main Breaker not enabled.</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Connect
+unit to power source. Turn on or reset main circuit breaker.</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>Individual output circuit has no power.</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Output
+circuit breaker and/or cable are not connected to PDU.</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Connect
+output circuit to PDU and energize circuit.</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>No output from unit but indicators are
+on</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Main
+breaker is turned off or has tripped</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Check
+Monitor for active alarms, then reset main breaker.</entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>No upstream communication</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Not
+able to remotely communicate to the monitor</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Check
+communications cable connection. <p>Verify communications parameters,
+such as upstream address, baud rate, and parity are set correctly
+in setup screens.</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>No audible indication</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>No
+audible when an alarm occurs</entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Verify
+the horn is enabled on setup screen.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C329A92A" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>WaveStar Monitoring: PDU Network</title><?Pub Caret -2?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Components Layout .dita"><xi:fallback><!--Fallback markup for "Components Layout .dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="WaveStar Color Monitor.dita"><xi:fallback><!--Fallback markup for "WaveStar Color Monitor.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU (M4G) Board.dita"><xi:fallback><!--Fallback markup for "PDU (M4G) Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Contractor Boards.dita"><xi:fallback><!--Fallback markup for "Contractor Boards.dita"--></xi:fallback
+></xi:include>
+</topic>

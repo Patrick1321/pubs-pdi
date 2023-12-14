@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ModbusDeviceAddresses-C73697C1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus Device Addresses</title>
+<body>
+<p>Each “device” in the Color Monitor’s Modbus chain is a Modbus points
+list with its own Modbus address.<ul>
+<li><p>The WaveStar Color Monitor is represented by a single points
+list. </p></li>
+<li><p>A PDU M4G board and contractor board are together represented
+by a single points list. </p></li>
+<li><p>A BCMS Data Acquisition Board for up to (14) subfeeds has a
+single Modbus address. (The Resistor Board does not have a Modbus
+address.) </p></li>
+<li><p>Breaker IO Board, providing signaling to BCMS for auxiliary
+contacts and/or bell contacts for up to (14) circuit breakers, has
+a single Modbus address.</p></li>
+</ul>Modbus addresses of devices in the internal PDU network (the <?Pub _font
+Posture="italic" Weight="bold"?>downstream<?Pub /_font?> Modbus network
+segment) are assigned sequentially starting at 1 (1,2, 3, …). For <?Pub _font
+Posture="italic" Weight="bold"?>upstream<?Pub /_font?> primaries addresses
+are translated to sequentially follow the Monitor’s Modbus address
+(<xref format="dita"
+href="#./Figure33RemappingModbusAddressesExa-C830C01D" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 33 Remapping Modbus Addresses (Example)"?></xref>). </p>
+<p>Downstream devices are <u>only</u> visible to the upstream Modbus
+primary through these remapped addresses. These remapped addresses
+are what the DCIM or BIM system must use to address the downstream
+BCMS devices.</p>
+<fig id="Figure33RemappingModbusAddressesExa-C830C01D">
+<title>Remapping Modbus Addresses (Example)</title>
+<image href="..\Graphics\33a.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="Clearances-C735A1C9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Clearances</title>
+<body>
+<p>Service clearance: 36" front only access </p>
+<p>Ventilation clearances (minimum):<ul>
+<li><p>6" both sides, OR </p></li>
+<li><p>6" rear plus one side</p></li>
+</ul></p>
+<p>PDUs with the Multi-Output PDU Option must either have 36" service
+clearance in the rear or 36" on both sides for reconfiguring transformer
+secondary output voltages or the PDU must be moved forward when reconfiguring
+the transformer. </p>
+<p>Follow the National Electrical Code (NEC) and local electrical
+codes for clearance requirements in addition to these clearances.</p>
+</body>
+</topic>

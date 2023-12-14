@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="PDUFloorStands-C7A943AE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Floor Stands</title>
+<body>
+<p>Floor stands are available for PDU cabinets and the optional side
+car in the following heights:<table>
+<tgroup cols="3">
+<?PubTbl tgroup dispwid="303.00px"?>
+<colspec colname="col1" colwidth="0.71*"/><colspec colname="col2"
+colwidth="0.98*"/><colspec colname="col3" colwidth="1.31*"/>
+<tbody>
+<row valign="middle">
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?>12”
+± 1.5"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>24" ± 1.5"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?>48" ± 1.5"</entry>
+</row>
+<row valign="middle">
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?>16" ± 1.5"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>36" ± 1.5"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>54" ± 1.5"</entry>
+</row>
+<row valign="middle">
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?>18" ± 1.5"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>42" ± 1.5"</entry>
+<entry align="center"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>60" ± 1.5"</entry>
+</row>
+</tbody>
+</tgroup>
+</table>See <xref format="dita"
+href="Installation PDU Placement 1123.dita#StructuralFasteners-C7ABA35B/Figure10ExampleFloorStandFor42-inch-C7ABB681"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 10 Example Floor Stand for 42-inch deep PDU"?></xref
+> and <xref format="dita"
+href="Installation PDU Placement 1123.dita#StructuralFasteners-C7ABA35B/Figure11ExampleFloorStandFor1000KVA-C7ABBAD0"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 11 Example: Floor Stand for 1000 kVA PDU with Side Car"
+?></xref> for floor stand drawings.</p><?Pub Caret 236?>
+</body>
+</topic>

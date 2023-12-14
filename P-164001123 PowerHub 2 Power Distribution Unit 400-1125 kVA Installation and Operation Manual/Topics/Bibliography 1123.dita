@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<topic id="Bibliography1123-CA30969F" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Bibliography</title><?Pub Caret -2?>
+<body>
+<section><title>WaveStar Infinity Monitoring</title><p>Each WaveStar
+Infinity system has a single consolidated Modbus Points List and a
+single consolidated SNMP MIB that are customized for the PDU’s configuration.
+They can be downloaded from the WaveStar Infinity Monitor on your
+PDU using a network attached browser with administrator privileges.
+Go the <b>NETWORK</b> screen and <b>MODBUS</b> or SNMP Tab.</p></section>
+<section><title>WaveStar Monitoring:</title><p><b>Modbus Points Lists</b
+></p><p>Modbus Points lists for PDUs can be downloaded from the PDI
+website. Go to <b>Service Software Downloads</b>:</p><p><xref
+href="https://www.eaton.com/us/en-us/services.html" scope="external"
+>https://www.pdicorp.com/services/service-software-downloads</xref
+></p><p>Select <b>Modbus RTU Points List</b>. A dialogue box for <b
+>Modbus-RTU-Product-Points- List.zip</b> opens. Open and unzip the
+file to show a directory list. Each PDU device has its own points
+list, listed below by directory and document name:</p><p><ul>
+<li><p>Color Monitor: \Wavestar Color Monitor PDU-RPP\FDI Color Touchscreen
+Points list.docx </p></li>
+<li><p>PDU Board: \Wavestar M4G\M4G acquisition Points list-E.doc </p
+></li>
+<li><p>Subfeeds: \BCMS\BCMSII points list Fourteen Sub-rev4.doc </p
+></li>
+<li><p>Breaker IO: \Breaker IO\Breaker IO points list-rev1.doc</p
+></li>
+</ul></p><p><b>SNMP MIB</b></p><p>To download the SNMP MIB for the
+Color Monitor, PDU, subfeeds, and IO Breaker Board, go to <b>Service
+Software Downloads</b>:</p><p><xref
+href="https://www.eaton.com/us/en-us/services.html" scope="external"
+>https://www.pdicorp.com/services/service-software-downloads</xref
+></p><p>Select <b>SNMP Product Points List</b>. Open the zip file <b
+>SNMP-Product-MIB-Files.zip</b>. The MIB for the Color Monitor contains
+a complete PDU MIB configuration. Select the directory <b>Wavestar
+Color Monitor PDU-RPP</b>, which contains the MIB “PDI FDI DISPLAY-14.mib”.</p
+></section>
+<section><title>Manuals and Other Documentation for PDI Products</title
+><p>Installation and Operation manuals and other documentation for
+specific products can be downloaded from the product pages on the
+PDI website. Go to Products and select the appropriate Product Page:</p
+><p><xref format="html" href="https://www.pdicorp.com/products/"
+scope="external">https://www.pdicorp.com/products</xref></p><p>For
+example, documentation for the PDI PowerHub 2 PDU can be downloaded
+from its product page:</p><p><xref format="html"
+href="https://www.eaton.com/us/en-us/catalog/backup-power-ups-surge-it-power-distribution/eaton-pdi-powerhub-2-pdu.html"
+scope="external">https://www.pdicorp.com/products/distribute/powerhub-2-pdu</xref
+></p></section>
+</body>
+</topic>

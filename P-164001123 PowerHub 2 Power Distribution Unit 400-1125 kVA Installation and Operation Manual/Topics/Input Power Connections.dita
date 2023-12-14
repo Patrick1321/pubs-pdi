@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InputPowerConnections-C7ADC73D"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Input Power Connections</title>
+<body>
+<p>Customers can make input power connections directly to the input
+breaker or, with the Extended Bus Option, directly to the Extended
+Bus (<xref format="dita"
+href="#./Figure15MainInputCircuitBreakerPowe-C8CE96EA" scope="local"
+type="fig"><?Pub _previewtext
+text="Main Input Circuit Breaker Power Connections"?></xref>). The
+Extended Busbar Option can accommodate double-hole compression lugs
+and top and bottom connections to the bus. Extended bus holes are
+1/2" dia. For dual input PDUs, see <xref format="dita"
+href="Manual Dual PDU Option 1123.dita#topic-1-C329A87C" scope="local"
+type="topic"><?Pub _previewtext text="Manual Dual PDU Option"?></xref
+></p>
+<p>Input wiring is the responsibility of the customer or installing
+contractor and must comply with NEC standards.</p>
+<fig id="Figure15MainInputCircuitBreakerPowe-C8CE96EA">
+<title>Main Input Circuit Breaker Power Connections</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\15.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Torque for Electrical Components.dita"><xi:fallback><!--Fallback markup for "Torque for Electrical Components.dita"--></xi:fallback
+></xi:include>
+</topic>

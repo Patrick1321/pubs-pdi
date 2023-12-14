@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ProductSummary-C73CBEDB"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Product Summary</title>
+<body>
+<p>The Eaton® PDI PowerHub 2 400-1125 kVA Power Distribution Unit
+(PDU) is a large capacity, high-power-density power distribution module
+with the following features:<ul>
+<li><p>400 kVA to 1125 kVA transformer with a choice of transformer
+vectors, compensation taps, and transformer inrush limits </p></li>
+<li><p>Multi-Output PDU Option, providing a transformer that can be
+reconfigured on site for any one of two or three output voltages </p
+></li>
+<li><p>Side Car Option, providing capacity for a large input circuit
+breaker and, if needed, output breaker, required for PDUs with transformers
+greater than 750 kVA </p></li>
+<li><p>Manual Dual PDU Option, allowing two alternate input sources
+to be manually switched using Kirk Keys without dropping the load </p
+></li>
+<li><p>Optional Surge Protective Device (SPD)</p></li>
+</ul></p>
+<p>The PDU has extensive monitoring capabilities. Customer can choose
+between two monitoring systems:<ul>
+<li><p>WaveStar Infinity is Eaton PDI’s latest metering and monitoring
+solution for the Power Hub 2 platform and is recommended for all new
+data center buildouts. It was launched in 2018 and offers revenue
+grade accuracy, high speed data communication, and a color touchscreen
+display with an intuitive user interface. </p></li>
+<li><p>WaveStar Monitoring is Eaton PDI’s previous metering and monitoring
+standard, which includes the WaveStar Color Monitor, launched in 2014.
+WaveStar Monitoring is still available for the PowerHub 2 PDU. </p
+></li>
+<li><p>Both monitoring systems have these features:</p><ul>
+<li><p>Monitoring for transformer, main power feeds, subfeeds, and
+other PDU functions • Color touch-screen monitor </p></li>
+<li><p>Modbus RTU, Modbus TCP/IP, and SNMP protocols </p></li>
+<li><p>TCP/IP for browser screen access (WaveStar Infinity Monitoring)
+or for Color Monitor web pages (WaveStar Monitoring) </p></li>
+<li><p>An extensive dry contact network</p></li>
+</ul></li>
+</ul></p>
+<p>The PowerHub 2 is a front-accessible PDU (Figure 1) with front-access
+for these functions:<ul>
+<li><p>Operator controls and monitoring </p></li>
+<li><p>Customer power, network, and dry contact connections </p></li>
+<li><p>Circuit breakers </p></li>
+<li><p>Replaceable PCBs, fuses, and other maintenance</p></li>
+</ul></p>
+<p>However, if the PDU has the Multi-Output PDU Option, rear access
+is required to perform off-line transformer reconfiguration. </p>
+<p>The PDU design provides customers PDU placement flexibility with
+a small total space footprint:<ul>
+<li><p>Because the PDU is front-accessible for all maintenance (except
+for reconfiguring the transformer in the Multi-Output PDU Option),
+it requires 36" service clearance only at the front and 6" ventilation
+clearance at the back plus one side. </p></li>
+<li><p>Cable entry to the PDU is from the top or bottom with removable
+conduit plates. </p></li>
+<li><p>Welded busbar construction, front-accessibility, and top/bottom
+cable entry allow the PDU to be positioned near walls or other equipment,
+requiring less space and service clearances than similarly sized PDUs. </p
+></li>
+<li><p>The PDU can be placed on fixed floor, reinforced raised floor,
+or floor stand. Floor stands (12"- 60" ± 1.5" H) are available for
+all units and the optional side car.</p></li>
+</ul></p>
+</body>
+</topic>

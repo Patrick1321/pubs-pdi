@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TransformerVoltageCompensationTaps-C7A82A3D"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transformer Voltage Compensation Taps</title>
+<body>
+<p>Transformer taps compensate for variation in incoming voltage from
+the nominal value. Voltage compensation taps on the transformer primary
+let you adjust the turns ratio, providing a constant value of secondary
+voltage to the load. </p>
+<p>The transformer nameplate (<xref format="dita"
+href="#./Figure8TransformerNameplateSample-C8C6FCCF" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 8 Transformer Nameplate Sample"?></xref>) is located
+near the transformer (<xref format="dita"
+href="#Transformer-C7A82A34/Figure6PDURearViewCoversOffTransfor-C8C6C0AF"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 6 PDU Rear View, Covers Off, Transformer Compartment"
+?></xref>) and includes cable connections for voltage compensation
+taps with the resulting input voltage along with other transformer
+specifications. </p>
+<p>Voltage compensation taps are changed from the front of the PDU
+(<xref format="dita"
+href="#./Figure7TransformerVoltageCompensati-C8C705C8" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 7 Transformer Voltage Compensation Taps and Main Circuit Breaker"
+?></xref>). </p>
+<p>Voltage compensation taps are not available with transformers above
+750 kVA or with the Multi-Output PDU Option.<fig
+id="Figure7TransformerVoltageCompensati-C8C705C8">
+<title>Transformer Voltage Compensation Taps and Main Circuit Breaker</title>
+<image href="..\Graphics\7.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><fig id="Figure8TransformerNameplateSample-C8C6FCCF">
+<title>Transformer Nameplate Sample</title>
+<image href="..\Graphics\8.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

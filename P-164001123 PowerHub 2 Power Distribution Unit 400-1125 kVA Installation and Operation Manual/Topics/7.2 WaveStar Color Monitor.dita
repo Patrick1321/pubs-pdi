@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="WaveStarColorMonitor-C7C4FAB7"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>WaveStar Color Monitor</title>
+<body>
+<p>The PDU has a WaveStar Color Monitor (<xref format="dita"
+href="#./Figure23WaveStarColorMonitorScreen-C8C8E2D0" scope="local"
+type="fig"><?Pub _previewtext text="WaveStar Color Monitor Screen"
+?></xref>) with a 7-inch color touchscreen. For information, see <i
+>WaveStar Color Monitor, Setup and Operation P-164001109</i>.</p>
+<fig id="Figure23WaveStarColorMonitorScreen-C8C8E2D0">
+<title>WaveStar Color Monitor Screen</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\23.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="7.2.1 Color Monitor Backpanel.dita"><xi:fallback><!--Fallback markup for "7.2.1 Color Monitor Backpanel.dita"--></xi:fallback
+></xi:include>
+</topic>

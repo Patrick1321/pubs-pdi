@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ElectricalSpecification-C7A82A32"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Electrical Specification</title>
+<body>
+<p>The PDU has these electrical characteristics:<ul>
+<li><p>kVA rating 400-1125 kVA </p></li>
+<li><p>Input frequency 60 Hz ± 5 Hz or 50 Hz ± 5 Hz </p></li>
+<li><p>Input: 3-phase, 3-wire plus ground </p></li>
+<li><p>Input source voltage:</p><ul>
+<li><p>@ 50 Hz: 380V-415VAC </p></li>
+<li><p>@ 60 Hz: 600, 575, 480 or 208VAC</p></li>
+</ul></li>
+<li><p>Output: 3-phase, 4-wire plus ground </p></li>
+<li><p>Output Voltage:</p><ul>
+<li><p>@ 50 Hz: 575/332, 415/240, or 380/230VAC </p></li>
+<li><p>@ 60 Hz: 600/346, 575/332, 480/277, 415/240, 400/230, or 208/120VAC</p
+></li>
+</ul></li>
+<li><p>All wiring per the National Electrical Code (NEC) </p></li>
+<li><p>Welded copper bus connections with 200% neutral </p></li>
+<li><p>Computer grade single-point ground in accordance with the requirements
+of the NEC</p></li>
+</ul></p>
+</body>
+</topic>

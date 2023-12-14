@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SubfeedGroundAndNeutralBusbars-C7ADC73D"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Subfeed Ground and Neutral Busbars</title>
+<body>
+<p>The PDU has ground busbars and neutral busbars symmetrically arranged
+on the left and right side of the PDU for grounding circuit breakers
+and other equipment (<xref format="dita"
+href="#PowerComponentsLayout-C7ADC737/Figure12PowerDistributionComponents-C8CC7CF9"
+scope="local" type="fig"><?Pub _previewtext
+text="Power Distribution Components"?></xref>). </p>
+<p>An isolation grounding conductor identical in size, insulation
+material, and thickness to the grounded and ungrounded branch circuit
+supply conductors should be installed as part of the branch circuit
+that supplies the system. </p>
+<p>This grounding conductor should be marked green (or green with
+yellow stripe) when using a four (4) wire system. This grounding conductor
+should be grounded at the nearest available grounding electrode in
+accordance with all electrical codes. The output cabling receptacles
+of the PDU should be the same grounding type. The grounding conductors
+serving these receptacles should be terminated at the PDU ground bus.</p>
+</body>
+</topic>

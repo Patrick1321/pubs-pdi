@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PowerComponentsLayout-C7ADC737"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Power Components Layout</title>
+<body>
+<p>The PDU has a Main Input Circuit Breaker to the transformer and
+an optional Main Output Circuit Breaker from the transformer to the
+Distribution Subfeeds (<xref format="dita"
+href="#./Figure12PowerDistributionComponents-C8CC7CF9" scope="local"
+type="fig"><?Pub _previewtext text="Power Distribution Components"
+?></xref> and <xref format="dita"
+href="#./Figure13SecondaryOutputCircuitBreak-C8CC7F42" scope="local"
+type="fig"><?Pub _previewtext
+text="Secondary Output Circuit Breaker in Main Cabinet"?></xref>). </p>
+<p>The main input bus is also compatible with a main lug only (MLO)
+power feed—that is, without a main breaker.</p>
+<p>The following illustration (<xref format="dita"
+href="#./Figure12PowerDistributionComponents-C8CC7CF9" scope="local"
+type="fig"><?Pub _previewtext text="Power Distribution Components"
+?></xref>) shows the locations of power distribution components. Typical
+one-line electrical diagrams using different input and output voltages
+are shown in <xref format="dita"
+href="#InstallingCurrentTransformersForSub-C7ADC73F/Figure17PowerHub2PDUOne-LineDiagram-C8CC907E"
+scope="local" type="fig"><?Pub _previewtext
+text="PowerHub 2 PDU One-Line Diagram with 480/208VAC"?></xref> and <xref
+format="dita"
+href="#InstallingCurrentTransformersForSub-C7ADC73F/Figure18PowerHub2PDUWith230400VAC-C8CC8E8A"
+scope="local" type="fig"><?Pub _previewtext
+text="PowerHub 2 PDU with 230/400 VAC"?></xref>.</p>
+<fig id="Figure12PowerDistributionComponents-C8CC7CF9">
+<title>Power Distribution Components</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\12.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>An optional secondary output circuit breaker can also be installed
+in the main cabinet as well as SPDs (<xref format="dita"
+href="#./Figure13SecondaryOutputCircuitBreak-C8CC7F42" scope="local"
+type="fig"><?Pub _previewtext
+text="Secondary Output Circuit Breaker in Main Cabinet"?></xref>).
+For PDUs over 750 kVA input and optional secondary output circuit
+breakers must be installed in a sidecar. (See <b><xref format="dita"
+href="Installation Planning PDU Location 1123.dita#OutlineDrawings-C7A943AE/Figure5PowerHub2PDU1000KVAWithSideC-C8CBE3B1"
+scope="local" type="fig"><?Pub _previewtext
+text="PowerHub 2 PDU 1000 kVA with Side Car, Outline Drawing"?></xref
+>.</b>). </p>
+<p>With the Manual Dual PDU Option, dual input circuit breakers are
+also placed in the main cabinet. (See <xref format="dita"
+href="Manual Dual PDU Option 1123.dita#topic-1-C329A87C" scope="local"
+type="topic"><?Pub _previewtext text="Manual Dual PDU Option"?></xref
+> and <xref format="dita"
+href="Manual Dual PDU Option 1123.dita#topic-1-C329A87C/Figure38ManualDualPDUExampleWithDoo-C8CD7DAD"
+scope="local" type="fig"><?Pub _previewtext
+text="Manual Dual PDU Example with Doors Open"?></xref>). A secondary
+output circuit breaker cannot be installed in the main cabinet when
+dual input circuit breakers are installed.</p>
+<fig id="Figure13SecondaryOutputCircuitBreak-C8CC7F42">
+<title>Secondary Output Circuit Breaker in Main Cabinet</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\13.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

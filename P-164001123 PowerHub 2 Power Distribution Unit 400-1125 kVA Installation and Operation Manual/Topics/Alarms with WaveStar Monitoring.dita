@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="AlarmsWithWaveStarMonitoring-C7372A06"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Alarms with WaveStar Monitoring</title>
+<body>
+<p>Alarms for all devices in the Color Monitor’s device chain (the
+PDU internal network) are reflected to the Monitor and displayed on
+the Alarm screen. The number of active alarms and warnings is shown
+in every screen header of the WaveStar Color Monitor. When there are
+no active alarms, a green check mark is displayed in the header.<fig>
+<title>WaveStar Monitoring: Alarm and Warning Status Icons</title>
+<image href="..\Graphics\49.pdf"
+placement="-dita-use-conref-target"></image>
+</fig></p>
+<p>To display alarms, touch the <b>ALARM</b> Button. Active alarms
+are listed in chronological sequence with the device name and alarm
+or warning. Alarms and warnings remain on the screen as long as they
+are active.</p>
+<fig>
+<title>WaveStar Monitoring: ALARM Screen with an Alarm List</title>
+<image href="..\Graphics\50.pdf"
+placement="-dita-use-conref-target"></image>
+</fig>
+<p>Each PDU device (PDU-Contractor Board or BCMS subfeed group) has
+its own Modbus points list. A customer BIM or DCIM system or other
+Modbus master can read alarms from these points lists. There is also
+an SNMP MIB covering all possible device types.</p>
+<p>Alarm tables by device type (such as monitor, PDU, subfeeds) are
+given in the Color Monitor manual. See <i>WaveStar Color Monitor,
+Setup and Operation P-164001109</i>. </p>
+<p>In addition, the Color Monitor has a dry contact (NO) connection
+on the backpanel that signals a summary alarm whenever any alarm is
+present in the Monitor’s device chain. (See connector location in <xref
+format="dita"
+href="WaveStar Monitoring Component Reference 1123.dita#ColorMonitorBackpanel-C7C4FAB7/Figure24WaveStarColorMonitorBackpan-C7C95B9A"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 24 WaveStar Color Monitor Backpanel Connections"?></xref
+>)</p>
+</body>
+</topic>

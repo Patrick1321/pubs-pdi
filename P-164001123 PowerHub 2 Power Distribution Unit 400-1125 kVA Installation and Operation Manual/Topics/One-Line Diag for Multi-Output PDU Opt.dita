@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="One-LineDiagramForMulti-OutputPDUOp-C832C6C0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>One-Line Diagram for Multi-Output PDU Option</title>
+<body>
+<p>The following is a 1-line diagram for a 750 kVA PDU with the Multi-Output
+PDU Option. This drawing shows monitoring through a Static Transfer
+Switch in a primary system configuration.<fig>
+<title>One-Line Diagram, PowerHub 2 PDU 750 kVA with Multi-Output
+PDU Option</title>
+<image href="..\Graphics\37.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ComponentsConnectionsAndSetupSummar-C7C4FAC9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Components, Connections, and Setup Summary</title>
+<body>
+<p>The following table shows connections and setup methods for each
+WaveStar Monitoring component.</p>
+<table id="Table13WaveStarMonitoringSystemSumm-C8C8D2C9">
+<title>WaveStar Monitoring System Summary</title>
+<tgroup cols="5"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/><colspec colname="col4"/><colspec
+colname="col5"/>
+<thead>
+<row valign="middle">
+<entry nameend="col5" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?>WaveStar Monitoring System </entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Network and Other User Connections </b
+></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>PCB or Component </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Setup Method </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>Modbus Points List </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>SNMP MIB </b></p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Ethernet Summary alarm (dry contact) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>7" Color Monitor </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>On-screen setup </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Color Monitor Points List </p></entry>
+<entry morerows="4"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>Consolidated MIB for all possible components </entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>PDU (M4G) Board </p></entry>
+<entry morerows="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>Manufacturing/Service Programming </p
+></entry>
+<entry morerows="1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>PDU Board Points List </p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Modbus RTU </p><p>Remote EPO </p><p
+>Digital Inputs </p><p>Relays </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Contractor Board </p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>BCMS Data Acquisition Board/ Resistor Board </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>BCMS Setup Program with USB Connection </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Enhanced Subfeeds (ESF) Points List </p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Auxiliary Contacts Bell Alarm Contacts </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>IO Breaker Board </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>BCMS Setup Program with USB Connection </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>IO Breaker Points List </p></entry>
+</row>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Dry contact </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Surge Protective Device (SPD) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>None </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>None </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>None </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

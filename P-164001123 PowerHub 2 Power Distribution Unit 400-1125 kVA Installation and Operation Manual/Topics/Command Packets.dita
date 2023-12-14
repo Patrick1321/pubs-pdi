@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="CommandPackets-C73697C1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Command Packets</title>
+<body>
+<p>The Color Monitor never initiates communications; rather, it responds
+to command packets sent to it. The Monitor caches data from its downstream
+devices. It responds to upstream Modbus primary requests with cached
+data or retrieves fresh data from the downstream device. </p>
+<p>Each command packet sent to the Monitor has an address byte that
+includes the destination address of that Monitor. It does not respond
+to packets addressed to “0”.</p>
+</body>
+</topic>

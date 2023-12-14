@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C329A90F" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation: Power Cabling</title>
+<body>
+<note type="warning"><ul>
+<li><p>A licensed electrician must install each unit. </p></li>
+<li><p>Severe or fatal injury can result from electrical shock during
+contact with high voltage conductors, monitoring PCBs, or similar
+equipment. </p></li>
+<li><p>Disconnect power before drilling holes, attaching cables or
+conduit, or connecting PDUs to other power distribution equipment. </p
+></li>
+<li><p>Use Lock Out/Tag Out procedures. </p></li>
+<li><p>Wear suitable personal protective clothing and use protective
+equipment for performing mechanical and electrical installations. </p
+></li>
+<li><p>Leave ample space for attaching and routing wires.</p></li>
+</ul></note>
+<p>This chapter describes the electrical installation of the PDU. </p>
+<p><xref format="dita"
+href="Installation Planning Electrical 1123.dita#ElectricalSpecification-C7A82A32"
+scope="local" type="topic"><?Pub _previewtext
+text="Electrical Specification"?></xref> for voltage and frequency
+specifications.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Inspection.dita"><xi:fallback><!--Fallback markup for "Inspection.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Power Components Layout.dita"><xi:fallback><!--Fallback markup for "Power Components Layout.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Cable Landing.dita"><xi:fallback><!--Fallback markup for "Cable Landing.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="System Grounding.dita"><xi:fallback><!--Fallback markup for "System Grounding.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Input Power Connections.dita"><xi:fallback><!--Fallback markup for "Input Power Connections.dita"--></xi:fallback
+></xi:include>
+<topic id="InstallingCurrentTransformersForSub-C7ADC73F"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installing Current Transformers for Subfeeds</title>
+<body>
+<p>Current transformers (CTs) for subfeeds are hung inside the PDU
+in sets of three (3), one (1) set for each subfeed, for installation
+at the customer site. Each CT is labeled by phase (ABC) with an arrow
+indicating direction of current flow. </p>
+<p>CTs are pre-wired to the appropriate monitoring Board(s), but CTs
+must be installed over their corresponding load power cables when
+they are connected to subfeed circuit breakers. </p>
+<p>For each load cable into a circuit breaker, install the CT matching
+that phase over the cable with the arrow pointing towards the load
+(<xref format="dita" href="#./Figure16InstallingSubfeedCTs-C7ADD201"
+scope="local" type="fig"><?Pub _previewtext
+text="Installing Subfeed CTs"?></xref>).<fig
+id="Figure16InstallingSubfeedCTs-C7ADD201">
+<title>Installing Subfeed CTs</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\16.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><fig id="Figure17PowerHub2PDUOne-LineDiagram-C8CC907E">
+<title>PowerHub 2 PDU One-Line Diagram with 480/208VAC</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\17.pdf"
+placement="-dita-use-conref-target"></image>
+</fig><fig id="Figure18PowerHub2PDUWith230400VAC-C8CC8E8A">
+<title>PowerHub 2 PDU with 230/400 VAC</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\18.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig> </p>
+</body>
+</topic>
+</topic><?Pub Caret -1?>

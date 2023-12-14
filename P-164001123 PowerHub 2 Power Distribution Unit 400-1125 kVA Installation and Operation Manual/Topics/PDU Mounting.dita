@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="PDUMounting-C7A943AE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Mounting</title>
+<body>
+<p>The PDU can be mounted on the following:<ul>
+<li><p>Fixed floor. </p></li>
+<li><p>Raised floor: Eaton recommends that raised flooring be reinforced. </p
+></li>
+<li><p>Floor stand: The PDU can be mounted on a floor stand to match
+raised floor heights from 10.5" to 61.5". Floor stands are available
+for all units.</p></li>
+</ul></p>
+</body><?Pub Caret -3?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU Floor Stands.dita"><xi:fallback><!--Fallback markup for "PDU Floor Stands.dita"--></xi:fallback
+></xi:include>
+</topic>

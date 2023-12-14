@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Multi-OutputPDUOptionChangingOutput-C8D1EE84"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Multi-Output PDU Option: Changing Output Voltage</title>
+<body>
+<p>The transformer of a PDU with the <b>Multi-Output PDU Option</b
+> can be reconfigured in the field for any one of two or three voltages
+at 60 Hz, depending on the option chosen. The transformer neutral
+bus bar must be relocated and changes must be made to PDU and monitoring
+parameters, including alarms limits. Transformer output reconfiguration
+should be performed by an Eaton Service Representative or an Eaton-authorized
+service technician.</p>
+<p>Contact Eaton Service to schedule transformer voltage reconfiguration
+(see <xref format="dita"
+href="Introduction 1123.dita#GettingHelp-C73CBEF3" scope="local"
+type="topic"><?Pub _previewtext text="Getting Help"?></xref>).<fig
+id="Figure45Multi-OutputPDUOption2-Volt-C8D1F2A1">
+<title>Multi-Output PDU Option, 2-Voltage Output</title>
+<image href="..\Graphics\47.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p><?Pub Caret 77?>
+</body>
+</topic>

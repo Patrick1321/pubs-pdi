@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PlacingDirectlyOnFloorOrRaisedFloor-C7ABA358"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Placing Directly on Floor or Raised Floor</title>
+<body>
+<p>The PDU can be moved on a forklift or pallet jack and placed directly
+on a floor or raised floor. The floor must be able to support the
+PDU’s weight. See <xref format="dita"
+href="Installation Planning PDU Location 1123.dita#Weight-C735A1C8" scope="local"
+type="topic"><?Pub _previewtext text="Weight"?></xref> for sample
+weights. See your submittal package for specific information for your
+PDU’s configuration.</p>
+</body><?Pub Caret -3?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing on Raised Floor.dita"><xi:fallback><!--Fallback markup for "Placing on Raised Floor.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Placing on Floor Stand.dita"><xi:fallback><!--Fallback markup for "Placing on Floor Stand.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Structural Fasteners.dita"><xi:fallback><!--Fallback markup for "Structural Fasteners.dita"--></xi:fallback
+></xi:include>
+</topic>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C329A87C" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Manual Dual PDU Option</title>
+<body>
+<p>A PowerHub 2 PDU can optionally be manufactured as a Manual Dual
+PDU. This option is currently available with WaveStar Monitoring only. </p>
+<p>A Manual Dual PDU has two independent voltage sources, each with
+its own main input circuit breaker and with lock-outs provided by
+Kirk Keys. </p>
+<p>In a <b>closed transition</b> power transfer, a “permissive signal”
+must be sent to the Solenoid Key Release Unit (SKRU) to unlock the
+SKRU key, which the operator uses to unlock a breaker and effect a
+power transfer.</p>
+<fig id="Figure38ManualDualPDUExampleWithDoo-C8CD7DAD">
+<title>Manual Dual PDU Example with Doors Open</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\38.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Circuit Breakers and Kirk Keys.dita"><xi:fallback><!--Fallback markup for "Circuit Breakers and Kirk Keys.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Power Source Transfer Options.dita"><xi:fallback><!--Fallback markup for "Power Source Transfer Options.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Customer Wiring for Permissive Signals.dita"><xi:fallback><!--Fallback markup for "Customer Wiring for Permissive Signals.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Closed Transition Transfer Procedures.dita"><xi:fallback><!--Fallback markup for "Closed Transition Transfer Procedures.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Open Transition Transfer.dita"><xi:fallback><!--Fallback markup for "Open Transition Transfer.dita"--></xi:fallback
+></xi:include>
+</topic><?Pub Caret 570?>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="StructuralFasteners-C7ABA35B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Structural Fasteners</title>
+<body>
+<p>Structural fasteners are typically used for fastening the PDU to
+a supplied floor stand or concrete slab. Refer to the table below
+for typical torque values. Tighten steel hardware parts (except electrical
+connections) to the values given in <xref format="dita"
+href="#./Table9StructuralFastenersTorqueTabl-C7AB0E3B" scope="local"
+type="table"><?Pub _previewtext
+text="Table 9 Structural Fasteners Torque Table"?></xref>.</p>
+<table id="Table9StructuralFastenersTorqueTabl-C7AB0E3B">
+<title>Structural Fasteners Torque Table</title>
+<tgroup cols="2">
+<?PubTbl tgroup dispwid="491.00px"?>
+<colspec colname="col1" colwidth="0.96*"/><colspec colname="col2"
+colwidth="1.03*"/>
+<thead>
+<row>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?><p><b>Bolt Diameter</b></p></entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Tightening Torque (in-lb.)</b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1/4” </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>85</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>5/16” </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>201</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>3/8” </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>350</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>7/16” </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>575</p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>1/2” </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>875</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<fig id="Figure10ExampleFloorStandFor42-inch-C7ABB681">
+<title>Example Floor Stand for 42-inch deep PDU</title>
+<image href="..\Graphics\10.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure11ExampleFloorStandFor1000KVA-C7ABBAD0">
+<title>Example: Floor Stand for 1000 kVA PDU with Side Car</title>
+<image href="..\Graphics\11.pdf" scope="local"></image></fig>
+</body>
+</topic>

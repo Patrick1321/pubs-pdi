@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="TransformerTemperatureAlarms-C7A82A3C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transformer Temperature Alarms</title>
+<body>
+<p>The standard transformer has six (6) thermal overload devices to
+monitor core temperature in each winding.<ul>
+<li><p>180⁰C Warning The first set of thermal devices is calibrated
+to 180⁰C, the warning threshold. If any winding reaches 180⁰C core
+temperature, the thermal overload protection device closes a set of
+contacts for annunciation of a potential over-temperature condition. </p
+></li>
+<li><p>195⁰C Shutdown The second set of thermal devices is calibrated
+to 195⁰C, the shutdown threshold. If any winding reaches 195⁰C core
+temperature, the thermal overload protection device closes a set of
+contacts for annunciation of an over-temperature condition and initiates
+an automatic PDU shutdown.</p></li>
+</ul></p>
+</body>
+</topic>

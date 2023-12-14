@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SystemGrounding-C7ADC73C"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>System Grounding</title>
+<body>
+<p>The proper grounding of your Eaton PDU is critical to the operation
+of the unit. Improper grounding of a system may create unsafe conditions
+as well as electrical noise that may cause data processing problems.<note
+type="important">Grounding for this equipment must comply with NEC
+and local building and electrical codes.</note>The PDU contains a
+factory wired, green grounding conductor to a single ground point
+located in the right rear corner of the main cabinet (<xref
+format="dita"
+href="#PowerComponentsLayout-C7ADC737/Figure13SecondaryOutputCircuitBreak-C8CC7F42"
+scope="local" type="fig"><?Pub _previewtext
+text="Secondary Output Circuit Breaker in Main Cabinet"?></xref>).
+Ground busbars in the PDU are bonded.</p>
+<fig>
+<title>Single-Point Ground Bus Bar</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22039 0000012247_P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\14.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Subfeed Ground and Neutral Busbars.dita"><xi:fallback><!--Fallback markup for "Subfeed Ground and Neutral Busbars.dita"--></xi:fallback
+></xi:include>
+</topic>

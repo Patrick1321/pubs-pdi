@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="StandardTransformerHeatGeneration-C735A1C6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Standard Transformer Heat Generation</title>
+<body>
+<p>Transformers generate heat, which should be considered in placing
+the PDU. Maximum BTUs for standard (copper) transformers are given
+below:<table id="Table1TransformerBTUs-C8C9C162">
+<title>Transformer BTUs</title>
+<tgroup align="center" cols="2">
+<?PubTbl tgroup dispwid="348.00px"?>
+<colspec colname="col1" colwidth="0.87*"/><colspec colname="col2"
+colwidth="1.14*"/>
+<thead>
+<row>
+<entry valign="top"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>Transformer kVA</entry>
+<entry valign="top"><?Pub _cellfont Shading="gray2"?><?PubTbl
+cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>Transformer
+kVA kBTU</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>400 (K13)  </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>33.5
+ </entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>500 (K9) </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>41.2 </entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?> 625 (K9)  </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?> 51.3 </entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>750 (K9)  </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?> 60.5
+ </entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?>1000 (K9) </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?>69.5 </entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p>BTUs for the specific transformer design in your PDU are available
+upon request.</p>
+</body>
+</topic>

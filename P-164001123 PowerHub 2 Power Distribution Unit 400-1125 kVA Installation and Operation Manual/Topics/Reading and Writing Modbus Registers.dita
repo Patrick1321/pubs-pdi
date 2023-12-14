@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="ReadingAndWritingModbusRegisters-C73697C2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Reading and Writing Modbus Registers</title>
+<body>
+<p>A Modbus primary communicates with an Eaton PDI device using Modbus
+commands directed at Modbus register locations in the device’s points
+list. A device responds to Modbus commands addressed to any Modbus
+register in its points list. (If the device is in the internal PDU
+network——downstream of a Color Monitor—the Modbus primary must address
+the points list using the remapped Modbus addresses in the Monitor
+described in <xref format="dita" href="#ModbusDeviceAddresses-C73697C1"
+scope="local" type="topic"><?Pub _previewtext
+text="Modbus Device Addresses"?></xref>.)</p>
+<p>Use standard Modbus read and write commands to retrieve or write
+registers in the points lists:<ol>
+<li><p>Retrieve up to 200 bytes or 100 Modbus register values with
+a single read. </p></li>
+<li><p>Use write commands to alter set points, such as alarm and warning
+thresholds. </p></li>
+<li><p>Reset alarms and warnings by reading the warning or alarm register
+and writing it back with the alarm and warning bits turned off. </p
+></li>
+<li><p>Separate Modbus requests to a BCMS by at least 400 ms.</p></li>
+</ol></p>
+</body>
+</topic>

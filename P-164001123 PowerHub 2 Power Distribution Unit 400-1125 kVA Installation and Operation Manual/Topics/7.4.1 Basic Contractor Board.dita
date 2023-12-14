@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="BasicContractorBoard-C7C4FABE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Basic Contractor Board</title>
+<body>
+<fig id="Figure26BasicContractorBoard-C7C8FD8F">
+<title>Basic Contractor Board</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\26ab.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The Basic Contractor Board has these connections (<xref format="dita"
+href="#./Figure26BasicContractorBoard-C7C8FD8F" scope="local" type="fig"
+><?Pub _previewtext text="Basic Contractor Board"?></xref>): </p>
+<p><b>Inputs:</b><ul>
+<li><p>Remote EPO: Dry contact connection point for input of an REPO
+signal. Connect external dry contacts to terminals marked +24V EPO
+RET. The REPO signal is sent to the PDU Board via the REMOTE EPO connection,
+which is not a customer connection point. <note type="caution">Connection
+of voltage to Remote EPO Connection can cause damage to the unit.</note
+></p></li>
+<li><p>Four (4) Building Alarms. Alarm names can be specified by Eaton
+in PDU Board setup.</p></li>
+</ul></p>
+<p><b>Outputs:</b><ul>
+<li><p>Four (4) remote relays that output dry contact (NO) signals.
+(Note: Remote relays can accept dry contacts rated up to 2A/250V.) </p
+></li>
+<li><p>Relays are programmable using the USB setup connection on the
+PDU M4G Board. Eaton PDI programs the relay inputs in manufacturing.
+So, for example, a relay can be programmed to turn on when a specific
+Building Alarm, such as a fire alarm, is received. The building information
+management system (BIS) or other control system receives the signal
+and can cause PDU shutdown with an REPO signal.</p></li>
+<li><p>By default, the first, left-most relay is programmed to close
+when the PDU Summary Alarm, PDU Board points list, Modbus Register
+70, is in alarm.</p></li>
+</ul></p>
+<p>Modbus RTU Connections: The board has customer connections (J3,
+J4) for upstream and downstream 4-wire Modbus RTU (<xref format="dita"
+href="#./Figure26BasicContractorBoard-C7C8FD8F" scope="local" type="fig"
+><?Pub _previewtext text="Basic Contractor Board"?></xref>). (To set
+2-wire Modbus upstream to customer DCIM or BIM systems, set jumpers
+on the Color Monitor backpanel at W1 and W2. See section <xref
+format="dita"
+href="WaveStar Monitoring PDU Network 1123.dita#CustomerNetworkConnections-C32D55EF"
+scope="local" type="topic"><?Pub _previewtext
+text="Customer Network Connections  "?></xref> Customer Network Connections
+and <xref format="dita"
+href="WaveStar Monitoring PDU Network 1123.dita#CustomerNetworkConnections-C32D55F2/Figure32ColorMonitorNetworkConnecti-C830B833"
+scope="local" type="fig"><?Pub _previewtext
+text="Color Monitor Network Connections"?></xref>.)</p>
+</body>
+</topic>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="Transformer-C7A82A34"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Transformer</title>
+<body>
+<p>The PDU has an integral three (3) phase copper- or aluminum-wound
+transformer rated between 400 kVA and 1125 kVA. The transformer compartment
+is in the rear of the PDU with a large ventilation area (<xref
+format="dita" href="#./Figure6PDURearViewCoversOffTransfor-C8C6C0AF"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 6 PDU Rear View, Covers Off, Transformer Compartment"
+?></xref>). </p>
+<p>The transformer is specifically designed for the PDU and its applications
+and provides the following:<ul>
+<li><p>Voltage transformation: several voltage options and vectors </p
+></li>
+<li><p>Voltage compensation taps (&lt; 750 kVA only) </p></li>
+<li><p>High isolation </p></li>
+<li><p>Conditioning </p></li>
+<li><p>Electrostatic shielding</p></li>
+</ul></p>
+<p>A universal footing template inside the PDU secures the transformer
+to its base. </p>
+<p>Each transformer is tested to the IEEE C57.121.91 standard.<fig
+id="Figure6PDURearViewCoversOffTransfor-C8C6C0AF">
+<title>PDU Rear View, Covers Off, Transformer Compartment</title>
+<image href="..\Graphics\6.pdf" placement="-dita-use-conref-target"
+scope="local"></image>
+</fig></p>
+</body>
+<topic id="StandardAndOptionalTransformerParam-C7A82A35"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Standard and Optional Transformer Parameters</title>
+<body>
+<p>The standard transformer and transformer options are shown in the
+following table.<table>
+<title>Transformer Standard and Optional Parameters</title>
+<tgroup cols="3"><colspec colname="col1"/><colspec colname="col2"/>
+<colspec colname="col3"/>
+<thead>
+<row>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub
+_cellfont Shading="gray2"?>Parameter </entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?>Standard </entry>
+<entry valign="top"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?>Transformer Options</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Input Voltage </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>480V Delta </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>208 – 600V </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Output Voltage </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>208/120V Wye </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>208 – 600V </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Frequency </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>60 Hz </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>50 Hz </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Impedance </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>3 – 5% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 6% </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Efficiency </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>DOE2016 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>CEC, CSA, Non-DOE2016 for certain exempt categories, NEMA Premium,
+TP1 (CSA) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>K-Factor (400 kVA) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>K13 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>K4, K9, K20 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>K-Factor (500-1125 kVA) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>K9 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>K4, K13, K20 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Conductor Material </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Copper (CU) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Aluminum (AL) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Inrush </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>8 – 10x </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>5x </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Voltage CompensationTaps<?Pub _font
+TypeSize=".69em" Offset=".33em"?>1,2<?Pub /_font?> (400 – 500 kVA) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>4 taps: ±2 </p><p>Ave increment per tap, as percent rated primary
+voltage: </p><p>380V: 3.0-3.5% </p><p>480V: 3.0-3.5% </p><p>600V:
+2.5% </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Custom taps or no taps designs also available </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Voltage CompensationTaps<?Pub _font
+TypeSize=".69em" Offset=".33em"?>1,2<?Pub /_font?> (625 – 750 kVA) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2 taps: ±1 </p><p>Ave increment per tap, as percent rated primary
+voltage: </p><p>380V: 3.5% minimum </p><p>480V: 3.5% minimum </p><p
+>600V: 3.0% minimum </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Custom taps or no taps designs also available </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Voltage CompensationTaps<?Pub _font
+TypeSize=".69em" Offset=".33em"?>1,2<?Pub /_font?> (625 – 750 kVA) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>2 taps: ±1 </p><p>Ave increment per tap, as percent rated primary
+voltage: </p><p>380V: 3.5% minimum </p><p>480V: 3.5% minimum </p><p
+>600V: 3.0% minimum </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Custom taps or no taps designs also available </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Voltage CompensationTaps<?Pub _font
+TypeSize=".69em" Offset=".33em"?>1,2<?Pub /_font?> </p><p>(> 750 kVA) </p
+></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Taps not available </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Temperature Rise </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>150⁰C </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>80⁰C, 115⁰C, 130⁰C, 175⁰C </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Vector </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Delta-Wye </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Delta Zig-Zag </p><p>Delta Quad-Wye </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Applicable Standard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>UL-1561 IEEE Standard C57.12.01 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>IEC 60076, CSA22.2 No 66, CEC 400 </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Average sound level </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>NEMA ST-20 </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>Insulation </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Class 240S </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?></entry>
+</row>
+<row>
+<entry nameend="col3" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _font
+TypeSize=".69em" Offset=".33em"?>1 <?Pub /_font?>Transformer voltage
+compensation taps are not available with the Multi-Output PDU Option.</entry>
+</row>
+<row>
+<entry nameend="col3" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _font
+TypeSize=".69em" Offset=".33em"?>2 <?Pub /_font?>Changing other transformer
+specifications such as temperature rise or in-rush can change the
+percent-rated primary voltage per tap.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</body>
+</topic><?Pub Caret -2?>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Multi-Output PDU Transformers.dita"><xi:fallback><!--Fallback markup for "Multi-Output PDU Transformers.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transformer Temperature Alarms.dita"><xi:fallback><!--Fallback markup for "Transformer Temperature Alarms.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Transformer Voltage Compensation Taps.dita"><xi:fallback><!--Fallback markup for "Transformer Voltage Compensation Taps.dita"--></xi:fallback
+></xi:include>
+</topic>

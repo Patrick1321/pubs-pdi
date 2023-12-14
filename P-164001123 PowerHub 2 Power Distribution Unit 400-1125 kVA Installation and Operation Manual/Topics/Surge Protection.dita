@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SurgeProtection-C7A829E6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Surge Protection</title>
+<body>
+<p>The PDU has these transient suppression options:<ul>
+<li><p>The PDU can incorporate a Surge Protective Device (SPD) Type
+2 rated either 100 kA or 200 kA on the input to or output from the
+transformer. The SPD complies with ANSI/UL1449 4th edition,Type 1
+SPD; ANSI/IEEE C62.411, C62.41.2, C62.45; and UL96A Lightning Protection.</p
+></li>
+<li><p><b>Input</b> An optional SPD protects the input to the transformer
+(standard 480VAC 3-phase, other voltages available). Input is typically
+a Delta (3W+G) configuration. </p></li>
+<li><p><b>Output</b> An optional SPD protects the transformer output
+to the distribution subfeed circuits (standard 208/120V, other voltages
+available). Output is typically a WYE (4W + G) configuration</p></li>
+</ul></p>
+<p>A 9" square transient suppression plate can be installed under
+the PDU to protect against electromagnetic interference and noise.</p>
+</body>
+</topic>

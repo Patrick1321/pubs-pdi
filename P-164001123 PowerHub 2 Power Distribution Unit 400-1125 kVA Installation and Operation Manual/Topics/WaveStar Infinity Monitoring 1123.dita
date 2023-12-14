@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C329A94D" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>WaveStar Infinity Monitoring</title>
+<body>
+<p>Customers have a choice of two mutually exclusive monitoring systems
+for the PowerHub 2 PDU:<ul>
+<li><p>WaveStar Infinity is Eaton PDI’s latest metering and monitoring
+solution for the Power Hub 2 platform and is recommended for all new
+data center buildouts. It was launched in 2018 and offers revenue
+grade accuracy, high speed data communication, and a color touchscreen
+display with an intuitive user interface. </p></li>
+<li><p>WaveStar Monitoring is Eaton PDI’s previous metering and monitoring
+standard, which includes the WaveStar Color Monitor, launched in 2014.
+WaveStar Monitoring is still available for the PowerHub 2 PDU.</p
+></li><?Pub Caret 30?>
+</ul>This chapter summaries installation of WaveStar Infinity on PowerHub
+2 PDUs. You should consult <i>WaveStar Infinity Monitoring System,
+Setup and Operation P-164001106</i>, for detailed information on setting
+up your WaveStar Infinity System, making local and network connections,
+and operational use of the WaveStar Infinity system. </p>
+<p>The WaveStar Infinity Home screen one-line is shown below. Screens
+can be accessed from the local 7" color touchscreen monitor or from
+a browser.</p>
+<fig id="Figure19WaveStarInfinityHomeScreenO-C8CEF4BB">
+<title>WaveStar Infinity Home Screen One-Line</title>
+<image href="..\Graphics\19.pdf" placement="-dita-use-conref-target">
+</image>
+</fig>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="WaveStar Infinity Component Layout.dita"><xi:fallback><!--Fallback markup for "WaveStar Infinity Component Layout.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Customer Connections and Setup.dita"><xi:fallback><!--Fallback markup for "Customer Connections and Setup.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Modbus Points List and SNMP MIB.dita"><xi:fallback><!--Fallback markup for "Modbus Points List and SNMP MIB.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Routine Monitoring Operation.dita"><xi:fallback><!--Fallback markup for "Routine Monitoring Operation.dita"--></xi:fallback
+></xi:include>
+</topic>

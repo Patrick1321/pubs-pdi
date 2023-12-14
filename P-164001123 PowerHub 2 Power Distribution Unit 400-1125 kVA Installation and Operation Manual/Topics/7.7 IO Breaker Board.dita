@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="IOBreakerBoard-C7C4FAC9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>IO Breaker Board</title>
+<body>
+<p>Auxiliary contact and bell alarm trip signals for up to fourteen
+(14) circuit breakers can be connected to an optional IO Breaker Board
+(<xref format="dita"
+href="#./Figure31IOBreakerBoardAndColorMonit-C8C8F445" scope="local"
+type="fig"><?Pub _previewtext
+text="IO Breaker Board and Color Monitor Status Screen"?></xref>).
+The IO Breaker Board collects these dry contact signals, passing the
+information to the Color Monitor for display and for access by a DCIM
+or BIM system. The IO Breaker Board has its own Modbus points list. </p>
+<p>Auxiliary contact and bell contact trip signals can also be simultaneously
+propagated by dry contacts to other monitoring systems if circuit
+breakers have more than one set of dry contacts.</p>
+<table id="Table12IOBreakerBoardConnections-C8C8CFCA">
+<title>IO Breaker Board Connections</title>
+<tgroup cols="2">
+<?PubTbl tgroup dispwid="473.00px"?>
+<colspec colname="col1" colwidth="0.77*"/><colspec colname="col2"
+colwidth="1.23*"/>
+<thead>
+<row valign="middle">
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?>Connection </entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"
+border-top-width="0.25pt"?><?Pub _cellfont Shading="gray2"?>Function </entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J1 – 6 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>CB1 and 2 Input (Aux1, Bell1, Com, Aux2, Bell2, Com) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J2 – 6 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>CB3 and 4 Input (Aux3, Bell3, Com, Aux4, Bell4, Com) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J3 – 6 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>CB5 and 6 Input (Aux5, Bell5, Com, Aux6, Bell6, Com) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J4 – 6 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>CB7 and 8 Input (Aux7, Bell7, Com, Aux8, Bell8, Com) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J5 – 6 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>CB9 and 10 Input (Aux9, Bell9, Com, Aux10, Bell10, Com) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J6 – 6 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>CB11 and 12 Input (Aux11, Bell11, Com, Aux12, Bell12, Com) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J7 – 6 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>CB13 and 14 Input (Aux13, Bell13, Com, Aux14, Bell14, Com) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J13 – 5 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Modbus (TX+, TX-, RX+, RX- GND) (Internal PDU network) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J14 – 5 pin terminal </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Modbus (TX+, TX-, RX+, RX- GND) (Internal PDU network) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p>J16 – USB B </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>USB Setup port </p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<fig id="Figure31IOBreakerBoardAndColorMonit-C8C8F445">
+<title>IO Breaker Board and Color Monitor Status Screen</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23032 164001123 PARTS PowerPak2 400_1125kva IO manual\P-164001123 PowerHub 2 Power Distribution Unit 400-1125 kVA Installation and Operation Manual\Graphics\31.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>
