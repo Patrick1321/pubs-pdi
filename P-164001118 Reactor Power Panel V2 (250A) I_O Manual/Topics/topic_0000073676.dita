@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="EnvironmentalInformation-721C708B"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Environmental Information</title>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Operating Conditions.dita"><xi:fallback><!--Fallback markup for "Operating Conditions.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Storage Conditions.dita"><xi:fallback><!--Fallback markup for "Storage Conditions.dita"--></xi:fallback
+></xi:include>
+</topic>

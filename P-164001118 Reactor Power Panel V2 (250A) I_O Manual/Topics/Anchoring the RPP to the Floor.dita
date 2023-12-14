@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="AnchoringTheRPPToTheFloor-02869974"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Anchoring the RPP to the Floor</title>
+<body>
+<p>After moving the RPP V2 unit to its installation location, secure
+it to the floor:<ol>
+<li><p>Each unit has (6) screw-adjustable leveling feet. Adjust feet
+to make the unit rest level and stable on the floor. <note
+type="caution">Do not screw leveling feet completely out of their
+holes. </note></p></li>
+<li><p>Reattach the (2) seismic braces that you removed when unbolting
+the RPP from its pallet using the hardware you retained (see <xref
+format="dita" href="#MovingTheRPPV2Unit-028915DB" scope="local"
+type="topic"><?Pub _previewtext text="Moving the RPP V2 Unit"?></xref
+>). The seismic braces must be reattached on both the left and right
+sides of the RPP. </p></li><?Pub Caret 129?>
+<li><p>Secure the seismic braces to floor anchors. The installer must
+provide floor anchors.</p></li>
+</ol><fig>
+<title>Floor Anchor Positions</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\5.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

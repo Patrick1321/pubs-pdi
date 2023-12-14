@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="RPPV2One-LineDiagram-0286BF4D"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>RPP V2 One-Line Diagram</title>
+<body>
+<note>Power wiring and grounding must comply with NEC and applicable
+local codes.</note>
+<fig>
+<title>RPP V2 One-Line Diagram</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\8.pdf"
+scope="local"></image>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\8a.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

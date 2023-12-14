@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="CableEntry-163-0285D1C2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Cable Entry</title>
+<body>
+<p>Power wiring between the Reactor Cabinet and the Bypass Cabinet
+is completed in manufacturing. Customers must make their own external
+power and monitoring connections. </p>
+<p>Cable entry/exit can be from the top or bottom:<ul>
+<li><p>Top and bottom conduit plates on both cabinets are removable. </p
+></li>
+<li><p>Conduit plates do not have knock-outs. Installers must make
+their own conduit cut-outs. </p></li>
+<li><p>Sufficient conduit space is available to allow RPP V2 units
+to be daisy-chained to a reserve power source.<fig>
+<title>RPP Conduit Entry</title>
+<image
+href="C:\Users\e9921013\backup\GIT\GIT DITA Maps\PDI\PDI Revised Files Ready for GIT\WR22036 0000012244_P-164001118 Reactor Power Panel V2 (250A) Installation and Operation Manual\Graphics\6-7.pdf"
+scope="local"></image></fig></p></li>
+</ul></p>
+</body>
+</topic>

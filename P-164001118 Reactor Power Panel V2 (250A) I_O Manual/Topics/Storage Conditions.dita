@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Storage Conditions</title>
+<body>
+<p>If the RPP V2 is not to be immediately installed and energized,
+it should be carefully stored in a warm, dry environment, preferably
+a heated building with air circulation and a uniform temperature to
+prevent condensation. The RPP V2 should be stored in its factory protective
+coverings. </p><?Pub Caret 134?>
+<p>Storage temperature range must be within these extremes: -30⁰C
+to +70⁰C (-22⁰F to 158⁰F). </p>
+<p>It is especially important that the reactor be free of condensation
+and protected from contamination. If the RPP V2 has been exposed to
+moisture, it should be dried out before being energized. Consult Eaton
+Service if the unit has been exposed to moisture or contamination.</p>
+</body>
+</topic>

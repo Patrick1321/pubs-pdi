@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Intended Use</title>
+<body>
+<p>The Reactor Power Panel V2 (RPP V2) (250A) is designed to make
+maintenance of downstream equipment safer by limiting fault current
+and reducing the risk of arc flash in downstream equipment.</p>
+</body>
+</topic>
