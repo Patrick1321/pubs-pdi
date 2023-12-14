@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="WaveStarMonitoringComponentSummary-CADD7822"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>WaveStar Monitoring Component Summary</title>
+<body>
+<p>WaveStar Monitoring components include the following:<ul>
+<li><p>PDU Board or M4G Board sets PDU parameters and monitors the
+transformer. </p></li>
+<li><p>A Contractor Board is an extension of the PDU Board for external
+connections. </p></li>
+<li><p>Current transformers (CTs) measure current in the transformer
+and subfeeds; CT stripsmeasure current in panelboard circuits. </p
+></li>
+<li><p>Branch Circuit Monitoring System (BCMS) PCB <ul>
+<li><p>Is loaded with a points list appropriate to its monitored devices. </p
+></li>
+<li><p>Collects current information from CT strips on panelboards
+and CTs on subfeeds(through the Resistor Board) and voltage information. </p
+></li>
+<li><p>Processes data and sets warnings and alarms according its setup
+parameters. </p></li>
+<li>Passes data upstream to the Color Monitor.</li>
+</ul></p></li>
+<li><p>A Resistor board is intermediate between subfeed CTs and a
+BCMS PCB. It is used only with subfeeds. </p></li>
+<li><p>WaveStar® Color Monitor <ul>
+<li><p>Displays power information about monitored PDU devices using
+their points lists. </p></li>
+<li><p>Passes points list information to upstream Modbus master devices,
+such as a Building Management System or Data Center Infrastructure
+Management (DCIM). </p></li>
+<li><p>Displays power information about monitored PDU devices on web
+pages for suitably configured customer networks.</p></li>
+</ul></p></li>
+</ul></p>
+</body>
+</topic>

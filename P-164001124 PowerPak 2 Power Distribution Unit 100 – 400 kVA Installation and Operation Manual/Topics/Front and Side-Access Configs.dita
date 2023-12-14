@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="FrontAndSide-AccessConfigurations-CB3C8ADC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Front and Side-Access Configurations</title>
+<body>
+<p>The PDU can be flexibly configured as a front-access-only PDU or
+as a front- and side-access PDU. </p>
+<p>Front access PDU:<ul>
+<li><p>The Main Cabinet is always true front-access for all routine
+maintenance, including easycircuit breaker replacement, extension
+of circuit breaker capacity, and infrared scanning of thetransformer. </p
+></li>
+<li><p>24" Side Cars are front-access only, if only the front-facing
+Distribution Output Section isinstalled.</p></li>
+</ul></p>
+<p>Front and side access PDU:</p>
+<ul>
+<li><p>24" Side Cars using the side-facing Distribution Output Section
+require side access and 36"clearance on that side. </p></li>
+<li><p>12" Side Cars always require side access and 36" side clearance
+on that side.</p></li>
+</ul>
+</body>
+</topic>

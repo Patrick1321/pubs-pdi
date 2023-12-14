@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="DistributionOutputModules-CA4EB087"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Distribution Output Modules</title>
+<body>
+<p>Each Distribution Output Section has separate A and B output modules
+or a full-section combined output module. Full-section modules are
+for larger components. </p>
+<p>A module may contain a panelboard or a set of subfeed circuit breakers.
+Standard circuit breakers are 80% rated; 100% rated circuit breakers
+are also available. </p>
+<p>The following tables show standard configuration options. Other
+options require the approval of Eaton Engineering.</p>
+<table id="Table5MainCabinetDistributionOutput-CB3FEDFE">
+<title>Main Cabinet, Distribution Output Sections</title>
+<tgroup cols="4">
+<?PubTbl tgroup dispwid="636.00px"?>
+<colspec colname="col1" colwidth="0.39*"/><colspec colname="COLSPEC0"
+colwidth="1.50*"/><colspec colname="COLSPEC1" colwidth="0.32*"/>
+<colspec colname="col2" colwidth="1.82*"/>
+<thead>
+<row>
+<entry nameend="col2" namest="col1" valign="top"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Main Cabinet </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry nameend="col2" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>Front-Facing Options </b>- Pick up to 1x A#
+Option and up to 1x B# Option. </p></entry>
+</row>
+<row>
+<entry nameend="COLSPEC0" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p><b>A# (Top
+Section) </b></p></entry>
+<entry nameend="col2" namest="COLSPEC1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>B# (Bottom Section)</b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 225A 42-Pole Panelboard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 225A 42-Pole Panelboard </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A2 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 400A 42-Pole Panelboard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B2 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 400A 42-Pole Panelboard </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A3 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 4x 225A Sub Feed Breakers (J-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B3 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 4x 225A Sub Feed Breakers (J-Frame) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A4 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2x 400A Sub Feed Breakers (L-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B4 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2x 400A Sub Feed Breakers (L-Frame) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A5 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 600A Sub Feed Breaker (L-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B5 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 600A Sub Feed Breaker (L-Frame) </p></entry>
+</row>
+<row>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A6 </b></p></entry>
+<entry nameend="col2" namest="COLSPEC0"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>3x 600A Sub Feed Breakers*</entry>
+</row>
+<row>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A7 </b></p></entry>
+<entry nameend="col2" namest="COLSPEC0"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>1x 400A 84-Pole Panelboard*</entry>
+</row>
+<row>
+<entry nameend="col2" namest="col1"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?>*Cannot be
+combined with B# options.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="Table624-inchSideCarFront-FacingSec-CB3FF1B1">
+<title>24-inch Side Car, Front-Facing Section, Distribution Output
+Configurations</title>
+<tgroup cols="4">
+<?PubTbl tgroup dispwid="636.00px"?>
+<colspec colname="col1" colwidth="0.39*"/><colspec colname="COLSPEC0"
+colwidth="1.50*"/><colspec colname="COLSPEC1" colwidth="0.32*"/>
+<colspec colname="col2" colwidth="1.82*"/>
+<thead>
+<row>
+<entry nameend="col2" namest="col1" valign="top"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><p
+><b>24" Side Car, Front-Facing Section </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry nameend="col2" namest="col1"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Front-Facing Options </b>- Pick
+up to 1x FA# Option and up to 1x FB# Option. </p></entry>
+</row>
+<row>
+<entry nameend="COLSPEC0" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><b>FA# (Top
+Front Section) FB# (Bottom Front Section)</b></entry>
+<entry nameend="col2" namest="COLSPEC1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><b>FA# (Top Front Section) FB# (Bottom
+Front Section)</b></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>FA1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 225A 42-Pole Panelboard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>FB1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 225A 42-Pole Panelboard </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>FA2 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 400A 42-Pole Panelboard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>FB2 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 400A 42-Pole Panelboard </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>FA3 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 4x 225A Sub Feed Breakers (J-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>FB3 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 4x 225A Sub Feed Breakers (J-Frame) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>FA4 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2x 400A Sub Feed Breakers (L-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>FB4 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2x 400A Sub Feed Breakers (L-Frame) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>FA5 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 600A Sub Feed Breaker (L-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>FB5 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 600A Sub Feed Breaker (L-Frame) </p></entry>
+</row>
+<row>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>FA6 </b></p></entry>
+<entry nameend="col2" namest="COLSPEC0"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>3x 600A Sub Feed Breakers* </p></entry>
+</row>
+<row>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>FA7 </b></p></entry>
+<entry nameend="col2" namest="COLSPEC0"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p>1x 400A 84-Pole Panelboard* </p></entry>
+</row>
+<row>
+<entry nameend="col2" namest="col1"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?>*Cannot be
+combined with FB# options.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="Table724-inSideCarSide-FacingSectio-CB3FFB1E">
+<title>24-in Side Car, Side-Facing Section</title>
+<tgroup cols="4">
+<?PubTbl tgroup dispwid="636.00px"?>
+<colspec colname="col1" colwidth="0.39*"/><colspec colname="COLSPEC0"
+colwidth="1.50*"/><colspec colname="COLSPEC1" colwidth="0.32*"/>
+<colspec colname="col2" colwidth="1.82*"/>
+<thead>
+<row>
+<entry nameend="col2" namest="col1" valign="top"><?Pub _cellfont
+Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt" border-top-width="0.25pt"?><p
+><b>24" Side Car, Side-Facing Section </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry nameend="col2" namest="col1"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Side-Facing Options </b>- Pick
+up to 1x SA# Option and up to 1x SB# Option. </p></entry>
+</row>
+<row>
+<entry nameend="COLSPEC0" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p><b>SA#
+(Top Side Section)</b></p></entry>
+<entry nameend="col2" namest="COLSPEC1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>SB# (Bottom Side Section)</b></p
+></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>SA1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 225A 42-Pole Panelboard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>SB1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 225A 42-Pole Panelboard </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>SA2 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 400A 42-Pole Panelboard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>SB2 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 400A 42-Pole Panelboard </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>SA3 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 4x 225A Sub Feed Breakers (J-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>SB3 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 4x 225A Sub Feed Breakers (J-Frame) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>SA4 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2x 400A Sub Feed Breakers (L-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>SB4 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2x 400A Sub Feed Breakers (L-Frame) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>SA5 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 600A Sub Feed Breaker (L-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>SB5 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 600A Sub Feed Breaker (L-Frame) </p></entry>
+</row>
+<row>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>SA6 </b></p></entry>
+<entry nameend="col2" namest="COLSPEC0"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>3x 600A Sub Feed Breakers*</entry>
+</row>
+<row>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>SA7 </b></p></entry>
+<entry nameend="col2" namest="COLSPEC0"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>1x 400A 84-Pole Panelboard*</entry>
+</row>
+<row>
+<entry nameend="col2" namest="col1"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?>*Cannot be
+combined with B# options.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="Table812-inSideCarSideFacingSection-CB3FFE79">
+<title>12-in Side Car, Side Facing Section</title>
+<tgroup cols="4">
+<?PubTbl tgroup dispwid="636.00px"?>
+<colspec colname="col1" colwidth="0.39*"/><colspec colname="COLSPEC0"
+colwidth="1.50*"/><colspec colname="COLSPEC1" colwidth="0.32*"/>
+<colspec colname="col2" colwidth="1.82*"/>
+<thead>
+<row>
+<entry nameend="col2" namest="col1" valign="top"><?PubTbl
+cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt" border-top-width="0.25pt"?><?Pub _cellfont
+Shading="gray2"?><p><b>12" Side Car, Side-Facing Section </b></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry nameend="col2" namest="col1"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>Side-Facing Options </b>- Pick
+up to 1x A# Option and up to 1x B# Option. </p></entry>
+</row>
+<row>
+<entry nameend="COLSPEC0" namest="col1"><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?><p><b>A# (Left
+Section)</b></p></entry>
+<entry nameend="col2" namest="COLSPEC1"><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?><p><b>B# (Right Section)</b></p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 225A 42-Pole Panelboard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B1 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 225A 42-Pole Panelboard </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A2 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 400A 42-Pole Panelboard </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B2 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 400A 42-Pole Panelboard </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A3 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 4x 225A Sub Feed Breakers (J-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B3 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 4x 225A Sub Feed Breakers (J-Frame) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A4 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2x 400A Sub Feed Breakers (L-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B4 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>Up to 2x 400A Sub Feed Breakers (L-Frame) </p></entry>
+</row>
+<row>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A5 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 600A Sub Feed Breaker (L-Frame) </p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+><b>B5 </b></p></entry>
+<entry><?PubTbl cell border-bottom-width="0.25pt" border-right-width="0.25pt"?><p
+>1x 600A Sub Feed Breaker (L-Frame) </p></entry>
+</row>
+<row>
+<entry><?Pub _cellfont Shading="gray2"?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt"
+border-right-width="0.25pt"?><p><b>A6 </b></p></entry>
+<entry nameend="col2" namest="COLSPEC0"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-right-width="0.25pt"?>1x 400A 84-Pole Panelboard*</entry><?Pub
+Caret -1?>
+</row>
+<row>
+<entry nameend="col2" namest="col1"><?Pub _cellfont Shading="gray2"
+?><?PubTbl cell border-bottom-width="0.25pt"
+border-left-width="0.25pt" border-right-width="0.25pt"?>*Cannot be
+combined with B# options.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

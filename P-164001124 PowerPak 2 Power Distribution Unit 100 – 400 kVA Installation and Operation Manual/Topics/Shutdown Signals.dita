@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ShutdownSignals-CAE5A584"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Shutdown Signals</title>
+<body>
+<p>The PDU can be shut down by the PDU M4G Board with a signal to
+trip the main breaker. The trip signal is sent using either the 170VDC
+or 24VDC output connections. </p>
+<p>The PDU board will trip the main breaker if it receives any of
+the following signals (refer to <xref format="dita"
+href="Monitoring Components 1124.dita#PDUM4GBoard-CADD7825/Figure20PDUM4GBoard-CAE5F033"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 20 PDU (M4G) Board"?></xref>, for connections):</p>
+<ul>
+<li><p>Local EPO signal to the PDU board </p></li>
+<li><p>Remote EPO (REPO) signal from the Contractor Board to the PDU
+board. The customer REPO signal is terminated at the Contractor Board. </p
+></li>
+<li><p>Thermal wires register a temperature in the PDU transformer
+core that exceeds the transformer temperature limit specified.</p
+></li>
+</ul>
+</body>
+</topic>

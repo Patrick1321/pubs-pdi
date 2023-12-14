@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<topic id="Introduction1124-AB57C6B2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Introduction </title>
+<body>
+<p>The PowerPak 2 Power Distribution Unit (PDU) is a 100-400 kVA PDU
+with a small main cabinet footprint. The PowerPak 2 PDU is highly
+customizable with numerous transformer sizes and options, electrical
+configurations, panelboard and circuit breaker configurations, front-
+and side-facing side cars, cabling options, and mounting options.
+You should consult with your sales representative and with Eaton Engineering
+to select a PDU package that meets your application needs. </p><?Pub
+Caret 401?>
+<p>The main cabinet is true front-access only for all routine maintenance.
+PDU capacity can be extended with optional side-cars that are front-access
+or front-and-side-access. </p>
+<p>Side cars are always installed and configured at the factory. The
+PDU is shipped as a fully integrated PDU. </p>
+<p>PDU 100-400 kVA transformers are DOE2016-compliant with many options. </p>
+<p>For safety, monitoring components have their own compartment, isolating
+them from high-power input and high-power output components in the
+main cabinet. </p>
+<p>An optional patent-pending 3D scan window allows infrared scanning
+of the transformer from the front of the PDU. </p>
+<p>Eaton PDI’s Branch Circuit Monitoring System (BCMS) can be deployed
+in the Main Cabinet and Side Cars with measurements and alarms displayed
+on the 7"-diagonal WaveStar® Color Monitor touchscreen. Monitoring
+data can also uploaded to customer Building Management Systems or
+other Modbus master devices through several standard open protocols,
+including Modbus RTU, Modbus TCP/IP, and SNMP or to webpages with
+TCP/IP. A PDU dry contact network supplements BCMS. </p>
+<p>The following installation planning information provides background
+information on the many options and factors involved in selecting
+a specific PowerPak 2 PDU configuration.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Using This Manual.dita"><xi:fallback><!--Fallback markup for "Using This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Conventions Used in This Manual.dita"><xi:fallback><!--Fallback markup for "Conventions Used in This Manual.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Symbols, Controls, and Indicators.dita"><xi:fallback><!--Fallback markup for "Symbols, Controls, and Indicators.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Getting Help.dita"><xi:fallback><!--Fallback markup for "Getting Help.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Warranty.dita"><xi:fallback><!--Fallback markup for "Warranty.dita"--></xi:fallback
+></xi:include>
+</topic>

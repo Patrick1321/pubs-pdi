@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="BCMS-CADD77CC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>BCMS</title>
+<body>
+<p>BCMS can monitor panelboards or subfeeds, but only one kind of
+points list (or Modbus register map) can be loaded into a BCMS PCB
+at the same time. For example, if subfeeds and panelboards are mixed
+in the same Distribution Output section, two BCMS PCBs are required
+for that section. To minimize BCMS PCBs, keep panelboards or subfeeds
+together wherever possible in the same Distribution Output Section.</p>
+<p>The layout of a BCMS PCB is shown in <xref format="dita"
+href="#EnhancedContractorBoard-CADD77C9/Figure22EnhancedContractorBoard-CAE49811"
+scope="local" type="fig"><?Pub _previewtext
+text="Enhanced Contractor Board"?></xref>.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Panelboard Monitoring.dita"><xi:fallback><!--Fallback markup for "Panelboard Monitoring.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Subfeed Monitoring.dita"><xi:fallback><!--Fallback markup for "Subfeed Monitoring.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="BCMS Points Lists.dita"><xi:fallback><!--Fallback markup for "BCMS Points Lists.dita"--></xi:fallback
+></xi:include>
+</topic>

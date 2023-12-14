@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Color Monitor and Protocols</title>
+<body>
+<p>The Color Monitor supports the following protocols, which can all
+be used simultaneously: </p>
+<p><b>Downstream Protocol</b> The downstream PDU device network has
+fixed parameters of Modbus RTU, 9600 baud, EVEN parity. </p>
+<p><b>Upstream Protocols</b> The Monitor has separate upstream ports
+for Modbus RTU and Ethernet, supporting these protocols:<ul>
+<li><p>Modbus RTU </p></li>
+<li><p>Ethernet port </p><ul>
+<li><p>TCP/IP, used by the Color Monitor’s web page server </p></li>
+<li><p>Modbus TCP/IP </p></li>
+<li><p>SNMP Version 1</p></li>
+</ul></li>
+</ul>For in-depth information on the Color Monitor, including setup,
+networking, commands and replies, screens, and web pages, see <i>WaveStar®
+Color Monitor, Setup and Operation, P-164001109</i>.</p>
+</body>
+</topic>

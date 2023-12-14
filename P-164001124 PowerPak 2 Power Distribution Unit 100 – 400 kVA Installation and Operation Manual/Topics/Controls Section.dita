@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="ControlsSection-CA4EB092"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Controls Section</title>
+<body>
+<p>The Main Cabinet has a Controls Section containing the PDU’s monitoring
+components. See <xref format="dita"
+href="Monitoring Components 1124.dita#topic-1-C38783F8" scope="local"
+type="topic"><?Pub _previewtext text="Monitoring Components 1124"
+?></xref>.</p><?Pub Caret 88?>
+</body>
+</topic>

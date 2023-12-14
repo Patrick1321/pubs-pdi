@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PDUM4GBoard-CADD7825"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU M4G Board</title>
+<body>
+<p>For the following connections, reference <xref format="dita"
+href="#./Figure20PDUM4GBoard-CAE5F033" scope="local" type="fig"><?Pub
+_previewtext text="PDU (M4G) Board"?></xref>. </p>
+<p><b>Transformer CT (current) and voltage connections</b> (top edge
+of <xref format="dita" href="#./Figure20PDUM4GBoard-CAE5F033"
+scope="local" type="fig"><?Pub _previewtext text="PDU (M4G) Board"
+?></xref>):<ul>
+<li><p>CT connections, output current (ABC), Output 1 and Output 2 </p
+></li>
+<li><p>CT Connection G-N:</p><ul>
+<li><p> Pins 1-2: Ground CT connection </p></li>
+<li><p>Pins 3-4: Neutral CT connection </p></li>
+</ul></li>
+<li><p>Input 1 Voltage-G connection: Input Delta connection is 3-wire
+plus ground (no neutral). </p></li>
+<li><p>Output 1 Voltage-N connection: Output Wye connection is 4-wire
+plus ground. </p></li>
+<li><p>Input 2 or Output 2 Voltage provides a configurable second
+input or output voltage, used with dual input or output PDUs.</p></li>
+</ul></p>
+<p><b>Power and Power Signals</b><ul>
+<li><p><b>120VAC Input Power</b> connection provides power to the
+PDU M4G Board. </p></li>
+<li><p><b>24VDC Output Power</b> connection provides power to WaveStar
+Color Monitor or Monitor </p></li>
+<li><p><b>Power Off Controls:</b></p><ul>
+<li><p>Remote EPO connection <u>from</u> the Contractor REPO Connection
+(J6), see <xref format="dita" href="#./Figure20PDUM4GBoard-CAE5F033"
+scope="local" type="fig"><?Pub _previewtext text="PDU (M4G) Board"
+?></xref>. Customer REPO dry contact connection is <u>to</u> the Contractor
+Board.</p></li>
+<li><p>Local EPO connection </p></li>
+<li><p>Thermal wires for transformer temperature measurements, which
+can cause PDU shutdown.</p></li>
+</ul></li>
+<li><p><b>Shunt Trip</b>: The board outputs two voltages for tripping
+the Main Breaker Shunt Trip:</p><ul>
+<li><p>170VDC: 170 VDC is rectified from 120VAC input power</p></li>
+<li><p>24VDC</p><fig id="Figure20PDUM4GBoard-CAE5F033">
+<title>PDU (M4G) Board</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\20.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig><note>The PDU Board is rotated 90⁰ counter clockwise in the
+PowerPak 2 PDU Monitoring Compartment compared to the orientation
+in <xref format="dita" href="#./Figure20PDUM4GBoard-CAE5F033"
+scope="local" type="fig"><?Pub _previewtext text="PDU (M4G) Board"
+?></xref>.</note></li>
+</ul></li>
+<li><p>The Restart Switch determines whether restart is automatic
+or manual after a voltage loss. <ul>
+<li><p>Switch down (away from on-board transformer) PDU restart must
+be done manually after voltage is restored. </p></li>
+<li><p>Switch up: PDU restart is automatic after power is restored. </p
+></li>
+<li><p>See section <xref format="dita"
+href="PDU Procedures 1124.dita#ManualOrAutomaticRestart-CAE5A88A"
+scope="local" type="topic"><?Pub _previewtext
+text="Manual or Automatic Restart"?></xref> for additional information.</p
+></li>
+</ul><note>The Restart Switch requires 170VDC input to the main breaker
+shunt tripto function. It is not operable with the 24VDC input to
+the main breaker shunt trip.</note></p></li>
+</ul><b>Other Input and Output Signals</b><ul>
+<li><p><u>Four Digital Inputs or Alarms</u>: Digital inputs or alarms
+are primarily used for internal PDU signalling, such as a Surge Protective
+Device signal or Door Open condition. Digital feeds can be assigned
+by Eaton during M4G board setup, when names can also be assigned to
+the inputs. These inputs turn on bits in the M4G points list. See
+PDU M4G Board Points List, Modbus Register 90. Defaults are: <ul>
+<li><p>Digital Input 1 </p></li>
+<li><p>Digital Input 2 </p></li>
+<li><p>Digital Input 3 </p></li>
+<li><p>Door Open </p></li>
+</ul></p></li>
+<li><p><b>Output Relay</b>: Output relay: used with a dual input PDU
+to signal transfer of input feed to theother feed; a phase synchronization
+check is performed before enabling the relay.</p></li>
+</ul><b>Setup/USB Connection:</b> Used by Eaton representatives to
+program set points, contractor board relays, etc., the PDU M4G and
+Contractor Boards. PDU board set points cannot be altered through
+normal Modbus register access to prevent registers being accidentally
+altered. See M4G points list for further information.</p>
+<p><b>RJ12 Modbus Connections</b> on the PDU M4G board are to/from
+the Color Monitor.</p>
+<p><b>Replaceable Parts</b></p>
+<p><b>Battery:</b><note type="warning">The battery used in this device
+may present a risk of fire or a chemical burn hazard if mistreated.
+Do not recharge, disassemble, heat above 100°C (212°F) or incinerate.
+To be carried out by authorized trained personnel only. <p>Use of
+another battery may present a risk of fire or explosion. Dispose of
+battery properly.</p></note></p>
+<p>There are two battery options on the board and only one will be
+present:<ul>
+<li><p>Designator U21: Yellow Tophat</p><ul>
+<li><p>Replace with STMicroelectronics M4T32-BR12SH1 only.</p></li>
+</ul></li>
+<li><p>Alternate Designator BH1: Coin Cell</p><ul>
+<li><p>Replace with Murata CR2032, 3V, 220mAh or any equivalent UL1642
+BBCV2 recognized/listed make with same voltage and current rating
+only.</p></li>
+</ul></li>
+</ul></p>
+<p><b>Fuses:</b></p><?Pub Caret 1?>
+<p>To be carried out by authorized trained personnel only.<ul>
+<li><p>Designator F1:</p><ul>
+<li><p>Replace with 2A, 125V Littelfuse 39512000440 or UL recognized,
+IEC compliant fuse of the same type only.</p></li>
+</ul></li>
+<li><p>Designator F2:</p><ul>
+<li><p>Replace with 2A, 250V Bel Fuse 5TT 3-R or UL recognized, IEC
+compliant fuse of the same type only.</p></li>
+</ul></li>
+</ul></p>
+</body>
+</topic>

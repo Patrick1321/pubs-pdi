@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SubfeedMonitoring-CADD77CC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Subfeed Monitoring</title>
+<body>
+<p>PDU subfeeds are monitored as follows:<ol>
+<li><p>Each subfeed must have a CT for monitoring ABC phases and,
+if monitored, NG. </p></li>
+<li><p>Subfeed CTs are terminated onto a Resistor Board. One Resistor
+Board can connect upto (14) 3-phase circuits (ABC) or (10) circuits
+if neutrals are also monitored (ABCN) and is sufficient for a single
+Distribution Output Section. </p></li>
+<li><p>The Resistor Board is connected to a single BCMS PCB using
+the same connections as panelboard BCMS. (See <xref format="dita"
+href="#ControlsCompartment-CADD781F/Figure19ControlsCompartmentSwingsOu-CAE47624"
+scope="local" type="fig">Figure 19</xref> for location behind the
+Controls Compartment.) The Resistor Board is an intermediate board
+between subfeed CTs and the BCMS PCB. </p></li>
+<li><p>The BCMS board is loaded with the Enhanced Subfeeds (ESF) Points
+List.</p></li>
+</ol></p>
+</body>
+</topic>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PDUBoardAndContractorBoards-CADD7824"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Board and Contractor Boards</title>
+<body>
+<p>The <b>PDU Board</b> (also called the M4G board) sets PDU parameters
+and monitors the PDU’s transformer. <u>Internal</u> PDU signaling,
+such as the four Digital Inputs, is terminated to the <u>PDU (M4G)
+Board</u>. </p>
+<p>Every PDU also has a <b>Contractor Board</b>, which is logically
+part of the PDU Board, functioning as a terminal block to the PDU
+Board. The PDU’s Contractor Board is directly connected by a ribbon
+cable to the PDU Board. The customer has a choice of two (2) Contractor
+Boards, which act as an extension of the PDU M4G Board for making
+customer connections for remote control and monitoring:<ul>
+<li><p>Basic Contractor Board </p></li>
+<li><p>Enhanced Contractor Board, which can connect twice as many
+output relays and building alarms</p></li>
+</ul><u>External signaling</u>, such as the customer’s REPO signal,
+is terminated to the Contractor Board:<ul>
+<li><p>All dry contact signals for Remote Emergency Power Off (REPO),
+building alarms, output relays, communication ports, and other control
+wiring must be terminated onto a Contractor Board.</p></li>
+<li><p>All interface wiring (for building alarms, AC alarms, halon
+alarms, remote power off systems, etc.) should be run within the PDU
+cabinet for termination on the Contractor Board. </p></li>
+<li><p>All interface wiring and contacts are to be provided by others.</p
+></li>
+</ul></p>
+<p>Setup of the PDU and Contractor Boards is performed during manufacturing.
+These boards can be programmed through a USB programming link on the
+front door of the Monitoring Compartment. The PDU board’s points list
+values are also accessible through the customer’s BMS, but most points
+cannot and should not be set by the customer, as incorrect settings
+can cause PDU malfunctions. </p>
+<p>Measurement values in the PDU Board’s points list can also be viewed
+on the Color Monitor.</p>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU M4G Board_0000076220.dita"><xi:fallback><!--Fallback markup for "PDU M4G Board_0000076220.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Basic Contractor Board.dita"><xi:fallback><!--Fallback markup for "Basic Contractor Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Enhanced Contractor Board.dita"><xi:fallback><!--Fallback markup for "Enhanced Contractor Board.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="PDU M4G Board Points.dita"><xi:fallback><!--Fallback markup for "PDU M4G Board Points.dita"--></xi:fallback
+></xi:include>
+</topic>

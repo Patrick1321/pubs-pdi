@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="SurgeSuppression-CA4EB084"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Surge Suppression<b></b></title>
+<body>
+<p>A Surge Protective Device (SPD) or Transient Voltage Surge Suppressor
+(TVSS) is an option. When selected, it is installed in the Input Section
+next to the Main Input Circuit Breaker. SPD status lights are visible
+through a viewing panel in the input section’s door. The following
+SPD or TVSS selections are available: <ul>
+<li><p>120/208V 3Y 100kAIC </p></li>
+<li><p>120/208V 3Y 200kAIC </p></li>
+<li><p>277/480V 3Y 100kAIC </p></li>
+<li><p>277/480V 3Y 200kAIC </p></li>
+<li><p>480V 3D 200kAIC </p></li>
+<li><p>No SPD/TVSS</p></li>
+</ul></p>
+</body>
+</topic>

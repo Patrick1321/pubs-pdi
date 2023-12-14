@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="PlacingDirectlyOnFloorOrRaisedFloor-C38CCFCE"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Output Power Connections</title>
+<body>
+<p>Each Distribution Output Section has its own ground and neutral
+output connections. (See <xref format="dita"
+href="#./Figure12DistributionOutputSectionWi-CB4685A1" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 12 Distribution Output Section with Subfeeds: Ground and Neutral Busbars"
+?></xref>.)<ul>
+<li><p>Bottom cable exit: ground and neutral busbars are located at
+the bottom of the section. </p></li>
+<li><p>Top cable exit: neutral busbar for subfeeds is at top of section;
+ground busbar is at bottom of section. </p></li>
+<li><p>Panelboard ground and neutral strips are always at the sides
+of the panel boards.</p><fig
+id="Figure12DistributionOutputSectionWi-CB4685A1">
+<title>Distribution Output Section with Subfeeds: Ground and Neutral
+Busbars</title>
+<image href="..\Graphics\12.pdf"
+placement="-dita-use-conref-target"></image>
+</fig></li>
+</ul></p>
+</body>
+</topic>

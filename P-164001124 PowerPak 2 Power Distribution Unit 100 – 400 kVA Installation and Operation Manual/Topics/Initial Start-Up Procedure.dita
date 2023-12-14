@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="InitialStart-UpProcedure-CAE73043"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Initial Start-Up Procedure</title>
+<body>
+<p>The following steps should be performed:<ol>
+<li><p>Confirm that the PDU’s main input circuit breaker is in the
+OFF position. </p></li>
+<li><p>Ensure that all of the PDU’s output circuit breakers are in
+the OFF position. </p></li>
+<li><p>Verify that the input voltage to the unit matches the input
+voltage rating of the unit as identified on the PDU nameplate found
+on the outside of the front door. </p></li>
+<li><p>Ensure that the input voltage has proper phase rotation and
+safe grounding practices.</p><note type="warning"><ul>
+<li><p>Steps 1-4 must be executed before applying incoming power to
+the PDU. </p></li>
+<li><p>Energizing the PDU can create inrush. Verify that the upstream
+UPS is in bypass mode or can handle inrush from the PDU.</p></li>
+</ul></note></li>
+<li><p>Apply power to the unit.</p></li>
+<li><p>Measure for correct PDU input voltage, which should match the
+unit’s rating within + 5% to -10% of nominal rating. </p></li>
+<li><p>Check for correct phase rotation (clockwise) and voltage. </p
+></li>
+<li><p>Energize the PDU by setting the Main Input Circuit Breaker
+to the ON position. <note>If the main breaker trips when energized,
+it may indicate a fault in the unit. Contact Eaton Service at 1-800-843-9433
+for diagnostic assistance. </note></p></li>
+<li><p>Perform an EPO check: Depress the external EPO button and verify
+that the Main Input Circuit Breaker shunt trips. </p></li><?Pub Caret -2?>
+<li><p>Manually reset the Main Input Circuit Breaker to the ON position.
+You may have to first manually trip the lever all the way to the OFF
+position. </p></li>
+<li><p>Verify that the output voltages are correct for the PDU. </p
+></li>
+<li><p>Sequentially turn ON the distribution circuit breakers. <note
+>Equipment energized by the PDU may require special start-up procedures.
+Consult the equipment manufacturer’s instructions for start-up procedures.</note
+></p></li>
+</ol></p>
+</body>
+</topic>

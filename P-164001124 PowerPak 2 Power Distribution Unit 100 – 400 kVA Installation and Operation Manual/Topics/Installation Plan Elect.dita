@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="topic-1-C386B869" xml:lang="en-EN"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Installation Planning: Electrical</title><?Pub Caret -2?>
+<body>
+<p>The PDU segregates controls and monitoring from high-power input
+or output components into separate compartments for safety, as follows:</p>
+<ul>
+<li><p>Input high-power compartment: Main Cabinet main input circuit
+breaker and optional SPD(TVSS) </p></li>
+<li><p>Output high-power compartments: <ul>
+<li><p>Main Cabinet Distribution Output Section: subfeeds and/or panelboards </p
+></li>
+<li><p>Side Car Distribution Output Section(s): subfeeds and/or panelboards </p
+></li>
+</ul></p></li>
+<li><p>Controls compartment: monitoring components</p></li>
+</ul>
+</body>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Input Section .dita"><xi:fallback><!--Fallback markup for "Input Section .dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Distribution Output Sections.dita"><xi:fallback><!--Fallback markup for "Distribution Output Sections.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="Controls Section.dita"><xi:fallback><!--Fallback markup for "Controls Section.dita"--></xi:fallback
+></xi:include>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+href="One-Line Drawings.dita"><xi:fallback><!--Fallback markup for "One-Line Drawings.dita"--></xi:fallback
+></xi:include>
+</topic>

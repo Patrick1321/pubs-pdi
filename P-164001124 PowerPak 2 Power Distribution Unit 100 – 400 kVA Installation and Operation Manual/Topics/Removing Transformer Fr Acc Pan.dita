@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic id="RemovingTransformerFrontAccessPanel-CAE5B00A"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Removing Transformer Front Access Panel</title>
+<body>
+<p>The PDU Main Cabinet has a removable Transformer Front Access Panel
+in the Input Section which provides front access to the transformer
+for infrared scanning or changing the optional transformer taps.</p>
+<p><xref format="dita"
+href="#./Figure17RemovingTransformerFrontAcc-CAE5BA02" scope="local"
+type="fig"><?Pub _previewtext
+text="Figure 17 Removing Transformer Front Access Panel"?></xref> shows
+the steps in removing the transformer front access panel.<fig
+id="Figure17RemovingTransformerFrontAcc-CAE5BA02">
+<title>Removing Transformer Front Access Panel</title>
+<image href="..\Graphics\17.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PDULayouts-CB3C8577"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>PDU Layouts</title>
+<body>
+<fig id="Figure1MainCabinet-CB3C969E">
+<title>Main Cabinet</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\1.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure2MainCabinetWith12-inAnd24-in-CB3C99EB">
+<title>Main Cabinet with 12-in and 24-in Side Cars</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\2.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<p>The PDU has numerous configurations as Main Cabinet only or Main
+Cabinet plus 12" or 24" Side Cars on either side. Figures <xref
+format="dita" href="#./Figure1MainCabinet-CB3C969E" scope="local"
+type="fig"><?Pub _previewtext text="Main Cabinet"?></xref> to <xref
+format="dita" href="#./Figure6MainCabinetWithMixedSideCarT-CB3CA72D"
+scope="local" type="fig"><?Pub _previewtext
+text="Main Cabinet with Mixed Side Car Types"?></xref> show layout
+possibilities.</p>
+<fig id="Figure3MainCabinetLayout-CB3C9C70">
+<title>Main Cabinet Layout</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\3.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure4MainCabinetWith24-inSideCars-CB3CA007">
+<title>Main Cabinet with 24-in Side Cars</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\4.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure5MainCabinetWith12-inSideCars-CB3CA3E1">
+<title>Main Cabinet with 12-in Side Cars</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\5.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+<fig id="Figure6MainCabinetWithMixedSideCarT-CB3CA72D">
+<title>Main Cabinet with Mixed Side Car Types</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\6.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig>
+</body>
+</topic>

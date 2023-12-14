@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Modbus RTU 2-Wire vs. 4-Wire Configuration</title>
+<body>
+<p>Eaton PDI devices have two (2) jumpers near their Modbus ports
+for configuring 2-wire vs. 4-wire Modbus RTU (see <xref format="dita"
+href="#ColorMonitorNetworkConnections-CADF9B7F/Figure25ColorMonitorNetworkConnecti-CADF9B84"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 25 Color Monitor Network Connections"?></xref>). The
+Monitor’s 2-wire configuration jumpers are W1 and W2 (upstream) and
+W3 and W4 (downstream). Upstream and downstream chains can be differently
+configured. </p>
+<p>For <u>2-wire configuration</u>: <ul>
+<li><p>At least <u>one</u> device in a device chain must have both
+jumpers jumped on its Modbus connection. If any device in the chain
+has jumpers installed for 2-wire, all of the device chain is 2-wire.
+To avoid confusion when troubleshooting, all of the devices in the
+chain should be jumped in the same way. </p></li>
+<li><p>TX+ or RX+ on the Monitor (either one, because the on-board
+2-wire jumpers short them together) wires to TX+ or RX+ on downstream
+devices. </p></li>
+<li><p>TX- or RX- on the Monitor wires to TX- or RX- on downstream
+devices. </p></li>
+<li><p>The + and - signal wires should comprise of a (twisted) wire
+pair residing in the same shield. </p></li>
+</ul>For <u>4-wire configuration</u>: <ul>
+<li><p>All of these jumpers must be removed from every device in the
+chain. </p></li>
+<li><p>TX+ on the Monitor’s PCB or on the customer Building Management
+System (BMS) wires to RX+ on a device PCB (<xref format="dita"
+href="#ColorMonitorNetworkConnections-CADF9B7F/Figure25ColorMonitorNetworkConnecti-CADF9B84"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 25 Color Monitor Network Connections"?></xref>). </p
+></li>
+<li><p>TX- from the Monitor or BMS wires to RX- on device PCB (<xref
+format="dita"
+href="#ColorMonitorNetworkConnections-CADF9B7F/Figure25ColorMonitorNetworkConnecti-CADF9B84"
+scope="local" type="fig"><?Pub _previewtext
+text="Figure 25 Color Monitor Network Connections"?></xref>). </p
+></li>
+<li><p>A second pair of wires connects the other pair of TX+ / RX+
+&amp; TX- / RX-. </p></li>
+<li><p>The TX+ &amp; TX- going to the RX+ &amp; RX- should be in the <u
+>same shield</u>. Do not run the +'s in one shield and the -'s in
+another. Doing so may lead to sporadic communication. </p></li>
+<li><p>Run a dedicated ground wire with the signal wires and only
+ground the shield at one end.</p></li>
+</ul></p>
+</body>
+</topic>

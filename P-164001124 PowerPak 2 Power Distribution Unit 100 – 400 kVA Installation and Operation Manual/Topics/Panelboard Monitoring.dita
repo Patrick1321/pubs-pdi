@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="PanelboardMonitoring-CADD77CC"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Panelboard Monitoring</title>
+<body>
+<p>A single BCMS PCB can monitor<ul>
+<li><p>(2) x 42-pole panelboards, or </p></li>
+<li><p>(1) x 84-pole panelboard, plus </p></li>
+<li><p>The main feed(s) associated with each panelboard.</p></li>
+</ul>Layout of a BCMS LV/HV board (BCMS PCB) is shown in <xref
+format="dita"
+href="#CustomerAccessToMonitoringCompartme-CADD77CE/Figure23BCMSLVHVBoard-CAE48597"
+scope="local" type="fig"><?Pub _previewtext text="BCMS LV/HV Board"
+?></xref>.</p>
+</body>
+</topic>

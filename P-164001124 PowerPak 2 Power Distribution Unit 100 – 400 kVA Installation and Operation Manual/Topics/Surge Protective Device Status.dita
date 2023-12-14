@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2022, v.4002-->
+<?Pub Inc?>
+<topic id="SurgeProtectiveDeviceStatus-CADD77D4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Surge Protective Device Status</title>
+<body>
+<p>The optional SPD/TVSS incorporates a remote signaling dry contact
+and visual status indicators. The Input Section has a viewing panel
+for the SPD status lights. </p>
+<p>The SPD (LEA SP100 or SP200) has a dry contact that is closed when
+the SPD is powered and functional. (See <xref format="dita"
+href="#DryContactNetwork-CADD77CF/Table9AvailableDryContacts-CAD5A93F"
+scope="local" type="table"><?Pub _previewtext
+text="Available Dry Contacts"?></xref>.) For dry contact wiring information,
+see the cut sheet for the specific SPD you are using. The correct
+cut sheet should be included in your submittal package.<fig>
+<title>SPD/TVSS Status Lights</title>
+<image
+href="C:\Users\e9921013\backup\CURRENT PROJECTS\Work Requests\WR23034 164001124 PARTS PowerPak 2 PDU 100-400 kVA IO manual\P-164001124 PowerPak 2 Power Distribution Unit 100 – 400 kVA Installation and Operation Manual\Graphics\24.pdf"
+placement="-dita-use-conref-target" scope="local"></image>
+</fig></p>
+</body>
+</topic>

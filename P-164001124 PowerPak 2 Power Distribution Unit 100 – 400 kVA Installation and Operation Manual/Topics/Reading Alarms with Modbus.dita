@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2017, v.4002-->
+<?Pub Inc?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Reading Alarms with Modbus</title>
+<body>
+<p>Each device has its own points list with summary alarm Modbus registers
+indicating that an alarm is present on that device. The user can check
+alarm specifics through the BMS or go to the PDU and check the WaveStar
+Monitor Banner/Alarm Screen. </p>
+<p>The BMS should read these summary alarm registers regularly to
+be appraised of power conditions requiring immediate attention.</p><?Pub
+Caret 0?>
+</body>
+</topic>
